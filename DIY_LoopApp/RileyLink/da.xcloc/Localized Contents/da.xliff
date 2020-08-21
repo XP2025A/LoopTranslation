@@ -1,0 +1,2183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Crypto/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Crypto</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id=" (inactive)" xml:space="preserve">
+        <source> (inactive)</source>
+        <note>Description for an inactive alert modifier</note>
+      </trans-unit>
+      <trans-unit id="Auto-off alarm" xml:space="preserve">
+        <source>Auto-off alarm</source>
+        <note>Description for auto-off alarm</note>
+      </trans-unit>
+      <trans-unit id="Below 50 units" xml:space="preserve">
+        <source>Below 50 units</source>
+        <note>Pod state when running below fifty units</note>
+      </trans-unit>
+      <trans-unit id="Bolusing" xml:space="preserve">
+        <source>Bolusing</source>
+        <note>Delivery status when bolusing</note>
+      </trans-unit>
+      <trans-unit id="Bolusing with temp basal" xml:space="preserve">
+        <source>Bolusing with temp basal</source>
+        <note>Delivery status when bolusing and temp basal is running</note>
+      </trans-unit>
+      <trans-unit id="Cannula inserting" xml:space="preserve">
+        <source>Cannula inserting</source>
+        <note>Pod state when inserting cannula</note>
+      </trans-unit>
+      <trans-unit id="Deactivated" xml:space="preserve">
+        <source>Deactivated</source>
+        <note>Pod state when pod has been deactivated</note>
+      </trans-unit>
+      <trans-unit id="Empty reservoir" xml:space="preserve">
+        <source>Empty reservoir</source>
+        <note>Description for Empty reservoir pod fault</note>
+      </trans-unit>
+      <trans-unit id="Error event logged, shutting down" xml:space="preserve">
+        <source>Error event logged, shutting down</source>
+        <note>Pod state error event logged shutting down</note>
+      </trans-unit>
+      <trans-unit id="Expiration alert" xml:space="preserve">
+        <source>Expiration alert</source>
+        <note>Description for expiration alert</note>
+      </trans-unit>
+      <trans-unit id="Finish setup " xml:space="preserve">
+        <source>Finish setup </source>
+        <note>Description for finish setup</note>
+      </trans-unit>
+      <trans-unit id="Initialized" xml:space="preserve">
+        <source>Initialized</source>
+        <note>Pod inititialized</note>
+      </trans-unit>
+      <trans-unit id="Internal pod fault %1$03d" xml:space="preserve">
+        <source>Internal pod fault %1$03d</source>
+        <note>The format string for Internal pod fault (1: The fault code value)</note>
+      </trans-unit>
+      <trans-unit id="Low reservoir advisory alarm" xml:space="preserve">
+        <source>Low reservoir advisory alarm</source>
+        <note>Description for low reservoir alarm</note>
+      </trans-unit>
+      <trans-unit id="No alerts" xml:space="preserve">
+        <source>No alerts</source>
+        <note>Pod alert state when no alerts are active</note>
+      </trans-unit>
+      <trans-unit id="Normal" xml:space="preserve">
+        <source>Normal</source>
+        <note>Delivery status when basal is running
+   Pod state when running above fifty units</note>
+      </trans-unit>
+      <trans-unit id="Occlusion detected" xml:space="preserve">
+        <source>Occlusion detected</source>
+        <note>Description for Occlusion detected pod fault</note>
+      </trans-unit>
+      <trans-unit id="Paired" xml:space="preserve">
+        <source>Paired</source>
+        <note>Pod status after pairing</note>
+      </trans-unit>
+      <trans-unit id="Pod expiration advisory alarm" xml:space="preserve">
+        <source>Pod expiration advisory alarm</source>
+        <note>Description for expiration advisory alarm</note>
+      </trans-unit>
+      <trans-unit id="Pod expired" xml:space="preserve">
+        <source>Pod expired</source>
+        <note>Description for Pod expired pod fault</note>
+      </trans-unit>
+      <trans-unit id="Pod setup window expired" xml:space="preserve">
+        <source>Pod setup window expired</source>
+        <note>Pod state when prime or cannula insertion has not completed in the time allotted</note>
+      </trans-unit>
+      <trans-unit id="Priming" xml:space="preserve">
+        <source>Priming</source>
+        <note>Delivery status when pod is priming
+   Pod status when priming</note>
+      </trans-unit>
+      <trans-unit id="Ready for basal programming" xml:space="preserve">
+        <source>Ready for basal programming</source>
+        <note>Pod state when ready for basal programming</note>
+      </trans-unit>
+      <trans-unit id="Ready to insert cannula" xml:space="preserve">
+        <source>Ready to insert cannula</source>
+        <note>Pod state when ready for cannula insertion</note>
+      </trans-unit>
+      <trans-unit id="Scheduled Basal" xml:space="preserve">
+        <source>Scheduled Basal</source>
+        <note>Delivery status when basal is running</note>
+      </trans-unit>
+      <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
+        <source>Shutdown imminent alarm</source>
+        <note>Description for shutdown imminent alarm</note>
+      </trans-unit>
+      <trans-unit id="Suspended" xml:space="preserve">
+        <source>Suspended</source>
+        <note>Delivery status when insulin delivery is suspended</note>
+      </trans-unit>
+      <trans-unit id="Tank fill completed" xml:space="preserve">
+        <source>Tank fill completed</source>
+        <note>Pod tank fill completed</note>
+      </trans-unit>
+      <trans-unit id="Tank power activated" xml:space="preserve">
+        <source>Tank power activated</source>
+        <note>Pod power to motor activated</note>
+      </trans-unit>
+      <trans-unit id="Temp basal running" xml:space="preserve">
+        <source>Temp basal running</source>
+        <note>Delivery status when temp basal is running</note>
+      </trans-unit>
+      <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve">
+        <source>Unknown pod fault %1$03d</source>
+        <note>The format string for Unknown pod fault (1: The fault code value)</note>
+      </trans-unit>
+      <trans-unit id="Waiting for pairing reminder" xml:space="preserve">
+        <source>Waiting for pairing reminder</source>
+        <note>Description waiting for pairing reminder</note>
+      </trans-unit>
+      <trans-unit id="oneNotUsedButin33" xml:space="preserve">
+        <source>oneNotUsedButin33</source>
+        <note>Pod state oneNotUsedButin33</note>
+      </trans-unit>
+      <trans-unit id="threeNotUsedButin33" xml:space="preserve">
+        <source>threeNotUsedButin33</source>
+        <note>Pod state threeNotUsedButin33</note>
+      </trans-unit>
+      <trans-unit id="twoNotUsedButin33" xml:space="preserve">
+        <source>twoNotUsedButin33</source>
+        <note>Pod state twoNotUsedButin33</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MinimedKit/Base.lproj/Localizable.strings" source-language="en" target-language="da" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="A bolus is already in progress" xml:space="preserve">
+        <source>A bolus is already in progress</source>
+        <target>En bolus er allerede i gang</target>
+        <note>Communications error for a bolus currently running</note>
+      </trans-unit>
+      <trans-unit id="AlarmClockReminder" xml:space="preserve">
+        <source>AlarmClockReminder</source>
+        <target>AlarmUrPåmindelse</target>
+        <note>The description of AlarmClockReminderPumpEvent</note>
+      </trans-unit>
+      <trans-unit id="AlarmSensor" xml:space="preserve">
+        <source>AlarmSensor</source>
+        <target>AlarmSensor</target>
+        <note>The description of AlarmSensorPumpEvent</note>
+      </trans-unit>
+      <trans-unit id="Alkaline" xml:space="preserve">
+        <source>Alkaline</source>
+        <target>Alkaline</target>
+        <note>Describing the battery chemistry as Alkaline</note>
+      </trans-unit>
+      <trans-unit id="Basal Profile %1$@: %2$@ U/hour" xml:space="preserve">
+        <source>Basal Profile %1$@: %2$@ U/hour</source>
+        <target>Basal Profil %1$@: %2$@ E/time</target>
+        <note>The format string description of a BasalProfileStartPumpEvent. (1: The index of the profile)(2: The basal rate)</note>
+      </trans-unit>
+      <trans-unit id="Bolus in progress" xml:space="preserve">
+        <source>Bolus in progress</source>
+        <target>Bolus i gang</target>
+        <note>Pump error code when bolus is in progress</note>
+      </trans-unit>
+      <trans-unit id="Canada" xml:space="preserve">
+        <source>Canada</source>
+        <note>Describing the Canada pump region</note>
+      </trans-unit>
+      <trans-unit id="Check that the pump is not suspended or priming, or has a percent temp basal type" xml:space="preserve">
+        <source>Check that the pump is not suspended or priming, or has a percent temp basal type</source>
+        <target>Tjek at pumpen ikke er suspenderet eller under klargøring, eller har en procent midlertidig basal type</target>
+        <note>Suggestions for diagnosing a command refused pump error</note>
+      </trans-unit>
+      <trans-unit id="Command refused" xml:space="preserve">
+        <source>Command refused</source>
+        <target>Kommando nægtet</target>
+        <note>Pump error code returned when command refused</note>
+      </trans-unit>
+      <trans-unit id="Comms with another pump detected" xml:space="preserve">
+        <source>Comms with another pump detected.</source>
+        <target>Kommunikation med en anden pumpe opdaget.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Decoding Error" xml:space="preserve">
+        <source>Decoding Error</source>
+        <target>Undersøger fejl</target>
+        <note>Error description</note>
+      </trans-unit>
+      <trans-unit id="Device Error" xml:space="preserve">
+        <source>Device Error</source>
+        <target>Enheds Fejl</target>
+        <note>Error description</note>
+      </trans-unit>
+      <trans-unit id="Event History" xml:space="preserve">
+        <source>Event History</source>
+        <target>Hændelses log</target>
+        <note>Describing the pump history insulin data source</note>
+      </trans-unit>
+      <trans-unit id="History page does not exist" xml:space="preserve">
+        <source>History page does not exist</source>
+        <note>Pump error code when invalid history page is requested</note>
+      </trans-unit>
+      <trans-unit id="Invalid response during %1$@: %2$@" xml:space="preserve">
+        <source>Invalid response during %1$@: %2$@</source>
+        <target>Fejlagtigt svar ved %1$@: %2$@</target>
+        <note>Format string for failure reason. (1: The operation being performed) (2: The response data)</note>
+      </trans-unit>
+      <trans-unit id="Lithium" xml:space="preserve">
+        <source>Lithium</source>
+        <target>Lithium</target>
+        <note>Describing the battery chemistry as Lithium</note>
+      </trans-unit>
+      <trans-unit id="Make sure your RileyLink is nearby and powered on" xml:space="preserve">
+        <source>Make sure your RileyLink is nearby and powered on</source>
+        <target>Sørg for at din RileyLink er i nærheden, og tændt</target>
+        <note>Recovery suggestion</note>
+      </trans-unit>
+      <trans-unit id="Max setting exceeded" xml:space="preserve">
+        <source>Max setting exceeded</source>
+        <target>Max indstilling overskredet</target>
+        <note>Pump error code describing max setting exceeded</note>
+      </trans-unit>
+      <trans-unit id="Minimed %@" xml:space="preserve">
+        <source>Minimed %@</source>
+        <target>Minimed %@</target>
+        <note>Pump title (1: model number)</note>
+      </trans-unit>
+      <trans-unit id="Minimed 500/700 Series" xml:space="preserve">
+        <source>Minimed 500/700 Series</source>
+        <target>Minimed 500/700 Serier</target>
+        <note>Generic title of the minimed pump manager</note>
+      </trans-unit>
+      <trans-unit id="North America" xml:space="preserve">
+        <source>North America</source>
+        <target>Nord Amerika</target>
+        <note>Describing the North America pump region</note>
+      </trans-unit>
+      <trans-unit id="Pump Error" xml:space="preserve">
+        <source>Pump Error</source>
+        <target>Pumpe Fejl</target>
+        <note>Error description</note>
+      </trans-unit>
+      <trans-unit id="Pump did not respond" xml:space="preserve">
+        <source>Pump did not respond</source>
+        <target>Pumpe svarede ikke</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pump is suspended" xml:space="preserve">
+        <source>Pump is suspended</source>
+        <target>Pumpe er afbrudt</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pump responded unexpectedly" xml:space="preserve">
+        <source>Pump responded unexpectedly</source>
+        <target>Pumpe reagerede uventet</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PumpMessage(%1$@, %2$@, %3$@, %4$@)" xml:space="preserve">
+        <source>PumpMessage(%1$@, %2$@, %3$@, %4$@)</source>
+        <target>PumpMessage(%1$@, %2$@, %3$@, %4$@)</target>
+        <note>The format string describing a pump message. (1: The packet type)(2: The message type)(3: The message address)(4: The message data</note>
+      </trans-unit>
+      <trans-unit id="Reservoir" xml:space="preserve">
+        <source>Reservoir</source>
+        <target>Reservoir</target>
+        <note>Describing the reservoir insulin data source</note>
+      </trans-unit>
+      <trans-unit id="RileyLink radio tune failed" xml:space="preserve">
+        <source>RileyLink radio tune failed</source>
+        <target>RileyLink radio indstilling fejlede</target>
+        <note>Error description</note>
+      </trans-unit>
+      <trans-unit id="Temporary Basal: %1$.3f U/hour" xml:space="preserve">
+        <source>Temporary Basal: %1$.3f U/hour</source>
+        <target>Midlertidig Basal: %1$.3f E/time</target>
+        <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in minutes)</note>
+      </trans-unit>
+      <trans-unit id="Temporary Basal: %1$d min" xml:space="preserve">
+        <source>Temporary Basal: %1$d min</source>
+        <target>Midlertidig Basal: %1$d min</target>
+        <note>The format string description of a TempBasalDurationPumpEvent. (1: The duration of the temp basal in minutes)</note>
+      </trans-unit>
+      <trans-unit id="Temporary Basal: %1$d%%" xml:space="preserve">
+        <source>Temporary Basal: %1$d%%</source>
+        <target>Midlertidig Basal: %1$d%%</target>
+        <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in percent)</note>
+      </trans-unit>
+      <trans-unit id="Unknown pump error code: %1$@" xml:space="preserve">
+        <source>Unknown pump error code: %1$@</source>
+        <target>Ukendt pumpe fejlkode: %1$@</target>
+        <note>The format string description of an unknown pump error code. (1: The specific error code raw value)</note>
+      </trans-unit>
+      <trans-unit id="Unknown pump model: %@" xml:space="preserve">
+        <source>Unknown pump model: %@</source>
+        <target>Unknown pumpe model %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unknown response during %1$@: %2$@" xml:space="preserve">
+        <source>Unknown response during %1$@: %2$@</source>
+        <target>Ukendt svar under %1$@: %2$@</target>
+        <note>Format string for an unknown response. (1: The operation being performed) (2: The response data)</note>
+      </trans-unit>
+      <trans-unit id="World-Wide" xml:space="preserve">
+        <source>World-Wide</source>
+        <target>Verden (World-Wide)</target>
+        <note>Describing the worldwide pump region</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MinimedKit/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>MinimedKit</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MinimedKitPlugin/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>MinimedKitPlugin</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MinimedKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="da" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="%1$@  %2$@/%3$@  %4$@" xml:space="preserve">
+        <source>%1$@  %2$@/%3$@  %4$@</source>
+        <target>%1$@  %2$@/%3$@  %4$@</target>
+        <note>The format string for displaying a frequency tune trial. Extra spaces added for emphesis: (1: frequency in MHz)(2: success count)(3: total count)(4: average RSSI)</note>
+      </trans-unit>
+      <trans-unit id="%1$@ Units of insulin remaining&#10;" xml:space="preserve">
+        <source>%1$@ Units of insulin remaining
+</source>
+        <target>%1$@ Udestående enheder insulin
+</target>
+        <note>The format string describing units of insulin remaining: (1: number of units)</note>
+      </trans-unit>
+      <trans-unit id="%1$@ basal schedule entries&#10;" xml:space="preserve">
+        <source>%1$@ basal schedule entries
+</source>
+        <target>%1$@ planlagt basal 
+</target>
+        <note>The format string describing number of basal schedule entries: (1: number of entries)</note>
+      </trans-unit>
+      <trans-unit id="%1$@%2$@%3$@" xml:space="preserve">
+        <source>%1$@%2$@%3$@</source>
+        <target>%1$@%2$@%3$@</target>
+        <note>The format string for displaying an offset from a time zone: (1: GMT)(2: -)(3: 4:00)</note>
+      </trans-unit>
+      <trans-unit id="%@ dB" xml:space="preserve">
+        <source>%@ dB</source>
+        <note>Unit format string for an RSSI value in decibles</note>
+      </trans-unit>
+      <trans-unit id="Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure." xml:space="preserve">
+        <source>Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure.</source>
+        <target>Alkaline og Lithium batterier henfalder med forskellige satser. Alkaline har tendens til at have et lineært fald over tid, hvor Lithium batteri celler typisk opretholder deres spænding indtil halvejen i deres levetid. Ved normalt brug i en ikke-MySentry kompatibel Minimed (x22/x15) insulin pumpe, som kører Loop vil alkaline batterier holde cirka 4 til 5 dage. Lithium batterier holder mellem 1 til 2 uger. Denne indstilling bruger forskellige batteri henfalds satser for hver kemiske  batteritype og alarmere brugeren når et batteri er cirka 8 til 10 timer fra at løbe tør.</target>
+        <note>Instructions on selecting battery chemistry type</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete this pump?" xml:space="preserve">
+        <source>Are you sure you want to delete this pump?</source>
+        <target>Er du sikker på at du vil fjerne denne pumpe?</target>
+        <note>Confirmation message for deleting a pump</note>
+      </trans-unit>
+      <trans-unit id="Awake Until" xml:space="preserve">
+        <source>Awake Until</source>
+        <target>Vågen indtil</target>
+        <note>The title of the cell describing an awake radio</note>
+      </trans-unit>
+      <trans-unit id="Basal Rates" xml:space="preserve">
+        <source>Basal Rates</source>
+        <target>Basal rater</target>
+        <note>The title text for the basal rate schedule</note>
+      </trans-unit>
+      <trans-unit id="Battery: %1$@ volts&#10;" xml:space="preserve">
+        <source>Battery: %1$@ volts
+</source>
+        <target>Batteri: %1$@ volt
+</target>
+        <note>The format string describing pump battery voltage: (1: battery voltage)</note>
+      </trans-unit>
+      <trans-unit id="Best Frequency" xml:space="preserve">
+        <source>Best Frequency</source>
+        <target>Bedste frekvens</target>
+        <note>The label indicating the best radio frequency</note>
+      </trans-unit>
+      <trans-unit id="Bolusing: %1$@&#10;" xml:space="preserve">
+        <source>Bolusing: %1$@
+</source>
+        <target>Giver bolus: %1$@
+</target>
+        <note>The format string describing pump bolusing state: (1: bolusing)</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>Afbryd</target>
+        <note>The title of the cancel action in an action sheet</note>
+      </trans-unit>
+      <trans-unit id="Change Time" xml:space="preserve">
+        <source>Change Time</source>
+        <target>Ændre klokkeslæt</target>
+        <note>The title of the command to change pump time</note>
+      </trans-unit>
+      <trans-unit id="Change Time Zone" xml:space="preserve">
+        <source>Change Time Zone</source>
+        <target>Ændre tidszone</target>
+        <note>The title of the command to change pump time zone</note>
+      </trans-unit>
+      <trans-unit id="Changing time…" xml:space="preserve">
+        <source>Changing time…</source>
+        <target>Ændre tid...</target>
+        <note>Progress message for changing pump time.</note>
+      </trans-unit>
+      <trans-unit id="Commands" xml:space="preserve">
+        <source>Commands</source>
+        <target>Kommandoer</target>
+        <note>The title of the section describing commands</note>
+      </trans-unit>
+      <trans-unit id="Configuration" xml:space="preserve">
+        <source>Configuration</source>
+        <target>Konfiguration</target>
+        <note>The title of the configuration section in settings</note>
+      </trans-unit>
+      <trans-unit id="Connect" xml:space="preserve">
+        <source>Connect</source>
+        <target>Forbind</target>
+        <note>Button title to connect to pump during setup</note>
+      </trans-unit>
+      <trans-unit id="Connection State" xml:space="preserve">
+        <source>Connection State</source>
+        <target>Status på forbindelse</target>
+        <note>The title of the cell showing BLE connection state</note>
+      </trans-unit>
+      <trans-unit id="Delete Pump" xml:space="preserve">
+        <source>Delete Pump</source>
+        <target>Fjern pumpe</target>
+        <note>Button title to delete pump
+   Title text for the button to remove a pump from Loop</note>
+      </trans-unit>
+      <trans-unit id="Delivery Limits" xml:space="preserve">
+        <source>Delivery Limits</source>
+        <target>Mængdebegrænsning</target>
+        <note>Title text for delivery limits</note>
+      </trans-unit>
+      <trans-unit id="Device" xml:space="preserve">
+        <source>Device</source>
+        <target>Enhed</target>
+        <note>The title of the section describing the device</note>
+      </trans-unit>
+      <trans-unit id="Discover Commands" xml:space="preserve">
+        <source>Discover Commands</source>
+        <target>Opdag kommandoer</target>
+        <note>The title of the command to discover commands</note>
+      </trans-unit>
+      <trans-unit id="Discovering commands…" xml:space="preserve">
+        <source>Discovering commands…</source>
+        <target>Opdager kommandoer...</target>
+        <note>Progress message for discovering commands.</note>
+      </trans-unit>
+      <trans-unit id="Enable Diagnostic LEDs" xml:space="preserve">
+        <source>Enable Diagnostic LEDs</source>
+        <target>Slå diagnoserings LED’er til</target>
+        <note>The title of the command to enable diagnostic LEDs</note>
+      </trans-unit>
+      <trans-unit id="Enabled Diagnostic LEDs" xml:space="preserve">
+        <source>Enabled Diagnostic LEDs</source>
+        <target>Diagnoserings LED’er aktiveret</target>
+        <note>Progress message for enabling diagnostic LEDs</note>
+      </trans-unit>
+      <trans-unit id="Error Resuming" xml:space="preserve">
+        <source>Error Resuming</source>
+        <target>Fejl i genoptagelse</target>
+        <note>The alert title for a resume error</note>
+      </trans-unit>
+      <trans-unit id="Error Suspending" xml:space="preserve">
+        <source>Error Suspending</source>
+        <target>Fejl i suspendering</target>
+        <note>The alert title for a suspend error</note>
+      </trans-unit>
+      <trans-unit id="Fetch Enlite Glucose" xml:space="preserve">
+        <source>Fetch Enlite Glucose</source>
+        <target>Hent seneste glukose</target>
+        <note>The title of the command to fetch recent glucose</note>
+      </trans-unit>
+      <trans-unit id="Fetch Recent History" xml:space="preserve">
+        <source>Fetch Recent History</source>
+        <target>Hent seneste historie</target>
+        <note>The title of the command to fetch recent history</note>
+      </trans-unit>
+      <trans-unit id="Fetching glucose…" xml:space="preserve">
+        <source>Fetching glucose…</source>
+        <target>Henter glukose...</target>
+        <note>Progress message for fetching pump glucose.</note>
+      </trans-unit>
+      <trans-unit id="Fetching history…" xml:space="preserve">
+        <source>Fetching history…</source>
+        <target>Henter histoik...</target>
+        <note>Progress message for fetching pump history.</note>
+      </trans-unit>
+      <trans-unit id="Fetching pump model…" xml:space="preserve">
+        <source>Fetching pump model…</source>
+        <target>Henter pumpe model...</target>
+        <note>Progress message for fetching pump model.</note>
+      </trans-unit>
+      <trans-unit id="Firmware" xml:space="preserve">
+        <source>Firmware</source>
+        <target>Firmware</target>
+        <note>The title of the cell showing firmware version</note>
+      </trans-unit>
+      <trans-unit id="Firmware Version" xml:space="preserve">
+        <source>Firmware Version</source>
+        <target>Firmware version</target>
+        <note>The title of the cell showing the pump firmware version</note>
+      </trans-unit>
+      <trans-unit id="Get Pump Model" xml:space="preserve">
+        <source>Get Pump Model</source>
+        <target>Hent pumpe model</target>
+        <note>The title of the command to get pump model</note>
+      </trans-unit>
+      <trans-unit id="Get Statistics…" xml:space="preserve">
+        <source>Get Statistics…</source>
+        <target>Hent statistik</target>
+        <note>Progress message for getting statistics.</note>
+      </trans-unit>
+      <trans-unit id="Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option." xml:space="preserve">
+        <source>Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option.</source>
+        <target>Levering af insulin kan blive bestemt fra pumpen ved enten at tolke på begivenheds historikken eller ved at sammenligne volumen af reservoiret over tid. Aflæsning af begivenheds historik kan give mere præcise status grafer og uploading af up-to-date behandlings data til Nightscout, ved bekostning af hurtigere dræning af pumpe batteriet, risiko for højere fejlrate i radiokommunikation i forhold til aflæsning af volumen af reservoiret. Hvis den valgte kilde ikke kan anvendes, af en eller anden grund, så vil systemet falde tilbage på den anden mulighed.</target>
+        <note>Instructions on selecting an insulin data source</note>
+      </trans-unit>
+      <trans-unit id="Last Awake" xml:space="preserve">
+        <source>Last Awake</source>
+        <target>Senest vågen</target>
+        <note>The title of the cell describing an awake radio</note>
+      </trans-unit>
+      <trans-unit id="Listening Off" xml:space="preserve">
+        <source>Listening Off</source>
+        <target>Aflytning slået fra</target>
+        <note>The title of the cell describing no radio awake data</note>
+      </trans-unit>
+      <trans-unit id="MySentry Pair" xml:space="preserve">
+        <source>MySentry Pair</source>
+        <target>MySentry parring</target>
+        <note>The title of the command to pair with mysentry</note>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <target>Navn</target>
+        <note>The title of the cell showing device name</note>
+      </trans-unit>
+      <trans-unit id="No response" xml:space="preserve">
+        <source>No response</source>
+        <target>Intet svar</target>
+        <note>Message display when no response from tuning pump</note>
+      </trans-unit>
+      <trans-unit id="On Idle" xml:space="preserve">
+        <source>On Idle</source>
+        <target>Slumre</target>
+        <note>The title of the cell showing the last idle</note>
+      </trans-unit>
+      <trans-unit id="On your pump, go to the Find Device screen and select &quot;Find Device&quot;.&#10;&#10;Main Menu &gt;&#10;Utilities &gt;&#10;Connect Devices &gt;&#10;Other Devices &gt;&#10;On &gt;&#10;Find Device" xml:space="preserve">
+        <source>On your pump, go to the Find Device screen and select "Find Device".
+
+Main Menu &gt;
+Utilities &gt;
+Connect Devices &gt;
+Other Devices &gt;
+On &gt;
+Find Device</source>
+        <target>On your pump, go to the Find Device screen and select "Find Device".
+
+Main Menu &gt;
+Utilities &gt;
+Connect Devices &gt;
+Other Devices &gt;
+On &gt;
+Find Device</target>
+        <note>Pump find device instruction</note>
+      </trans-unit>
+      <trans-unit id="Preferred Data Source" xml:space="preserve">
+        <source>Preferred Data Source</source>
+        <target>Foretrukne data kilde</target>
+        <note>The title text for the preferred insulin data source config</note>
+      </trans-unit>
+      <trans-unit id="Pump" xml:space="preserve">
+        <source>Pump</source>
+        <target>Pumpe</target>
+        <note>The title of the section describing the pump</note>
+      </trans-unit>
+      <trans-unit id="Pump Battery Type" xml:space="preserve">
+        <source>Pump Battery Type</source>
+        <target>Pumpe batteritype</target>
+        <note>The title text for the battery type value</note>
+      </trans-unit>
+      <trans-unit id="Pump ID" xml:space="preserve">
+        <source>Pump ID</source>
+        <target>Pumpe ID</target>
+        <note>The title of the cell showing pump ID
+   The title text for the pump ID config value</note>
+      </trans-unit>
+      <trans-unit id="Pump Model" xml:space="preserve">
+        <source>Pump Model</source>
+        <target>Pumpe model</target>
+        <note>The title of the cell showing the pump model number</note>
+      </trans-unit>
+      <trans-unit id="Pump Settings" xml:space="preserve">
+        <source>Pump Settings</source>
+        <target>Pumpe indstillinger</target>
+        <note>Title of the pump settings view controller</note>
+      </trans-unit>
+      <trans-unit id="Read Basal Schedule" xml:space="preserve">
+        <source>Read Basal Schedule</source>
+        <target>Læs basal plan</target>
+        <note>The title of the command to read basal schedule</note>
+      </trans-unit>
+      <trans-unit id="Read Pump Status" xml:space="preserve">
+        <source>Read Pump Status</source>
+        <target>Læs pumpe status</target>
+        <note>The title of the command to read pump status</note>
+      </trans-unit>
+      <trans-unit id="Reading basal schedule…" xml:space="preserve">
+        <source>Reading basal schedule…</source>
+        <target>Læser basal plan...</target>
+        <note>Progress message for reading basal schedule</note>
+      </trans-unit>
+      <trans-unit id="Reading pump status…" xml:space="preserve">
+        <source>Reading pump status…</source>
+        <target>Læser pumpe status...</target>
+        <note>Progress message for reading pump status</note>
+      </trans-unit>
+      <trans-unit id="Region" xml:space="preserve">
+        <source>Region</source>
+        <target>Region</target>
+        <note>The title of the cell showing the pump region</note>
+      </trans-unit>
+      <trans-unit id="Retry" xml:space="preserve">
+        <source>Retry</source>
+        <target>Prøv igen</target>
+        <note>Button title to retry sentry setup</note>
+      </trans-unit>
+      <trans-unit id="RileyLink Statistics" xml:space="preserve">
+        <source>RileyLink Statistics</source>
+        <target>RileyLink Statistik</target>
+        <note>The title of the command to fetch RileyLink statistics</note>
+      </trans-unit>
+      <trans-unit id="Save to Pump…" xml:space="preserve">
+        <source>Save to Pump…</source>
+        <target>Gem på pumpen</target>
+        <note>Title of button to save basal profile to pump
+   Title of button to save delivery limit settings to pump</note>
+      </trans-unit>
+      <trans-unit id="Send Button Press" xml:space="preserve">
+        <source>Send Button Press</source>
+        <target>Send knappe tryk</target>
+        <note>The title of the command to send a button press</note>
+      </trans-unit>
+      <trans-unit id="Sending button press…" xml:space="preserve">
+        <source>Sending button press…</source>
+        <target>Sender knappe tryk </target>
+        <note>Progress message for sending button press to pump.</note>
+      </trans-unit>
+      <trans-unit id="Signal Strength" xml:space="preserve">
+        <source>Signal Strength</source>
+        <target>Signal styrke</target>
+        <note>The title of the cell showing BLE signal strength (RSSI)</note>
+      </trans-unit>
+      <trans-unit id="Succeeded" xml:space="preserve">
+        <source>Succeeded</source>
+        <target>Lykkedes</target>
+        <note>A message indicating a command succeeded</note>
+      </trans-unit>
+      <trans-unit id="Suspended: %1$@&#10;" xml:space="preserve">
+        <source>Suspended: %1$@
+</source>
+        <target>Suspenderet: %1$@
+</target>
+        <note>The format string describing pump suspended state: (1: suspended)</note>
+      </trans-unit>
+      <trans-unit id="Trials" xml:space="preserve">
+        <source>Trials</source>
+        <target>Forsøg</target>
+        <note>The label indicating the results of each frequency trial</note>
+      </trans-unit>
+      <trans-unit id="Tune Radio Frequency" xml:space="preserve">
+        <source>Tune Radio Frequency</source>
+        <target>Indstil radio frekvens</target>
+        <note>The title of the command to re-tune the radio</note>
+      </trans-unit>
+      <trans-unit id="Tuning radio…" xml:space="preserve">
+        <source>Tuning radio…</source>
+        <target>Indstiller radio frekvens...</target>
+        <note>Progress message for tuning radio</note>
+      </trans-unit>
+      <trans-unit id="Unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <target>Ukendt</target>
+        <note>The detail text for an unknown pump model</note>
+      </trans-unit>
+      <trans-unit id="Uptime" xml:space="preserve">
+        <source>Uptime</source>
+        <target>Oppetid</target>
+        <note>The title of the cell showing uptime</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MinimedKitUI/Base.lproj/MinimedPumpManager.storyboard" source-language="en" target-language="da" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="0MV-2k-Dty.title" xml:space="preserve">
+        <source>RileyLink Setup</source>
+        <target>RileyLink Indstilling</target>
+        <note>Class = "UITableViewController"; title = "RileyLink Setup"; ObjectID = "0MV-2k-Dty";</note>
+      </trans-unit>
+      <trans-unit id="1fp-45-qWK.text" xml:space="preserve">
+        <source>Find Device</source>
+        <target>Find Enhed</target>
+        <note>Class = "UILabel"; text = "Find Device"; ObjectID = "1fp-45-qWK";</note>
+      </trans-unit>
+      <trans-unit id="A6i-Cb-baR.text" xml:space="preserve">
+        <source>Other Devices</source>
+        <target>Andre Enheder</target>
+        <note>Class = "UILabel"; text = "Other Devices"; ObjectID = "A6i-Cb-baR";</note>
+      </trans-unit>
+      <trans-unit id="Bdb-j4-WcR.text" xml:space="preserve">
+        <source>Do not change the time using your pumpʼs menu.</source>
+        <target>Juster ikke uret i pumpens menu.</target>
+        <note>Class = "UILabel"; text = "Do not change the time using your pumpʼs menu."; ObjectID = "Bdb-j4-WcR";</note>
+      </trans-unit>
+      <trans-unit id="Fps-h3-V4K.title" xml:space="preserve">
+        <source>Pump Clock</source>
+        <target>Pumpe Ur</target>
+        <note>Class = "UITableViewController"; title = "Pump Clock"; ObjectID = "Fps-h3-V4K";</note>
+      </trans-unit>
+      <trans-unit id="HeG-VF-L5P.placeholder" xml:space="preserve">
+        <source>Enter the 6-digit pump ID</source>
+        <target>Indtast det 6-cifrede pumpe ID</target>
+        <note>Class = "UITextField"; placeholder = "Enter the 6-digit pump ID"; ObjectID = "HeG-VF-L5P";</note>
+      </trans-unit>
+      <trans-unit id="HfQ-fG-8vO.text" xml:space="preserve">
+        <source>Review your pump settings below. You can change these settings at any time in Loopʼs Settings screen.</source>
+        <target>Gennemgå pumpens indstillinger nedenfor. De kan altid ændres i Loop’s indstillinger.</target>
+        <note>Class = "UILabel"; text = "Review your pump settings below. You can change these settings at any time in Loopʼs Settings screen."; ObjectID = "HfQ-fG-8vO";</note>
+      </trans-unit>
+      <trans-unit id="HuY-fE-vM8.text" xml:space="preserve">
+        <source>If you travel to a different time zone for an extended period of time, you can change the pumpʼs time zone at any time in Loopʼs Settings screen.</source>
+        <target>Hvis du rejser til en anden tidszone i længere tid, kan du ændre pumpens tidszone i Loop’s Indstillinger.</target>
+        <note>Class = "UILabel"; text = "If you travel to a different time zone for an extended period of time, you can change the pumpʼs time zone at any time in Loopʼs Settings screen."; ObjectID = "HuY-fE-vM8";</note>
+      </trans-unit>
+      <trans-unit id="IQ5-53-x9s.text" xml:space="preserve">
+        <source>Loop will keep your pumpʼs clock synchronized with your phone in the time zone youʼre in now.</source>
+        <target>Loop vil holde din pumpes ur synkroniseret med din telefon, i den tidszone du er i nu.</target>
+        <note>Class = "UILabel"; text = "Loop will keep your pumpʼs clock synchronized with your phone in the time zone youʼre in now."; ObjectID = "IQ5-53-x9s";</note>
+      </trans-unit>
+      <trans-unit id="Nwf-TJ-KmJ.title" xml:space="preserve">
+        <source>Setup Complete</source>
+        <target>Indstilling Komplet</target>
+        <note>Class = "UITableViewController"; title = "Setup Complete"; ObjectID = "Nwf-TJ-KmJ";</note>
+      </trans-unit>
+      <trans-unit id="OZk-Db-KCs.title" xml:space="preserve">
+        <source>Pump Setup</source>
+        <target>Pumpe Indstilling</target>
+        <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "OZk-Db-KCs";</note>
+      </trans-unit>
+      <trans-unit id="V47-Nq-7ew.title" xml:space="preserve">
+        <source>Pump Setup</source>
+        <target>Pumpe Indstilling</target>
+        <note>Class = "UINavigationItem"; title = "Pump Setup"; ObjectID = "V47-Nq-7ew";</note>
+      </trans-unit>
+      <trans-unit id="ZnF-zy-5gR.headerTitle" xml:space="preserve">
+        <source>Main Menu</source>
+        <target>Hoved Menu</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Main Menu"; ObjectID = "ZnF-zy-5gR";</note>
+      </trans-unit>
+      <trans-unit id="c7t-pZ-WqY.text" xml:space="preserve">
+        <source>Utilities</source>
+        <target>Tilbehør</target>
+        <note>Class = "UILabel"; text = "Utilities"; ObjectID = "c7t-pZ-WqY";</note>
+      </trans-unit>
+      <trans-unit id="erq-yb-anx.text" xml:space="preserve">
+        <source>Connect Devices</source>
+        <target>Tilslut Enheder</target>
+        <note>Class = "UILabel"; text = "Connect Devices"; ObjectID = "erq-yb-anx";</note>
+      </trans-unit>
+      <trans-unit id="fVG-pl-jT9.footerTitle" xml:space="preserve">
+        <source>The pump ID is the 6-digit numerical portion of the serial number (labeled as SN or S/N).</source>
+        <target>Pumpens ID er den 6-cifrede nummeriske del af serienummeret (mærket SN eller S/N).</target>
+        <note>Class = "UITableViewSection"; footerTitle = "The pump ID is the 6-digit numerical portion of the serial number (labeled as SN or S/N)."; ObjectID = "fVG-pl-jT9";</note>
+      </trans-unit>
+      <trans-unit id="fVG-pl-jT9.headerTitle" xml:space="preserve">
+        <source>Pump ID</source>
+        <target>Pumpe ID</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Pump ID"; ObjectID = "fVG-pl-jT9";</note>
+      </trans-unit>
+      <trans-unit id="g1m-3k-XI3.text" xml:space="preserve">
+        <source>Your pump is ready for use.</source>
+        <target>Pumpen er klar til brug.</target>
+        <note>Class = "UILabel"; text = "Your pump is ready for use."; ObjectID = "g1m-3k-XI3";</note>
+      </trans-unit>
+      <trans-unit id="iQZ-kT-QUm.title" xml:space="preserve">
+        <source>Pump Settings</source>
+        <target>Pumpe Indstillinger</target>
+        <note>Class = "UITableViewController"; title = "Pump Settings"; ObjectID = "iQZ-kT-QUm";</note>
+      </trans-unit>
+      <trans-unit id="lGI-LD-xR7.footerTitle" xml:space="preserve">
+        <source>The pump region and color are denoted as the last 3 letters of the the model number (labeled as REF).</source>
+        <target>Pumpe region og farve er angivet som de sidste 3 bogstaver i modelnummeret (mærket REF).</target>
+        <note>Class = "UITableViewSection"; footerTitle = "The pump region and color are denoted as the last 3 letters of the the model number (labeled as REF)."; ObjectID = "lGI-LD-xR7";</note>
+      </trans-unit>
+      <trans-unit id="lGI-LD-xR7.headerTitle" xml:space="preserve">
+        <source>Region and Color</source>
+        <target>Region og Farve</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Region and Color"; ObjectID = "lGI-LD-xR7";</note>
+      </trans-unit>
+      <trans-unit id="oBL-lh-SHI.title" xml:space="preserve">
+        <source>Pump Broadcasts</source>
+        <target>Pumpe Udsendelser</target>
+        <note>Class = "UITableViewController"; title = "Pump Broadcasts"; ObjectID = "oBL-lh-SHI";</note>
+      </trans-unit>
+      <trans-unit id="ojQ-ob-gBx.text" xml:space="preserve">
+        <source>On</source>
+        <target>Tændt</target>
+        <note>Class = "UILabel"; text = "On"; ObjectID = "ojQ-ob-gBx";</note>
+      </trans-unit>
+      <trans-unit id="tGa-FP-JqD.text" xml:space="preserve">
+        <source>Enter the pump region</source>
+        <target>Angiv pumpe region</target>
+        <note>Class = "UILabel"; text = "Enter the pump region"; ObjectID = "tGa-FP-JqD";</note>
+      </trans-unit>
+      <trans-unit id="yLn-Ya-p1R.text" xml:space="preserve">
+        <source>Loop will listen for status messages sent by your pump. Follow the steps below on your pump to enable these messages:</source>
+        <target>Loop vil lytte efter status beskeder fra pumpen. Følg nedenstående skridt på pumpen, for at aktivere disse beskeder:</target>
+        <note>Class = "UILabel"; text = "Loop will listen for status messages sent by your pump. Follow the steps below on your pump to enable these messages:"; ObjectID = "yLn-Ya-p1R";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MinimedKitUI/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>MinimedKitUI</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NightscoutUploadKit/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>NightscoutUploadKit</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="OmniKit/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>OmniKit</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="OmniKit/en.lproj/Localizable.strings" source-language="en" target-language="da" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id=" (inactive)" xml:space="preserve">
+        <source> (inactive)</source>
+        <note>Description for an inactive alert modifier</note>
+      </trans-unit>
+      <trans-unit id="%1$@ minutes" xml:space="preserve">
+        <source>%1$@ minutes</source>
+        <note>The format string for minutes (1: number of minutes string)</note>
+      </trans-unit>
+      <trans-unit id="%@ dB" xml:space="preserve">
+        <source>%@ dB</source>
+        <note>Unit format string for an RSSI value in decibles</note>
+      </trans-unit>
+      <trans-unit id="Alerts: %1$@&#10;" xml:space="preserve">
+        <source>Alerts: %1$@
+</source>
+        <note>The format string for Alerts: (1: the alerts string)</note>
+      </trans-unit>
+      <trans-unit id="Auto-off alarm" xml:space="preserve">
+        <source>Auto-off alarm</source>
+        <target>Auto-sluk alarm</target>
+        <note>Description for auto-off alarm</note>
+      </trans-unit>
+      <trans-unit id="Below 50 units" xml:space="preserve">
+        <source>Below 50 units</source>
+        <target>Under 50 enheder</target>
+        <note>Pod state when running below fifty units</note>
+      </trans-unit>
+      <trans-unit id="Bolus in progress" xml:space="preserve">
+        <source>Bolus in progress</source>
+        <target>Bolus i gang</target>
+        <note>Error message shown when operation could not be completed due to existing bolus in progress</note>
+      </trans-unit>
+      <trans-unit id="Bolus: %1$@U %2$@ %3$@ %4$@" xml:space="preserve">
+        <source>Bolus: %1$@U %2$@ %3$@ %4$@</source>
+        <target>Bolus: %1$@E %2$@ %3$@ %4$@</target>
+        <note>The format string describing a bolus. (1: The amount delivered)(2: Start time of the dose)(3: duration)(4: scheduled certainty)</note>
+      </trans-unit>
+      <trans-unit id="Bolusing" xml:space="preserve">
+        <source>Bolusing</source>
+        <target>Indgiver Bolus</target>
+        <note>Delivery status when bolusing</note>
+      </trans-unit>
+      <trans-unit id="Bolusing with temp basal" xml:space="preserve">
+        <source>Bolusing with temp basal</source>
+        <target>Indgiver Bolus med midlertidig basal</target>
+        <note>Delivery status when bolusing and temp basal is running</note>
+      </trans-unit>
+      <trans-unit id="Cannula inserting" xml:space="preserve">
+        <source>Cannula inserting</source>
+        <target>Indfører Kanyle</target>
+        <note>Pod state when inserting cannula</note>
+      </trans-unit>
+      <trans-unit id="Certain" xml:space="preserve">
+        <source>Certain</source>
+        <target>Sikker</target>
+        <note>String describing a dose that was certainly scheduled</note>
+      </trans-unit>
+      <trans-unit id="Crosstalk possible. Please move to a new location and try again" xml:space="preserve">
+        <source>Crosstalk possible. Please move to a new location and try again</source>
+        <note>Recovery suggestion when unexpected address received</note>
+      </trans-unit>
+      <trans-unit id="Deactivated" xml:space="preserve">
+        <source>Deactivated</source>
+        <target>Deaktiveret</target>
+        <note>Pod state when pod has been deactivated</note>
+      </trans-unit>
+      <trans-unit id="Delivery Status: %1$@&#10;" xml:space="preserve">
+        <source>Delivery Status: %1$@
+</source>
+        <note>The format string for Delivery Status: (1: delivery status string)</note>
+      </trans-unit>
+      <trans-unit id="Empty reservoir" xml:space="preserve">
+        <source>Empty reservoir</source>
+        <target>Tomt reservoir</target>
+        <note>Description for Empty reservoir pod fault</note>
+      </trans-unit>
+      <trans-unit id="Empty response from pod" xml:space="preserve">
+        <source>Empty response from pod</source>
+        <target>Tom svar fra pod</target>
+        <note>Error message shown when empty response from pod was received</note>
+      </trans-unit>
+      <trans-unit id="Error event logged, shutting down" xml:space="preserve">
+        <source>Error event logged, shutting down</source>
+        <target>Fejl hændelse logget, lukker ned</target>
+        <note>Pod state error event logged shutting down</note>
+      </trans-unit>
+      <trans-unit id="Expiration alert" xml:space="preserve">
+        <source>Expiration alert</source>
+        <target>Udløbs advarsel</target>
+        <note>Description for expiration alert</note>
+      </trans-unit>
+      <trans-unit id="Finish setup " xml:space="preserve">
+        <source>Finish setup </source>
+        <target>Afslut indstilling</target>
+        <note>Description for finish setup</note>
+      </trans-unit>
+      <trans-unit id="Initialized" xml:space="preserve">
+        <source>Initialized</source>
+        <target>Initialiseret</target>
+        <note>Pod inititialized</note>
+      </trans-unit>
+      <trans-unit id="Internal pod fault %1$03d" xml:space="preserve">
+        <source>Internal pod fault %1$03d</source>
+        <target>Intern pod fejl %1$03d</target>
+        <note>The format string for Internal pod fault (1: The fault code value)</note>
+      </trans-unit>
+      <trans-unit id="InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@" xml:space="preserve">
+        <source>InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@</source>
+        <target>AfbrudtBolus: %1$@ E (%2$@ E planlagt) %3$@ %4$@ %5$@</target>
+        <note>The format string describing a bolus that was interrupted. (1: The amount delivered)(2: The amount scheduled)(3: Start time of the dose)(4: duration)(5: scheduled certainty)</note>
+      </trans-unit>
+      <trans-unit id="Invalid address 0x%x. Expected 0x%x" xml:space="preserve">
+        <source>Invalid address 0x%1$x. Expected 0x%2$x</source>
+        <note>Error message for when unexpected address is received (1: received address) (2: expected address)</note>
+      </trans-unit>
+      <trans-unit id="Last Bolus Not Delivered: %1$@ U&#10;" xml:space="preserve">
+        <source>Last Bolus Not Delivered: %1$@ U
+</source>
+        <note>The format string for Last Bolus Not Delivered: (1: bolus not delivered string)</note>
+      </trans-unit>
+      <trans-unit id="Low reservoir advisory alarm" xml:space="preserve">
+        <source>Low reservoir advisory alarm</source>
+        <target>Lavt reservoir alarm</target>
+        <note>Description for low reservoir alarm</note>
+      </trans-unit>
+      <trans-unit id="Make sure your RileyLink is nearby and powered on" xml:space="preserve">
+        <source>Make sure your RileyLink is nearby and powered on</source>
+        <target>Sørg for at din RileyLink er i nærheden og tændt</target>
+        <note>Recovery suggestion when no RileyLink is available</note>
+      </trans-unit>
+      <trans-unit id="No RileyLink available" xml:space="preserve">
+        <source>No RileyLink available</source>
+        <target>Ingen RileyLink til stede</target>
+        <note>Error message shown when no response from pod was received</note>
+      </trans-unit>
+      <trans-unit id="No alerts" xml:space="preserve">
+        <source>No alerts</source>
+        <target>Ingen alarmer</target>
+        <note>Pod alert state when no alerts are active</note>
+      </trans-unit>
+      <trans-unit id="No pod paired" xml:space="preserve">
+        <source>No pod paired</source>
+        <target>Ingen pod parret</target>
+        <note>Error message shown when no pod is paired</note>
+      </trans-unit>
+      <trans-unit id="No response from pod" xml:space="preserve">
+        <source>No response from pod</source>
+        <target>Intet svar fra pod</target>
+        <note>Error message shown when no response from pod was received</note>
+      </trans-unit>
+      <trans-unit id="Normal" xml:space="preserve">
+        <source>Normal</source>
+        <target>Normal</target>
+        <note>Delivery status when basal is running
+   Pod state when running above fifty units</note>
+      </trans-unit>
+      <trans-unit id="Occlusion detected" xml:space="preserve">
+        <source>Occlusion detected</source>
+        <target>Blokkering opdaget</target>
+        <note>Description for Occlusion detected pod fault</note>
+      </trans-unit>
+      <trans-unit id="Omnipod" xml:space="preserve">
+        <source>Omnipod</source>
+        <target>Omnipod</target>
+        <note>Generic title of the omnipod pump manager</note>
+      </trans-unit>
+      <trans-unit id="Paired" xml:space="preserve">
+        <source>Paired</source>
+        <target>Parret</target>
+        <note>Pod status after pairing</note>
+      </trans-unit>
+      <trans-unit id="Please bring your pod closer to the RileyLink and try again" xml:space="preserve">
+        <source>Please bring your pod closer to the RileyLink and try again</source>
+        <target>Venligst flyt pod’en tættere på din RileyLink og prøv igen</target>
+        <note>Recovery suggestion when no response is received from pod</note>
+      </trans-unit>
+      <trans-unit id="Please pair a new pod" xml:space="preserve">
+        <source>Please pair a new pod</source>
+        <target>Venligst par med en ny pod</target>
+        <note>Recover suggestion shown when no pod is paired</note>
+      </trans-unit>
+      <trans-unit id="Please try repositioning the pod or the RileyLink and try again" xml:space="preserve">
+        <source>Please try repositioning the pod or the RileyLink and try again</source>
+        <note>Recovery suggestion when no response is received from pod</note>
+      </trans-unit>
+      <trans-unit id="Pod Active: %1$@&#10;" xml:space="preserve">
+        <source>Pod Active: %1$@
+</source>
+        <note>The format string for Pod Active: (1: Pod active time string)</note>
+      </trans-unit>
+      <trans-unit id="Pod Expiration Notice" xml:space="preserve">
+        <source>Pod Expiration Notice</source>
+        <target>Pod udløbs påmindelse</target>
+        <note>The title for pod expiration notification</note>
+      </trans-unit>
+      <trans-unit id="Pod Fault" xml:space="preserve">
+        <source>Pod Fault</source>
+        <note>Inform the user that there is a pod fault.</note>
+      </trans-unit>
+      <trans-unit id="Pod Fault: %1$@" xml:space="preserve">
+        <source>Pod Fault: %1$@</source>
+        <target>Pod Fejl: %1$@</target>
+        <note>Format string for pod fault code</note>
+      </trans-unit>
+      <trans-unit id="Pod already paired" xml:space="preserve">
+        <source>Pod already paired</source>
+        <target>Pod allerede parret</target>
+        <note>Error message shown when user cannot pair because pod is already paired</note>
+      </trans-unit>
+      <trans-unit id="Pod already primed" xml:space="preserve">
+        <source>Pod already primed</source>
+        <target>Pod allerede klargjort</target>
+        <note>Error message shown when prime is attempted, but pod is already primed</note>
+      </trans-unit>
+      <trans-unit id="Pod expiration advisory alarm" xml:space="preserve">
+        <source>Pod expiration advisory alarm</source>
+        <target>Pod udløbs alarm</target>
+        <note>Description for expiration advisory alarm</note>
+      </trans-unit>
+      <trans-unit id="Pod expired" xml:space="preserve">
+        <source>Pod expired</source>
+        <target>Pod udløbet</target>
+        <note>Description for Pod expired pod fault</note>
+      </trans-unit>
+      <trans-unit id="Pod is not in a state ready for cannula insertion." xml:space="preserve">
+        <source>Pod is not in a state ready for cannula insertion.</source>
+        <target>Pod er ikke klar til kanyle indførsel.</target>
+        <note>Error message when cannula insertion fails because the pod is in an unexpected state</note>
+      </trans-unit>
+      <trans-unit id="Pod is not in a state ready for priming." xml:space="preserve">
+        <source>Pod is not in a state ready for priming.</source>
+        <target>Pod er ikke klar til ‘klargøring’.</target>
+        <note>Error message when prime fails because the pod is in an unexpected state</note>
+      </trans-unit>
+      <trans-unit id="Pod is suspended" xml:space="preserve">
+        <source>Pod is suspended</source>
+        <target>Pod er pauset</target>
+        <note>Error message action could not be performed because pod is suspended</note>
+      </trans-unit>
+      <trans-unit id="Pod sent ack instead of response" xml:space="preserve">
+        <source>Pod sent ack instead of response</source>
+        <note>Error message shown when pod sends ack instead of response</note>
+      </trans-unit>
+      <trans-unit id="Pod setup window expired" xml:space="preserve">
+        <source>Pod setup window expired</source>
+        <target>Pod indstillings vindue udløbet</target>
+        <note>Pod state when prime or cannula insertion has not completed in the time allotted</note>
+      </trans-unit>
+      <trans-unit id="Priming" xml:space="preserve">
+        <source>Priming</source>
+        <target>Klargør</target>
+        <note>Delivery status when pod is priming
+   Pod status when priming</note>
+      </trans-unit>
+      <trans-unit id="Ready for basal programming" xml:space="preserve">
+        <source>Ready for basal programming</source>
+        <target>Klar til basal programmering</target>
+        <note>Pod state when ready for basal programming</note>
+      </trans-unit>
+      <trans-unit id="Ready to insert cannula" xml:space="preserve">
+        <source>Ready to insert cannula</source>
+        <target>Klar til kanyle indførsel</target>
+        <note>Pod state when ready for cannula insertion</note>
+      </trans-unit>
+      <trans-unit id="Reservoir Level: %1$@ U&#10;" xml:space="preserve">
+        <source>Reservoir Level: %1$@ U
+</source>
+        <note>The format string for Reservoir Level: (1: reservoir level string)</note>
+      </trans-unit>
+      <trans-unit id="Resume: %1$@ %2$@" xml:space="preserve">
+        <source>Resume: %1$@ %2$@</source>
+        <target>Fortsæt: %1$@ %2$@</target>
+        <note>The format string describing a resume. (1: Time)(2: Scheduled certainty</note>
+      </trans-unit>
+      <trans-unit id="Scheduled Basal" xml:space="preserve">
+        <source>Scheduled Basal</source>
+        <target>Planlagt Basal</target>
+        <note>Delivery status when basal is running</note>
+      </trans-unit>
+      <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
+        <source>Shutdown imminent alarm</source>
+        <target>Afbryd forestående alarm</target>
+        <note>Description for shutdown imminent alarm</note>
+      </trans-unit>
+      <trans-unit id="Suspend: %1$@ %2$@" xml:space="preserve">
+        <source>Suspend: %1$@ %2$@</source>
+        <target>Pause: %1$@ %2$@</target>
+        <note>The format string describing a suspend. (1: Time)(2: Scheduled certainty</note>
+      </trans-unit>
+      <trans-unit id="Suspended" xml:space="preserve">
+        <source>Suspended</source>
+        <target>Pauset</target>
+        <note>Delivery status when insulin delivery is suspended</note>
+      </trans-unit>
+      <trans-unit id="Tank fill completed" xml:space="preserve">
+        <source>Tank fill completed</source>
+        <target>Reservoir påfyldning komplet</target>
+        <note>Pod tank fill completed</note>
+      </trans-unit>
+      <trans-unit id="Tank power activated" xml:space="preserve">
+        <source>Tank power activated</source>
+        <target>Reservoir strøm aktiveret</target>
+        <note>Pod power to motor activated</note>
+      </trans-unit>
+      <trans-unit id="Temp basal in progress" xml:space="preserve">
+        <source>Temp basal in progress</source>
+        <target>Midlertidig basal allerede i gang</target>
+        <note>Error message shown when temp basal could not be set due to existing temp basal in progress</note>
+      </trans-unit>
+      <trans-unit id="Temp basal running" xml:space="preserve">
+        <source>Temp basal running</source>
+        <target>Midlertidig basal i gang</target>
+        <note>Delivery status when temp basal is running</note>
+      </trans-unit>
+      <trans-unit id="TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@" xml:space="preserve">
+        <source>TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@</source>
+        <target>MidlertidigBasal: %1$@ E/time %2$@ %3$@ %4$@ E %5$@</target>
+        <note>The format string describing a temp basal. (1: The rate)(2: Start time)(3: duration)(4: volume)(5: scheduled certainty</note>
+      </trans-unit>
+      <trans-unit id="Time to replace your pod! Your pod will expire in %1$@" xml:space="preserve">
+        <source>Time to replace your pod! Your pod will expire in %1$@</source>
+        <target>Tid til udskiftning af pod! Din pod udløber om %1$@</target>
+        <note>The format string for pod expiration notification body (1: time until expiration)</note>
+      </trans-unit>
+      <trans-unit id="Total Insulin Delivered: %1$@ U&#10;" xml:space="preserve">
+        <source>Total Insulin Delivered: %1$@ U
+</source>
+        <note>The format string for Total Insulin Delivered: (1: total insulin delivered string)</note>
+      </trans-unit>
+      <trans-unit id="Try again" xml:space="preserve">
+        <source>Try again</source>
+        <note>Recovery suggestion when ack received instead of response</note>
+      </trans-unit>
+      <trans-unit id="Uncertain" xml:space="preserve">
+        <source>Uncertain</source>
+        <target>Usikker</target>
+        <note>String describing a dose that was possibly scheduled</note>
+      </trans-unit>
+      <trans-unit id="Unexpected response from pod" xml:space="preserve">
+        <source>Unexpected response from pod</source>
+        <target>Uventet svar fra pod</target>
+        <note>Error message shown when empty response from pod was received</note>
+      </trans-unit>
+      <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve">
+        <source>Unknown pod fault %1$03d</source>
+        <target>Ukendt pod fejl %1$03d</target>
+        <note>The format string for Unknown pod fault (1: The fault code value)</note>
+      </trans-unit>
+      <trans-unit id="Wait for existing bolus to finish, or cancel bolus" xml:space="preserve">
+        <source>Wait for existing bolus to finish, or cancel bolus</source>
+        <target>Vent indtil eksisterende bolus er færdig, eller annuller bolus</target>
+        <note>Recovery suggestion when operation could not be completed due to existing bolus in progress</note>
+      </trans-unit>
+      <trans-unit id="Wait for existing temp basal to finish, or suspend to cancel" xml:space="preserve">
+        <source>Wait for existing temp basal to finish, or suspend to cancel</source>
+        <target>Vent indtil den eksisterende midlertidige basal er færdig, eller pause for at annullere</target>
+        <note>Recovery suggestion when operation could not be completed due to existing temp basal in progress</note>
+      </trans-unit>
+      <trans-unit id="Waiting for pairing reminder" xml:space="preserve">
+        <source>Waiting for pairing reminder</source>
+        <target>Venter på parrings påmindelse</target>
+        <note>Description waiting for pairing reminder</note>
+      </trans-unit>
+      <trans-unit id="oneNotUsedButin33" xml:space="preserve">
+        <source>oneNotUsedButin33</source>
+        <note>Pod state oneNotUsedButin33</note>
+      </trans-unit>
+      <trans-unit id="threeNotUsedButin33" xml:space="preserve">
+        <source>threeNotUsedButin33</source>
+        <note>Pod state threeNotUsedButin33</note>
+      </trans-unit>
+      <trans-unit id="twoNotUsedButin33" xml:space="preserve">
+        <source>twoNotUsedButin33</source>
+        <note>Pod state twoNotUsedButin33</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="OmniKitPlugin/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>OmniKitPlugin</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="OmniKitUI/Base.lproj/OmnipodPumpManager.storyboard" source-language="en" target-language="da" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="1LF-te-Bdd.headerTitle" xml:space="preserve">
+        <source>Remove POD</source>
+        <target>Fjern POD</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Remove POD"; ObjectID = "1LF-te-Bdd";</note>
+      </trans-unit>
+      <trans-unit id="3HH-eJ-lRh.title" xml:space="preserve">
+        <source>RileyLink Setup</source>
+        <target>RileyLink Indstillinger</target>
+        <note>Class = "UINavigationItem"; title = "RileyLink Setup"; ObjectID = "3HH-eJ-lRh";</note>
+      </trans-unit>
+      <trans-unit id="6vo-Ov-UpE.title" xml:space="preserve">
+        <source>Pod Settings</source>
+        <target>Pod Indstillinger</target>
+        <note>Class = "UITableViewController"; title = "Pod Settings"; ObjectID = "6vo-Ov-UpE";</note>
+      </trans-unit>
+      <trans-unit id="91O-Un-vKc.title" xml:space="preserve">
+        <source>Pump Setup</source>
+        <target>Pumpe Indstilling</target>
+        <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "91O-Un-vKc";</note>
+      </trans-unit>
+      <trans-unit id="EUt-xk-Rmp.footerTitle" xml:space="preserve">
+        <source>NOTE: Do not remove the pod's needle cap at this time.</source>
+        <target>OBS: Fjern ikke pod’ens beskyttelseskappe endnu.</target>
+        <note>Class = "UITableViewSection"; footerTitle = "NOTE: Do not remove the pod's needle cap at this time."; ObjectID = "EUt-xk-Rmp";</note>
+      </trans-unit>
+      <trans-unit id="EUt-xk-Rmp.headerTitle" xml:space="preserve">
+        <source>Prepare Pod</source>
+        <target>Klargør Pod</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Prepare Pod"; ObjectID = "EUt-xk-Rmp";</note>
+      </trans-unit>
+      <trans-unit id="Eng-IY-fQ7.text" xml:space="preserve">
+        <source>Loop will remind you to change your pod before it expires. You can change this to a time convenient for you.</source>
+        <target>Loop vil minde dig om at udskifte pod’en før den udløber. Du kan ændre det til et belejligt tidspunkt for dig.</target>
+        <note>Class = "UILabel"; text = "Loop will remind you to change your pod before it expires. You can change this to a time convenient for you."; ObjectID = "Eng-IY-fQ7";</note>
+      </trans-unit>
+      <trans-unit id="GK7-jb-tyY.text" xml:space="preserve">
+        <source>Please deactivate the pod. When deactivation is complete, remove pod from body.</source>
+        <target>Venligst deaktiver pod. Når deaktivering er komplet, fjernes den fra kroppen.</target>
+        <note>Class = "UILabel"; text = "Please deactivate the pod. When deactivation is complete, remove pod from body."; ObjectID = "GK7-jb-tyY";</note>
+      </trans-unit>
+      <trans-unit id="HwT-30-f0y.title" xml:space="preserve">
+        <source>Insert Cannula</source>
+        <target>Indfør Kanyle</target>
+        <note>Class = "UINavigationItem"; title = "Insert Cannula"; ObjectID = "HwT-30-f0y";</note>
+      </trans-unit>
+      <trans-unit id="Iuv-5M-bDH.text" xml:space="preserve">
+        <source>Prepare site. Remove the pod's needle cap and adhesive backing. If pod is OK, apply to site.</source>
+        <target>Klargør placeringen. Fjern pod’ens beskyttelseskappe og tapebagside. Hvis pod er OK, påsættes den.</target>
+        <note>Class = "UILabel"; text = "Prepare site. Remove the pod's needle cap and adhesive backing. If pod is OK, apply to site."; ObjectID = "Iuv-5M-bDH";</note>
+      </trans-unit>
+      <trans-unit id="aNg-mm-Uuy.title" xml:space="preserve">
+        <source>Pump Setup</source>
+        <target>Pumpe Indstilling</target>
+        <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "aNg-mm-Uuy";</note>
+      </trans-unit>
+      <trans-unit id="ack-ra-XH6.title" xml:space="preserve">
+        <source>Pump Setup</source>
+        <target>Pumpe Indstilling</target>
+        <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "ack-ra-XH6";</note>
+      </trans-unit>
+      <trans-unit id="bJ5-iH-fnF.text" xml:space="preserve">
+        <source>Your Pod is ready for use.</source>
+        <target>Din Pod er klar til brug.</target>
+        <note>Class = "UILabel"; text = "Your Pod is ready for use."; ObjectID = "bJ5-iH-fnF";</note>
+      </trans-unit>
+      <trans-unit id="ePA-6p-q8C.text" xml:space="preserve">
+        <source>Reminder</source>
+        <target>Påmindelse</target>
+        <note>Class = "UILabel"; text = "Reminder"; ObjectID = "ePA-6p-q8C";</note>
+      </trans-unit>
+      <trans-unit id="jVO-Ut-MhL.title" xml:space="preserve">
+        <source>Pod Pairing</source>
+        <target>Pod Parres</target>
+        <note>Class = "UINavigationItem"; title = "Pod Pairing"; ObjectID = "jVO-Ut-MhL";</note>
+      </trans-unit>
+      <trans-unit id="k1Y-x4-m0a.title" xml:space="preserve">
+        <source>Pump Setup</source>
+        <target>Pumpe Indstilling</target>
+        <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "k1Y-x4-m0a";</note>
+      </trans-unit>
+      <trans-unit id="kLL-SQ-K0a.text" xml:space="preserve">
+        <source>Review your settings below. They will be programmed into the pod during pairing. You can change these settings at any time in Loopʼs Settings screen.</source>
+        <target>Gennemgå dine indstillinger nedenfor. De vil blive overført til pod’en under parring. Du kan ændre dem til enhver tid i Loop’s Indstillinger.</target>
+        <note>Class = "UILabel"; text = "Review your settings below. They will be programmed into the pod during pairing. You can change these settings at any time in Loopʼs Settings screen."; ObjectID = "kLL-SQ-K0a";</note>
+      </trans-unit>
+      <trans-unit id="nDb-R5-e02.title" xml:space="preserve">
+        <source>Setup Complete</source>
+        <target>Indstilling gennemført</target>
+        <note>Class = "UINavigationItem"; title = "Setup Complete"; ObjectID = "nDb-R5-e02";</note>
+      </trans-unit>
+      <trans-unit id="rcC-ke-lUP.footerTitle" xml:space="preserve">
+        <source>NOTE: If cannula sticks out, press cancel.</source>
+        <target>OBS: Hvis kanylen stikker ud, tryk annuller.</target>
+        <note>Class = "UITableViewSection"; footerTitle = "NOTE: If cannula sticks out, press cancel."; ObjectID = "rcC-ke-lUP";</note>
+      </trans-unit>
+      <trans-unit id="rcC-ke-lUP.headerTitle" xml:space="preserve">
+        <source>Apply POD</source>
+        <target>Påsæt POD</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Apply POD"; ObjectID = "rcC-ke-lUP";</note>
+      </trans-unit>
+      <trans-unit id="vEc-Km-ewe.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "vEc-Km-ewe";</note>
+      </trans-unit>
+      <trans-unit id="vmF-Dc-3DS.text" xml:space="preserve">
+        <source>Fill a new pod with insulin. Listen for 2 beeps from the pod during filling. Keep the RileyLink about 6 inches from the pod during pairing.</source>
+        <target>Påfyld en ny pod med insulin. Lyt efter 2 bip fra pod’en under påfyldning. Hold RileyLink’en tæt på pod’en under parring.</target>
+        <note>Class = "UILabel"; text = "Fill a new pod with insulin. Listen for 2 beeps from the pod during filling. Keep the RileyLink about 6 inches from the pod during pairing."; ObjectID = "vmF-Dc-3DS";</note>
+      </trans-unit>
+      <trans-unit id="yy1-xf-HdR.title" xml:space="preserve">
+        <source>Replace Pod</source>
+        <target>Udskift Pod</target>
+        <note>Class = "UINavigationItem"; title = "Replace Pod"; ObjectID = "yy1-xf-HdR";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="OmniKitUI/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>OmniKitUI</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="OmniKitUI/en.lproj/Localizable.strings" source-language="en" target-language="da" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
+        <source>%1$@ units remaining at %2$@</source>
+        <target>%1$@ tilbageværende enheder ved %2$@</target>
+        <note>Accessibility format string for (1: localized volume)(2: time)</note>
+      </trans-unit>
+      <trans-unit id="%1$@%2$@%3$@" xml:space="preserve">
+        <source>%1$@%2$@%3$@</source>
+        <target>%1$@%2$@%3$@</target>
+        <note>The format string for displaying an offset from a time zone: (1: GMT)(2: -)(3: 4:00)</note>
+      </trans-unit>
+      <trans-unit id="%1$@. Insulin delivery has stopped. Please deactivate and remove pod." xml:space="preserve">
+        <source>%1$@. Insulin delivery has stopped. Please deactivate and remove pod.</source>
+        <target>%1$@. Insulin indgivelse er stoppet. Venligst deaktiver og fjern pod.</target>
+        <note>Format string providing instructions for replacing pod due to a fault. (1: The fault description)</note>
+      </trans-unit>
+      <trans-unit id="%@ U" xml:space="preserve">
+        <source>%@ U</source>
+        <target>%@ E</target>
+        <note>Format string for delivered insulin. (1: The localized amount)
+   Format string for insulin remaining in reservoir. (1: The localized amount)</note>
+      </trans-unit>
+      <trans-unit id="%@ U (Finished)" xml:space="preserve">
+        <source>%@ U (Finished)</source>
+        <target>%@ E (Færdig)</target>
+        <note>Format string for bolus progress when finished. (1: The localized amount)</note>
+      </trans-unit>
+      <trans-unit id="%@ U of %@ U (%@)" xml:space="preserve">
+        <source>%1$@ U of %2$@ U (%3$@)</source>
+        <target>%1$@ E af %2$@ E (%3$@)</target>
+        <note>Format string for bolus progress. (1: The delivered amount) (2: The programmed amount) (3: the percent progress)</note>
+      </trans-unit>
+      <trans-unit id="%@ U/hour" xml:space="preserve">
+        <source>%@ U/hour</source>
+        <target>%@ E/time</target>
+        <note>Format string for temp basal rate. (1: The localized amount)</note>
+      </trans-unit>
+      <trans-unit id="%@ dB" xml:space="preserve">
+        <source>%@ dB</source>
+        <note>Unit format string for an RSSI value in decibles</note>
+      </trans-unit>
+      <trans-unit id="%@%%" xml:space="preserve">
+        <source>%@%%</source>
+        <target>%@%%</target>
+        <note>Format string for bolus percent progress. (1: Percent progress)</note>
+      </trans-unit>
+      <trans-unit id="%@+ U" xml:space="preserve">
+        <source>%@+ U</source>
+        <target>%@+ E</target>
+        <note>Format string for reservoir reading when above or equal to maximum reading. (1: The localized amount)</note>
+      </trans-unit>
+      <trans-unit id="%@." xml:space="preserve">
+        <source>%@.</source>
+        <target>%@.</target>
+        <note>Appends a full-stop to a statement</note>
+      </trans-unit>
+      <trans-unit id="%@U" xml:space="preserve">
+        <source>%@U</source>
+        <target>%@E</target>
+        <note>Format string for reservoir volume. (1: The localized volume)</note>
+      </trans-unit>
+      <trans-unit id="Active Time" xml:space="preserve">
+        <source>Active Time</source>
+        <target>Aktiv Tid</target>
+        <note>The title of the cell showing the pod activated at time</note>
+      </trans-unit>
+      <trans-unit id="Alarms" xml:space="preserve">
+        <source>Alarms</source>
+        <target>Alarmer</target>
+        <note>The title of the cell showing alarm status</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to shutdown this pod?" xml:space="preserve">
+        <source>Are you sure you want to shutdown this pod?</source>
+        <target>Er du sikker på at du vil slukke for denne pod?</target>
+        <note>Confirmation message for shutting down a pod</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to stop using Omnipod?" xml:space="preserve">
+        <source>Are you sure you want to stop using Omnipod?</source>
+        <target>Er du sikker på at du vil stoppe med at bruge Omnipod?</target>
+        <note>Confirmation message for removing Omnipod PumpManager</note>
+      </trans-unit>
+      <trans-unit id="Assigned Address" xml:space="preserve">
+        <source>Assigned Address</source>
+        <target>Tildelt Adresse</target>
+        <note>The title text for the address assigned to the pod</note>
+      </trans-unit>
+      <trans-unit id="Basal Delivery" xml:space="preserve">
+        <source>Basal Delivery</source>
+        <target>Basal Indgivelse</target>
+        <note>The title of the cell showing pod basal status</note>
+      </trans-unit>
+      <trans-unit id="Basal Rates" xml:space="preserve">
+        <source>Basal Rates</source>
+        <target>Basal Rater</target>
+        <note>The title text for the basal rate schedule</note>
+      </trans-unit>
+      <trans-unit id="Bolus Delivery" xml:space="preserve">
+        <source>Bolus Delivery</source>
+        <target>Bolus Indgivelse</target>
+        <note>The title of the cell showing pod bolus status</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>Annuller</target>
+        <note>The title of the cancel action in an action sheet</note>
+      </trans-unit>
+      <trans-unit id="Change Time Zone" xml:space="preserve">
+        <source>Change Time Zone</source>
+        <target>Skift Tidszone</target>
+        <note>The title of the command to change pump time zone</note>
+      </trans-unit>
+      <trans-unit id="Changing time…" xml:space="preserve">
+        <source>Changing time…</source>
+        <target>Skifter tiden…</target>
+        <note>Progress message for changing pod time.</note>
+      </trans-unit>
+      <trans-unit id="Configuration" xml:space="preserve">
+        <source>Configuration</source>
+        <target>Konfiguration</target>
+        <note>The title of the configuration section in settings</note>
+      </trans-unit>
+      <trans-unit id="Continue" xml:space="preserve">
+        <source>Continue</source>
+        <target>Fortsæt</target>
+        <note>The title of the continue action in an action sheet</note>
+      </trans-unit>
+      <trans-unit id="Deactivate" xml:space="preserve">
+        <source>Deactivate</source>
+        <target>Deaktiver</target>
+        <note>Button title to deactivate pod because of fault during setup</note>
+      </trans-unit>
+      <trans-unit id="Deactivate Pod" xml:space="preserve">
+        <source>Deactivate Pod</source>
+        <target>Deaktiver Pod</target>
+        <note>Button title for pod deactivation
+   Button title to deactivate pod</note>
+      </trans-unit>
+      <trans-unit id="Delete Omnipod" xml:space="preserve">
+        <source>Delete Omnipod</source>
+        <target>Slet Omnipod</target>
+        <note>Button title to delete Omnipod PumpManager</note>
+      </trans-unit>
+      <trans-unit id="Delivery Limits" xml:space="preserve">
+        <source>Delivery Limits</source>
+        <target>Indgivelsesgrænser</target>
+        <note>Title text for delivery limits</note>
+      </trans-unit>
+      <trans-unit id="Device Information" xml:space="preserve">
+        <source>Device Information</source>
+        <target>Enheds Information</target>
+        <note>The title of the device information section in settings</note>
+      </trans-unit>
+      <trans-unit id="Disable Bolus Beeps" xml:space="preserve">
+        <source>Disable Bolus Beeps</source>
+        <target>Deaktiver bolus bip</target>
+        <note>Title text for button to disable bolus beeps</note>
+      </trans-unit>
+      <trans-unit id="Disable Confirmation Beeps" xml:space="preserve">
+        <source>Disable Confirmation Beeps</source>
+        <note>Title text for button to disable confirmation beeps</note>
+      </trans-unit>
+      <trans-unit id="Enable Bolus Beeps" xml:space="preserve">
+        <source>Enable Bolus Beeps</source>
+        <target>Aktiver bolus bip</target>
+        <note>Title text for button to enable bolus beeps</note>
+      </trans-unit>
+      <trans-unit id="Enable Confirmation Beeps" xml:space="preserve">
+        <source>Enable Confirmation Beeps</source>
+        <note>Title text for button to enable confirmation beeps</note>
+      </trans-unit>
+      <trans-unit id="Error Resuming" xml:space="preserve">
+        <source>Error Resuming</source>
+        <target>Fejl under genoptagelse</target>
+        <note>The alert title for a resume error</note>
+      </trans-unit>
+      <trans-unit id="Error Suspending" xml:space="preserve">
+        <source>Error Suspending</source>
+        <target>Fejl under udsættelse</target>
+        <note>The alert title for a suspend error</note>
+      </trans-unit>
+      <trans-unit id="Error disabling bolus beeps" xml:space="preserve">
+        <source>Error disabling bolus beeps</source>
+        <target>Fejl under deaktivering af bolus bip</target>
+        <note>The alert title for disable bolus beeps error</note>
+      </trans-unit>
+      <trans-unit id="Error disabling confirmation beeps" xml:space="preserve">
+        <source>Error disabling confirmation beeps</source>
+        <note>The alert title for disable confirmation beeps error</note>
+      </trans-unit>
+      <trans-unit id="Error emitting completion confirmation beep" xml:space="preserve">
+        <source>Error emitting completion confirmation beep</source>
+        <note>The alert title for emitting completion beep error</note>
+      </trans-unit>
+      <trans-unit id="Error enabling bolus beeps" xml:space="preserve">
+        <source>Error enabling bolus beeps</source>
+        <target>Fejl under aktivering af bolus bip</target>
+        <note>The alert title for enable bolus beeps error</note>
+      </trans-unit>
+      <trans-unit id="Error enabling confirmation beeps" xml:space="preserve">
+        <source>Error enabling confirmation beeps</source>
+        <note>The alert title for enable confirmation beeps error</note>
+      </trans-unit>
+      <trans-unit id="Expiration Reminder" xml:space="preserve">
+        <source>Expiration Reminder</source>
+        <target>Udløbs Påmindelse</target>
+        <note>The title of the cell showing the pod expiration reminder date</note>
+      </trans-unit>
+      <trans-unit id="Expired" xml:space="preserve">
+        <source>Expired</source>
+        <target>Udløbet</target>
+        <note>The title of the cell showing the pod expiration after expiry</note>
+      </trans-unit>
+      <trans-unit id="Expires" xml:space="preserve">
+        <source>Expires</source>
+        <target>Udløber</target>
+        <note>The title of the cell showing the pod expiration</note>
+      </trans-unit>
+      <trans-unit id="Fault" xml:space="preserve">
+        <source>Fault</source>
+        <target>Fejl</target>
+        <note>Pod life HUD view label</note>
+      </trans-unit>
+      <trans-unit id="Finish pod setup" xml:space="preserve">
+        <source>Finish pod setup</source>
+        <target>Afslut pod indstilling</target>
+        <note>The title of the command to finish pod setup</note>
+      </trans-unit>
+      <trans-unit id="Greater than %1$@ units remaining at %2$@" xml:space="preserve">
+        <source>Greater than %1$@ units remaining at %2$@</source>
+        <target>Flere end %1$@ enheder tilbage ved %2$@</target>
+        <note>Accessibility format string for (1: localized volume)(2: time)</note>
+      </trans-unit>
+      <trans-unit id="Incompletely set up pod must be deactivated before pairing with a new one. Please deactivate and discard pod." xml:space="preserve">
+        <source>Incompletely set up pod must be deactivated before pairing with a new one. Please deactivate and discard pod.</source>
+        <target>Ufuldstændigt indstillet pod skal først deaktiveres, før der kan parres med en ny. Venligst deaktiver og fjern pod.</target>
+        <note>Instructions when deactivating pod that has been paired, but not attached.</note>
+      </trans-unit>
+      <trans-unit id="Incompletely set up pod must be deactivated before pairing with a new one. Please deactivate and remove pod." xml:space="preserve">
+        <source>Incompletely set up pod must be deactivated before pairing with a new one. Please deactivate and remove pod.</source>
+        <target>Ufuldstændigt indstillet pod skal først deaktiveres, før der kan parres med en ny. Venligst deaktiver og fjern pod</target>
+        <note>Instructions when deactivating pod that has been paired and possibly attached.</note>
+      </trans-unit>
+      <trans-unit id="Insert Cannula" xml:space="preserve">
+        <source>Insert Cannula</source>
+        <target>Indfør kanyle</target>
+        <note>Button title to insert cannula during setup</note>
+      </trans-unit>
+      <trans-unit id="Insulin Delivered" xml:space="preserve">
+        <source>Insulin Delivered</source>
+        <target>Indført Insulin</target>
+        <note>The title of the cell showing delivered insulin</note>
+      </trans-unit>
+      <trans-unit id="Invalid entry" xml:space="preserve">
+        <source>Invalid entry</source>
+        <target>fejlagtig indtastning</target>
+        <note>The error message shown when Loop's basal schedule has an unsupported rate</note>
+      </trans-unit>
+      <trans-unit id="Lot" xml:space="preserve">
+        <source>Lot</source>
+        <target>Lot</target>
+        <note>The title of the cell showing the pod lot id</note>
+      </trans-unit>
+      <trans-unit id="None" xml:space="preserve">
+        <source>None</source>
+        <target>Ingen</target>
+        <note>The detail text for bolus delivery when no bolus is being delivered</note>
+      </trans-unit>
+      <trans-unit id="PI Version" xml:space="preserve">
+        <source>PI Version</source>
+        <target>PI Version</target>
+        <note>The title of the cell showing the pod pi version</note>
+      </trans-unit>
+      <trans-unit id="PM Version" xml:space="preserve">
+        <source>PM Version</source>
+        <target>PM Version</target>
+        <note>The title of the cell showing the pod pm version</note>
+      </trans-unit>
+      <trans-unit id="Pair" xml:space="preserve">
+        <source>Pair</source>
+        <target>Par</target>
+        <note>Button title to pair with pod during setup</note>
+      </trans-unit>
+      <trans-unit id="Pair New Pod" xml:space="preserve">
+        <source>Pair New Pod</source>
+        <target>Par ny Pod</target>
+        <note>The title of the command to pair new pod</note>
+      </trans-unit>
+      <trans-unit id="Pairing…" xml:space="preserve">
+        <source>Pairing…</source>
+        <target>Parres…</target>
+        <note>The text of the loading label when pairing</note>
+      </trans-unit>
+      <trans-unit id="Play Test Beeps" xml:space="preserve">
+        <source>Play Test Beeps</source>
+        <target>Afspil Test Bip</target>
+        <note>The title of the command to play test beeps</note>
+      </trans-unit>
+      <trans-unit id="Play Test Beeps…" xml:space="preserve">
+        <source>Play Test Beeps…</source>
+        <target>Afspiller Test Bip…</target>
+        <note>Progress message for play test beeps.</note>
+      </trans-unit>
+      <trans-unit id="Pod Age" xml:space="preserve">
+        <source>Pod Age</source>
+        <target>Pod Alder</target>
+        <note>Label describing pod age view</note>
+      </trans-unit>
+      <trans-unit id="Pod Settings" xml:space="preserve">
+        <source>Pod Settings</source>
+        <target>Pod Indstillinger</target>
+        <note>Title of the pod settings view controller</note>
+      </trans-unit>
+      <trans-unit id="Primed" xml:space="preserve">
+        <source>Primed</source>
+        <target>Klargjort</target>
+        <note>The text of the loading label when pod is primed</note>
+      </trans-unit>
+      <trans-unit id="Priming…" xml:space="preserve">
+        <source>Priming…</source>
+        <target>Klargør…</target>
+        <note>The text of the loading label when priming</note>
+      </trans-unit>
+      <trans-unit id="Read Pod Status" xml:space="preserve">
+        <source>Read Pod Status</source>
+        <note>The title of the command to read the pod status</note>
+      </trans-unit>
+      <trans-unit id="Read Pod Status…" xml:space="preserve">
+        <source>Read Pod Status…</source>
+        <note>Progress message for reading Pod status.</note>
+      </trans-unit>
+      <trans-unit id="Read Pulse Log" xml:space="preserve">
+        <source>Read Pulse Log</source>
+        <note>The title of the command to read the pulse log</note>
+      </trans-unit>
+      <trans-unit id="Reading Pulse Log…" xml:space="preserve">
+        <source>Reading Pulse Log…</source>
+        <note>Progress message for reading pulse log.</note>
+      </trans-unit>
+      <trans-unit id="Remaining" xml:space="preserve">
+        <source>Remaining</source>
+        <target>Tilbage</target>
+        <note>Label describing time remaining view</note>
+      </trans-unit>
+      <trans-unit id="Replace Pod" xml:space="preserve">
+        <source>Replace Pod</source>
+        <target>Udskift Pod</target>
+        <note>Label indicating pod replacement necessary
+   The title of the command to replace pod</note>
+      </trans-unit>
+      <trans-unit id="Replace Pod Now" xml:space="preserve">
+        <source>Replace Pod Now</source>
+        <target>Udskift Pod Nu</target>
+        <note>The title of the command to replace pod when there is a pod fault</note>
+      </trans-unit>
+      <trans-unit id="Reservoir" xml:space="preserve">
+        <source>Reservoir</source>
+        <target>Reservoir</target>
+        <note>The title of the cell showing reservoir status</note>
+      </trans-unit>
+      <trans-unit id="Retry Pod Deactivation" xml:space="preserve">
+        <source>Retry Pod Deactivation</source>
+        <target>Forsøg Pod Deaktivering igen</target>
+        <note>Button title for retrying pod deactivation</note>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target>Gem</target>
+        <note>Title of button to save delivery limit settings
+   Title of button to sync basal profile when no pod paired</note>
+      </trans-unit>
+      <trans-unit id="Schedule" xml:space="preserve">
+        <source>Schedule</source>
+        <target>Tidsplan</target>
+        <note>The detail text of the basal row when pod is running scheduled basal</note>
+      </trans-unit>
+      <trans-unit id="Status" xml:space="preserve">
+        <source>Status</source>
+        <target>Status</target>
+        <note>The title of the status section in settings</note>
+      </trans-unit>
+      <trans-unit id="Succeeded" xml:space="preserve">
+        <source>Succeeded</source>
+        <target>Gennemført</target>
+        <note>A message indicating a command succeeded</note>
+      </trans-unit>
+      <trans-unit id="Suspended" xml:space="preserve">
+        <source>Suspended</source>
+        <target>Udsat</target>
+        <note>The detail text of the basal row when pod is suspended</note>
+      </trans-unit>
+      <trans-unit id="Switch from Omnipod Pumps" xml:space="preserve">
+        <source>Switch from Omnipod Pumps</source>
+        <target>Skift fra Omnipod Pumper</target>
+        <note>Title text for the button to delete Omnipod PumpManager</note>
+      </trans-unit>
+      <trans-unit id="Sync With Pod" xml:space="preserve">
+        <source>Sync With Pod</source>
+        <target>Synkroniser med Pod</target>
+        <note>Title of button to sync basal profile from pod</note>
+      </trans-unit>
+      <trans-unit id="TID" xml:space="preserve">
+        <source>TID</source>
+        <note>The title of the cell showing the pod TID</note>
+      </trans-unit>
+      <trans-unit id="Test Command" xml:space="preserve">
+        <source>Test Command</source>
+        <target>Test Kommando</target>
+        <note>The title of the command to run the test command</note>
+      </trans-unit>
+      <trans-unit id="Testing Commands…" xml:space="preserve">
+        <source>Testing Commands…</source>
+        <target>Tester Kommandoer…</target>
+        <note>Progress message for testing commands.</note>
+      </trans-unit>
+      <trans-unit id="Too many entries" xml:space="preserve">
+        <source>Too many entries</source>
+        <target>For mange indtastninger</target>
+        <note>The error message shown when Loop's basal schedule has more entries than the pod can support</note>
+      </trans-unit>
+      <trans-unit id="Unable to deactivate pod. Please continue and pair a new one." xml:space="preserve">
+        <source>Unable to deactivate pod. Please continue and pair a new one.</source>
+        <target>Kan ikke deaktivere pod. Venligst fortsæt og par med en ny.</target>
+        <note>Instructions when pod cannot be deactivated</note>
+      </trans-unit>
+      <trans-unit id="Unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <target>Ukendt</target>
+        <note>The detail text for delivered insulin when no measurement is available</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="RileyLink/Base.lproj/Localizable.strings" source-language="en" target-language="da" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="%@ dB" xml:space="preserve">
+        <source>%@ dB</source>
+        <note>Unit format string for an RSSI value in decibles</note>
+      </trans-unit>
+      <trans-unit id="API Secret" xml:space="preserve">
+        <source>API Secret</source>
+        <target>API Secret</target>
+        <note>The title of the nightscout API secret credential</note>
+      </trans-unit>
+      <trans-unit id="About" xml:space="preserve">
+        <source>About</source>
+        <target>About</target>
+        <note>The title of the about section</note>
+      </trans-unit>
+      <trans-unit id="Add Account" xml:space="preserve">
+        <source>Add Account</source>
+        <target>Add Account</target>
+        <note>The title of the button to add the credentials for a service</note>
+      </trans-unit>
+      <trans-unit id="Add Minimed Pump" xml:space="preserve">
+        <source>Add Minimed Pump</source>
+        <note>Title text for button to set up a new minimed pump</note>
+      </trans-unit>
+      <trans-unit id="Configuration" xml:space="preserve">
+        <source>Configuration</source>
+        <target>Konfiguration</target>
+        <note>The title of the configuration section in settings</note>
+      </trans-unit>
+      <trans-unit id="Delete Account" xml:space="preserve">
+        <source>Delete Account</source>
+        <target>Slet Konto</target>
+        <note>The title of the button to remove the credentials for a service</note>
+      </trans-unit>
+      <trans-unit id="Enter the 6-digit pump ID" xml:space="preserve">
+        <source>Enter the 6-digit pump ID</source>
+        <target>Indtast det 6-cifrede pumpe ID</target>
+        <note>The placeholder text instructing users how to enter a pump ID</note>
+      </trans-unit>
+      <trans-unit id="Fetch CGM" xml:space="preserve">
+        <source>Fetch CGM</source>
+        <target>Hent CGM</target>
+        <note>The title text for the pull cgm Data cell</note>
+      </trans-unit>
+      <trans-unit id="Nightscout" xml:space="preserve">
+        <source>Nightscout</source>
+        <target>Nightscout</target>
+        <note>The title of the Nightscout service</note>
+      </trans-unit>
+      <trans-unit id="Pump ID" xml:space="preserve">
+        <source>Pump ID</source>
+        <target>Pumpe ID</target>
+        <note>The title text for the pump ID config value</note>
+      </trans-unit>
+      <trans-unit id="Pumps" xml:space="preserve">
+        <source>Pumps</source>
+        <target>Pumper</target>
+        <note>Title text for section listing configured pumps</note>
+      </trans-unit>
+      <trans-unit id="Required" xml:space="preserve">
+        <source>Required</source>
+        <target>Påkrævet</target>
+        <note>The default placeholder string for a credential</note>
+      </trans-unit>
+      <trans-unit id="RileyLink Testing" xml:space="preserve">
+        <source>RileyLink Testing</source>
+        <target>RileyLink Testing</target>
+        <note>Title for RileyLink Testing main view controller</note>
+      </trans-unit>
+      <trans-unit id="Setup Omnipod" xml:space="preserve">
+        <source>Setup Omnipod</source>
+        <target>Setup Omnipod</target>
+        <note>Title text for button to set up omnipod</note>
+      </trans-unit>
+      <trans-unit id="Site URL" xml:space="preserve">
+        <source>Site URL</source>
+        <target>Site URL</target>
+        <note>The title of the nightscout site URL credential</note>
+      </trans-unit>
+      <trans-unit id="Tap to set" xml:space="preserve">
+        <source>Tap to set</source>
+        <target>Tryk for at gemme</target>
+        <note>The empty-state text for a configuration value</note>
+      </trans-unit>
+      <trans-unit id="Upload To Nightscout" xml:space="preserve">
+        <source>Upload To Nightscout</source>
+        <target>Upload til Nightscout</target>
+        <note>The title text for the nightscout upload enabled switch cell</note>
+      </trans-unit>
+      <trans-unit id="http://mysite.herokuapp.com" xml:space="preserve">
+        <source>http://mysite.herokuapp.com</source>
+        <target>http://mysite.herokuapp.com</target>
+        <note>The placeholder text for the nightscout site URL credential</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="RileyLink/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>RileyLink</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleGetInfoString" xml:space="preserve">
+        <source/>
+        <note>Get Info string</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>RileyLink</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="RileyLink/en.lproj/LoopKit.strings" datatype="plaintext" source-language="en" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve">
+        <source>OK</source>
+        <note>The title of the action used to dismiss an error alert</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="RileyLinkBLEKit/Base.lproj/Localizable.strings" source-language="en" target-language="da" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Data exceeded maximum size of %@ bytes" xml:space="preserve">
+        <source>Data exceeded maximum size of %@ bytes</source>
+        <target>Data overskred den maksimale størrelse på %@ bytes</target>
+        <note>Write size limit exceeded error description (1: size limit)</note>
+      </trans-unit>
+      <trans-unit id="Input %@ is invalid" xml:space="preserve">
+        <source>Input %@ is invalid</source>
+        <target>Input %@ er ugyldigt</target>
+        <note>Invalid input error description (1: input)</note>
+      </trans-unit>
+      <trans-unit id="Make sure the device is nearby, and the issue should resolve automatically" xml:space="preserve">
+        <source>Make sure the device is nearby, and the issue should resolve automatically</source>
+        <target>Sørg for at det eksterne apparat (eks. Rileylink) er tæt på, så bør problemet blive løst automatisk</target>
+        <note>Recovery suggestion for unknown peripheral characteristic</note>
+      </trans-unit>
+      <trans-unit id="Peripheral did not respond in time" xml:space="preserve">
+        <source>Peripheral did not respond in time</source>
+        <target>Eksternt apparat (eks. Rileylink) svarede ikke i tide</target>
+        <note>Timeout error description</note>
+      </trans-unit>
+      <trans-unit id="Peripheral isnʼt connected" xml:space="preserve">
+        <source>Peripheral isnʼt connected</source>
+        <target>Eksternt apparat (eks. Rileylink) er ikke forbundet</target>
+        <note>Not ready error description</note>
+      </trans-unit>
+      <trans-unit id="Pump did not respond in time" xml:space="preserve">
+        <source>Pump did not respond in time</source>
+        <target>Pumpe svarede ikke i tide</target>
+        <note>Response timeout error description</note>
+      </trans-unit>
+      <trans-unit id="Response %@ is invalid" xml:space="preserve">
+        <source>Response %@ is invalid</source>
+        <target>Svaret %@ er ugyldigt</target>
+        <note>Invalid response error description (1: response)</note>
+      </trans-unit>
+      <trans-unit id="RileyLink did not respond in time" xml:space="preserve">
+        <source>RileyLink did not respond in time</source>
+        <note>Timeout error description</note>
+      </trans-unit>
+      <trans-unit id="RileyLink firmware does not support the %@ command" xml:space="preserve">
+        <source>RileyLink firmware does not support the %@ command</source>
+        <target>RileyLink firmware understøtter ikke %@ kommandoen</target>
+        <note>Unsupported command error description</note>
+      </trans-unit>
+      <trans-unit id="RileyLink is not connected" xml:space="preserve">
+        <source>RileyLink is not connected</source>
+        <note>Not ready error description</note>
+      </trans-unit>
+      <trans-unit id="The RileyLink was temporarily disconnected" xml:space="preserve">
+        <source>The RileyLink was temporarily disconnected</source>
+        <target>RileyLinket var midlertidigt afbrudt</target>
+        <note>Failure reason: unknown peripheral characteristic</note>
+      </trans-unit>
+      <trans-unit id="Unknown characteristic" xml:space="preserve">
+        <source>Unknown characteristic</source>
+        <target>Ukendt karakteristika</target>
+        <note>Error description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="RileyLinkBLEKit/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>RileyLinkBLEKit</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="RileyLinkKit/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>RileyLinkKit</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="RileyLinkKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="da" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="%@ dB" xml:space="preserve">
+        <source>%@ dB</source>
+        <note>Unit format string for an RSSI value in decibles</note>
+      </trans-unit>
+      <trans-unit id="Commands" xml:space="preserve">
+        <source>Commands</source>
+        <target>Kommandoer</target>
+        <note>The title of the section describing commands</note>
+      </trans-unit>
+      <trans-unit id="Connected" xml:space="preserve">
+        <source>Connected</source>
+        <target>Tilsluttet</target>
+        <note>The connected state</note>
+      </trans-unit>
+      <trans-unit id="Connecting" xml:space="preserve">
+        <source>Connecting</source>
+        <target>Tilslutter</target>
+        <note>The in-progress connecting state</note>
+      </trans-unit>
+      <trans-unit id="Connection State" xml:space="preserve">
+        <source>Connection State</source>
+        <target>Tilslutningstilstand</target>
+        <note>The title of the cell showing BLE connection state</note>
+      </trans-unit>
+      <trans-unit id="Device" xml:space="preserve">
+        <source>Device</source>
+        <target>Enhed</target>
+        <note>The title of the section describing the device</note>
+      </trans-unit>
+      <trans-unit id="Devices" xml:space="preserve">
+        <source>Devices</source>
+        <target>Enheder</target>
+        <note>The title of the devices table section in RileyLink settings</note>
+      </trans-unit>
+      <trans-unit id="Disconnected" xml:space="preserve">
+        <source>Disconnected</source>
+        <target>Frakoblet</target>
+        <note>The disconnected state</note>
+      </trans-unit>
+      <trans-unit id="Disconnecting" xml:space="preserve">
+        <source>Disconnecting</source>
+        <target>Frakobler</target>
+        <note>The in-progress disconnecting state</note>
+      </trans-unit>
+      <trans-unit id="Firmware" xml:space="preserve">
+        <source>Firmware</source>
+        <target>Firmware</target>
+        <note>The title of the cell showing firmware version</note>
+      </trans-unit>
+      <trans-unit id="Frequency" xml:space="preserve">
+        <source>Frequency</source>
+        <target>Frekvens</target>
+        <note>The title of the cell showing current rileylink frequency</note>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <target>Navn</target>
+        <note>The title of the cell showing device name</note>
+      </trans-unit>
+      <trans-unit id="RileyLink allows for communication with the pump over Bluetooth Low Energy." xml:space="preserve">
+        <source>RileyLink allows for communication with the pump over Bluetooth Low Energy.</source>
+        <target>RileyLink tillader kommunikation med pumpen vha Bluetooth Lav Energi.</target>
+        <note>RileyLink setup description</note>
+      </trans-unit>
+      <trans-unit id="Signal Strength" xml:space="preserve">
+        <source>Signal Strength</source>
+        <target>Signal Styrke</target>
+        <note>The title of the cell showing BLE signal strength (RSSI)</note>
+      </trans-unit>
+      <trans-unit id="Uptime" xml:space="preserve">
+        <source>Uptime</source>
+        <target>Oppetid</target>
+        <note>The title of the cell showing uptime</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="RileyLinkKitUI/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>RileyLinkKitUI</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

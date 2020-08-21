@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="NightscoutServiceKit/Base.lproj/Localizable.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Nightscout" xml:space="preserve">
+        <source>Nightscout</source>
+        <target>Nightscout</target>
+        <note>The title of the Nightscout service</note>
+      </trans-unit>
+      <trans-unit id="Pre-Meal" xml:space="preserve">
+        <source>Pre-Meal</source>
+        <note>Name uploaded to Nightscout for Pre-Meal override</note>
+      </trans-unit>
+      <trans-unit id="Workout" xml:space="preserve">
+        <source>Workout</source>
+        <note>Name uploaded to Nightscout for legacy workout override</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NightscoutServiceKit/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>NightscoutServiceKit</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NightscoutServiceKitPlugin/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>NightscoutServiceKitPlugin</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NightscoutServiceKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="API Secret" xml:space="preserve">
+        <source>API Secret</source>
+        <target>API Secret</target>
+        <note>The title of the Nightscout API secret</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete this service?" xml:space="preserve">
+        <source>Are you sure you want to delete this service?</source>
+        <note>Confirmation message for deleting a service</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <note>The title of the cancel action in an action sheet</note>
+      </trans-unit>
+      <trans-unit id="Delete Service" xml:space="preserve">
+        <source>Delete Service</source>
+        <target>Delete Service</target>
+        <note>Button title to delete a service</note>
+      </trans-unit>
+      <trans-unit id="Required" xml:space="preserve">
+        <source>Required</source>
+        <target>Erforderlich</target>
+        <note>The default placeholder for required text</note>
+      </trans-unit>
+      <trans-unit id="Site URL" xml:space="preserve">
+        <source>Site URL</source>
+        <target>Seiten-URL</target>
+        <note>The title of the Nightscout site URL</note>
+      </trans-unit>
+      <trans-unit id="https://mysite.herokuapp.com" xml:space="preserve">
+        <source>https://mysite.herokuapp.com</source>
+        <target>https://mysite.herokuapp.com</target>
+        <note>The placeholder text for the Nightscout site URL</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NightscoutServiceKitUI/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>NightscoutServiceKitUI</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
