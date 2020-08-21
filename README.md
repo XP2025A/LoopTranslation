@@ -1,3 +1,3 @@
 # LoopTranslation
 
-See [wiki](wiki) for how to get started.
+See [wiki](https://github.com/LoopTranslation/LoopTranslation/wiki) for how to get started.
