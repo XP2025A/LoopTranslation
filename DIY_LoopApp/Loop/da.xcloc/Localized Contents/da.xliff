@@ -49,12 +49,12 @@
       </trans-unit>
       <trans-unit id="Maximum" xml:space="preserve">
         <source>Maximum</source>
-        <target state="needs-translation">Maximum</target>
+        <target state="translated">Maksimum</target>
         <note>Placeholder for upper range entry</note>
       </trans-unit>
       <trans-unit id="Minimum" xml:space="preserve">
         <source>Minimum</source>
-        <target state="needs-translation">Minimum</target>
+        <target state="translated">Minimum</target>
         <note>Placeholder for lower range entry</note>
       </trans-unit>
       <trans-unit id="Modal Day" xml:space="preserve">
@@ -136,12 +136,12 @@
       </trans-unit>
       <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve">
         <source>Predicted glucose at %1$@ is %2$@.</source>
-        <target state="needs-translation">Predicted glucose at %1$@ is %2$@.</target>
+        <target state="translated">Forventet blodsukker ved %1$@ er %2$@.</target>
         <note>Message when offering bolus recommendation even though bg is below range and minBG is in future. (1: glucose time)(2: glucose number)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve">
         <source>Predicted glucose of %1$@ is below your suspend threshold setting.</source>
-        <target state="needs-translation">Predicted glucose of %1$@ is below your suspend threshold setting.</target>
+        <target state="translated">Forventet blodsukker på %1$@ er under den indstillede suspenderingsgrænse.</target>
         <note>Notice message when recommending bolus when BG is below the suspend threshold. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
@@ -350,7 +350,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Loop</source>
-        <target state="needs-translation">Loop</target>
+        <target state="translated">Loop</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -613,7 +613,7 @@
       </trans-unit>
       <trans-unit id="An error occurred while trying to save your carb entry." xml:space="preserve">
         <source>An error occurred while trying to save your carb entry.</source>
-        <target state="needs-translation">An error occurred while trying to save your carb entry.</target>
+        <target state="translated">Der opstod en fejl under forsøget på at gemme kulhydrat indtastning.</target>
         <note>Alert message for a carb entry persistence error</note>
       </trans-unit>
       <trans-unit id="An error occurred while trying to save your manual glucose entry." xml:space="preserve">
@@ -669,7 +669,7 @@
       </trans-unit>
       <trans-unit id="Bluetooth Unavailable Alert" xml:space="preserve">
         <source>Bluetooth Unavailable Alert</source>
-        <target state="needs-translation">Bluetooth Unavailable Alert</target>
+        <target state="translated">Bluetooth er ikke tilgængelig</target>
         <note>Bluetooth unavailable alert title</note>
       </trans-unit>
       <trans-unit id="Bolus" xml:space="preserve">
@@ -762,7 +762,7 @@
       </trans-unit>
       <trans-unit id="Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." xml:space="preserve">
         <source>Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact.</source>
-        <target state="needs-translation">Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact.</target>
+        <target state="translated">Vælg en længere absorptionstid for større måltider, eller dem, der indeholder fedt og proteiner. Dette er kun vejledning til algoritmen og behøver ikke være nøjagtig.</target>
         <note>Carb entry section footer text explaining absorption time</note>
       </trans-unit>
       <trans-unit id="Closed Loop" xml:space="preserve">
@@ -848,7 +848,7 @@
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
         <source>Dismiss</source>
-        <target state="needs-translation">Dismiss</target>
+        <target state="translated">Afvise</target>
         <note>Default alert dismissal</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
@@ -873,7 +873,7 @@
       </trans-unit>
       <trans-unit id="Enter a manual glucose for a recommended bolus amount." xml:space="preserve">
         <source>Enter a manual glucose for a recommended bolus amount.</source>
-        <target state="needs-translation">Enter a manual glucose for a recommended bolus amount.</target>
+        <target state="translated">Indtast en manuel glukose for en anbefalet bolus mængde.</target>
         <note>Caption for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
       <trans-unit id="Enter suspend threshold" xml:space="preserve">
@@ -1222,12 +1222,12 @@ Actual: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Save and Deliver" xml:space="preserve">
         <source>Save and Deliver</source>
-        <target state="needs-translation">Save and Deliver</target>
+        <target state="translated">Gem og leverér</target>
         <note>Button text to save carbs and/or manual glucose entry and deliver a bolus</note>
       </trans-unit>
       <trans-unit id="Save without Bolusing" xml:space="preserve">
         <source>Save without Bolusing</source>
-        <target state="needs-translation">Save without Bolusing</target>
+        <target state="translated">Gem uden at give bolus</target>
         <note>Button text to save carbs and/or manual glucose entry without a bolus</note>
       </trans-unit>
       <trans-unit id="Services" xml:space="preserve">
@@ -1268,12 +1268,12 @@ Actual: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Tap here to set up a CGM" xml:space="preserve">
         <source>Tap here to set up a CGM</source>
-        <target state="needs-translation">Tap here to set up a CGM</target>
+        <target state="translated">Tryk her for at konfigurere en CGM</target>
         <note>Descriptive text for button to add CGM device</note>
       </trans-unit>
       <trans-unit id="Tap here to set up a pump" xml:space="preserve">
         <source>Tap here to set up a pump</source>
-        <target state="needs-translation">Tap here to set up a pump</target>
+        <target state="translated">Tryk her for at konfigurere en pumpe</target>
         <note>Descriptive text for button to add pump device</note>
       </trans-unit>
       <trans-unit id="Tap to Resume" xml:space="preserve">
@@ -1283,7 +1283,7 @@ Actual: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The bolus recommendation has updated. Please reconfirm the bolus amount." xml:space="preserve">
         <source>The bolus recommendation has updated. Please reconfirm the bolus amount.</source>
-        <target state="needs-translation">The bolus recommendation has updated. Please reconfirm the bolus amount.</target>
+        <target state="translated">Bolusanbefalingen er opdateret. Bekræft venligst bolusen.</target>
         <note>Alert message for an updated bolus recommendation</note>
       </trans-unit>
       <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve">
@@ -1293,7 +1293,7 @@ Actual: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ U." xml:space="preserve">
         <source>The maximum bolus amount is %@ U.</source>
-        <target state="needs-translation">The maximum bolus amount is %@ U.</target>
+        <target state="translated">Den maksimale bolus mængde er %@ enheder.</target>
         <note>Alert message for a maximum bolus validation error (1: max bolus value)</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ Units" xml:space="preserve">
