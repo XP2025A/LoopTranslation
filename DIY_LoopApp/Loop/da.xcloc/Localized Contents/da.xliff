@@ -131,7 +131,7 @@
     <body>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
         <source>Current glucose of %1$@ is below correction range.</source>
-        <target state="needs-translation">Current glucose of %1$@ is below correction range.</target>
+        <target state="translated">Nuværende blodsukker på %1$@ er under dit korrektionsområde.</target>
         <note>Message when offering bolus recommendation even though bg is below range. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve">
@@ -654,17 +654,17 @@
       </trans-unit>
       <trans-unit id="Bluetooth Off" xml:space="preserve">
         <source>Bluetooth Off</source>
-        <target state="needs-translation">Bluetooth Off</target>
+        <target state="translated">Bluetooth Slukket</target>
         <note>Message to the user to that the bluetooth is off</note>
       </trans-unit>
       <trans-unit id="Bluetooth Off Alert" xml:space="preserve">
         <source>Bluetooth Off Alert</source>
-        <target state="needs-translation">Bluetooth Off Alert</target>
+        <target state="translated">Bluetooth Slukket Alarm</target>
         <note>Bluetooth off alert title</note>
       </trans-unit>
       <trans-unit id="Bluetooth Unavailable" xml:space="preserve">
         <source>Bluetooth Unavailable</source>
-        <target state="needs-translation">Bluetooth Unavailable</target>
+        <target state="translated">Bluetooth Ikke Tilgængelig</target>
         <note>Message to the user that bluetooth is unavailable to the app</note>
       </trans-unit>
       <trans-unit id="Bluetooth Unavailable Alert" xml:space="preserve">
@@ -710,7 +710,7 @@
       </trans-unit>
       <trans-unit id="Carb Entry" xml:space="preserve">
         <source>Carb Entry</source>
-        <target state="needs-translation">Carb Entry</target>
+        <target state="translated">Indtast kulhydrater</target>
         <note>Back button text for bolus screen to return to carb entry screen
    Label for carb entry row on bolus screen</note>
       </trans-unit>
@@ -813,12 +813,12 @@
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
-        <target state="needs-translation">Date</target>
+        <target state="translated">Dato</target>
         <note>Title of the carb entry date picker cell</note>
       </trans-unit>
       <trans-unit id="Delete Account" xml:space="preserve">
         <source>Delete Account</source>
-        <target state="needs-translation">Delete Account</target>
+        <target state="translated">Slet konto</target>
         <note>The title of the button to remove the credentials for a service</note>
       </trans-unit>
       <trans-unit id="Delete CGM" xml:space="preserve">
@@ -858,7 +858,7 @@
       </trans-unit>
       <trans-unit id="Enable Bluetooth" xml:space="preserve">
         <source>Enable Bluetooth</source>
-        <target state="needs-translation">Enable Bluetooth</target>
+        <target state="translated">Aktiver bluetooth</target>
         <note>Message to the user to enable bluetooth</note>
       </trans-unit>
       <trans-unit id="Enables" xml:space="preserve">
@@ -903,7 +903,7 @@
       </trans-unit>
       <trans-unit id="Fiasp" xml:space="preserve">
         <source>Fiasp</source>
-        <target state="needs-translation">Fiasp</target>
+        <target state="translated">Fiasp</target>
         <note>Title of insulin model preset</note>
       </trans-unit>
       <trans-unit id="For %1$@" xml:space="preserve">
@@ -958,7 +958,7 @@
       </trans-unit>
       <trans-unit id="Insulin" xml:space="preserve">
         <source>Insulin</source>
-        <target state="needs-translation">Insulin</target>
+        <target state="translated">Insulin</target>
         <note>Title of the prediction input effect for insulin</note>
       </trans-unit>
       <trans-unit id="Insulin Absorbed (U) × Insulin Sensitivity (%1$@/U)" xml:space="preserve">
@@ -1075,12 +1075,12 @@
       </trans-unit>
       <trans-unit id="Nightscout" xml:space="preserve">
         <source>Nightscout</source>
-        <target state="needs-translation">Nightscout</target>
+        <target state="translated">Nightscout</target>
         <note>The title of the Nightscout service</note>
       </trans-unit>
       <trans-unit id="No Bolus Recommended" xml:space="preserve">
         <source>No Bolus Recommended</source>
-        <target state="needs-translation">No Bolus Recommended</target>
+        <target state="translated">Ingen Bolus Anbefalet</target>
         <note>Title for bolus screen notice when no bolus is recommended</note>
       </trans-unit>
       <trans-unit id="No Maximum Bolus Configured" xml:space="preserve">
@@ -1090,7 +1090,7 @@
       </trans-unit>
       <trans-unit id="No Pump Configured" xml:space="preserve">
         <source>No Pump Configured</source>
-        <target state="needs-translation">No Pump Configured</target>
+        <target state="translated">Ingen pumpe konfigureret</target>
         <note>Alert title for a missing pump error</note>
       </trans-unit>
       <trans-unit id="No Recent Glucose Data" xml:space="preserve">
@@ -1197,7 +1197,7 @@ Actual: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Recommended Bolus" xml:space="preserve">
         <source>Recommended Bolus</source>
-        <target state="needs-translation">Recommended Bolus</target>
+        <target state="translated">Anbefalet Bolus</target>
         <note>Label for recommended bolus row on bolus screen</note>
       </trans-unit>
       <trans-unit id="Recommended Bolus: %@ Units" xml:space="preserve">
@@ -1232,7 +1232,7 @@ Actual: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Services" xml:space="preserve">
         <source>Services</source>
-        <target state="needs-translation">Services</target>
+        <target state="translated">Services</target>
         <note>The title of the services section in settings</note>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
@@ -1257,7 +1257,7 @@ Actual: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
         <source>Support</source>
-        <target state="needs-translation">Support</target>
+        <target state="translated">Support</target>
         <note>Section title for Support
    The title of the support section in settings</note>
       </trans-unit>
