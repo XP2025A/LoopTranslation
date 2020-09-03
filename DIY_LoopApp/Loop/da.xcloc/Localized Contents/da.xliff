@@ -15,9 +15,9 @@
         <target state="translated">Tilføj kulhydrater</target>
         <note/>
       </trans-unit>
-      <trans-unit id="yc02Yq" xml:space="preserve">
+      <trans-unit id="yc02Yq" xml:space="preserve" approved="yes">
         <source>Add a carb entry to Loop</source>
-        <target state="translated">Tilføj kulhydrater til Loop.</target>
+        <target state="final">Tilføj kulhydrater til Loop</target>
         <note/>
       </trans-unit>
     </body>
@@ -79,7 +79,7 @@
       </trans-unit>
       <trans-unit id="Start Date" xml:space="preserve">
         <source>Start Date</source>
-        <target state="translated">Start Dato</target>
+        <target state="translated">Start dato</target>
         <note>Title of config entry</note>
       </trans-unit>
       <trans-unit id="Time in Range" xml:space="preserve">
@@ -112,14 +112,14 @@
         <target state="translated">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
-      <trans-unit id="mg/dL" xml:space="preserve">
+      <trans-unit id="mg/dL" xml:space="preserve" approved="yes">
         <source>mg/dL</source>
-        <target state="translated">mg/dL</target>
+        <target state="final">mg/dL</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
-      <trans-unit id="mmol/L" xml:space="preserve">
+      <trans-unit id="mmol/L" xml:space="preserve" approved="yes">
         <source>mmol/L</source>
-        <target state="translated">mmol/L</target>
+        <target state="final">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
@@ -131,7 +131,7 @@
     <body>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
         <source>Current glucose of %1$@ is below correction range.</source>
-        <target state="translated">Nuværende blodsukker på %1$@ er under dit korrektionsområde.</target>
+        <target state="translated">Nuværende blodsukker på %1$@ er under dit korrektions interval.</target>
         <note>Message when offering bolus recommendation even though bg is below range. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve">
@@ -164,14 +164,14 @@
         <target state="translated">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
-      <trans-unit id="mg/dL" xml:space="preserve">
+      <trans-unit id="mg/dL" xml:space="preserve" approved="yes">
         <source>mg/dL</source>
-        <target state="translated">mg/dL</target>
+        <target state="final">mg/dL</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
-      <trans-unit id="mmol/L" xml:space="preserve">
+      <trans-unit id="mmol/L" xml:space="preserve" approved="yes">
         <source>mmol/L</source>
-        <target state="translated">mmol/L</target>
+        <target state="final">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
@@ -181,9 +181,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>DoseMathTests</source>
-        <target state="translated">DoseMathTests</target>
+        <target state="final">DoseMathTests</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to optimize delivery of Apple Watch complication updates during the time you are awake.</source>
-        <target state="translated">Måltidsdata fra sundhedsdatabasen bruges til at bestemme glukoseeffekter. Glukosedata fra sundhedsdatabasen bruges til graftegning og momentumberegning. Søvndata fra sundhedsdatabasen bruges til at optimere leveringen af opdateringer om komplikationer af Apple Watch i den tid, du er vågen.</target>
+        <target state="translated">Mad-data fra sundhedsdatabasen bruges til at bestemme blodsukkereffekten. Blodsukkerdata fra sundhedsdatabasen bruges til graftegning og momentumberegning. Søvndata fra sundhedsdatabasen bruges til at optimere leveringen af opdateringer om komplikationer af Apple Watch i den tid, du er vågen.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
     </body>
@@ -287,9 +287,9 @@
         <target state="translated">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
-      <trans-unit id="mg/dL" xml:space="preserve">
+      <trans-unit id="mg/dL" xml:space="preserve" approved="yes">
         <source>mg/dL</source>
-        <target state="translated">mg/dL</target>
+        <target state="final">mg/dL</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
       <trans-unit id="mmol/L" xml:space="preserve">
@@ -311,7 +311,7 @@
       </trans-unit>
       <trans-unit id="UPi-dG-yYD.text" xml:space="preserve">
         <source>Active Insulin</source>
-        <target state="translated">IOB 1.0 E</target>
+        <target state="translated">Aktiv insulin</target>
         <note>Class = "UILabel"; text = "Active Insulin"; ObjectID = "UPi-dG-yYD";</note>
       </trans-unit>
       <trans-unit id="Vgf-p1-2QP.text" xml:space="preserve">
@@ -358,14 +358,14 @@
         <target state="translated">$(PRODUCT_NAME)</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">
+      <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve" approved="yes">
         <source>Bluetooth is used to communicate with insulin pump and continuous glucose monitor devices.</source>
-        <target state="translated">Bluetooth bliver brugt til at kommunikere med din insulin pumpe og din glukose monitor.</target>
+        <target state="final">Bluetooth bliver brugt til at kommunikere med din insulin pumpe og din blodsukker monitor.</target>
         <note>Privacy - Bluetooth Always Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve">
+      <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve" approved="yes">
         <source>Bluetooth is used to communicate with insulin pump and continuous glucose monitor devices.</source>
-        <target state="translated">Bluetooth bliver brugt til at kommunikere med din insulin pumpe og din glukose monitor.</target>
+        <target state="final">Bluetooth bliver brugt til at kommunikere med din insulin pumpe og din blodsukker monitor.</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
@@ -385,7 +385,7 @@
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Carbohydrate meal data entered in the app and on the watch is stored in the Health database. Glucose data retrieved from the CGM is stored securely in HealthKit.</source>
-        <target state="translated">Kulhydrater indtastet i appen og på uret gemmes i Apple Sundhedsdatabasen. Glukosedata hentet fra CGM gemmes sikkert i SundhedsKit.</target>
+        <target state="translated">Kulhydrater indtastet i appen og på uret gemmes i Apple Sundhedsdatabasen. Blodsukkerdata hentet fra CGM gemmes sikkert i SundhedsKit.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -787,7 +787,7 @@
       </trans-unit>
       <trans-unit id="Correction Range" xml:space="preserve">
         <source>Correction Range</source>
-        <target state="translated">Korrektionsområde</target>
+        <target state="translated">Korrektionsinterval</target>
         <note>The title of the glucose target range schedule screen
    The title text for the glucose target range schedule</note>
       </trans-unit>
@@ -1333,7 +1333,7 @@ Actual: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Unable to stop the bolus in progress. Move your iPhone closer to the pump and try again. Check your insulin delivery history for details, and monitor your glucose closely." xml:space="preserve">
         <source>Unable to stop the bolus in progress. Move your iPhone closer to the pump and try again. Check your insulin delivery history for details, and monitor your glucose closely.</source>
-        <target state="translated">Kan ikke stoppe igangværende bolus. Flyt din iPhone tættere på pumpen og prøv igen. Tjek din historik for insuliningivelse for detaljer og overvåg nøje dit blodsukkerniveau.</target>
+        <target state="translated">Kan ikke stoppe igangværende bolus. Flyt din iPhone tættere på pumpen og prøv igen. Tjek din historik for insulinindgivelse for detaljer og overvåg nøje dit blodsukkerniveau.</target>
         <note>The alert body for an error while canceling a bolus</note>
       </trans-unit>
       <trans-unit id="Use Workout Glucose Targets" xml:space="preserve">
@@ -1348,7 +1348,7 @@ Actual: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
         <source>When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</source>
-        <target state="translated">Når nuværende og forventet glukose er under suspenderingsgrænsen, vil Loop ikke anbefale en bolus, og vil altid anbefale en midlertidig basal rate på 0 enheder i timen.</target>
+        <target state="translated">Når nuværende og forventet blodsukker er under suspenderingsgrænsen, vil Loop ikke anbefale en bolus, og vil altid anbefale en midlertidig basal rate på 0 enheder i timen.</target>
         <note>Explanation of suspend threshold</note>
       </trans-unit>
       <trans-unit id="Workout Targets" xml:space="preserve">
@@ -1358,7 +1358,7 @@ Actual: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Your glucose is below or predicted to go below your suspend threshold, %@." xml:space="preserve">
         <source>Your glucose is below or predicted to go below your suspend threshold, %@.</source>
-        <target state="translated">Din glukose er under eller forventes at gå under din suspenderingsgrænse, %@.</target>
+        <target state="translated">Dit blodsukker er under eller forventes at gå under din suspenderingsgrænse, %@.</target>
         <note>Caption for bolus screen notice when no bolus is recommended due to prediction dropping below suspend threshold</note>
       </trans-unit>
       <trans-unit id="at %@" xml:space="preserve">
@@ -1480,7 +1480,7 @@ Actual: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="IxU-As-glo.text" xml:space="preserve">
         <source>Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption.</source>
-        <target state="translated">Observerede ændringer i glukose, fratrukket ændringer modelleret fra insulin levering, kan bruges til at vurdere kulhydrat absorption.</target>
+        <target state="translated">Observerede ændringer i blodsukker, fratrukket ændringer modelleret fra insulin levering, kan bruges til at vurdere kulhydrat absorption.</target>
         <note>Class = "UILabel"; text = "Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption."; ObjectID = "IxU-As-glo";</note>
       </trans-unit>
       <trans-unit id="J7x-W5-gwo.text" xml:space="preserve">
