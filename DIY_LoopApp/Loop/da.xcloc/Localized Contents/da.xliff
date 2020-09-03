@@ -878,7 +878,7 @@
       </trans-unit>
       <trans-unit id="Enter suspend threshold" xml:space="preserve">
         <source>Enter suspend threshold</source>
-        <target state="translated">Indtast grænse for suspendering</target>
+        <target state="translated">Indtast suspenderingsgrænse</target>
         <note>The placeholder text instructing users to enter a suspend treshold</note>
       </trans-unit>
       <trans-unit id="Error Canceling Bolus" xml:space="preserve">
@@ -1263,7 +1263,7 @@ Actual: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Suspend Threshold" xml:space="preserve">
         <source>Suspend Threshold</source>
-        <target state="translated">Pause Grænseværdi</target>
+        <target state="translated">Suspenderingsgrænse</target>
         <note>The title text in settings</note>
       </trans-unit>
       <trans-unit id="Tap here to set up a CGM" xml:space="preserve">
@@ -1353,12 +1353,12 @@ Actual: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Workout Targets" xml:space="preserve">
         <source>Workout Targets</source>
-        <target state="translated">Motion Mål</target>
+        <target state="translated">Træningsmål</target>
         <note>The label of the workout mode toggle button</note>
       </trans-unit>
       <trans-unit id="Your glucose is below or predicted to go below your suspend threshold, %@." xml:space="preserve">
         <source>Your glucose is below or predicted to go below your suspend threshold, %@.</source>
-        <target state="translated">Din glukose er under eller forventes at gå under din suspendere tærskel, %@.</target>
+        <target state="translated">Din glukose er under eller forventes at gå under din suspenderingsgrænse, %@.</target>
         <note>Caption for bolus screen notice when no bolus is recommended due to prediction dropping below suspend threshold</note>
       </trans-unit>
       <trans-unit id="at %@" xml:space="preserve">
@@ -1480,7 +1480,7 @@ Actual: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="IxU-As-glo.text" xml:space="preserve">
         <source>Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption.</source>
-        <target state="needs-translation">Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption.</target>
+        <target state="translated">Observerede ændringer i glukose, fratrukket ændringer modelleret fra insulin levering, kan bruges til at vurdere kulhydrat absorption.</target>
         <note>Class = "UILabel"; text = "Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption."; ObjectID = "IxU-As-glo";</note>
       </trans-unit>
       <trans-unit id="J7x-W5-gwo.text" xml:space="preserve">
@@ -1945,7 +1945,7 @@ to bolus</source>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
         <source>Workout</source>
-        <target state="translated">Motion</target>
+        <target state="translated">Træning</target>
         <note>The text for the Watch button for enabling workout mode</note>
       </trans-unit>
       <trans-unit id="dB" xml:space="preserve">
