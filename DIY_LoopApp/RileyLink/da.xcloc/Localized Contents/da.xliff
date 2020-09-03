@@ -563,7 +563,7 @@
       </trans-unit>
       <trans-unit id="Fetch Enlite Glucose" xml:space="preserve">
         <source>Fetch Enlite Glucose</source>
-        <target state="translated">Hent seneste glukose</target>
+        <target state="translated">Hent seneste blodsukker</target>
         <note>The title of the command to fetch recent glucose</note>
       </trans-unit>
       <trans-unit id="Fetch Recent History" xml:space="preserve">
@@ -573,7 +573,7 @@
       </trans-unit>
       <trans-unit id="Fetching glucose…" xml:space="preserve">
         <source>Fetching glucose…</source>
-        <target state="translated">Henter glukose...</target>
+        <target state="translated">Henter blodsukker…</target>
         <note>Progress message for fetching pump glucose.</note>
       </trans-unit>
       <trans-unit id="Fetching history…" xml:space="preserve">
@@ -2069,9 +2069,9 @@ Find enhed</target>
         <target state="translated"/>
         <note>Get Info string</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>RileyLink</source>
-        <target state="translated">RileyLink</target>
+        <target state="final">RileyLink</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
