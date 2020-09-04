@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="3i8-2m-QFG.text" xml:space="preserve">
         <source>Run alongside G5 app</source>
-        <target state="translated">Kør langs G5-appen</target>
+        <target state="translated">Kør sammen med G5-appen</target>
         <note>Class = "UILabel"; text = "Run alongside G5 app"; ObjectID = "3i8-2m-QFG";</note>
       </trans-unit>
       <trans-unit id="5y6-vU-qC3.text" xml:space="preserve">
@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="9p7-LX-EMK.text" xml:space="preserve">
         <source>Waiting for first reading</source>
-        <target state="translated">Venter på førstebehandling</target>
+        <target state="translated">Venter på første måling</target>
         <note>Class = "UILabel"; text = "Waiting for first reading"; ObjectID = "9p7-LX-EMK";</note>
       </trans-unit>
       <trans-unit id="HEQ-Bp-kx7.normalTitle" xml:space="preserve">
@@ -57,9 +57,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>CGMBLEKit Example</source>
-        <target state="translated">Eksempel På CGMBLEKit</target>
+        <target state="final">Eksempel på CGMBLEKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -81,7 +81,7 @@
       </trans-unit>
       <trans-unit id="Unknown Data" xml:space="preserve">
         <source>Unknown Data</source>
-        <target state="translated">Ukendt Data</target>
+        <target state="translated">Ukendt data</target>
         <note>Title displayed during unknown data response</note>
       </trans-unit>
     </body>
@@ -91,24 +91,24 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="Dexcom G5" xml:space="preserve">
+      <trans-unit id="Dexcom G5" xml:space="preserve" approved="yes">
         <source>Dexcom G5</source>
-        <target state="translated">Dexcom G5</target>
+        <target state="final">Dexcom G5</target>
         <note>CGM display title</note>
       </trans-unit>
-      <trans-unit id="Dexcom G6" xml:space="preserve">
+      <trans-unit id="Dexcom G6" xml:space="preserve" approved="yes">
         <source>Dexcom G6</source>
-        <target state="translated">Dexcom G6</target>
+        <target state="final">Dexcom G6</target>
         <note>CGM display title</note>
       </trans-unit>
       <trans-unit id="Glucose data is unavailable" xml:space="preserve">
         <source>Glucose data is unavailable</source>
-        <target state="translated">Glukosedata er ikke tilgængelige</target>
+        <target state="translated">Blodsukkerdata er ikke tilgængelige</target>
         <note>Error description for unreliable state</note>
       </trans-unit>
       <trans-unit id="Low Battery" xml:space="preserve">
         <source>Low Battery</source>
-        <target state="translated">lavt batteri</target>
+        <target state="translated">Lavt batteri</target>
         <note>Describes a low battery</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="Sensor calibration is OK" xml:space="preserve">
         <source>Sensor calibration is OK</source>
-        <target state="translated">Sensorkalibrering er OK</target>
+        <target state="translated">Sensor kalibrering er OK</target>
         <note>The description of sensor calibration state when sensor calibration is ok.</note>
       </trans-unit>
       <trans-unit id="Sensor is in unknown state %1$d" xml:space="preserve">
@@ -168,9 +168,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>CGMBLEKit</source>
-        <target state="translated">CGMBLEKit</target>
+        <target state="final">CGMBLEKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -282,7 +282,7 @@ Title text for the button to remove a CGM from Loop</note>
       </trans-unit>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
-        <target state="translated">status</target>
+        <target state="translated">Status</target>
         <note>Title describing CGM calibration and battery state</note>
       </trans-unit>
       <trans-unit id="Transmitter Age" xml:space="preserve">
@@ -344,7 +344,7 @@ Title text for the button to remove a CGM from Loop</note>
       </trans-unit>
       <trans-unit id="k1N-Rg-XDy.headerTitle" xml:space="preserve">
         <source>Dexcom Share</source>
-        <target state="translated">Dexcom Share</target>
+        <target state="translated">Dexcom share</target>
         <note>Class = "UITableViewSection"; headerTitle = "Dexcom Share"; ObjectID = "k1N-Rg-XDy";</note>
       </trans-unit>
       <trans-unit id="nKX-TW-GhD.placeholder" xml:space="preserve">
@@ -373,7 +373,7 @@ Title text for the button to remove a CGM from Loop</note>
     <body>
       <trans-unit id="3SD-s3-7OM.title" xml:space="preserve">
         <source>Reset Complete</source>
-        <target state="translated">Nulstil fuldført</target>
+        <target state="translated">Nulstilling fuldført</target>
         <note>Class = "UINavigationItem"; title = "Reset Complete"; ObjectID = "3SD-s3-7OM";</note>
       </trans-unit>
       <trans-unit id="7nc-6t-4hZ.title" xml:space="preserve">
@@ -393,7 +393,7 @@ Title text for the button to remove a CGM from Loop</note>
       </trans-unit>
       <trans-unit id="MbK-kj-ejl.text" xml:space="preserve">
         <source>The transmitter has been successfully reset. Connect it to the app to begin a new sensor session.</source>
-        <target state="translated">Senderen er nulstillet. Tilslut det til appen for at begynde en ny sensorsession.</target>
+        <target state="translated">Senderen er nulstillet. Tilslut det til app'en for at begynde en ny sensorsession.</target>
         <note>Class = "UITextView"; text = "The transmitter has been successfully reset. Connect it to the app to begin a new sensor session."; ObjectID = "MbK-kj-ejl";</note>
       </trans-unit>
       <trans-unit id="cJ3-Gc-pnc.text" xml:space="preserve">
@@ -402,14 +402,14 @@ This may have unintended consequences for data services, such as Clarity and Sha
 Resetting cannot be undone.
 Use at your own risk.</source>
         <target state="translated">Dette værktøj kan nulstille uret på en sender, der har nået sin udløbsdato, så det kan starte nye sensorsessioner.
-Dette kan have utilsigtede konsekvenser for datatjenester, som f.eks. Klarhed og deling, især når du bruger en nulstillet sender med det samme konto.
- Genindstilling kan ikke fortrydes.
- Brug på din egen risiko.</target>
+Dette kan have utilsigtede konsekvenser for datatjenester, som f. eks. klarhed og deling, især når du bruger en nulstillet sender med det samme konto.
+Genindstilling kan ikke fortrydes.
+Brugen er din egen risiko.</target>
         <note>Class = "UITextView"; text = "This tool can reset the clock on a transmitter that has reached its expiration date, allowing new sensor sessions to again be started.\nThis may have unintended consequences for data services, such as Clarity and Share, especially when using a reset transmitter with the same account.\nResetting cannot be undone.\nUse at your own risk."; ObjectID = "cJ3-Gc-pnc";</note>
       </trans-unit>
       <trans-unit id="gYy-Zz-y12.text" xml:space="preserve">
         <source>[Error goes here. And it can get very long and that's OK]</source>
-        <target state="translated">[Fejl vises her. Og det kan blive meget langt, og det er OK]</target>
+        <target state="translated">[Fejl vises her. Det kan blive meget langt, og det er OK]</target>
         <note>Class = "UILabel"; text = "[Error goes here. And it can get very long and that's OK]"; ObjectID = "gYy-Zz-y12";</note>
       </trans-unit>
       <trans-unit id="vNG-r7-RbP.headerTitle" xml:space="preserve">
@@ -431,17 +431,17 @@ Dette kan have utilsigtede konsekvenser for datatjenester, som f.eks. Klarhed og
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>ResetTransmitter</source>
-        <target state="translated">Nulstil Sender</target>
+        <target state="translated">Nulstil sender</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">
         <source>Bluetooth is used to communicate with continuous glucose monitor devices</source>
-        <target state="translated">Bluetooth bliver brugt til at kommunikere med din insulin pumpe og din glukose monitor</target>
+        <target state="translated">Bluetooth bliver brugt til at kommunikere med din insulin pumpe og din blodsukker monitor</target>
         <note>Privacy - Bluetooth Always Usage Description</note>
       </trans-unit>
       <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve">
         <source>Bluetooth is used to communicate with continuous glucose monitor devices</source>
-        <target state="translated">Bluetooth bliver brugt til at kommunikere med din insulin pumpe og din glukose monitor</target>
+        <target state="translated">Bluetooth bliver brugt til at kommunikere med din insulin pumpe og din blodsukker monitor</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
       </trans-unit>
     </body>
@@ -458,7 +458,7 @@ Dette kan have utilsigtede konsekvenser for datatjenester, som f.eks. Klarhed og
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target state="translated">Afbestille</target>
+        <target state="translated">Annullere</target>
         <note>Title of button to cancel reset</note>
       </trans-unit>
       <trans-unit id="It will take up to 10 minutes to complete." xml:space="preserve">
@@ -474,7 +474,7 @@ Dette kan have utilsigtede konsekvenser for datatjenester, som f.eks. Klarhed og
       </trans-unit>
       <trans-unit id="Transmitter Reset Complete" xml:space="preserve">
         <source>Transmitter Reset Complete</source>
-        <target state="translated">Senderen er nulstillet fuldført</target>
+        <target state="translated">Nulstilling af senderen er fuldført</target>
         <note>Notification title for background completion notification</note>
       </trans-unit>
     </body>
