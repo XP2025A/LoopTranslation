@@ -29,7 +29,7 @@
     <body>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
       <trans-unit id="Add Carb Entry" xml:space="preserve">
@@ -69,7 +69,7 @@
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="Range" xml:space="preserve">
@@ -104,12 +104,12 @@
       </trans-unit>
       <trans-unit id="dB" xml:space="preserve">
         <source>dB</source>
-        <target state="needs-translation">dB</target>
+        <target state="translated">dB</target>
         <note>The short unit display string for decibles</note>
       </trans-unit>
       <trans-unit id="g" xml:space="preserve">
         <source>g</source>
-        <target state="needs-translation">g</target>
+        <target state="translated">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
       <trans-unit id="mg/dL" xml:space="preserve">
@@ -146,7 +146,7 @@
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
@@ -156,12 +156,12 @@
       </trans-unit>
       <trans-unit id="dB" xml:space="preserve">
         <source>dB</source>
-        <target state="needs-translation">dB</target>
+        <target state="translated">dB</target>
         <note>The short unit display string for decibles</note>
       </trans-unit>
       <trans-unit id="g" xml:space="preserve">
         <source>g</source>
-        <target state="needs-translation">g</target>
+        <target state="translated">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
       <trans-unit id="mg/dL" xml:space="preserve">
@@ -224,37 +224,37 @@
     <body>
       <trans-unit id="%1$@" xml:space="preserve">
         <source>%1$@</source>
-        <target state="needs-translation">%1$@</target>
+        <target state="translated">%1$@</target>
         <note>The subtitle format describing the grams of active carbs.  (1: localized carb value description)</note>
       </trans-unit>
       <trans-unit id="%1$@ U" xml:space="preserve">
         <source>%1$@ U</source>
-        <target state="needs-translation">%1$@ U</target>
+        <target state="translated">%1$@ E</target>
         <note>The subtitle format describing units of active insulin. (1: localized insulin value description)</note>
       </trans-unit>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
       <trans-unit id="? U" xml:space="preserve">
         <source>? U</source>
-        <target state="needs-translation">? U</target>
+        <target state="translated">? E</target>
         <note>Displayed in the widget when the amount of active insulin cannot be determined.</note>
       </trans-unit>
       <trans-unit id="? g" xml:space="preserve">
         <source>? g</source>
-        <target state="needs-translation">? g</target>
+        <target state="translated">? g</target>
         <note>Displayed in the widget when the amount of active carbs cannot be determined.</note>
       </trans-unit>
       <trans-unit id="Active Carbs" xml:space="preserve">
         <source>Active Carbs</source>
-        <target state="needs-translation">Active Carbs</target>
+        <target state="translated">Aktiva kolhydrater</target>
         <note>Widget label title describing the active carbs</note>
       </trans-unit>
       <trans-unit id="Active Insulin" xml:space="preserve">
         <source>Active Insulin</source>
-        <target state="needs-translation">Active Insulin</target>
+        <target state="translated">Aktivt insulin</target>
         <note>Widget label title describing the active insulin</note>
       </trans-unit>
       <trans-unit id="Eventually %1$@" xml:space="preserve">
@@ -269,7 +269,7 @@
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
@@ -279,22 +279,22 @@
       </trans-unit>
       <trans-unit id="dB" xml:space="preserve">
         <source>dB</source>
-        <target state="needs-translation">dB</target>
+        <target state="translated">dB</target>
         <note>The short unit display string for decibles</note>
       </trans-unit>
       <trans-unit id="g" xml:space="preserve">
         <source>g</source>
-        <target state="needs-translation">g</target>
+        <target state="translated">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
       <trans-unit id="mg/dL" xml:space="preserve">
         <source>mg/dL</source>
-        <target state="needs-translation">mg/dL</target>
+        <target state="translated">mg/dL</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
       <trans-unit id="mmol/L" xml:space="preserve">
         <source>mmol/L</source>
-        <target state="needs-translation">mmol/L</target>
+        <target state="translated">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
@@ -316,12 +316,12 @@
       </trans-unit>
       <trans-unit id="Vgf-p1-2QP.text" xml:space="preserve">
         <source>0 U</source>
-        <target state="needs-translation">0 U</target>
+        <target state="translated">0 E</target>
         <note>Class = "UILabel"; text = "0 U"; ObjectID = "Vgf-p1-2QP";</note>
       </trans-unit>
       <trans-unit id="dPp-lJ-5sh.text" xml:space="preserve">
         <source>0 g</source>
-        <target state="needs-translation">0 g</target>
+        <target state="translated">0 g</target>
         <note>Class = "UILabel"; text = "0 g"; ObjectID = "dPp-lJ-5sh";</note>
       </trans-unit>
     </body>
@@ -333,7 +333,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Loop</source>
-        <target state="needs-translation">Loop</target>
+        <target state="translated">Loop</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -350,12 +350,12 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Loop</source>
-        <target state="needs-translation">Loop</target>
+        <target state="translated">Loop</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>$(PRODUCT_NAME)</source>
-        <target state="needs-translation">$(PRODUCT_NAME)</target>
+        <target state="translated">$(PRODUCT_NAME)</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">
@@ -370,7 +370,7 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>Camera is used to scan barcodes of devices</source>
-        <target state="needs-translation">Camera is used to scan barcodes of devices</target>
+        <target state="translated">Kamera används för att skanna streckkoder</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
@@ -399,9 +399,8 @@
         <source>
             Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.
             </source>
-        <target state="needs-translation">
-            Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.
-            </target>
+        <target state="translated">
+Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärmen även när tyst läge eller Stör ej är på.            </target>
         <note>Manage Notifications in Settings descriptive text</note>
       </trans-unit>
       <trans-unit id="&#10;            Notifications appear on your Lock screen or pop up while you’re using other apps.&#10;            &#10;            Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.&#10;            " xml:space="preserve">
@@ -410,10 +409,10 @@
             
             Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.
             </source>
-        <target state="needs-translation">
-            Notifications appear on your Lock screen or pop up while you’re using other apps.
+        <target state="translated">
+            Notiser visas på låsskärmen eller medan du använder andra appar.
             
-            Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.
+            Notiser visar viktig (appName) app-information utan att behöva öppna appen.  Du kan anpassa när och hur du vill få dessa notiser.
             </target>
         <note>Manage Notifications in Settings descriptive text</note>
       </trans-unit>
@@ -424,7 +423,7 @@
       </trans-unit>
       <trans-unit id="%1$@ %2$@" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string combining carb entry quantity and absorption time emoji</note>
       </trans-unit>
       <trans-unit id="%1$@ %2$@/U" xml:space="preserve">
@@ -434,7 +433,7 @@
       </trans-unit>
       <trans-unit id="%1$@ + %2$@" xml:space="preserve">
         <source>%1$@ + %2$@</source>
-        <target state="needs-translation">%1$@ + %2$@</target>
+        <target state="translated">%1$@ + %2$@</target>
         <note>Formats (1: carb start time) and (2: carb absorption duration)</note>
       </trans-unit>
       <trans-unit id="%1$@ U left" xml:space="preserve">
@@ -454,22 +453,22 @@
       </trans-unit>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
       <trans-unit id="%1$@ – %2$@ %3$@" xml:space="preserve">
         <source>%1$@ – %2$@ %3$@</source>
-        <target state="needs-translation">%1$@ – %2$@ %3$@</target>
+        <target state="translated">%1$@ – %2$@ %3$@</target>
         <note>Format string for glucose target range. (1: Min target)(2: Max target)(3: glucose unit)</note>
       </trans-unit>
       <trans-unit id="%1$@: %2$@" xml:space="preserve">
         <source>%1$@: %2$@</source>
-        <target state="needs-translation">%1$@: %2$@</target>
+        <target state="translated">%1$@: %2$@</target>
         <note>Formats (1: carb value) and (2: food type)</note>
       </trans-unit>
       <trans-unit id="%@ %@" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>The format for an active override preset. (1: preset symbol)(2: preset name)</note>
       </trans-unit>
       <trans-unit id="%@ U Total" xml:space="preserve">
@@ -484,7 +483,7 @@
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
         <source>%@.</source>
-        <target state="needs-translation">%@.</target>
+        <target state="translated">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
       <trans-unit id="15 min glucose regression coefficient (b₁), continued with decay over 30 min" xml:space="preserve">
@@ -838,7 +837,7 @@
       </trans-unit>
       <trans-unit id="Diabetes Treatment" xml:space="preserve">
         <source>Diabetes Treatment</source>
-        <target state="needs-translation">Diabetes Treatment</target>
+        <target state="translated">Diabetesbehandling</target>
         <note>Descriptive text for Therapy Settings</note>
       </trans-unit>
       <trans-unit id="Disables" xml:space="preserve">
@@ -848,17 +847,17 @@
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
         <source>Dismiss</source>
-        <target state="needs-translation">Dismiss</target>
+        <target state="translated">Avfärda</target>
         <note>Default alert dismissal</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target state="needs-translation">Done</target>
+        <target state="translated">Färdig</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Enable Bluetooth" xml:space="preserve">
         <source>Enable Bluetooth</source>
-        <target state="needs-translation">Enable Bluetooth</target>
+        <target state="translated">Aktivera Bluetooth</target>
         <note>Message to the user to enable bluetooth</note>
       </trans-unit>
       <trans-unit id="Enables" xml:space="preserve">
@@ -868,12 +867,12 @@
       </trans-unit>
       <trans-unit id="Enter Manual BG" xml:space="preserve">
         <source>Enter Manual BG</source>
-        <target state="needs-translation">Enter Manual BG</target>
+        <target state="translated">Ange blodsocker</target>
         <note>Button text prompting manual glucose entry on bolus screen</note>
       </trans-unit>
       <trans-unit id="Enter a manual glucose for a recommended bolus amount." xml:space="preserve">
         <source>Enter a manual glucose for a recommended bolus amount.</source>
-        <target state="needs-translation">Enter a manual glucose for a recommended bolus amount.</target>
+        <target state="translated">Ange ett blodsockervärde för att få en rekommenderad bolus.</target>
         <note>Caption for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
       <trans-unit id="Enter suspend threshold" xml:space="preserve">
@@ -903,7 +902,7 @@
       </trans-unit>
       <trans-unit id="Fiasp" xml:space="preserve">
         <source>Fiasp</source>
-        <target state="needs-translation">Fiasp</target>
+        <target state="translated">Fiasp</target>
         <note>Title of insulin model preset</note>
       </trans-unit>
       <trans-unit id="For %1$@" xml:space="preserve">
