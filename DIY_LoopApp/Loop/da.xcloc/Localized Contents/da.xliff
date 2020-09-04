@@ -131,7 +131,7 @@
     <body>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
         <source>Current glucose of %1$@ is below correction range.</source>
-        <target state="translated">Nuværende blodsukker på %1$@ er under dit korrektions interval.</target>
+        <target state="translated">Nuværende blodsukker på %1$@ er under dit korrektionsinterval.</target>
         <note>Message when offering bolus recommendation even though bg is below range. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve">
@@ -643,12 +643,12 @@
       </trans-unit>
       <trans-unit id="Basal Rate Schedule" xml:space="preserve">
         <source>Basal Rate Schedule</source>
-        <target state="translated">Basal rater skema</target>
+        <target state="translated">Basalrater skema</target>
         <note>Details for configuration error when basal rate schedule is missing</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target state="translated">Basal rater</target>
+        <target state="translated">Basalrater</target>
         <note>The title of the basal rate profile screen
    The title text for the basal rate schedule</note>
       </trans-unit>
@@ -793,12 +793,12 @@
       </trans-unit>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
         <source>Current glucose of %1$@ is below correction range.</source>
-        <target state="translated"> Nuværende blodsukker på %1$@ er under dit korrektionsområde.</target>
+        <target state="translated">Nuværende blodsukker på %1$@ er under dit korrektionsinterval.</target>
         <note>Message when offering bolus recommendation even though bg is below range. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Custom Override" xml:space="preserve">
         <source>Custom Override</source>
-        <target state="translated">Overstyr</target>
+        <target state="translated">Override</target>
         <note>The title of the cell indicating a generic temporary override is enabled</note>
       </trans-unit>
       <trans-unit id="Custom Preset" xml:space="preserve">
@@ -873,7 +873,7 @@
       </trans-unit>
       <trans-unit id="Enter a manual glucose for a recommended bolus amount." xml:space="preserve">
         <source>Enter a manual glucose for a recommended bolus amount.</source>
-        <target state="translated">Indtast en manuel blodsukker for en anbefalet bolus dosis.</target>
+        <target state="translated">Indtast en manuel blodsukker for en anbefalet bolus.</target>
         <note>Caption for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
       <trans-unit id="Enter suspend threshold" xml:space="preserve">
@@ -1293,12 +1293,12 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ U." xml:space="preserve">
         <source>The maximum bolus amount is %@ U.</source>
-        <target state="translated">Den maksimale bolusdosis er %@ enheder.</target>
+        <target state="translated">Den maksimale bolus er %@ enheder.</target>
         <note>Alert message for a maximum bolus validation error (1: max bolus value)</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ Units" xml:space="preserve">
         <source>The maximum bolus amount is %@ Units</source>
-        <target state="translated">Den maksimale bolusdosis er %@ Enheder</target>
+        <target state="translated">Den maksimale bolus er %@ Enheder</target>
         <note>Body of the alert describing a maximum bolus validation error. (1: The localized max bolus value)</note>
       </trans-unit>
       <trans-unit id="The maximum bolus setting must be configured before a bolus can be delivered." xml:space="preserve">
@@ -1348,7 +1348,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
         <source>When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</source>
-        <target state="translated">Når nuværende og forventet blodsukker er under suspenderingsgrænsen, vil Loop ikke anbefale en bolus, og vil altid anbefale en midlertidig basal rate på 0 enheder i timen.</target>
+        <target state="translated">Når nuværende og forventet blodsukker er under suspenderingsgrænsen, vil Loop ikke anbefale en bolus, og vil altid anbefale en midlertidig basalrate på 0 enheder i timen.</target>
         <note>Explanation of suspend threshold</note>
       </trans-unit>
       <trans-unit id="Workout Targets" xml:space="preserve">
@@ -1843,7 +1843,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Net Basal Rate" xml:space="preserve">
         <source>Net Basal Rate</source>
-        <target state="translated">Netto basal rate</target>
+        <target state="translated">Netto basalrate</target>
         <note>HUD row title for Net Basal Rate</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
