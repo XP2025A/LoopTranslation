@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="Cannula inserting" xml:space="preserve">
         <source>Cannula inserting</source>
-        <target state="translated">Indfører Kanyle</target>
+        <target state="translated">Indfører kanyle</target>
         <note>Pod state when inserting cannula</note>
       </trans-unit>
       <trans-unit id="Deactivated" xml:space="preserve">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="Basal Profile %1$@: %2$@ U/hour" xml:space="preserve">
         <source>Basal Profile %1$@: %2$@ U/hour</source>
-        <target state="translated">Basal Profil %1$@: %2$@ E/time</target>
+        <target state="translated">Basal profil %1$@: %2$@ E/time</target>
         <note>The format string description of a BasalProfileStartPumpEvent. (1: The index of the profile)(2: The basal rate)</note>
       </trans-unit>
       <trans-unit id="Bolus in progress" xml:space="preserve">
@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="Device Error" xml:space="preserve">
         <source>Device Error</source>
-        <target state="translated">Enheds Fejl</target>
+        <target state="translated">Enheds fejl</target>
         <note>Error description</note>
       </trans-unit>
       <trans-unit id="Event History" xml:space="preserve">
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="Pump Error" xml:space="preserve">
         <source>Pump Error</source>
-        <target state="translated">Pumpe Fejl</target>
+        <target state="translated">Pumpe fejl</target>
         <note>Error description</note>
       </trans-unit>
       <trans-unit id="Pump did not respond" xml:space="preserve">
@@ -343,17 +343,17 @@
       </trans-unit>
       <trans-unit id="Temporary Basal: %1$.3f U/hour" xml:space="preserve">
         <source>Temporary Basal: %1$.3f U/hour</source>
-        <target state="translated">Midlertidig Basal: %1$.3f E/time</target>
+        <target state="translated">Midlertidig basal: %1$.3f E/time</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in minutes)</note>
       </trans-unit>
       <trans-unit id="Temporary Basal: %1$d min" xml:space="preserve">
         <source>Temporary Basal: %1$d min</source>
-        <target state="translated">Midlertidig Basal: %1$d min</target>
+        <target state="translated">Midlertidig basal: %1$d min</target>
         <note>The format string description of a TempBasalDurationPumpEvent. (1: The duration of the temp basal in minutes)</note>
       </trans-unit>
       <trans-unit id="Temporary Basal: %1$d%%" xml:space="preserve">
         <source>Temporary Basal: %1$d%%</source>
-        <target state="translated">Midlertidig Basal: %1$d%%</target>
+        <target state="translated">Midlertidig basal: %1$d%%</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in percent)</note>
       </trans-unit>
       <trans-unit id="Unknown pump error code: %1$@" xml:space="preserve">
@@ -453,7 +453,7 @@
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target state="translated">Basal rater</target>
+        <target state="translated">Basalrate</target>
         <note>The title text for the basal rate schedule</note>
       </trans-unit>
       <trans-unit id="Battery: %1$@ volts&#10;" xml:space="preserve">
@@ -798,12 +798,12 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="1fp-45-qWK.text" xml:space="preserve">
         <source>Find Device</source>
-        <target state="translated">Find Enhed</target>
+        <target state="translated">Find enhed</target>
         <note>Class = "UILabel"; text = "Find Device"; ObjectID = "1fp-45-qWK";</note>
       </trans-unit>
       <trans-unit id="A6i-Cb-baR.text" xml:space="preserve">
         <source>Other Devices</source>
-        <target state="translated">Andre Enheder</target>
+        <target state="translated">Andre enheder</target>
         <note>Class = "UILabel"; text = "Other Devices"; ObjectID = "A6i-Cb-baR";</note>
       </trans-unit>
       <trans-unit id="Bdb-j4-WcR.text" xml:space="preserve">
@@ -813,7 +813,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Fps-h3-V4K.title" xml:space="preserve">
         <source>Pump Clock</source>
-        <target state="translated">Pumpe Ur</target>
+        <target state="translated">Pumpe ur</target>
         <note>Class = "UITableViewController"; title = "Pump Clock"; ObjectID = "Fps-h3-V4K";</note>
       </trans-unit>
       <trans-unit id="HeG-VF-L5P.placeholder" xml:space="preserve">
@@ -838,22 +838,22 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Nwf-TJ-KmJ.title" xml:space="preserve">
         <source>Setup Complete</source>
-        <target state="translated">Indstilling Komplet</target>
+        <target state="translated">Indstilling komplet</target>
         <note>Class = "UITableViewController"; title = "Setup Complete"; ObjectID = "Nwf-TJ-KmJ";</note>
       </trans-unit>
       <trans-unit id="OZk-Db-KCs.title" xml:space="preserve">
         <source>Pump Setup</source>
-        <target state="translated">Pumpe Indstilling</target>
+        <target state="translated">Pumpe indstilling</target>
         <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "OZk-Db-KCs";</note>
       </trans-unit>
       <trans-unit id="V47-Nq-7ew.title" xml:space="preserve">
         <source>Pump Setup</source>
-        <target state="translated">Pumpe Indstilling</target>
+        <target state="translated">Pumpe indstilling</target>
         <note>Class = "UINavigationItem"; title = "Pump Setup"; ObjectID = "V47-Nq-7ew";</note>
       </trans-unit>
       <trans-unit id="ZnF-zy-5gR.headerTitle" xml:space="preserve">
         <source>Main Menu</source>
-        <target state="translated">Hoved Menu</target>
+        <target state="translated">Hoved menu</target>
         <note>Class = "UITableViewSection"; headerTitle = "Main Menu"; ObjectID = "ZnF-zy-5gR";</note>
       </trans-unit>
       <trans-unit id="c7t-pZ-WqY.text" xml:space="preserve">
@@ -863,7 +863,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="erq-yb-anx.text" xml:space="preserve">
         <source>Connect Devices</source>
-        <target state="translated">Tilslut Enheder</target>
+        <target state="translated">Tilslut enheder</target>
         <note>Class = "UILabel"; text = "Connect Devices"; ObjectID = "erq-yb-anx";</note>
       </trans-unit>
       <trans-unit id="fVG-pl-jT9.footerTitle" xml:space="preserve">
@@ -883,7 +883,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="iQZ-kT-QUm.title" xml:space="preserve">
         <source>Pump Settings</source>
-        <target state="translated">Pumpe Indstillinger</target>
+        <target state="translated">Pumpe indstillinger</target>
         <note>Class = "UITableViewController"; title = "Pump Settings"; ObjectID = "iQZ-kT-QUm";</note>
       </trans-unit>
       <trans-unit id="lGI-LD-xR7.footerTitle" xml:space="preserve">
@@ -893,12 +893,12 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="lGI-LD-xR7.headerTitle" xml:space="preserve">
         <source>Region and Color</source>
-        <target state="translated">Region og Farve</target>
+        <target state="translated">Region og farve</target>
         <note>Class = "UITableViewSection"; headerTitle = "Region and Color"; ObjectID = "lGI-LD-xR7";</note>
       </trans-unit>
       <trans-unit id="oBL-lh-SHI.title" xml:space="preserve">
         <source>Pump Broadcasts</source>
-        <target state="translated">Pumpe Udsendelser</target>
+        <target state="translated">Pumpe udsendelser</target>
         <note>Class = "UITableViewController"; title = "Pump Broadcasts"; ObjectID = "oBL-lh-SHI";</note>
       </trans-unit>
       <trans-unit id="ojQ-ob-gBx.text" xml:space="preserve">
@@ -1003,17 +1003,17 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Bolusing" xml:space="preserve">
         <source>Bolusing</source>
-        <target state="translated">Indgiver Bolus</target>
+        <target state="translated">Indgiver bolus</target>
         <note>Delivery status when bolusing</note>
       </trans-unit>
       <trans-unit id="Bolusing with temp basal" xml:space="preserve">
         <source>Bolusing with temp basal</source>
-        <target state="translated">Indgiver Bolus med midlertidig basal</target>
+        <target state="translated">Indgiver bolus med midlertidig basal</target>
         <note>Delivery status when bolusing and temp basal is running</note>
       </trans-unit>
       <trans-unit id="Cannula inserting" xml:space="preserve">
         <source>Cannula inserting</source>
-        <target state="translated">Indfører Kanyle</target>
+        <target state="translated">Indfører kanyle</target>
         <note>Pod state when inserting cannula</note>
       </trans-unit>
       <trans-unit id="Certain" xml:space="preserve">
@@ -1023,7 +1023,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Crosstalk possible. Please move to a new location and try again" xml:space="preserve">
         <source>Crosstalk possible. Please move to a new location and try again</source>
-        <target state="translated">Krydstale muligt. Gå til en ny placering, og prøv igen</target>
+        <target state="translated">Crosstalk muligt. Gå til en ny placering, og prøv igen</target>
         <note>Recovery suggestion when unexpected address received</note>
       </trans-unit>
       <trans-unit id="Deactivated" xml:space="preserve">
@@ -1045,7 +1045,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Empty response from pod" xml:space="preserve">
         <source>Empty response from pod</source>
-        <target state="translated">Tom svar fra pod</target>
+        <target state="translated">Ingen svar fra pod</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
       <trans-unit id="Error event logged, shutting down" xml:space="preserve">
@@ -1086,7 +1086,7 @@ Find enhed</target>
       <trans-unit id="Last Bolus Not Delivered: %1$@ U&#10;" xml:space="preserve">
         <source>Last Bolus Not Delivered: %1$@ U
 </source>
-        <target state="translated">Sidste Bolus ikke leveret: %1$@ U
+        <target state="translated">Sidste bolus ikke leveret: %1$@ U
 </target>
         <note>The format string for Last Bolus Not Delivered: (1: bolus not delivered string)</note>
       </trans-unit>
@@ -1170,12 +1170,12 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Pod Fault" xml:space="preserve">
         <source>Pod Fault</source>
-        <target state="translated">Pod Fejl</target>
+        <target state="translated">Pod fejl</target>
         <note>Inform the user that there is a pod fault.</note>
       </trans-unit>
       <trans-unit id="Pod Fault: %1$@" xml:space="preserve">
         <source>Pod Fault: %1$@</source>
-        <target state="translated">Pod Fejl: %1$@</target>
+        <target state="translated">Pod fejl: %1$@</target>
         <note>Format string for pod fault code</note>
       </trans-unit>
       <trans-unit id="Pod already paired" xml:space="preserve">
@@ -1242,7 +1242,7 @@ Find enhed</target>
       <trans-unit id="Reservoir Level: %1$@ U&#10;" xml:space="preserve">
         <source>Reservoir Level: %1$@ U
 </source>
-        <target state="translated">Reservoir Niveau: %1$@ U
+        <target state="translated">Reservoir niveau: %1$@ U
 </target>
         <note>The format string for Reservoir Level: (1: reservoir level string)</note>
       </trans-unit>
@@ -1253,7 +1253,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Scheduled Basal" xml:space="preserve">
         <source>Scheduled Basal</source>
-        <target state="translated">Planlagt Basal</target>
+        <target state="translated">Planlagt basal</target>
         <note>Delivery status when basal is running</note>
       </trans-unit>
       <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
@@ -1304,7 +1304,7 @@ Find enhed</target>
       <trans-unit id="Total Insulin Delivered: %1$@ U&#10;" xml:space="preserve">
         <source>Total Insulin Delivered: %1$@ U
 </source>
-        <target state="translated">Total Insulin Leveret: %1$@ U
+        <target state="translated">Total insulin leveret: %1$@ U
 </target>
         <note>The format string for Total Insulin Delivered: (1: total insulin delivered string)</note>
       </trans-unit>
@@ -1389,12 +1389,12 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="6vo-Ov-UpE.title" xml:space="preserve">
         <source>Pod Settings</source>
-        <target state="translated">Pod Indstillinger</target>
+        <target state="translated">Pod indstillinger</target>
         <note>Class = "UITableViewController"; title = "Pod Settings"; ObjectID = "6vo-Ov-UpE";</note>
       </trans-unit>
       <trans-unit id="91O-Un-vKc.title" xml:space="preserve">
         <source>Pump Setup</source>
-        <target state="translated">Pumpe Indstilling</target>
+        <target state="translated">Pumpe indstilling</target>
         <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "91O-Un-vKc";</note>
       </trans-unit>
       <trans-unit id="EUt-xk-Rmp.footerTitle" xml:space="preserve">
@@ -1404,7 +1404,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="EUt-xk-Rmp.headerTitle" xml:space="preserve">
         <source>Prepare Pod</source>
-        <target state="translated">Klargør Pod</target>
+        <target state="translated">Klargør pod</target>
         <note>Class = "UITableViewSection"; headerTitle = "Prepare Pod"; ObjectID = "EUt-xk-Rmp";</note>
       </trans-unit>
       <trans-unit id="Eng-IY-fQ7.text" xml:space="preserve">
@@ -1419,7 +1419,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="HwT-30-f0y.title" xml:space="preserve">
         <source>Insert Cannula</source>
-        <target state="translated">Indfør Kanyle</target>
+        <target state="translated">Indfør kanyle</target>
         <note>Class = "UINavigationItem"; title = "Insert Cannula"; ObjectID = "HwT-30-f0y";</note>
       </trans-unit>
       <trans-unit id="Iuv-5M-bDH.text" xml:space="preserve">
@@ -1429,17 +1429,17 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="aNg-mm-Uuy.title" xml:space="preserve">
         <source>Pump Setup</source>
-        <target state="translated">Pumpe Indstilling</target>
+        <target state="translated">Pumpe indstilling</target>
         <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "aNg-mm-Uuy";</note>
       </trans-unit>
       <trans-unit id="ack-ra-XH6.title" xml:space="preserve">
         <source>Pump Setup</source>
-        <target state="translated">Pumpe Indstilling</target>
+        <target state="translated">Pumpe indstilling</target>
         <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "ack-ra-XH6";</note>
       </trans-unit>
       <trans-unit id="bJ5-iH-fnF.text" xml:space="preserve">
         <source>Your Pod is ready for use.</source>
-        <target state="translated">Din Pod er klar til brug.</target>
+        <target state="translated">Din pod er klar til brug.</target>
         <note>Class = "UILabel"; text = "Your Pod is ready for use."; ObjectID = "bJ5-iH-fnF";</note>
       </trans-unit>
       <trans-unit id="ePA-6p-q8C.text" xml:space="preserve">
@@ -1449,12 +1449,12 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="jVO-Ut-MhL.title" xml:space="preserve">
         <source>Pod Pairing</source>
-        <target state="translated">Pod Parres</target>
+        <target state="translated">Pod parres</target>
         <note>Class = "UINavigationItem"; title = "Pod Pairing"; ObjectID = "jVO-Ut-MhL";</note>
       </trans-unit>
       <trans-unit id="k1Y-x4-m0a.title" xml:space="preserve">
         <source>Pump Setup</source>
-        <target state="translated">Pumpe Indstilling</target>
+        <target state="translated">Pumpe indstilling</target>
         <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "k1Y-x4-m0a";</note>
       </trans-unit>
       <trans-unit id="kLL-SQ-K0a.text" xml:space="preserve">
@@ -1474,7 +1474,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="rcC-ke-lUP.headerTitle" xml:space="preserve">
         <source>Apply POD</source>
-        <target state="translated">Påsæt POD</target>
+        <target state="translated">Påsæt pod</target>
         <note>Class = "UITableViewSection"; headerTitle = "Apply POD"; ObjectID = "rcC-ke-lUP";</note>
       </trans-unit>
       <trans-unit id="vEc-Km-ewe.text" xml:space="preserve">
@@ -1489,7 +1489,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="yy1-xf-HdR.title" xml:space="preserve">
         <source>Replace Pod</source>
-        <target state="translated">Udskift Pod</target>
+        <target state="translated">Udskift pod</target>
         <note>Class = "UINavigationItem"; title = "Replace Pod"; ObjectID = "yy1-xf-HdR";</note>
       </trans-unit>
     </body>
@@ -1574,7 +1574,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Active Time" xml:space="preserve">
         <source>Active Time</source>
-        <target state="translated">Aktiv Tid</target>
+        <target state="translated">Aktiv tid</target>
         <note>The title of the cell showing the pod activated at time</note>
       </trans-unit>
       <trans-unit id="Alarms" xml:space="preserve">
@@ -1594,22 +1594,22 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Assigned Address" xml:space="preserve">
         <source>Assigned Address</source>
-        <target state="translated">Tildelt Adresse</target>
+        <target state="translated">Tildelt adresse</target>
         <note>The title text for the address assigned to the pod</note>
       </trans-unit>
       <trans-unit id="Basal Delivery" xml:space="preserve">
         <source>Basal Delivery</source>
-        <target state="translated">Basal Indgivelse</target>
+        <target state="translated">Basal indgivelse</target>
         <note>The title of the cell showing pod basal status</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target state="translated">Basal Rater</target>
+        <target state="translated">Basalrate</target>
         <note>The title text for the basal rate schedule</note>
       </trans-unit>
       <trans-unit id="Bolus Delivery" xml:space="preserve">
         <source>Bolus Delivery</source>
-        <target state="translated">Bolus Indgivelse</target>
+        <target state="translated">Bolus indgivelse</target>
         <note>The title of the cell showing pod bolus status</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -1619,7 +1619,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Change Time Zone" xml:space="preserve">
         <source>Change Time Zone</source>
-        <target state="translated">Skift Tidszone</target>
+        <target state="translated">Skift tidszone</target>
         <note>The title of the command to change pump time zone</note>
       </trans-unit>
       <trans-unit id="Changing time…" xml:space="preserve">
@@ -1644,7 +1644,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Deactivate Pod" xml:space="preserve">
         <source>Deactivate Pod</source>
-        <target state="translated">Deaktiver Pod</target>
+        <target state="translated">Deaktiver pod</target>
         <note>Button title for pod deactivation
    Button title to deactivate pod</note>
       </trans-unit>
@@ -1660,7 +1660,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Device Information" xml:space="preserve">
         <source>Device Information</source>
-        <target state="translated">Enheds Information</target>
+        <target state="translated">Enheds information</target>
         <note>The title of the device information section in settings</note>
       </trans-unit>
       <trans-unit id="Disable Bolus Beeps" xml:space="preserve">
@@ -1720,7 +1720,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Expiration Reminder" xml:space="preserve">
         <source>Expiration Reminder</source>
-        <target state="translated">Udløbs Påmindelse</target>
+        <target state="translated">Udløbs påmindelse</target>
         <note>The title of the cell showing the pod expiration reminder date</note>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
@@ -1765,12 +1765,12 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Insulin Delivered" xml:space="preserve">
         <source>Insulin Delivered</source>
-        <target state="translated">Indført Insulin</target>
+        <target state="translated">Indført insulin</target>
         <note>The title of the cell showing delivered insulin</note>
       </trans-unit>
       <trans-unit id="Invalid entry" xml:space="preserve">
         <source>Invalid entry</source>
-        <target state="translated">fejlagtig indtastning</target>
+        <target state="translated">Fejlagtig indtastning</target>
         <note>The error message shown when Loop's basal schedule has an unsupported rate</note>
       </trans-unit>
       <trans-unit id="Lot" xml:space="preserve">
@@ -1800,7 +1800,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Pair New Pod" xml:space="preserve">
         <source>Pair New Pod</source>
-        <target state="translated">Par ny Pod</target>
+        <target state="translated">Par ny pod</target>
         <note>The title of the command to pair new pod</note>
       </trans-unit>
       <trans-unit id="Pairing…" xml:space="preserve">
@@ -1810,22 +1810,22 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Play Test Beeps" xml:space="preserve">
         <source>Play Test Beeps</source>
-        <target state="translated">Afspil Test Bip</target>
+        <target state="translated">Afspil test bip</target>
         <note>The title of the command to play test beeps</note>
       </trans-unit>
       <trans-unit id="Play Test Beeps…" xml:space="preserve">
         <source>Play Test Beeps…</source>
-        <target state="translated">Afspiller Test Bip…</target>
+        <target state="translated">Afspiller test bip…</target>
         <note>Progress message for play test beeps.</note>
       </trans-unit>
       <trans-unit id="Pod Age" xml:space="preserve">
         <source>Pod Age</source>
-        <target state="translated">Pod Alder</target>
+        <target state="translated">Pod alder</target>
         <note>Label describing pod age view</note>
       </trans-unit>
       <trans-unit id="Pod Settings" xml:space="preserve">
         <source>Pod Settings</source>
-        <target state="translated">Pod Indstillinger</target>
+        <target state="translated">Pod indstillinger</target>
         <note>Title of the pod settings view controller</note>
       </trans-unit>
       <trans-unit id="Primed" xml:space="preserve">
@@ -1845,7 +1845,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Read Pod Status…" xml:space="preserve">
         <source>Read Pod Status…</source>
-        <target state="translated">Læs Pod-status…</target>
+        <target state="translated">Læs pod-status…</target>
         <note>Progress message for reading Pod status.</note>
       </trans-unit>
       <trans-unit id="Read Pulse Log" xml:space="preserve">
@@ -1855,7 +1855,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Reading Pulse Log…" xml:space="preserve">
         <source>Reading Pulse Log…</source>
-        <target state="translated">Læser Pulslog…</target>
+        <target state="translated">Læser pulslog…</target>
         <note>Progress message for reading pulse log.</note>
       </trans-unit>
       <trans-unit id="Remaining" xml:space="preserve">
@@ -1871,7 +1871,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Replace Pod Now" xml:space="preserve">
         <source>Replace Pod Now</source>
-        <target state="translated">Udskift Pod Nu</target>
+        <target state="translated">Udskift pod nu</target>
         <note>The title of the command to replace pod when there is a pod fault</note>
       </trans-unit>
       <trans-unit id="Reservoir" xml:space="preserve">
@@ -1881,7 +1881,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Retry Pod Deactivation" xml:space="preserve">
         <source>Retry Pod Deactivation</source>
-        <target state="translated">Forsøg Pod Deaktivering igen</target>
+        <target state="translated">Forsøg pod deaktivering igen</target>
         <note>Button title for retrying pod deactivation</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -1912,12 +1912,12 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Switch from Omnipod Pumps" xml:space="preserve">
         <source>Switch from Omnipod Pumps</source>
-        <target state="translated">Skift fra Omnipod Pumper</target>
+        <target state="translated">Skift fra Omnipod pumpe</target>
         <note>Title text for the button to delete Omnipod PumpManager</note>
       </trans-unit>
       <trans-unit id="Sync With Pod" xml:space="preserve">
         <source>Sync With Pod</source>
-        <target state="translated">Synkroniser med Pod</target>
+        <target state="translated">Synkroniser med pod</target>
         <note>Title of button to sync basal profile from pod</note>
       </trans-unit>
       <trans-unit id="TID" xml:space="preserve">
@@ -1927,12 +1927,12 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Test Command" xml:space="preserve">
         <source>Test Command</source>
-        <target state="translated">Test Kommando</target>
+        <target state="translated">Test kommando</target>
         <note>The title of the command to run the test command</note>
       </trans-unit>
       <trans-unit id="Testing Commands…" xml:space="preserve">
         <source>Testing Commands…</source>
-        <target state="translated">Tester Kommandoer…</target>
+        <target state="translated">Tester kommandoer…</target>
         <note>Progress message for testing commands.</note>
       </trans-unit>
       <trans-unit id="Too many entries" xml:space="preserve">
@@ -1974,12 +1974,12 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Add Account" xml:space="preserve">
         <source>Add Account</source>
-        <target state="translated">Tilføj Konto</target>
+        <target state="translated">Tilføj konto</target>
         <note>The title of the button to add the credentials for a service</note>
       </trans-unit>
       <trans-unit id="Add Minimed Pump" xml:space="preserve">
         <source>Add Minimed Pump</source>
-        <target state="translated">Tilføj Minimed Pumpe</target>
+        <target state="translated">Tilføj MiniMed pumpe</target>
         <note>Title text for button to set up a new minimed pump</note>
       </trans-unit>
       <trans-unit id="Configuration" xml:space="preserve">
@@ -1989,7 +1989,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Delete Account" xml:space="preserve">
         <source>Delete Account</source>
-        <target state="translated">Slet Konto</target>
+        <target state="translated">Slet konto</target>
         <note>The title of the button to remove the credentials for a service</note>
       </trans-unit>
       <trans-unit id="Enter the 6-digit pump ID" xml:space="preserve">
@@ -2251,7 +2251,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Signal Strength" xml:space="preserve">
         <source>Signal Strength</source>
-        <target state="translated">Signal Styrke</target>
+        <target state="translated">Signal styrke</target>
         <note>The title of the cell showing BLE signal strength (RSSI)</note>
       </trans-unit>
       <trans-unit id="Uptime" xml:space="preserve">
