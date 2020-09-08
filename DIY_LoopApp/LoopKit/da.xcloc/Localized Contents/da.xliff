@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve">
         <source>Carb Ratios</source>
-        <target state="translated">Kulhydrat ratioer</target>
+        <target state="translated">Kulhydratforhold</target>
         <note>The title of the carb ratios schedule screen</note>
       </trans-unit>
       <trans-unit id="Carbs" xml:space="preserve">
@@ -110,9 +110,9 @@
         <target state="translated">Synkroniser med pumpe</target>
         <note>Title of button to sync basal profile from pump</note>
       </trans-unit>
-      <trans-unit id="The pump ID can be found printed on the back, or near the bottom of the STATUS/Esc screen. It is the strictly numerical portion of the serial number (shown as SN or S/N)." xml:space="preserve">
+      <trans-unit id="The pump ID can be found printed on the back, or near the bottom of the STATUS/Esc screen. It is the strictly numerical portion of the serial number (shown as SN or S/N)." xml:space="preserve" approved="yes">
         <source>The pump ID can be found printed on the back, or near the bottom of the STATUS/Esc screen. It is the strictly numerical portion of the serial number (shown as SN or S/N).</source>
-        <target state="translated">Pumpe ID kan findes trykt på bagsiden, eller nær bunden på STATUS/Esc skærmen. Det er den rent numeriske del af serienummeret (vist som SN eller S/N)</target>
+        <target state="final">Pumpe ID kan findes trykt på bagsiden, eller nær bunden på STATUS/Esc skærmen. Det er den rent numeriske del af serienummeret (vist som SN eller S/N).</target>
         <note>Instructions on where to find the pump ID on a Minimed pump</note>
       </trans-unit>
     </body>
@@ -166,7 +166,7 @@
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve">
         <source>Carb Ratios</source>
-        <target state="translated">Kulhydrat ratios</target>
+        <target state="translated">Kulhydratforhold</target>
         <note>Title text for carb ratios</note>
       </trans-unit>
       <trans-unit id="Check your pump before retrying" xml:space="preserve">
@@ -264,9 +264,9 @@
         <target state="translated">Maksimum basalrate, er den højeste midlertidige basalrate Loop er tilladt at indstille automatisk.</target>
         <note>Descriptive text for maximum basal rate</note>
       </trans-unit>
-      <trans-unit id="Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." xml:space="preserve">
+      <trans-unit id="Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." xml:space="preserve" approved="yes">
         <source>Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</source>
-        <target state="translated">Maksimum bolus er den højeste bolus mængde du kan levere på én gang, som dækker dine kulhydratter eller bringer højt blodsukker ned.</target>
+        <target state="final">Maksimum bolus er den højeste bolus mængde du kan levere på én gang, som dækker dine kulhydrater eller bringer højt blodsukker ned.</target>
         <note>Descriptive text for maximum bolus</note>
       </trans-unit>
       <trans-unit id="Needs Attention" xml:space="preserve">
@@ -828,7 +828,7 @@
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve">
         <source>Carb Ratios</source>
-        <target state="translated">Kulhydrat ratios</target>
+        <target state="translated">Kulhydratforhold</target>
         <note>Title text for multi-value carb ratio warning</note>
       </trans-unit>
       <trans-unit id="Changes will only apply this time you enable the override. The default settings of %@ will not be affected." xml:space="preserve">
@@ -960,7 +960,7 @@
       </trans-unit>
       <trans-unit id="Edit Carb Entry" xml:space="preserve">
         <source>Edit Carb Entry</source>
-        <target state="translated">Ret kulhydrat indtastning</target>
+        <target state="translated">Ret kulhydrat</target>
         <note>The title of the view controller to edit an existing carb entry</note>
       </trans-unit>
       <trans-unit id="Edit Override" xml:space="preserve">
@@ -1045,7 +1045,7 @@
       </trans-unit>
       <trans-unit id="High Carb Ratio" xml:space="preserve">
         <source>High Carb Ratio</source>
-        <target state="translated">Høj kulhydrat ration</target>
+        <target state="translated">Høj kulhydratforhold</target>
         <note>Title text for the high carb ratio warning</note>
       </trans-unit>
       <trans-unit id="High Correction Value" xml:space="preserve">
@@ -1100,7 +1100,7 @@
       </trans-unit>
       <trans-unit id="Low Carb Ratio" xml:space="preserve">
         <source>Low Carb Ratio</source>
-        <target state="translated">Lav kulhydrat dosis</target>
+        <target state="translated">Lav kulhydratforhold</target>
         <note>Title text for the low carb ratio warning</note>
       </trans-unit>
       <trans-unit id="Low Correction Value" xml:space="preserve">
@@ -1317,7 +1317,7 @@
       </trans-unit>
       <trans-unit id="Save Carb Ratios?" xml:space="preserve">
         <source>Save Carb Ratios?</source>
-        <target state="translated">Gem kulhydrat dosis?</target>
+        <target state="translated">Gem kulhydratforhold?</target>
         <note>Alert title for confirming carb ratios outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Save Correction Range Overrides?" xml:space="preserve">
@@ -1599,7 +1599,7 @@
       </trans-unit>
       <trans-unit id="You can add different carb ratios for different times of day by using the ➕." xml:space="preserve">
         <source>You can add different carb ratios for different times of day by using the ➕.</source>
-        <target state="translated">Du kan tilføje forskellige kulhydrat forhold for forskellige tidspunkter af dagen ved hjælp af ➕.</target>
+        <target state="translated">Du kan tilføje forskellige kulhydratforhold for forskellige tidspunkter af dagen ved hjælp af ➕.</target>
         <note>Description of how to add a ratio</note>
       </trans-unit>
       <trans-unit id="You can add different insulin sensitivities for different times of day by using the ➕." xml:space="preserve">
