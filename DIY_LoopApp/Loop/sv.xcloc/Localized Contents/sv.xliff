@@ -1287,7 +1287,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve">
         <source>The legacy model used by Loop, allowing customization of action duration.</source>
-        <target state="translated">Äldre modell använd av Loop, vilken tillåter anpassing av effektvaraktighet.</target>
+        <target state="translated">Äldre modell använd av Loop, vilken tillåter anpassning av insulinets verkningstid.</target>
         <note>Subtitle description of Walsh insulin model setting</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ U." xml:space="preserve">
@@ -1347,7 +1347,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
         <source>When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</source>
-        <target state="translated">När nuvarande eller förväntat slutglukosvärde är under tröskelvärdet kommer Loop inte att rekommendera en bolus, utan kommer alltid att föreslå en temporär basal på 0 enheter per timme.</target>
+        <target state="translated">När nuvarande eller förväntat framtida blodglukosvärde är under tröskelvärdet kommer Loop inte att rekommendera en bolus, och dessutom alltid att föreslå en temporär basal på 0 enheter per timme.</target>
         <note>Explanation of suspend threshold</note>
       </trans-unit>
       <trans-unit id="Workout Targets" xml:space="preserve">
@@ -1867,7 +1867,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Please reconfirm the bolus amount." xml:space="preserve">
         <source>Please reconfirm the bolus amount.</source>
-        <target state="translated">Bekräfta bolusmängd igen.</target>
+        <target state="translated">Bekräfta bolusmängd.</target>
         <note>Alert message for updated bolus recommendation on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Pre-Meal" xml:space="preserve">
