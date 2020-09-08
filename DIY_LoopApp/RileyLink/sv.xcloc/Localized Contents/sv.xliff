@@ -253,7 +253,7 @@
       </trans-unit>
       <trans-unit id="Decoding Error" xml:space="preserve">
         <source>Decoding Error</source>
-        <target state="translated">Avkodingsfel</target>
+        <target state="translated">Avkodningsfel</target>
         <note>Error description</note>
       </trans-unit>
       <trans-unit id="Device Error" xml:space="preserve">
@@ -465,7 +465,7 @@
       </trans-unit>
       <trans-unit id="Best Frequency" xml:space="preserve">
         <source>Best Frequency</source>
-        <target state="translated">Besta frekvensen</target>
+        <target state="translated">Bästa frekvensen</target>
         <note>The label indicating the best radio frequency</note>
       </trans-unit>
       <trans-unit id="Bolusing: %1$@&#10;" xml:space="preserve">
@@ -563,7 +563,7 @@
       </trans-unit>
       <trans-unit id="Fetch Enlite Glucose" xml:space="preserve">
         <source>Fetch Enlite Glucose</source>
-        <target state="translated">Hämta Enlite Glukos</target>
+        <target state="translated">Hämta Enlite glukosvärde</target>
         <note>The title of the command to fetch recent glucose</note>
       </trans-unit>
       <trans-unit id="Fetch Recent History" xml:space="preserve">
@@ -808,7 +808,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Bdb-j4-WcR.text" xml:space="preserve">
         <source>Do not change the time using your pumpʼs menu.</source>
-        <target state="translated">Ädra inte tiden i din pumps menyer.</target>
+        <target state="translated">Ändra inte tiden med din pumps menyer.</target>
         <note>Class = "UILabel"; text = "Do not change the time using your pumpʼs menu."; ObjectID = "Bdb-j4-WcR";</note>
       </trans-unit>
       <trans-unit id="Fps-h3-V4K.title" xml:space="preserve">
@@ -828,7 +828,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="HuY-fE-vM8.text" xml:space="preserve">
         <source>If you travel to a different time zone for an extended period of time, you can change the pumpʼs time zone at any time in Loopʼs Settings screen.</source>
-        <target state="translated">Om du reser till annan tidszon under en längre tid, kan du ändra tidszonen närsomhelst i Loops iställningar.</target>
+        <target state="translated">Om du reser till annan tidszon under en längre tid, kan du ändra tidszonen närsomhelst i Loops inställningar.</target>
         <note>Class = "UILabel"; text = "If you travel to a different time zone for an extended period of time, you can change the pumpʼs time zone at any time in Loopʼs Settings screen."; ObjectID = "HuY-fE-vM8";</note>
       </trans-unit>
       <trans-unit id="IQ5-53-x9s.text" xml:space="preserve">
@@ -863,12 +863,12 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="erq-yb-anx.text" xml:space="preserve">
         <source>Connect Devices</source>
-        <target state="translated">Anslut eheter</target>
+        <target state="translated">Anslut enheter</target>
         <note>Class = "UILabel"; text = "Connect Devices"; ObjectID = "erq-yb-anx";</note>
       </trans-unit>
       <trans-unit id="fVG-pl-jT9.footerTitle" xml:space="preserve">
         <source>The pump ID is the 6-digit numerical portion of the serial number (labeled as SN or S/N).</source>
-        <target state="translated">Ditt pump-ID är den 6-siffriga nemeriska delen av serienumret (markerat med SN eller S/N).</target>
+        <target state="translated">Ditt pump-ID är den 6-siffriga numeriska delen av serienumret (markerat med SN eller S/N).</target>
         <note>Class = "UITableViewSection"; footerTitle = "The pump ID is the 6-digit numerical portion of the serial number (labeled as SN or S/N)."; ObjectID = "fVG-pl-jT9";</note>
       </trans-unit>
       <trans-unit id="fVG-pl-jT9.headerTitle" xml:space="preserve">
@@ -1040,7 +1040,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Empty reservoir" xml:space="preserve">
         <source>Empty reservoir</source>
-        <target state="translated">Podfel, tom reservoarl</target>
+        <target state="translated">Poddfel, tom reservoar</target>
         <note>Description for Empty reservoir pod fault</note>
       </trans-unit>
       <trans-unit id="Empty response from pod" xml:space="preserve">
@@ -1060,7 +1060,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve">
         <source>Finish setup </source>
-        <target state="translated">Inställning färdig</target>
+        <target state="translated">Slutför konfiguration </target>
         <note>Description for finish setup</note>
       </trans-unit>
       <trans-unit id="Initialized" xml:space="preserve">
@@ -1070,7 +1070,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Internal pod fault %1$03d" xml:space="preserve">
         <source>Internal pod fault %1$03d</source>
-        <target state="translated">Internt podfel %1$03d</target>
+        <target state="translated">Internt poddfel %1$03d</target>
         <note>The format string for Internal pod fault (1: The fault code value)</note>
       </trans-unit>
       <trans-unit id="InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@" xml:space="preserve">
@@ -1175,7 +1175,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Pod Fault: %1$@" xml:space="preserve">
         <source>Pod Fault: %1$@</source>
-        <target state="translated">Podfel: %1$@</target>
+        <target state="translated">Poddfel: %1$@</target>
         <note>Format string for pod fault code</note>
       </trans-unit>
       <trans-unit id="Pod already paired" xml:space="preserve">
@@ -1200,12 +1200,12 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Pod is not in a state ready for cannula insertion." xml:space="preserve">
         <source>Pod is not in a state ready for cannula insertion.</source>
-        <target state="translated">Pod är inte klar för att föra in kanyl</target>
+        <target state="translated">Podd är inte färdig att föra in kanyl.</target>
         <note>Error message when cannula insertion fails because the pod is in an unexpected state</note>
       </trans-unit>
       <trans-unit id="Pod is not in a state ready for priming." xml:space="preserve">
         <source>Pod is not in a state ready for priming.</source>
-        <target state="translated">Pod är inte klar för att fyllas</target>
+        <target state="translated">Podd är inte klar för att fyllas.</target>
         <note>Error message when prime fails because the pod is in an unexpected state</note>
       </trans-unit>
       <trans-unit id="Pod is suspended" xml:space="preserve">
@@ -1220,7 +1220,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Pod setup window expired" xml:space="preserve">
         <source>Pod setup window expired</source>
-        <target state="translated">Tid för podinställning är överskriden</target>
+        <target state="translated">Tid för poddinställning har överskridits</target>
         <note>Pod state when prime or cannula insertion has not completed in the time allotted</note>
       </trans-unit>
       <trans-unit id="Priming" xml:space="preserve">
@@ -1325,7 +1325,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve">
         <source>Unknown pod fault %1$03d</source>
-        <target state="translated">Okänt podfel %1$03d</target>
+        <target state="translated">Okänt poddfel %1$03d</target>
         <note>The format string for Unknown pod fault (1: The fault code value)</note>
       </trans-unit>
       <trans-unit id="Wait for existing bolus to finish, or cancel bolus" xml:space="preserve">
@@ -1539,7 +1539,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="%@ U of %@ U (%@)" xml:space="preserve">
         <source>%1$@ U of %2$@ U (%3$@)</source>
-        <target state="translated">%@ E av %@ E (%@)</target>
+        <target state="translated">%1$@ E of %2$@ E (%3$@)</target>
         <note>Format string for bolus progress. (1: The delivered amount) (2: The programmed amount) (3: the percent progress)</note>
       </trans-unit>
       <trans-unit id="%@ U/hour" xml:space="preserve">
@@ -1655,7 +1655,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
         <source>Delivery Limits</source>
-        <target state="translated">Maxdosvärde</target>
+        <target state="translated">Maxdoser</target>
         <note>Title text for delivery limits</note>
       </trans-unit>
       <trans-unit id="Device Information" xml:space="preserve">
@@ -1942,7 +1942,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Unable to deactivate pod. Please continue and pair a new one." xml:space="preserve">
         <source>Unable to deactivate pod. Please continue and pair a new one.</source>
-        <target state="translated">Kunde inte deaktivera podden. Var god fortsätt genom att parkoppla en ny podd.</target>
+        <target state="translated">Kunde inte inaktivera podden. Var god fortsätt genom att parkoppla en ny podd.</target>
         <note>Instructions when pod cannot be deactivated</note>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
@@ -2044,7 +2044,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Upload To Nightscout" xml:space="preserve">
         <source>Upload To Nightscout</source>
-        <target state="translated">Nightscout-uppladdning</target>
+        <target state="translated">Ladda upp till Nightscout</target>
         <note>The title text for the nightscout upload enabled switch cell</note>
       </trans-unit>
       <trans-unit id="http://mysite.herokuapp.com" xml:space="preserve">
@@ -2145,7 +2145,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="The RileyLink was temporarily disconnected" xml:space="preserve">
         <source>The RileyLink was temporarily disconnected</source>
-        <target state="translated">RileyLink-enheten har blivit frånkopplad temporärt</target>
+        <target state="translated">RileyLink-enheten har blivit tillfälligt blivit frånkopplad</target>
         <note>Failure reason: unknown peripheral characteristic</note>
       </trans-unit>
       <trans-unit id="Unknown characteristic" xml:space="preserve">
