@@ -990,7 +990,7 @@
       </trans-unit>
       <trans-unit id="Insulin Suspended" xml:space="preserve">
         <source>Insulin Suspended</source>
-        <target state="needs-translation">Insulin Suspended</target>
+        <target state="translated">Insulin pauset</target>
         <note>The title of the cell indicating the pump is suspended</note>
       </trans-unit>
       <trans-unit id="Insulin effects" xml:space="preserve">
@@ -1025,7 +1025,7 @@
       </trans-unit>
       <trans-unit id="Loop has detected an issue with your Bluetooth settings, and will not work successfully until Bluetooth is enabled. You will not receive glucose readings, or be able to bolus." xml:space="preserve">
         <source>Loop has detected an issue with your Bluetooth settings, and will not work successfully until Bluetooth is enabled. You will not receive glucose readings, or be able to bolus.</source>
-        <target state="needs-translation">Loop has detected an issue with your Bluetooth settings, and will not work successfully until Bluetooth is enabled. You will not receive glucose readings, or be able to bolus.</target>
+        <target state="translated">Loop har oppdaget et problem med Bluetooth-innstillingene, og vil ikke virke vellykket før Bluetooth er aktivert. Du vil ikke få avlesninger av blodsukker, og kan ikke sette bolus.</target>
         <note>Bluetooth unavailable alert body.</note>
       </trans-unit>
       <trans-unit id="Loop has not completed successfully in %@" xml:space="preserve">
@@ -1035,17 +1035,17 @@
       </trans-unit>
       <trans-unit id="Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus." xml:space="preserve">
         <source>Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus.</source>
-        <target state="needs-translation">Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus.</target>
+        <target state="translated">Loop vil ikke fungere før Bluetooth er aktivert. Du vil ikke motta glukose avlesninger, eller kunne sette bolus.</target>
         <note>Bluetooth off background alert body.</note>
       </trans-unit>
       <trans-unit id="Manage Critical Alerts in Settings" xml:space="preserve">
         <source>Manage Critical Alerts in Settings</source>
-        <target state="needs-translation">Manage Critical Alerts in Settings</target>
+        <target state="translated">Administrer kritiske varsler i innstillinger</target>
         <note>Manage Critical Alerts in Settings button text</note>
       </trans-unit>
       <trans-unit id="Manage Notifications in Settings" xml:space="preserve">
         <source>Manage Notifications in Settings</source>
-        <target state="needs-translation">Manage Notifications in Settings</target>
+        <target state="translated">Administrer varslinger i innstillinger</target>
         <note>Manage Notifications in Settings button text</note>
       </trans-unit>
       <trans-unit id="Manual BG Entry" xml:space="preserve">
@@ -1055,7 +1055,7 @@
       </trans-unit>
       <trans-unit id="Meal Bolus" xml:space="preserve">
         <source>Meal Bolus</source>
-        <target state="needs-translation">Meal Bolus</target>
+        <target state="translated">Måltidsbolus</target>
         <note>Title for bolus entry screen when also entering carbs</note>
       </trans-unit>
       <trans-unit id="Missing data: %1$@" xml:space="preserve">
@@ -1075,27 +1075,27 @@
       </trans-unit>
       <trans-unit id="Nightscout" xml:space="preserve">
         <source>Nightscout</source>
-        <target state="needs-translation">Nightscout</target>
+        <target state="translated">Nightscout</target>
         <note>The title of the Nightscout service</note>
       </trans-unit>
       <trans-unit id="No Bolus Recommended" xml:space="preserve">
         <source>No Bolus Recommended</source>
-        <target state="needs-translation">No Bolus Recommended</target>
+        <target state="translated">Ingen anbefalt bolus</target>
         <note>Title for bolus screen notice when no bolus is recommended</note>
       </trans-unit>
       <trans-unit id="No Maximum Bolus Configured" xml:space="preserve">
         <source>No Maximum Bolus Configured</source>
-        <target state="needs-translation">No Maximum Bolus Configured</target>
+        <target state="translated">Ingen maksimal bolus konfigurert</target>
         <note>Alert title for a missing maximum bolus setting error</note>
       </trans-unit>
       <trans-unit id="No Pump Configured" xml:space="preserve">
         <source>No Pump Configured</source>
-        <target state="needs-translation">No Pump Configured</target>
+        <target state="translated">Ingen pumpe konfigurert</target>
         <note>Alert title for a missing pump error</note>
       </trans-unit>
       <trans-unit id="No Recent Glucose Data" xml:space="preserve">
         <source>No Recent Glucose Data</source>
-        <target state="needs-translation">No Recent Glucose Data</target>
+        <target state="translated">Mangler blodsukkerdata</target>
         <note>Title for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
       <trans-unit id="No connected devices, or failure during device connection" xml:space="preserve">
@@ -1105,7 +1105,7 @@
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target state="translated">OK</target>
         <note>The title of the notification action to acknowledge a device alert</note>
       </trans-unit>
       <trans-unit id="Override Presets" xml:space="preserve">
@@ -1172,7 +1172,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="Rapid-Acting – Adults" xml:space="preserve">
@@ -1197,7 +1197,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Recommended Bolus" xml:space="preserve">
         <source>Recommended Bolus</source>
-        <target state="needs-translation">Recommended Bolus</target>
+        <target state="translated">Anbefalt bolus</target>
         <note>Label for recommended bolus row on bolus screen</note>
       </trans-unit>
       <trans-unit id="Recommended Bolus: %@ Units" xml:space="preserve">
@@ -1222,12 +1222,12 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Save and Deliver" xml:space="preserve">
         <source>Save and Deliver</source>
-        <target state="needs-translation">Save and Deliver</target>
+        <target state="translated">Lagre og gi bolus</target>
         <note>Button text to save carbs and/or manual glucose entry and deliver a bolus</note>
       </trans-unit>
       <trans-unit id="Save without Bolusing" xml:space="preserve">
         <source>Save without Bolusing</source>
-        <target state="needs-translation">Save without Bolusing</target>
+        <target state="translated">Lagre uten å gi bolus</target>
         <note>Button text to save carbs and/or manual glucose entry without a bolus</note>
       </trans-unit>
       <trans-unit id="Services" xml:space="preserve">
@@ -1247,7 +1247,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Site URL" xml:space="preserve">
         <source>Site URL</source>
-        <target state="needs-translation">Site URL</target>
+        <target state="translated">Nettsted (URL)</target>
         <note>The title of the nightscout site URL credential</note>
       </trans-unit>
       <trans-unit id="Starting Bolus" xml:space="preserve">
@@ -1257,7 +1257,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
         <source>Support</source>
-        <target state="needs-translation">Support</target>
+        <target state="translated">Support</target>
         <note>Section title for Support
    The title of the support section in settings</note>
       </trans-unit>
@@ -1268,12 +1268,12 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Tap here to set up a CGM" xml:space="preserve">
         <source>Tap here to set up a CGM</source>
-        <target state="needs-translation">Tap here to set up a CGM</target>
+        <target state="translated">Trykk her for å konfigurere en CGM</target>
         <note>Descriptive text for button to add CGM device</note>
       </trans-unit>
       <trans-unit id="Tap here to set up a pump" xml:space="preserve">
         <source>Tap here to set up a pump</source>
-        <target state="needs-translation">Tap here to set up a pump</target>
+        <target state="translated">Trykk her for å konfigurere en pumpe</target>
         <note>Descriptive text for button to add pump device</note>
       </trans-unit>
       <trans-unit id="Tap to Resume" xml:space="preserve">
@@ -1283,7 +1283,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The bolus recommendation has updated. Please reconfirm the bolus amount." xml:space="preserve">
         <source>The bolus recommendation has updated. Please reconfirm the bolus amount.</source>
-        <target state="needs-translation">The bolus recommendation has updated. Please reconfirm the bolus amount.</target>
+        <target state="translated">Bolusanbefalingen er oppdatert. Vennligst bekreft igjen.</target>
         <note>Alert message for an updated bolus recommendation</note>
       </trans-unit>
       <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve">
@@ -1293,7 +1293,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ U." xml:space="preserve">
         <source>The maximum bolus amount is %@ U.</source>
-        <target state="needs-translation">The maximum bolus amount is %@ U.</target>
+        <target state="translated">Maksimal bolus er satt til %@ E.</target>
         <note>Alert message for a maximum bolus validation error (1: max bolus value)</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ Units" xml:space="preserve">
@@ -1303,7 +1303,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The maximum bolus setting must be configured before a bolus can be delivered." xml:space="preserve">
         <source>The maximum bolus setting must be configured before a bolus can be delivered.</source>
-        <target state="needs-translation">The maximum bolus setting must be configured before a bolus can be delivered.</target>
+        <target state="translated">En pumpe må konfigureres før en bolus kan leveres.</target>
         <note>Alert message for a missing maximum bolus setting error</note>
       </trans-unit>
       <trans-unit id="Therapy Settings" xml:space="preserve">
