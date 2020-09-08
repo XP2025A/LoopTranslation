@@ -831,9 +831,9 @@
         <target state="translated">Slet tjeneste</target>
         <note>Button title to delete a service</note>
       </trans-unit>
-      <trans-unit id="Delivery Limits" xml:space="preserve">
+      <trans-unit id="Delivery Limits" xml:space="preserve" approved="yes">
         <source>Delivery Limits</source>
-        <target state="translated">Indgivningsgrænser</target>
+        <target state="final">Insulin-grænser</target>
         <note>Title text for delivery limits</note>
       </trans-unit>
       <trans-unit id="Diabetes Treatment" xml:space="preserve">
@@ -1008,9 +1008,9 @@
         <target state="translated">Fejl rapport</target>
         <note>The title text for the issue report cell</note>
       </trans-unit>
-      <trans-unit id="Launches CGM app" xml:space="preserve">
+      <trans-unit id="Launches CGM app" xml:space="preserve" approved="yes">
         <source>Launches CGM app</source>
-        <target state="translated">Åbner CGM app’en</target>
+        <target state="final">Åbner CGM app</target>
         <note>Glucose HUD accessibility hint</note>
       </trans-unit>
       <trans-unit id="Loading..." xml:space="preserve">
@@ -1160,9 +1160,9 @@ Faktisk: %2$@ (%3$@)</target>
         <target state="translated">Pumpe reservoir lavt</target>
         <note>The notification title for a low pump reservoir</note>
       </trans-unit>
-      <trans-unit id="Pump Suspended" xml:space="preserve">
+      <trans-unit id="Pump Suspended" xml:space="preserve" approved="yes">
         <source>Pump Suspended</source>
-        <target state="translated">Pumpe pauset</target>
+        <target state="final">Pumpe stoppet</target>
         <note>The title of the cell indicating the pump is suspended</note>
       </trans-unit>
       <trans-unit id="Pump data is %1$@ old" xml:space="preserve">
@@ -1220,9 +1220,9 @@ Faktisk: %2$@ (%3$@)</target>
         <target state="translated">Forsøg igen</target>
         <note>The title of the notification action to retry a bolus command</note>
       </trans-unit>
-      <trans-unit id="Save and Deliver" xml:space="preserve">
+      <trans-unit id="Save and Deliver" xml:space="preserve" approved="yes">
         <source>Save and Deliver</source>
-        <target state="translated">Gem og leverér</target>
+        <target state="final">Gem og afgiv</target>
         <note>Button text to save carbs and/or manual glucose entry and deliver a bolus</note>
       </trans-unit>
       <trans-unit id="Save without Bolusing" xml:space="preserve">
@@ -1281,9 +1281,9 @@ Faktisk: %2$@ (%3$@)</target>
         <target state="translated">Tryk for at fortsætte</target>
         <note>The subtitle of the cell displaying an action to resume insulin delivery</note>
       </trans-unit>
-      <trans-unit id="The bolus recommendation has updated. Please reconfirm the bolus amount." xml:space="preserve">
+      <trans-unit id="The bolus recommendation has updated. Please reconfirm the bolus amount." xml:space="preserve" approved="yes">
         <source>The bolus recommendation has updated. Please reconfirm the bolus amount.</source>
-        <target state="translated">Bolusanbefalingen er opdateret. Bekræft venligst bolusen.</target>
+        <target state="final">Bolusanbefalingen er opdateret. Bekræft venligst bolus.</target>
         <note>Alert message for an updated bolus recommendation</note>
       </trans-unit>
       <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve">
@@ -1513,9 +1513,9 @@ Faktisk: %2$@ (%3$@)</target>
         <target state="translated">🌮</target>
         <note>Class = "UIButton"; normalTitle = "🌮"; ObjectID = "QhO-Yi-AqQ";</note>
       </trans-unit>
-      <trans-unit id="Rse-x8-amW.text" xml:space="preserve">
+      <trans-unit id="Rse-x8-amW.text" xml:space="preserve" approved="yes">
         <source>eventually 92 mg/dL</source>
-        <target state="translated">Til sidst 92 mg/dL</target>
+        <target state="final">Til sidst 92 mg/dL</target>
         <note>Class = "UILabel"; text = "eventually 92 mg/dL"; ObjectID = "Rse-x8-amW";</note>
       </trans-unit>
       <trans-unit id="SQx-au-ZcM.text" xml:space="preserve">
@@ -1938,9 +1938,9 @@ to bolus</source>
         <target state="translated">E/t</target>
         <note>The short unit display string for international units of insulin delivery per hour</note>
       </trans-unit>
-      <trans-unit id="Unable to Reach iPhone" xml:space="preserve">
+      <trans-unit id="Unable to Reach iPhone" xml:space="preserve" approved="yes">
         <source>Unable to Reach iPhone</source>
-        <target state="translated">iPhone er uden for rækkevidde</target>
+        <target state="final">iPhone er uden for urets rækkevidde</target>
         <note>The title of the alert controller displayed after a potential carb entry send attempt fails</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
