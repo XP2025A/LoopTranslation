@@ -32,14 +32,14 @@
         <target state="translated">Under 50 enheder</target>
         <note>Pod state when running below fifty units</note>
       </trans-unit>
-      <trans-unit id="Bolusing" xml:space="preserve">
+      <trans-unit id="Bolusing" xml:space="preserve" approved="yes">
         <source>Bolusing</source>
-        <target state="translated">Bolusing</target>
+        <target state="final">Bolus afgives</target>
         <note>Delivery status when bolusing</note>
       </trans-unit>
-      <trans-unit id="Bolusing with temp basal" xml:space="preserve">
+      <trans-unit id="Bolusing with temp basal" xml:space="preserve" approved="yes">
         <source>Bolusing with temp basal</source>
-        <target state="translated">Bolusing med temp basal</target>
+        <target state="final">Bolus afgives med temp basal</target>
         <note>Delivery status when bolusing and temp basal is running</note>
       </trans-unit>
       <trans-unit id="Cannula inserting" xml:space="preserve">
@@ -281,9 +281,9 @@
         <target state="translated">Lithium</target>
         <note>Describing the battery chemistry as Lithium</note>
       </trans-unit>
-      <trans-unit id="Make sure your RileyLink is nearby and powered on" xml:space="preserve">
+      <trans-unit id="Make sure your RileyLink is nearby and powered on" xml:space="preserve" approved="yes">
         <source>Make sure your RileyLink is nearby and powered on</source>
-        <target state="translated">Sørg for at din RileyLink er i nærheden, og tændt</target>
+        <target state="final">Sørg for at din RileyLink er tæt på, og tændt</target>
         <note>Recovery suggestion</note>
       </trans-unit>
       <trans-unit id="Max setting exceeded" xml:space="preserve">
@@ -291,9 +291,9 @@
         <target state="translated">Max indstilling overskredet</target>
         <note>Pump error code describing max setting exceeded</note>
       </trans-unit>
-      <trans-unit id="Minimed %@" xml:space="preserve">
+      <trans-unit id="Minimed %@" xml:space="preserve" approved="yes">
         <source>Minimed %@</source>
-        <target state="translated">Miniet %@</target>
+        <target state="final">Minimed %@</target>
         <note>Pump title (1: model number)</note>
       </trans-unit>
       <trans-unit id="Minimed 500/700 Series" xml:space="preserve">
@@ -371,9 +371,9 @@
         <target state="translated">Ukendt svar under %1$@: %2$@</target>
         <note>Format string for an unknown response. (1: The operation being performed) (2: The response data)</note>
       </trans-unit>
-      <trans-unit id="World-Wide" xml:space="preserve">
+      <trans-unit id="World-Wide" xml:space="preserve" approved="yes">
         <source>World-Wide</source>
-        <target state="translated">Verden (World-Wide)</target>
+        <target state="final">World-Wide</target>
         <note>Describing the worldwide pump region</note>
       </trans-unit>
     </body>
@@ -436,9 +436,9 @@
         <target state="translated">%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
       </trans-unit>
-      <trans-unit id="Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure." xml:space="preserve">
+      <trans-unit id="Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure." xml:space="preserve" approved="yes">
         <source>Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure.</source>
-        <target state="translated">Alkaline og Lithium batterier henfalder med forskellige satser. Alkaline har tendens til at have et lineært fald over tid, hvor Lithium batteri celler typisk opretholder deres spænding indtil halvejen i deres levetid. Ved normalt brug i en ikke-MySentry kompatibel Minimed (x22/x15) insulin pumpe, som kører Loop vil alkaline batterier holde cirka 4 til 5 dage. Lithium batterier holder mellem 1 til 2 uger. Denne indstilling bruger forskellige batteri henfalds satser for hver kemiske  batteritype og alarmere brugeren når et batteri er cirka 8 til 10 timer fra at løbe tør.</target>
+        <target state="final">Alkaline og Lithium batterier henfalder med forskellige satser. Alkaline har tendens til at have et lineært fald over tid, hvor Lithium batteri celler typisk opretholder deres spænding indtil halvvejen i deres levetid. Ved normalt brug i en ikke-MySentry kompatibel Minimed (x22/x15) insulin pumpe, som kører Loop vil alkaline batterier holde cirka 4 til 5 dage. Lithium batterier holder mellem 1 til 2 uger. Denne indstilling bruger forskellige batteri henfalds satser for hver kemiske batteritype og alarmere brugeren når et batteri er cirka 8 til 10 timer fra at løbe tør.</target>
         <note>Instructions on selecting battery chemistry type</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete this pump?" xml:space="preserve">
@@ -490,9 +490,9 @@
         <target state="translated">Ændre tidszone</target>
         <note>The title of the command to change pump time zone</note>
       </trans-unit>
-      <trans-unit id="Changing time…" xml:space="preserve">
+      <trans-unit id="Changing time…" xml:space="preserve" approved="yes">
         <source>Changing time…</source>
-        <target state="translated">Ændre tid...</target>
+        <target state="final">Ændre tid…</target>
         <note>Progress message for changing pump time.</note>
       </trans-unit>
       <trans-unit id="Commands" xml:space="preserve">
@@ -536,9 +536,9 @@
         <target state="translated">Opdag kommandoer</target>
         <note>The title of the command to discover commands</note>
       </trans-unit>
-      <trans-unit id="Discovering commands…" xml:space="preserve">
+      <trans-unit id="Discovering commands…" xml:space="preserve" approved="yes">
         <source>Discovering commands…</source>
-        <target state="translated">Opdager kommandoer...</target>
+        <target state="final">Opdager kommandoer…</target>
         <note>Progress message for discovering commands.</note>
       </trans-unit>
       <trans-unit id="Enable Diagnostic LEDs" xml:space="preserve">
@@ -576,14 +576,14 @@
         <target state="translated">Henter blodsukker…</target>
         <note>Progress message for fetching pump glucose.</note>
       </trans-unit>
-      <trans-unit id="Fetching history…" xml:space="preserve">
+      <trans-unit id="Fetching history…" xml:space="preserve" approved="yes">
         <source>Fetching history…</source>
-        <target state="translated">Henter histoik...</target>
+        <target state="final">Henter historik…</target>
         <note>Progress message for fetching pump history.</note>
       </trans-unit>
-      <trans-unit id="Fetching pump model…" xml:space="preserve">
+      <trans-unit id="Fetching pump model…" xml:space="preserve" approved="yes">
         <source>Fetching pump model…</source>
-        <target state="translated">Henter pumpe model...</target>
+        <target state="final">Henter pumpe model…</target>
         <note>Progress message for fetching pump model.</note>
       </trans-unit>
       <trans-unit id="Firmware" xml:space="preserve">
@@ -601,9 +601,9 @@
         <target state="translated">Hent pumpe model</target>
         <note>The title of the command to get pump model</note>
       </trans-unit>
-      <trans-unit id="Get Statistics…" xml:space="preserve">
+      <trans-unit id="Get Statistics…" xml:space="preserve" approved="yes">
         <source>Get Statistics…</source>
-        <target state="translated">Hent statistik</target>
+        <target state="final">Hent statistik…</target>
         <note>Progress message for getting statistics.</note>
       </trans-unit>
       <trans-unit id="Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option." xml:space="preserve">
@@ -701,14 +701,14 @@ Find enhed</target>
         <target state="translated">Læs pumpe status</target>
         <note>The title of the command to read pump status</note>
       </trans-unit>
-      <trans-unit id="Reading basal schedule…" xml:space="preserve">
+      <trans-unit id="Reading basal schedule…" xml:space="preserve" approved="yes">
         <source>Reading basal schedule…</source>
-        <target state="translated">Læser basal plan...</target>
+        <target state="final">Læser basal plan…</target>
         <note>Progress message for reading basal schedule</note>
       </trans-unit>
-      <trans-unit id="Reading pump status…" xml:space="preserve">
+      <trans-unit id="Reading pump status…" xml:space="preserve" approved="yes">
         <source>Reading pump status…</source>
-        <target state="translated">Læser pumpe status...</target>
+        <target state="final">Læser pumpe status…</target>
         <note>Progress message for reading pump status</note>
       </trans-unit>
       <trans-unit id="Region" xml:space="preserve">
@@ -726,9 +726,9 @@ Find enhed</target>
         <target state="translated">RileyLink Statistik</target>
         <note>The title of the command to fetch RileyLink statistics</note>
       </trans-unit>
-      <trans-unit id="Save to Pump…" xml:space="preserve">
+      <trans-unit id="Save to Pump…" xml:space="preserve" approved="yes">
         <source>Save to Pump…</source>
-        <target state="translated">Gem på pumpen</target>
+        <target state="final">Gem på pumpen…</target>
         <note>Title of button to save basal profile to pump
    Title of button to save delivery limit settings to pump</note>
       </trans-unit>
@@ -737,9 +737,9 @@ Find enhed</target>
         <target state="translated">Send knappe tryk</target>
         <note>The title of the command to send a button press</note>
       </trans-unit>
-      <trans-unit id="Sending button press…" xml:space="preserve">
+      <trans-unit id="Sending button press…" xml:space="preserve" approved="yes">
         <source>Sending button press…</source>
-        <target state="translated">Sender knappe tryk </target>
+        <target state="final">Sender knappe tryk…</target>
         <note>Progress message for sending button press to pump.</note>
       </trans-unit>
       <trans-unit id="Signal Strength" xml:space="preserve">
@@ -769,9 +769,9 @@ Find enhed</target>
         <target state="translated">Indstil radio frekvens</target>
         <note>The title of the command to re-tune the radio</note>
       </trans-unit>
-      <trans-unit id="Tuning radio…" xml:space="preserve">
+      <trans-unit id="Tuning radio…" xml:space="preserve" approved="yes">
         <source>Tuning radio…</source>
-        <target state="translated">Indstiller radio frekvens...</target>
+        <target state="final">Indstiller radio frekvens…</target>
         <note>Progress message for tuning radio</note>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
@@ -866,9 +866,9 @@ Find enhed</target>
         <target state="translated">Tilslut enheder</target>
         <note>Class = "UILabel"; text = "Connect Devices"; ObjectID = "erq-yb-anx";</note>
       </trans-unit>
-      <trans-unit id="fVG-pl-jT9.footerTitle" xml:space="preserve">
+      <trans-unit id="fVG-pl-jT9.footerTitle" xml:space="preserve" approved="yes">
         <source>The pump ID is the 6-digit numerical portion of the serial number (labeled as SN or S/N).</source>
-        <target state="translated">Pumpens ID er den 6-cifrede nummeriske del af serienummeret (mærket SN eller S/N).</target>
+        <target state="final">Pumpens ID er den 6-cifrede numeriske del af serienummeret (mærket SN eller S/N).</target>
         <note>Class = "UITableViewSection"; footerTitle = "The pump ID is the 6-digit numerical portion of the serial number (labeled as SN or S/N)."; ObjectID = "fVG-pl-jT9";</note>
       </trans-unit>
       <trans-unit id="fVG-pl-jT9.headerTitle" xml:space="preserve">
@@ -996,9 +996,9 @@ Find enhed</target>
         <target state="translated">Bolus i gang</target>
         <note>Error message shown when operation could not be completed due to existing bolus in progress</note>
       </trans-unit>
-      <trans-unit id="Bolus: %1$@U %2$@ %3$@ %4$@" xml:space="preserve">
+      <trans-unit id="Bolus: %1$@U %2$@ %3$@ %4$@" xml:space="preserve" approved="yes">
         <source>Bolus: %1$@U %2$@ %3$@ %4$@</source>
-        <target state="translated">Bolus: %1$@E %2$@ %3$@ %4$@</target>
+        <target state="final">Bolus: %1$@E %2$@ %3$@ %4$@</target>
         <note>The format string describing a bolus. (1: The amount delivered)(2: Start time of the dose)(3: duration)(4: scheduled certainty)</note>
       </trans-unit>
       <trans-unit id="Bolusing" xml:space="preserve">
@@ -1058,9 +1058,9 @@ Find enhed</target>
         <target state="translated">Udløbs advarsel</target>
         <note>Description for expiration alert</note>
       </trans-unit>
-      <trans-unit id="Finish setup " xml:space="preserve">
+      <trans-unit id="Finish setup " xml:space="preserve" approved="yes">
         <source>Finish setup </source>
-        <target state="translated">Afslut indstilling</target>
+        <target state="final">Afslut indstilling </target>
         <note>Description for finish setup</note>
       </trans-unit>
       <trans-unit id="Initialized" xml:space="preserve">
@@ -1126,9 +1126,9 @@ Find enhed</target>
         <note>Delivery status when basal is running
    Pod state when running above fifty units</note>
       </trans-unit>
-      <trans-unit id="Occlusion detected" xml:space="preserve">
+      <trans-unit id="Occlusion detected" xml:space="preserve" approved="yes">
         <source>Occlusion detected</source>
-        <target state="translated">Blokkering opdaget</target>
+        <target state="final">Okklusion opdaget</target>
         <note>Description for Occlusion detected pod fault</note>
       </trans-unit>
       <trans-unit id="Omnipod" xml:space="preserve">
@@ -1141,9 +1141,9 @@ Find enhed</target>
         <target state="translated">Parret</target>
         <note>Pod status after pairing</note>
       </trans-unit>
-      <trans-unit id="Please bring your pod closer to the RileyLink and try again" xml:space="preserve">
+      <trans-unit id="Please bring your pod closer to the RileyLink and try again" xml:space="preserve" approved="yes">
         <source>Please bring your pod closer to the RileyLink and try again</source>
-        <target state="translated">Venligst flyt pod’en tættere på din RileyLink og prøv igen</target>
+        <target state="final">Flyt pod’en tættere på din RileyLink og prøv igen</target>
         <note>Recovery suggestion when no response is received from pod</note>
       </trans-unit>
       <trans-unit id="Please pair a new pod" xml:space="preserve">
@@ -1208,9 +1208,9 @@ Find enhed</target>
         <target state="translated">Pod er ikke klar til ‘klargøring’.</target>
         <note>Error message when prime fails because the pod is in an unexpected state</note>
       </trans-unit>
-      <trans-unit id="Pod is suspended" xml:space="preserve">
+      <trans-unit id="Pod is suspended" xml:space="preserve" approved="yes">
         <source>Pod is suspended</source>
-        <target state="translated">Pod er pauset</target>
+        <target state="final">Pod er stoppet</target>
         <note>Error message action could not be performed because pod is suspended</note>
       </trans-unit>
       <trans-unit id="Pod sent ack instead of response" xml:space="preserve">
@@ -1266,9 +1266,9 @@ Find enhed</target>
         <target state="translated">Pause: %1$@ %2$@</target>
         <note>The format string describing a suspend. (1: Time)(2: Scheduled certainty</note>
       </trans-unit>
-      <trans-unit id="Suspended" xml:space="preserve">
+      <trans-unit id="Suspended" xml:space="preserve" approved="yes">
         <source>Suspended</source>
-        <target state="translated">Pauset</target>
+        <target state="final">Stoppet</target>
         <note>Delivery status when insulin delivery is suspended</note>
       </trans-unit>
       <trans-unit id="Tank fill completed" xml:space="preserve">
@@ -1412,9 +1412,9 @@ Find enhed</target>
         <target state="translated">Loop vil minde dig om at udskifte pod’en før den udløber. Du kan ændre det til et belejligt tidspunkt for dig.</target>
         <note>Class = "UILabel"; text = "Loop will remind you to change your pod before it expires. You can change this to a time convenient for you."; ObjectID = "Eng-IY-fQ7";</note>
       </trans-unit>
-      <trans-unit id="GK7-jb-tyY.text" xml:space="preserve">
+      <trans-unit id="GK7-jb-tyY.text" xml:space="preserve" approved="yes">
         <source>Please deactivate the pod. When deactivation is complete, remove pod from body.</source>
-        <target state="translated">Venligst deaktiver pod. Når deaktivering er komplet, fjernes den fra kroppen.</target>
+        <target state="final">Venligst deaktiver pod. Når deaktivering er færdig, fjernes den fra kroppen.</target>
         <note>Class = "UILabel"; text = "Please deactivate the pod. When deactivation is complete, remove pod from body."; ObjectID = "GK7-jb-tyY";</note>
       </trans-unit>
       <trans-unit id="HwT-30-f0y.title" xml:space="preserve">
@@ -1653,9 +1653,9 @@ Find enhed</target>
         <target state="translated">Slet Omnipod</target>
         <note>Button title to delete Omnipod PumpManager</note>
       </trans-unit>
-      <trans-unit id="Delivery Limits" xml:space="preserve">
+      <trans-unit id="Delivery Limits" xml:space="preserve" approved="yes">
         <source>Delivery Limits</source>
-        <target state="translated">Indgivelsesgrænser</target>
+        <target state="final">Insulin-grænser</target>
         <note>Title text for delivery limits</note>
       </trans-unit>
       <trans-unit id="Device Information" xml:space="preserve">
@@ -1753,9 +1753,9 @@ Find enhed</target>
         <target state="translated">Ufuldstændigt indstillet pod skal først deaktiveres, før der kan parres med en ny. Venligst deaktiver og fjern pod.</target>
         <note>Instructions when deactivating pod that has been paired, but not attached.</note>
       </trans-unit>
-      <trans-unit id="Incompletely set up pod must be deactivated before pairing with a new one. Please deactivate and remove pod." xml:space="preserve">
+      <trans-unit id="Incompletely set up pod must be deactivated before pairing with a new one. Please deactivate and remove pod." xml:space="preserve" approved="yes">
         <source>Incompletely set up pod must be deactivated before pairing with a new one. Please deactivate and remove pod.</source>
-        <target state="translated">Ufuldstændigt indstillet pod skal først deaktiveres, før der kan parres med en ny. Venligst deaktiver og fjern pod</target>
+        <target state="final">Ufuldstændigt indstillet pod skal først deaktiveres, før der kan parres med en ny. Venligst deaktiver og fjern pod.</target>
         <note>Instructions when deactivating pod that has been paired and possibly attached.</note>
       </trans-unit>
       <trans-unit id="Insert Cannula" xml:space="preserve">
@@ -2103,19 +2103,19 @@ Find enhed</target>
         <target state="translated">Input %@ er ugyldigt</target>
         <note>Invalid input error description (1: input)</note>
       </trans-unit>
-      <trans-unit id="Make sure the device is nearby, and the issue should resolve automatically" xml:space="preserve">
+      <trans-unit id="Make sure the device is nearby, and the issue should resolve automatically" xml:space="preserve" approved="yes">
         <source>Make sure the device is nearby, and the issue should resolve automatically</source>
-        <target state="translated">Sørg for at det eksterne apparat (eks. Rileylink) er tæt på, så bør problemet blive løst automatisk</target>
+        <target state="final">Sørg for at det eksterne apparat (eks. Rileylink) er tæt på, så bør problemet blive løst automatisk</target>
         <note>Recovery suggestion for unknown peripheral characteristic</note>
       </trans-unit>
-      <trans-unit id="Peripheral did not respond in time" xml:space="preserve">
+      <trans-unit id="Peripheral did not respond in time" xml:space="preserve" approved="yes">
         <source>Peripheral did not respond in time</source>
-        <target state="translated">Eksternt apparat (eks. Rileylink) svarede ikke i tide</target>
+        <target state="final">Eksternt apparat (eks. Rileylink) svarede ikke i tide</target>
         <note>Timeout error description</note>
       </trans-unit>
-      <trans-unit id="Peripheral isnʼt connected" xml:space="preserve">
+      <trans-unit id="Peripheral isnʼt connected" xml:space="preserve" approved="yes">
         <source>Peripheral isnʼt connected</source>
-        <target state="translated">Eksternt apparat (eks. Rileylink) er ikke forbundet</target>
+        <target state="final">Eksternt apparat (eks. Rileylink) er ikke forbundet</target>
         <note>Not ready error description</note>
       </trans-unit>
       <trans-unit id="Pump did not respond in time" xml:space="preserve">
@@ -2143,9 +2143,9 @@ Find enhed</target>
         <target state="translated">RileyLink er ikke tilsluttet</target>
         <note>Not ready error description</note>
       </trans-unit>
-      <trans-unit id="The RileyLink was temporarily disconnected" xml:space="preserve">
+      <trans-unit id="The RileyLink was temporarily disconnected" xml:space="preserve" approved="yes">
         <source>The RileyLink was temporarily disconnected</source>
-        <target state="translated">RileyLinket var midlertidigt afbrudt</target>
+        <target state="final">RileyLink'en blev midlertidigt afbrudt</target>
         <note>Failure reason: unknown peripheral characteristic</note>
       </trans-unit>
       <trans-unit id="Unknown characteristic" xml:space="preserve">
@@ -2244,9 +2244,9 @@ Find enhed</target>
         <target state="translated">Navn</target>
         <note>The title of the cell showing device name</note>
       </trans-unit>
-      <trans-unit id="RileyLink allows for communication with the pump over Bluetooth Low Energy." xml:space="preserve">
+      <trans-unit id="RileyLink allows for communication with the pump over Bluetooth Low Energy." xml:space="preserve" approved="yes">
         <source>RileyLink allows for communication with the pump over Bluetooth Low Energy.</source>
-        <target state="translated">RileyLink tillader kommunikation med pumpen vha Bluetooth Lav Energi.</target>
+        <target state="final">RileyLink tillader kommunikation med pumpen via Bluetooth Low Energy.</target>
         <note>RileyLink setup description</note>
       </trans-unit>
       <trans-unit id="Signal Strength" xml:space="preserve">
