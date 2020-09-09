@@ -337,19 +337,19 @@ Title text for the button to remove a CGM from Loop</note>
         <target state="final">Senders id</target>
         <note>Class = "UITableViewSection"; headerTitle = "Transmitter ID"; ObjectID = "Qub-6B-0aB";</note>
       </trans-unit>
-      <trans-unit id="k1N-Rg-XDy.footerTitle" xml:space="preserve">
+      <trans-unit id="k1N-Rg-XDy.footerTitle" xml:space="preserve" approved="yes">
         <source>Data can be downloaded over the Internet from Share when the transmitter connection fails.</source>
-        <target state="translated">Data kan downloades over internettet fra Share, når transmitterforbindelsen mislykkes.</target>
+        <target state="final">Data kan downloades over internettet fra Share, når transmitterforbindelsen mislykkes.</target>
         <note>Class = "UITableViewSection"; footerTitle = "Data can be downloaded over the Internet from Share when the transmitter connection fails."; ObjectID = "k1N-Rg-XDy";</note>
       </trans-unit>
-      <trans-unit id="k1N-Rg-XDy.headerTitle" xml:space="preserve">
+      <trans-unit id="k1N-Rg-XDy.headerTitle" xml:space="preserve" approved="yes">
         <source>Dexcom Share</source>
-        <target state="translated">Dexcom share</target>
+        <target state="final">Dexcom share</target>
         <note>Class = "UITableViewSection"; headerTitle = "Dexcom Share"; ObjectID = "k1N-Rg-XDy";</note>
       </trans-unit>
-      <trans-unit id="nKX-TW-GhD.placeholder" xml:space="preserve">
+      <trans-unit id="nKX-TW-GhD.placeholder" xml:space="preserve" approved="yes">
         <source>Enter the 6-digit transmitter ID</source>
-        <target state="translated">Indtast det 6-cifrede sender-ID</target>
+        <target state="final">Indtast det 6-cifrede sender-ID</target>
         <note>Class = "UITextField"; placeholder = "Enter the 6-digit transmitter ID"; ObjectID = "nKX-TW-GhD";</note>
       </trans-unit>
     </body>
@@ -359,9 +359,9 @@ Title text for the button to remove a CGM from Loop</note>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>CGMBLEKitUI</source>
-        <target state="translated">CGMBLEKitUI</target>
+        <target state="final">CGMBLEKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -371,50 +371,50 @@ Title text for the button to remove a CGM from Loop</note>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="3SD-s3-7OM.title" xml:space="preserve">
+      <trans-unit id="3SD-s3-7OM.title" xml:space="preserve" approved="yes">
         <source>Reset Complete</source>
-        <target state="translated">Nulstilling fuldført</target>
+        <target state="final">Nulstilling fuldført</target>
         <note>Class = "UINavigationItem"; title = "Reset Complete"; ObjectID = "3SD-s3-7OM";</note>
       </trans-unit>
-      <trans-unit id="7nc-6t-4hZ.title" xml:space="preserve">
+      <trans-unit id="7nc-6t-4hZ.title" xml:space="preserve" approved="yes">
         <source>Reset Transmitter</source>
-        <target state="translated">Nulstil senderen</target>
+        <target state="final">Nulstil senderen</target>
         <note>Class = "UINavigationItem"; title = "Reset Transmitter"; ObjectID = "7nc-6t-4hZ";</note>
       </trans-unit>
-      <trans-unit id="G4a-ia-wQC.placeholder" xml:space="preserve">
+      <trans-unit id="G4a-ia-wQC.placeholder" xml:space="preserve" approved="yes">
         <source>Enter the 6-digit ID</source>
-        <target state="translated">Indtast det 6-cifrede ID</target>
+        <target state="final">Indtast det 6-cifrede ID</target>
         <note>Class = "UITextField"; placeholder = "Enter the 6-digit ID"; ObjectID = "G4a-ia-wQC";</note>
       </trans-unit>
-      <trans-unit id="LBC-6R-q79.normalTitle" xml:space="preserve">
+      <trans-unit id="LBC-6R-q79.normalTitle" xml:space="preserve" approved="yes">
         <source>Reset</source>
-        <target state="translated">Nulstil</target>
+        <target state="final">Nulstil</target>
         <note>Class = "UIButton"; normalTitle = "Reset"; ObjectID = "LBC-6R-q79";</note>
       </trans-unit>
-      <trans-unit id="MbK-kj-ejl.text" xml:space="preserve">
+      <trans-unit id="MbK-kj-ejl.text" xml:space="preserve" approved="yes">
         <source>The transmitter has been successfully reset. Connect it to the app to begin a new sensor session.</source>
-        <target state="translated">Senderen er nulstillet. Tilslut det til app'en for at begynde en ny sensorsession.</target>
+        <target state="final">Senderen er nulstillet. Tilslut det til app'en for at begynde en ny sensorsession.</target>
         <note>Class = "UITextView"; text = "The transmitter has been successfully reset. Connect it to the app to begin a new sensor session."; ObjectID = "MbK-kj-ejl";</note>
       </trans-unit>
-      <trans-unit id="cJ3-Gc-pnc.text" xml:space="preserve">
+      <trans-unit id="cJ3-Gc-pnc.text" xml:space="preserve" approved="yes">
         <source>This tool can reset the clock on a transmitter that has reached its expiration date, allowing new sensor sessions to again be started.
 This may have unintended consequences for data services, such as Clarity and Share, especially when using a reset transmitter with the same account.
 Resetting cannot be undone.
 Use at your own risk.</source>
-        <target state="translated">Dette værktøj kan nulstille uret på en sender, der har nået sin udløbsdato, så det kan starte nye sensorsessioner.
+        <target state="final">Dette værktøj kan nulstille uret på en sender, der har nået sin udløbsdato, så det kan starte nye sensorsessioner.
 Dette kan have utilsigtede konsekvenser for datatjenester, som f. eks. klarhed og deling, især når du bruger en nulstillet sender med det samme konto.
 Genindstilling kan ikke fortrydes.
 Brugen er din egen risiko.</target>
         <note>Class = "UITextView"; text = "This tool can reset the clock on a transmitter that has reached its expiration date, allowing new sensor sessions to again be started.\nThis may have unintended consequences for data services, such as Clarity and Share, especially when using a reset transmitter with the same account.\nResetting cannot be undone.\nUse at your own risk."; ObjectID = "cJ3-Gc-pnc";</note>
       </trans-unit>
-      <trans-unit id="gYy-Zz-y12.text" xml:space="preserve">
+      <trans-unit id="gYy-Zz-y12.text" xml:space="preserve" approved="yes">
         <source>[Error goes here. And it can get very long and that's OK]</source>
-        <target state="translated">[Fejl vises her. Det kan blive meget langt, og det er OK]</target>
+        <target state="final">[Fejl vises her. Det kan blive meget langt, og det er OK]</target>
         <note>Class = "UILabel"; text = "[Error goes here. And it can get very long and that's OK]"; ObjectID = "gYy-Zz-y12";</note>
       </trans-unit>
-      <trans-unit id="vNG-r7-RbP.headerTitle" xml:space="preserve">
+      <trans-unit id="vNG-r7-RbP.headerTitle" xml:space="preserve" approved="yes">
         <source>Transmitter ID</source>
-        <target state="translated">Senders id</target>
+        <target state="final">Senders id</target>
         <note>Class = "UITableViewSection"; headerTitle = "Transmitter ID"; ObjectID = "vNG-r7-RbP";</note>
       </trans-unit>
     </body>
@@ -424,14 +424,14 @@ Brugen er din egen risiko.</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve" approved="yes">
         <source>Reset</source>
-        <target state="translated">Nulstil</target>
+        <target state="final">Nulstil</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>ResetTransmitter</source>
-        <target state="translated">Nulstil sender</target>
+        <target state="final">Nulstil sender</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve" approved="yes">
@@ -439,9 +439,9 @@ Brugen er din egen risiko.</target>
         <target state="final">Bluetooth bliver brugt til at kommunikere med din insulin pumpe og din blodsukker monitor</target>
         <note>Privacy - Bluetooth Always Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve">
+      <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve" approved="yes">
         <source>Bluetooth is used to communicate with continuous glucose monitor devices</source>
-        <target state="translated">Bluetooth bliver brugt til at kommunikere med din insulin pumpe og din blodsukker monitor</target>
+        <target state="final">Bluetooth bliver brugt til at kommunikere med din insulin pumpe og din sensor</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
       </trans-unit>
     </body>
@@ -451,30 +451,30 @@ Brugen er din egen risiko.</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="Are you sure you want to reset this transmitter?" xml:space="preserve">
+      <trans-unit id="Are you sure you want to reset this transmitter?" xml:space="preserve" approved="yes">
         <source>Are you sure you want to reset this transmitter?</source>
-        <target state="translated">Er du sikker på, at du vil nulstille denne sender?</target>
+        <target state="final">Er du sikker på, at du vil nulstille denne sender?</target>
         <note>Title of the reset confirmation sheet</note>
       </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
+      <trans-unit id="Cancel" xml:space="preserve" approved="yes">
         <source>Cancel</source>
-        <target state="translated">Annullere</target>
+        <target state="final">Annuller</target>
         <note>Title of button to cancel reset</note>
       </trans-unit>
-      <trans-unit id="It will take up to 10 minutes to complete." xml:space="preserve">
+      <trans-unit id="It will take up to 10 minutes to complete." xml:space="preserve" approved="yes">
         <source>It will take up to 10 minutes to complete.</source>
-        <target state="translated">Det vil tage op til 10 minutter at gennemføre.</target>
+        <target state="final">Det vil tage op til 10 minutter at gennemføre.</target>
         <note>Message of the reset confirmation sheet</note>
       </trans-unit>
-      <trans-unit id="Reset" xml:space="preserve">
+      <trans-unit id="Reset" xml:space="preserve" approved="yes">
         <source>Reset</source>
-        <target state="translated">Nulstil</target>
+        <target state="final">Nulstil</target>
         <note>Reset button title
    Title of button to begin reset</note>
       </trans-unit>
-      <trans-unit id="Transmitter Reset Complete" xml:space="preserve">
+      <trans-unit id="Transmitter Reset Complete" xml:space="preserve" approved="yes">
         <source>Transmitter Reset Complete</source>
-        <target state="translated">Nulstilling af senderen er fuldført</target>
+        <target state="final">Nulstilling af senderen er fuldført</target>
         <note>Notification title for background completion notification</note>
       </trans-unit>
     </body>
