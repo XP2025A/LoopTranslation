@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to optimize delivery of Apple Watch complication updates during the time you are awake.</source>
-        <target state="translated">Måltidsdata fra helsedatabasen brukes til å bestemme blodsukkereffekter. Blodsukkerdata fra helsedatabasen brukes til beregning av grafer og momentum. Søvndata fra helsedatabasen brukes til å optimalisere leveringen av komplikasjonsoppdateringer for Apple Watch i løpet av tiden du er våken.</target>
+        <target state="translated">Måltidsdata fra helsedatabasen brukes til å bestemme blodsukkereffekter. Blodsukkerdata fra helsedatabasen brukes til beregning av grafer og momentum. Søvndata fra helsedatabasen brukes til å optimalisere leveringen av oppdateringer for Apple Watch når du er våken.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
     </body>
@@ -690,7 +690,7 @@
       </trans-unit>
       <trans-unit id="Bolused %1$@ of %2$@" xml:space="preserve">
         <source>Bolused %1$@ of %2$@</source>
-        <target state="translated">Ga bolus %1$@ of %2$</target>
+        <target state="translated">Ga bolus %1$@ of %2$@</target>
         <note>The format string for bolus progress. (1: delivered volume)(2: total volume)</note>
       </trans-unit>
       <trans-unit id="Bolusing %1$@" xml:space="preserve">
@@ -833,7 +833,7 @@
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
         <source>Delivery Limits</source>
-        <target state="translated">Leveringsgrense</target>
+        <target state="translated">Leveringsgrenser</target>
         <note>Title text for delivery limits</note>
       </trans-unit>
       <trans-unit id="Diabetes Treatment" xml:space="preserve">
@@ -1303,7 +1303,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The maximum bolus setting must be configured before a bolus can be delivered." xml:space="preserve">
         <source>The maximum bolus setting must be configured before a bolus can be delivered.</source>
-        <target state="translated">En pumpe må konfigureres før en bolus kan leveres.</target>
+        <target state="translated">Innstillingen for maksimal bolus må må konfigureres før bolus kan leveres.</target>
         <note>Alert message for a missing maximum bolus setting error</note>
       </trans-unit>
       <trans-unit id="Therapy Settings" xml:space="preserve">
@@ -1333,7 +1333,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Unable to stop the bolus in progress. Move your iPhone closer to the pump and try again. Check your insulin delivery history for details, and monitor your glucose closely." xml:space="preserve">
         <source>Unable to stop the bolus in progress. Move your iPhone closer to the pump and try again. Check your insulin delivery history for details, and monitor your glucose closely.</source>
-        <target state="needs-translation">Unable to stop the bolus in progress. Move your iPhone closer to the pump and try again. Check your insulin delivery history for details, and monitor your glucose closely.</target>
+        <target state="translated">Pågående bolus kan ikke stoppes. Flytt iPhone eller link nærmere pumpen, og prøv igjen. Sjekk historikken for insulinleveranser, og overvåk blodsukkeret nøye.</target>
         <note>The alert body for an error while canceling a bolus</note>
       </trans-unit>
       <trans-unit id="Use Workout Glucose Targets" xml:space="preserve">
@@ -1893,7 +1893,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="REC: Calculating..." xml:space="preserve">
         <source>REC: Calculating...</source>
-        <target state="needs-translation">REC: Calculating...</target>
+        <target state="translated">Beregner anbefalt bolus...</target>
         <note>Indicator that recommended bolus computation is in progress on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Rec: %@ U" xml:space="preserve">
@@ -2065,7 +2065,7 @@ to bolus</target>
       </trans-unit>
       <trans-unit id="XkS-y5-khE.text" xml:space="preserve">
         <source>&lt;body&gt;</source>
-        <target state="needs-translation">&lt;body&gt;</target>
+        <target state="translated">&lt;body&gt;</target>
         <note>Class = "WKInterfaceLabel"; text = "&lt;body&gt;"; ObjectID = "XkS-y5-khE";</note>
       </trans-unit>
       <trans-unit id="dPh-7b-Tfv.title" xml:space="preserve">
@@ -2105,17 +2105,17 @@ to bolus</target>
       </trans-unit>
       <trans-unit id="rNf-Mh-tID.title" xml:space="preserve">
         <source>Loop</source>
-        <target state="needs-translation">Loop</target>
+        <target state="translated">Loop</target>
         <note>Class = "WKInterfaceController"; title = "Loop"; ObjectID = "rNf-Mh-tID";</note>
       </trans-unit>
       <trans-unit id="smL-Rc-IZh.text" xml:space="preserve">
         <source>Bolus</source>
-        <target state="needs-translation">Bolus</target>
+        <target state="translated">Bolus</target>
         <note>Class = "WKInterfaceLabel"; text = "Bolus"; ObjectID = "smL-Rc-IZh";</note>
       </trans-unit>
       <trans-unit id="v5b-sO-bb8.title" xml:space="preserve">
         <source>Loop</source>
-        <target state="needs-translation">Loop</target>
+        <target state="translated">Loop</target>
         <note>Class = "WKInterfaceController"; title = "Loop"; ObjectID = "v5b-sO-bb8";</note>
       </trans-unit>
       <trans-unit id="vL1-NA-WZ1.title" xml:space="preserve">
