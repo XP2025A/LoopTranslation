@@ -898,7 +898,7 @@
       </trans-unit>
       <trans-unit id="Exceeds Maximum Bolus" xml:space="preserve">
         <source>Exceeds Maximum Bolus</source>
-        <target state="translated">Overskrider maks bolus</target>
+        <target state="translated">Overskrider maksimal bolus</target>
         <note>The title of the alert describing a maximum bolus validation error</note>
       </trans-unit>
       <trans-unit id="Fiasp" xml:space="preserve">
@@ -1085,7 +1085,7 @@
       </trans-unit>
       <trans-unit id="No Maximum Bolus Configured" xml:space="preserve">
         <source>No Maximum Bolus Configured</source>
-        <target state="translated">Ingen maksimal bolus konfigurert</target>
+        <target state="translated">Ingen maksimal bolus er konfigurert</target>
         <note>Alert title for a missing maximum bolus setting error</note>
       </trans-unit>
       <trans-unit id="No Pump Configured" xml:space="preserve">
@@ -1298,7 +1298,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ Units" xml:space="preserve">
         <source>The maximum bolus amount is %@ Units</source>
-        <target state="translated">Maks bolus er satt til %@ enheter</target>
+        <target state="translated">Maksimal bolus er satt til %@ enheter</target>
         <note>Body of the alert describing a maximum bolus validation error. (1: The localized max bolus value)</note>
       </trans-unit>
       <trans-unit id="The maximum bolus setting must be configured before a bolus can be delivered." xml:space="preserve">
