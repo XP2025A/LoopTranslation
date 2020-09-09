@@ -141,7 +141,7 @@
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve">
         <source>Predicted glucose of %1$@ is below your suspend threshold setting.</source>
-        <target state="translated">Det förväntade slutglukosvärdet %1$@ är under ditt angivna tröskelvärde.</target>
+        <target state="translated">Det framtida beräknade blodglukosvärdet %1$@ är under ditt angivna tröskelvärde.</target>
         <note>Notice message when recommending bolus when BG is below the suspend threshold. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
@@ -306,12 +306,12 @@
     <body>
       <trans-unit id="9iF-xY-Bh4.text" xml:space="preserve">
         <source>Active Carbs</source>
-        <target state="translated">Förväntat 5,1 mmol/l</target>
+        <target state="translated">Aktiva kolhydrater</target>
         <note>Class = "UILabel"; text = "Active Carbs"; ObjectID = "9iF-xY-Bh4";</note>
       </trans-unit>
       <trans-unit id="UPi-dG-yYD.text" xml:space="preserve">
         <source>Active Insulin</source>
-        <target state="translated">IOB 1.0 E</target>
+        <target state="translated">Aktivt insulin</target>
         <note>Class = "UILabel"; text = "Active Insulin"; ObjectID = "UPi-dG-yYD";</note>
       </trans-unit>
       <trans-unit id="Vgf-p1-2QP.text" xml:space="preserve">
@@ -385,7 +385,7 @@
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Carbohydrate meal data entered in the app and on the watch is stored in the Health database. Glucose data retrieved from the CGM is stored securely in HealthKit.</source>
-        <target state="translated">Kolhydratvärden inmatade i appen i klockan lagras i Apple Health-databasen. Glukosvärden mottagna från CGM lagras krypterat i HealthKit.</target>
+        <target state="translated">Kolhydratvärden inmatade i appen i klockan lagras i Apple Health-databasen. Glukosvärden mottagna från CGM lagras säkert i HealthKit.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -493,7 +493,7 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
       </trans-unit>
       <trans-unit id="30 min comparison of glucose prediction vs actual, continued with decay over 60 min" xml:space="preserve">
         <source>30 min comparison of glucose prediction vs actual, continued with decay over 60 min</source>
-        <target state="translated">30 min jämförelse av glukosprediktion och faktiskt värde, fortsatt med 60 miuters avklingande.</target>
+        <target state="translated">30 min jämförelse av glukosprediktion och faktiskt värde, fortsatt med 60 minuters avklingande</target>
         <note>Description of the prediction input effect for retrospective correction</note>
       </trans-unit>
       <trans-unit id="A manual glucose entry must be between %@ and %@" xml:space="preserve">
@@ -761,7 +761,7 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
       </trans-unit>
       <trans-unit id="Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." xml:space="preserve">
         <source>Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact.</source>
-        <target state="translated">Välj en längre absorbtionstid för stora måltider eller måltider som innehåller fett och protein. Detta är endast en rekommendation till algoritmen och behöver inte vara exakt.</target>
+        <target state="translated">Välj en längre absorptionstid för stora måltider eller måltider som innehåller fett och protein. Detta är endast en rekommendation till algoritmen och behöver inte vara exakt.</target>
         <note>Carb entry section footer text explaining absorption time</note>
       </trans-unit>
       <trans-unit id="Closed Loop" xml:space="preserve">
@@ -897,7 +897,7 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
       </trans-unit>
       <trans-unit id="Exceeds Maximum Bolus" xml:space="preserve">
         <source>Exceeds Maximum Bolus</source>
-        <target state="translated">Överstiger maxbolusdos</target>
+        <target state="translated">Överstiger din inställning för maxbolus</target>
         <note>The title of the alert describing a maximum bolus validation error</note>
       </trans-unit>
       <trans-unit id="Fiasp" xml:space="preserve">
@@ -1287,7 +1287,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve">
         <source>The legacy model used by Loop, allowing customization of action duration.</source>
-        <target state="translated">Äldre modell använd av Loop, vilken tillåter anpassing av effektvaraktighet.</target>
+        <target state="translated">Äldre modell använd av Loop, vilken tillåter anpassning av insulinets verkningstid.</target>
         <note>Subtitle description of Walsh insulin model setting</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ U." xml:space="preserve">
@@ -1347,7 +1347,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
         <source>When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</source>
-        <target state="translated">När nuvarande eller förväntat slutglukosvärde är under tröskelvärdet kommer Loop inte att rekommendera en bolus, utan kommer alltid att föreslå en temporär basal på 0 enheter per timme.</target>
+        <target state="translated">När nuvarande eller förväntat framtida blodglukosvärde är under tröskelvärdet kommer Loop inte att rekommendera en bolus, och dessutom alltid att föreslå en temporär basal på 0 enheter per timme.</target>
         <note>Explanation of suspend threshold</note>
       </trans-unit>
       <trans-unit id="Workout Targets" xml:space="preserve">
@@ -1867,7 +1867,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Please reconfirm the bolus amount." xml:space="preserve">
         <source>Please reconfirm the bolus amount.</source>
-        <target state="translated">Bekräfta bolusmängd igen.</target>
+        <target state="translated">Bekräfta bolusmängd.</target>
         <note>Alert message for updated bolus recommendation on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Pre-Meal" xml:space="preserve">
