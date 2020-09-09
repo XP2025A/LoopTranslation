@@ -84,9 +84,9 @@
         <target state="translated">Genererer data</target>
         <note>The title for the cell displaying data generation</note>
       </trans-unit>
-      <trans-unit id="Insulin Sensitivity" xml:space="preserve">
+      <trans-unit id="Insulin Sensitivity" xml:space="preserve" approved="yes">
         <source>Insulin Sensitivity</source>
-        <target state="translated">Insulin følsomhed</target>
+        <target state="final">Insulinfølsomhed</target>
         <note>The title of the insulin sensitivity schedule screen
    The title text for the insulin sensitivity schedule</note>
       </trans-unit>
@@ -179,9 +179,9 @@
         <target state="translated">Kommunikations fejl</target>
         <note>Generic pump error description</note>
       </trans-unit>
-      <trans-unit id="Connection Failure" xml:space="preserve">
+      <trans-unit id="Connection Failure" xml:space="preserve" approved="yes">
         <source>Connection Failure</source>
-        <target state="translated">Forbindelses fejl</target>
+        <target state="final">Forbindelsesfejl</target>
         <note>Generic pump error description</note>
       </trans-unit>
       <trans-unit id="Correction Range" xml:space="preserve">
@@ -209,9 +209,9 @@
         <target state="translated">Sørg for at kulhydrat data findes for den angivne dato</target>
         <note>Recovery suggestion for a no data error</note>
       </trans-unit>
-      <trans-unit id="Falling" xml:space="preserve">
+      <trans-unit id="Falling" xml:space="preserve" approved="yes">
         <source>Falling</source>
-        <target state="translated">Falder</target>
+        <target state="final">Faldende</target>
         <note>Glucose trend down</note>
       </trans-unit>
       <trans-unit id="Falling fast" xml:space="preserve">
@@ -229,14 +229,14 @@
         <target state="translated">Flad</target>
         <note>Glucose trend flat</note>
       </trans-unit>
-      <trans-unit id="Insulin Model" xml:space="preserve">
+      <trans-unit id="Insulin Model" xml:space="preserve" approved="yes">
         <source>Insulin Model</source>
-        <target state="translated">Insulin type</target>
+        <target state="final">Insulinmodel</target>
         <note>Title text for insulin model</note>
       </trans-unit>
-      <trans-unit id="Insulin Sensitivities" xml:space="preserve">
+      <trans-unit id="Insulin Sensitivities" xml:space="preserve" approved="yes">
         <source>Insulin Sensitivities</source>
-        <target state="translated">Insulin følsomheder</target>
+        <target state="final">Insulinfølsomheder</target>
         <note>Title text for insulin sensitivity</note>
       </trans-unit>
       <trans-unit id="Invalid Configuration" xml:space="preserve">
@@ -324,9 +324,9 @@
         <target state="translated">Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end.</target>
         <note>Description of pre-meal mode</note>
       </trans-unit>
-      <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." xml:space="preserve">
+      <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." xml:space="preserve" approved="yes">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end.</source>
-        <target state="translated">Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end.</target>
+        <target state="final">Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end.</target>
         <note>Description of workout mode</note>
       </trans-unit>
       <trans-unit id="Temporary Correction Ranges" xml:space="preserve">
@@ -578,9 +578,9 @@
         <target state="translated">Reservoir</target>
         <note>Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[0] = "Reservoir"; ObjectID = "TyZ-xm-mVN";</note>
       </trans-unit>
-      <trans-unit id="TyZ-xm-mVN.segmentTitles[1]" xml:space="preserve">
+      <trans-unit id="TyZ-xm-mVN.segmentTitles[1]" xml:space="preserve" approved="yes">
         <source>Event History</source>
-        <target state="translated">Hændelses log</target>
+        <target state="final">Hændelseshistorik</target>
         <note>Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[1] = "Event History"; ObjectID = "TyZ-xm-mVN";</note>
       </trans-unit>
       <trans-unit id="dZi-Ta-IHm.text" xml:space="preserve">
@@ -1259,9 +1259,9 @@
         <target state="translated">Status.</target>
         <note>Accessibility label for ProgressIndicatorView when showIndeterminantProgress</note>
       </trans-unit>
-      <trans-unit id="Pump Event" xml:space="preserve">
+      <trans-unit id="Pump Event" xml:space="preserve" approved="yes">
         <source>Pump Event</source>
-        <target state="translated">Pumpe hændelse</target>
+        <target state="final">Pumpe hændelse</target>
         <note>The title of the screen displaying a pump event</note>
       </trans-unit>
       <trans-unit id="Rapid-Acting – Adults" xml:space="preserve">
