@@ -360,12 +360,12 @@
       </trans-unit>
       <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">
         <source>Bluetooth is used to communicate with insulin pump and continuous glucose monitor devices.</source>
-        <target state="translated">Bluetooth används för att kommunicera med insulinpump och CGM.</target>
+        <target state="translated">Bluetooth används för kommunikation med insulinpump och CGM.</target>
         <note>Privacy - Bluetooth Always Usage Description</note>
       </trans-unit>
       <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve">
         <source>Bluetooth is used to communicate with insulin pump and continuous glucose monitor devices.</source>
-        <target state="translated">Bluetooth används för att kommunicera med insulinpump och CGM.</target>
+        <target state="translated">Bluetooth används för kommunikation med insulinpump och CGM.</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
@@ -380,12 +380,12 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to improve the Apple Watch complication.</source>
-        <target state="translated">Kolhydratdata från Apple Health-databasen används för att bestämma effekten på glukosvärde. Glukosvärden från Apple Health-databasen används i diagram och för beräkning av förändring.</target>
+        <target state="translated">Kolhydratdata från Apple Health-databasen används för att avgöra glukoseffekt. Blodglukosvärden från Apple Health-databasen används i diagram och för beräkning av förändring.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Carbohydrate meal data entered in the app and on the watch is stored in the Health database. Glucose data retrieved from the CGM is stored securely in HealthKit.</source>
-        <target state="translated">Kolhydratvärden inmatade i appen i klockan lagras i Apple Health-databasen. Glukosvärden mottagna från CGM lagras säkert i HealthKit.</target>
+        <target state="translated">Kolhydratvärden inmatade i Watch-appen lagras i Apple Health-databasen. Blodglukosvärden mottagna från CGM lagras säkert i HealthKit.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -679,7 +679,7 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
       </trans-unit>
       <trans-unit id="Bolus Recommendation Updated" xml:space="preserve">
         <source>Bolus Recommendation Updated</source>
-        <target state="translated">Bolusrekommendation uppdaterad</target>
+        <target state="translated">Bolusrekommendation har uppdaterats</target>
         <note>Alert title for an updated bolus recommendation</note>
       </trans-unit>
       <trans-unit id="Bolus Summary" xml:space="preserve">
@@ -694,7 +694,7 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
       </trans-unit>
       <trans-unit id="Bolusing %1$@" xml:space="preserve">
         <source>Bolusing %1$@</source>
-        <target state="translated">Ger bolus %1$@ </target>
+        <target state="translated">Ger bolus %1$@</target>
         <note>The format string for bolus in progress showing total volume. (1: total volume)</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -1109,7 +1109,7 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
       </trans-unit>
       <trans-unit id="Override Presets" xml:space="preserve">
         <source>Override Presets</source>
-        <target state="translated">Override förinställningar</target>
+        <target state="translated">Undantag förinställningar</target>
         <note>The title text for the override presets</note>
       </trans-unit>
       <trans-unit id="Pre-Meal Targets" xml:space="preserve">
@@ -1191,7 +1191,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Recommended Basal" xml:space="preserve">
         <source>Recommended Basal</source>
-        <target state="translated">Rekommenderat basalvärde</target>
+        <target state="translated">Rekommenderad basaldos</target>
         <note>The title of the cell displaying a recommended temp basal value</note>
       </trans-unit>
       <trans-unit id="Recommended Bolus" xml:space="preserve">
@@ -1241,7 +1241,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Shows last loop error" xml:space="preserve">
         <source>Shows last loop error</source>
-        <target state="translated">Visar senaste loopfelet</target>
+        <target state="translated">Visar senaste Loop-fel</target>
         <note>Loop Completion HUD accessibility hint</note>
       </trans-unit>
       <trans-unit id="Site URL" xml:space="preserve">
@@ -1282,7 +1282,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The bolus recommendation has updated. Please reconfirm the bolus amount." xml:space="preserve">
         <source>The bolus recommendation has updated. Please reconfirm the bolus amount.</source>
-        <target state="translated">Bolusrekommendationen har uppdaterats. Konfirmera bolus</target>
+        <target state="translated">Bolusrekommendationen har uppdaterats. Bekräfta bolus.</target>
         <note>Alert message for an updated bolus recommendation</note>
       </trans-unit>
       <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve">
