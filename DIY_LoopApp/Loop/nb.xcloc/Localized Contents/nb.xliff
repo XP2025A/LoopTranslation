@@ -306,7 +306,7 @@
     <body>
       <trans-unit id="9iF-xY-Bh4.text" xml:space="preserve">
         <source>Active Carbs</source>
-        <target state="translated">Omsider 92 mg/dL</target>
+        <target state="translated">Aktive karbohydrater</target>
         <note>Class = "UILabel"; text = "Active Carbs"; ObjectID = "9iF-xY-Bh4";</note>
       </trans-unit>
       <trans-unit id="UPi-dG-yYD.text" xml:space="preserve">
@@ -499,7 +499,7 @@
       </trans-unit>
       <trans-unit id="A manual glucose entry must be between %@ and %@" xml:space="preserve">
         <source>A manual glucose entry must be between %1$@ and %2$@</source>
-        <target state="translated">En manuell glukoseoppføring må være mellom %1$@ og %2$@</target>
+        <target state="translated">Manuelle registreringer av glukose må være mellom %1$@ og %2$@</target>
         <note>Alert message for a manual glucose entry out of range error</note>
       </trans-unit>
       <trans-unit id="A model based on the published absorption of Fiasp insulin." xml:space="preserve">
@@ -613,7 +613,7 @@
       </trans-unit>
       <trans-unit id="An error occurred while trying to save your carb entry." xml:space="preserve">
         <source>An error occurred while trying to save your carb entry.</source>
-        <target state="translated">Det oppsto en feil under forsøk på å lagre oppføringen av karbohydrater.</target>
+        <target state="translated">Det oppsto en feil under forsøk på å lagre karbohydrater.</target>
         <note>Alert message for a carb entry persistence error</note>
       </trans-unit>
       <trans-unit id="An error occurred while trying to save your manual glucose entry." xml:space="preserve">
@@ -685,7 +685,7 @@
       </trans-unit>
       <trans-unit id="Bolus Summary" xml:space="preserve">
         <source>Bolus Summary</source>
-        <target state="translated">Bolus Sammendrag</target>
+        <target state="translated">Bolus-sammendrag</target>
         <note>Title for card displaying carb entry and bolus recommendation</note>
       </trans-unit>
       <trans-unit id="Bolused %1$@ of %2$@" xml:space="preserve">
@@ -762,7 +762,7 @@
       </trans-unit>
       <trans-unit id="Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." xml:space="preserve">
         <source>Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact.</source>
-        <target state="translated">Velg en lengre absorpsjonstid for større måltider, eller de som inneholder fett og proteiner. Dette er bare veiledning til algoritmen og trenger ikke å være helt nøyaktig.</target>
+        <target state="translated">Velg en lengre absorpsjonstid for større måltider, eller de som inneholder fett og proteiner. Dette er bare en veiledning til algoritmen, og trenger ikke være helt nøyaktig.</target>
         <note>Carb entry section footer text explaining absorption time</note>
       </trans-unit>
       <trans-unit id="Closed Loop" xml:space="preserve">
@@ -1222,7 +1222,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Save and Deliver" xml:space="preserve">
         <source>Save and Deliver</source>
-        <target state="translated">Lagre og gi bolus</target>
+        <target state="translated">Lagre, og gi bolus</target>
         <note>Button text to save carbs and/or manual glucose entry and deliver a bolus</note>
       </trans-unit>
       <trans-unit id="Save without Bolusing" xml:space="preserve">
@@ -1313,7 +1313,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Turn on Bluetooth to receive alerts, alarms or sensor glucose readings." xml:space="preserve">
         <source>Turn on Bluetooth to receive alerts, alarms or sensor glucose readings.</source>
-        <target state="needs-translation">Turn on Bluetooth to receive alerts, alarms or sensor glucose readings.</target>
+        <target state="translated">Slå på Bluetooth for å motta varsler, alarmer eller avlesninger fra glukosesensor.</target>
         <note>Bluetooth off foreground alert body</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
@@ -1323,7 +1323,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Unable to Save Carb Entry" xml:space="preserve">
         <source>Unable to Save Carb Entry</source>
-        <target state="needs-translation">Unable to Save Carb Entry</target>
+        <target state="translated">Kunne ikke lagre karbohydrater</target>
         <note>Alert title for a carb entry persistence error</note>
       </trans-unit>
       <trans-unit id="Unable to Save Manual Glucose Entry" xml:space="preserve">
@@ -1368,12 +1368,12 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="carb-entry-title-add" xml:space="preserve">
         <source>Add Carb Entry</source>
-        <target state="needs-translation">Add Carb Entry</target>
+        <target state="translated">Legg til karbohydrater</target>
         <note>The title of the view controller to create a new carb entry</note>
       </trans-unit>
       <trans-unit id="carb-entry-title-edit" xml:space="preserve">
         <source>Edit Carb Entry</source>
-        <target state="needs-translation">Edit Carb Entry</target>
+        <target state="translated">Endre karbohydrater</target>
         <note>The title of the view controller to edit an existing carb entry</note>
       </trans-unit>
       <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve">
@@ -1480,7 +1480,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="IxU-As-glo.text" xml:space="preserve">
         <source>Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption.</source>
-        <target state="translated">Observerte endringer i blodsukker, minus endringer fra levert insulin, kan brukes for å estimere absorpsjon av karbohydrater.</target>
+        <target state="translated">Endringer i blodsukker og forventet effekt av insulin kan brukes for å estimere absorpsjon av karbohydrater.</target>
         <note>Class = "UILabel"; text = "Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption."; ObjectID = "IxU-As-glo";</note>
       </trans-unit>
       <trans-unit id="J7x-W5-gwo.text" xml:space="preserve">
@@ -1525,7 +1525,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Tz7-80-bJ7.title" xml:space="preserve">
         <source>Add/Edit Carb Entry</source>
-        <target state="needs-translation">Add/Edit Carb Entry</target>
+        <target state="translated">Legg til/endre karbohydrater</target>
         <note>Class = "UINavigationItem"; title = "Add/Edit Carb Entry"; ObjectID = "Tz7-80-bJ7";</note>
       </trans-unit>
       <trans-unit id="Vpi-5b-bY5.title" xml:space="preserve">
@@ -1800,7 +1800,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Add Carb Entry" xml:space="preserve">
         <source>Add Carb Entry</source>
-        <target state="needs-translation">Add Carb Entry</target>
+        <target state="translated">Legg til karbohydrater</target>
         <note>Title of the user activity for adding carbs</note>
       </trans-unit>
       <trans-unit id="Bolus" xml:space="preserve">
@@ -1820,7 +1820,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
         <source>Continue</source>
-        <target state="needs-translation">Continue</target>
+        <target state="translated">Fortsett</target>
         <note>Button text to continue from carb entry to bolus entry on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
@@ -1908,17 +1908,17 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Lagre</target>
         <note>Button text to confirm carb entry without bolusing on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Save &amp; Bolus" xml:space="preserve">
         <source>Save &amp; Bolus</source>
-        <target state="needs-translation">Save &amp; Bolus</target>
+        <target state="translated">Lagre &amp; bolus</target>
         <note>Button text to confirm carb entry and bolus on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Send Failed" xml:space="preserve">
         <source>Send Failed</source>
-        <target state="translated">Send mislyktes</target>
+        <target state="translated">Sending mislyktes</target>
         <note>The title of the alert controller displayed after a carb entry send attempt fails
    The title of the alert controller displayed after a glucose range override send attempt fails</note>
       </trans-unit>
@@ -1941,7 +1941,7 @@ to bolus</target>
       </trans-unit>
       <trans-unit id="Unable to Reach iPhone" xml:space="preserve">
         <source>Unable to Reach iPhone</source>
-        <target state="needs-translation">Unable to Reach iPhone</target>
+        <target state="translated">Kan ikke nå iPhone</target>
         <note>The title of the alert controller displayed after a potential carb entry send attempt fails</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
