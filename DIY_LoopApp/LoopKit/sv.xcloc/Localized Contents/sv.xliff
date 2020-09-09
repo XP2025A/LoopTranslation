@@ -376,7 +376,7 @@
       </trans-unit>
       <trans-unit id="When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus." xml:space="preserve">
         <source>When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus.</source>
-        <target state="translated">När nuvarande, eller beräknat framtida, blodsockervärde är under ditt tröskelvärde, kommer Loop att föreslå en basaldos på 0 E/hr och kommer dessutom inte att rekommendera en bolus.</target>
+        <target state="translated">När nuvarande, eller beräknat framtida blodsockervärde är under ditt tröskelvärde, kommer Loop att föreslå en basaldos på 0 E/timme och dessutom aldrig att rekommendera en bolus.</target>
         <note>Descriptive text for suspend threshold</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
@@ -970,7 +970,7 @@
       </trans-unit>
       <trans-unit id="Editing affects only the active override. The default settings of %@ will not be affected." xml:space="preserve">
         <source>Editing affects only the active override. The default settings of %@ will not be affected.</source>
-        <target state="translated">Ändringar ändrar endast aktiv Override. De ordinarie inställningarna på %@ kommer inte att påverkas</target>
+        <target state="translated">Ändringar ändrar endast aktivt Undantag. De ordinarie inställningarna på %@ kommer inte att påverkas.</target>
         <note>Footer text for editing an active override (1: preset name)</note>
       </trans-unit>
       <trans-unit id="Edits persist only until the preset is disabled. The default settings of %@ will not be affected." xml:space="preserve">
@@ -995,7 +995,7 @@
       </trans-unit>
       <trans-unit id="Enter a number of units" xml:space="preserve">
         <source>Enter a number of units</source>
-        <target state="translated">Ange antal eheter</target>
+        <target state="translated">Ange antal enheter</target>
         <note>The placeholder text instructing users how to enter a maximum bolus</note>
       </trans-unit>
       <trans-unit id="Enter a rate in units per hour" xml:space="preserve">
@@ -1065,7 +1065,7 @@
       </trans-unit>
       <trans-unit id="High Maximum Bolus" xml:space="preserve">
         <source>High Maximum Bolus</source>
-        <target state="translated">Hög maxmal bolus</target>
+        <target state="translated">Hög maximal bolus</target>
         <note>Title text for high maximum bolus warning</note>
       </trans-unit>
       <trans-unit id="High Suspend Threshold" xml:space="preserve">
@@ -1085,7 +1085,7 @@
       </trans-unit>
       <trans-unit id="Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." xml:space="preserve">
         <source>Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose.</source>
-        <target state="translated">Insulinkänslighet beskriver hur ditt blodglukos svarar på 1 enhet insulin.Mindre värden innebär att mer insulin kommer att ges när över målvärde. Värden som är för små kan orsaka farligt lågt blodsocker. </target>
+        <target state="translated">Insulinkänslighet beskriver hur ditt blodglukos svarar på 1 enhet insulin. Mindre värden innebär att mer insulin kommer att ges när blodsocker är över målvärde. Värden som är för små kan orsaka farligt låga blodsocker.</target>
         <note>The description shown on the insulin sensitivity schedule interface.</note>
       </trans-unit>
       <trans-unit id="Loop supports 1 to 48 rates per day." xml:space="preserve">
@@ -1221,12 +1221,12 @@
       </trans-unit>
       <trans-unit id="Override Presets" xml:space="preserve">
         <source>Override Presets</source>
-        <target state="translated">Override förinställningar</target>
+        <target state="translated">Förinställningar för Undantag</target>
         <note>The title text for the override presets screen</note>
       </trans-unit>
       <trans-unit id="Override presets can be set up under the 'Configuration' section of the settings screen." xml:space="preserve">
         <source>Override presets can be set up under the 'Configuration' section of the settings screen.</source>
-        <target state="translated">Override förinställningar kan ställas in under ‘Konfiguration’ i menyn inställningar.</target>
+        <target state="translated">Förinställningar för undantag kan ställas in under ‘Konfiguration’ i menyn inställningar.</target>
         <note>Text directing the user to configure override presets</note>
       </trans-unit>
       <trans-unit id="Overrides" xml:space="preserve">
@@ -1548,7 +1548,7 @@
       </trans-unit>
       <trans-unit id="Units" xml:space="preserve">
         <source>Units</source>
-        <target state="translated">Eheter</target>
+        <target state="translated">Enheter</target>
         <note>The unit string for units</note>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
