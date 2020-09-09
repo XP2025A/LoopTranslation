@@ -57,9 +57,9 @@
         <target state="translated">Tomt reservoir</target>
         <note>Description for Empty reservoir pod fault</note>
       </trans-unit>
-      <trans-unit id="Error event logged, shutting down" xml:space="preserve">
+      <trans-unit id="Error event logged, shutting down" xml:space="preserve" approved="yes">
         <source>Error event logged, shutting down</source>
-        <target state="translated">Fejl hændelse logget, lukker ned</target>
+        <target state="final">Fejl hændelse logget, lukker ned</target>
         <note>Pod state error event logged shutting down</note>
       </trans-unit>
       <trans-unit id="Expiration alert" xml:space="preserve">
@@ -206,14 +206,14 @@
         <target state="translated">En bolus er allerede i gang</target>
         <note>Communications error for a bolus currently running</note>
       </trans-unit>
-      <trans-unit id="AlarmClockReminder" xml:space="preserve">
+      <trans-unit id="AlarmClockReminder" xml:space="preserve" approved="yes">
         <source>AlarmClockReminder</source>
-        <target state="translated">AlarmUrPåmindelse</target>
+        <target state="final">AlarmUrPåmindelse</target>
         <note>The description of AlarmClockReminderPumpEvent</note>
       </trans-unit>
-      <trans-unit id="AlarmSensor" xml:space="preserve">
+      <trans-unit id="AlarmSensor" xml:space="preserve" approved="yes">
         <source>AlarmSensor</source>
-        <target state="translated">AlarmSensor</target>
+        <target state="final">AlarmSensor</target>
         <note>The description of AlarmSensorPumpEvent</note>
       </trans-unit>
       <trans-unit id="Alkaline" xml:space="preserve">
@@ -221,9 +221,9 @@
         <target state="translated">Alkaline</target>
         <note>Describing the battery chemistry as Alkaline</note>
       </trans-unit>
-      <trans-unit id="Basal Profile %1$@: %2$@ U/hour" xml:space="preserve">
+      <trans-unit id="Basal Profile %1$@: %2$@ U/hour" xml:space="preserve" approved="yes">
         <source>Basal Profile %1$@: %2$@ U/hour</source>
-        <target state="translated">Basal profil %1$@: %2$@ E/time</target>
+        <target state="final">Basal profil %1$@: %2$@ E/time</target>
         <note>The format string description of a BasalProfileStartPumpEvent. (1: The index of the profile)(2: The basal rate)</note>
       </trans-unit>
       <trans-unit id="Bolus in progress" xml:space="preserve">
@@ -261,9 +261,9 @@
         <target state="translated">Enheds fejl</target>
         <note>Error description</note>
       </trans-unit>
-      <trans-unit id="Event History" xml:space="preserve">
+      <trans-unit id="Event History" xml:space="preserve" approved="yes">
         <source>Event History</source>
-        <target state="translated">Hændelses log</target>
+        <target state="final">Hændelseshistorik</target>
         <note>Describing the pump history insulin data source</note>
       </trans-unit>
       <trans-unit id="History page does not exist" xml:space="preserve">
@@ -341,19 +341,19 @@
         <target state="translated">RileyLink radio indstilling fejlede</target>
         <note>Error description</note>
       </trans-unit>
-      <trans-unit id="Temporary Basal: %1$.3f U/hour" xml:space="preserve">
+      <trans-unit id="Temporary Basal: %1$.3f U/hour" xml:space="preserve" approved="yes">
         <source>Temporary Basal: %1$.3f U/hour</source>
-        <target state="translated">Midlertidig basal: %1$.3f E/time</target>
+        <target state="final">Midlertidig basal: %1$.3f E/time</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in minutes)</note>
       </trans-unit>
-      <trans-unit id="Temporary Basal: %1$d min" xml:space="preserve">
+      <trans-unit id="Temporary Basal: %1$d min" xml:space="preserve" approved="yes">
         <source>Temporary Basal: %1$d min</source>
-        <target state="translated">Midlertidig basal: %1$d min</target>
+        <target state="final">Midlertidig basal: %1$d min</target>
         <note>The format string description of a TempBasalDurationPumpEvent. (1: The duration of the temp basal in minutes)</note>
       </trans-unit>
-      <trans-unit id="Temporary Basal: %1$d%%" xml:space="preserve">
+      <trans-unit id="Temporary Basal: %1$d%%" xml:space="preserve" approved="yes">
         <source>Temporary Basal: %1$d%%</source>
-        <target state="translated">Midlertidig basal: %1$d%%</target>
+        <target state="final">Midlertidig basal: %1$d%%</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in percent)</note>
       </trans-unit>
       <trans-unit id="Unknown pump error code: %1$@" xml:space="preserve">
@@ -606,9 +606,9 @@
         <target state="final">Hent statistik…</target>
         <note>Progress message for getting statistics.</note>
       </trans-unit>
-      <trans-unit id="Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option." xml:space="preserve">
+      <trans-unit id="Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option." xml:space="preserve" approved="yes">
         <source>Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option.</source>
-        <target state="translated">Levering af insulin kan blive bestemt fra pumpen ved enten at tolke på begivenheds historikken eller ved at sammenligne volumen af reservoiret over tid. Aflæsning af begivenheds historik kan give mere præcise status grafer og uploading af up-to-date behandlings data til Nightscout, ved bekostning af hurtigere dræning af pumpe batteriet, risiko for højere fejlrate i radiokommunikation i forhold til aflæsning af volumen af reservoiret. Hvis den valgte kilde ikke kan anvendes, af en eller anden grund, så vil systemet falde tilbage på den anden mulighed.</target>
+        <target state="final">Levering af insulin kan blive bestemt fra pumpen ved enten at tolke på begivenheds historikken eller ved at sammenligne volumen af reservoiret over tid. Aflæsning af begivenheds historik kan give mere præcise status grafer og uploading af up-to-date behandlings data til Nightscout, ved bekostning af hurtigere dræning af pumpe batteriet, risiko for højere fejlrate i radiokommunikation i forhold til aflæsning af volumen af reservoiret. Hvis den valgte kilde ikke kan anvendes, af en eller anden grund, så vil systemet falde tilbage på den anden mulighed.</target>
         <note>Instructions on selecting an insulin data source</note>
       </trans-unit>
       <trans-unit id="Last Awake" xml:space="preserve">
@@ -1048,9 +1048,9 @@ Find enhed</target>
         <target state="translated">Ingen svar fra pod</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
-      <trans-unit id="Error event logged, shutting down" xml:space="preserve">
+      <trans-unit id="Error event logged, shutting down" xml:space="preserve" approved="yes">
         <source>Error event logged, shutting down</source>
-        <target state="translated">Fejl hændelse logget, lukker ned</target>
+        <target state="final">Fejl hændelse logget, lukker ned</target>
         <note>Pod state error event logged shutting down</note>
       </trans-unit>
       <trans-unit id="Expiration alert" xml:space="preserve">
