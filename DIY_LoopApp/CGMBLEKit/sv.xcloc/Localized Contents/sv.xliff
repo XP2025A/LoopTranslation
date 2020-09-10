@@ -10,9 +10,9 @@
         <target state="translated">Kör samtidigt som G5-appen</target>
         <note>Class = "UILabel"; text = "Run alongside G5 app"; ObjectID = "3i8-2m-QFG";</note>
       </trans-unit>
-      <trans-unit id="5y6-vU-qC3.text" xml:space="preserve">
+      <trans-unit id="5y6-vU-qC3.text" xml:space="preserve" approved="yes">
         <source>Transmitter ID</source>
-        <target state="translated">Sändar-ID</target>
+        <target state="final">Sändar-ID</target>
         <note>Class = "UILabel"; text = "Transmitter ID"; ObjectID = "5y6-vU-qC3";</note>
       </trans-unit>
       <trans-unit id="9p7-LX-EMK.text" xml:space="preserve">
@@ -168,9 +168,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>CGMBLEKit</source>
-        <target state="translated">CGMBLEKit</target>
+        <target state="final">CGMBLEKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -185,9 +185,9 @@
         <target state="translated">CGMBLEKitG5Plugin</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" approved="yes">
         <source>Copyright © 2019 LoopKit Authors. All rights reserved.</source>
-        <target state="translated">Copyright © 2019 LoopKit Authors. Alla rättigheter förbehållna.</target>
+        <target state="final">Copyright © 2019 LoopKit Authors. Alla rättigheter förbehållna.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -202,9 +202,9 @@
         <target state="translated">CGMBLEKitG6Plugin</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" approved="yes">
         <source>Copyright © 2019 LoopKit Authors. All rights reserved.</source>
-        <target state="translated">Copyright © 2019 LoopKit Authors. Alla rättigheter förbehållna.</target>
+        <target state="final">Copyright © 2019 LoopKit Authors. Alla rättigheter förbehållna.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -290,9 +290,9 @@ Title text for the button to remove a CGM from Loop</note>
         <target state="translated">Ålder på sändare</target>
         <note>Title describing transmitter session age</note>
       </trans-unit>
-      <trans-unit id="Transmitter ID" xml:space="preserve">
+      <trans-unit id="Transmitter ID" xml:space="preserve" approved="yes">
         <source>Transmitter ID</source>
-        <target state="translated">Sändar-ID</target>
+        <target state="final">Sändar-ID</target>
         <note>The title text for the Dexcom G5/G6 transmitter ID config value</note>
       </trans-unit>
       <trans-unit id="Trend" xml:space="preserve">
@@ -332,19 +332,19 @@ Title text for the button to remove a CGM from Loop</note>
         <target state="translated">Ditt sändar-ID kan hittas tryckt på baksidan av enheten, på sidan av lådan den kom i, samt i inställningsmenyn för mottagaren och mobilappen.</target>
         <note>Class = "UITableViewSection"; footerTitle = "The transmitter ID can be found printed on the back of the device, on the side of the box it came in, and from within the settings menus of the receiver and mobile app."; ObjectID = "Qub-6B-0aB";</note>
       </trans-unit>
-      <trans-unit id="Qub-6B-0aB.headerTitle" xml:space="preserve">
+      <trans-unit id="Qub-6B-0aB.headerTitle" xml:space="preserve" approved="yes">
         <source>Transmitter ID</source>
-        <target state="translated">Sändar-ID</target>
+        <target state="final">Sändar-ID</target>
         <note>Class = "UITableViewSection"; headerTitle = "Transmitter ID"; ObjectID = "Qub-6B-0aB";</note>
       </trans-unit>
-      <trans-unit id="k1N-Rg-XDy.footerTitle" xml:space="preserve">
+      <trans-unit id="k1N-Rg-XDy.footerTitle" xml:space="preserve" approved="yes">
         <source>Data can be downloaded over the Internet from Share when the transmitter connection fails.</source>
-        <target state="translated">Data kan laddas ned från Share (via Internet) om sändaranslutningen skulle misslyckas.</target>
+        <target state="final">Data kan laddas ned från Share (via Internet) om anslutning till sändare skulle misslyckas.</target>
         <note>Class = "UITableViewSection"; footerTitle = "Data can be downloaded over the Internet from Share when the transmitter connection fails."; ObjectID = "k1N-Rg-XDy";</note>
       </trans-unit>
-      <trans-unit id="k1N-Rg-XDy.headerTitle" xml:space="preserve">
+      <trans-unit id="k1N-Rg-XDy.headerTitle" xml:space="preserve" approved="yes">
         <source>Dexcom Share</source>
-        <target state="translated">Dexcom Share</target>
+        <target state="final">Dexcom Share</target>
         <note>Class = "UITableViewSection"; headerTitle = "Dexcom Share"; ObjectID = "k1N-Rg-XDy";</note>
       </trans-unit>
       <trans-unit id="nKX-TW-GhD.placeholder" xml:space="preserve">
@@ -359,9 +359,9 @@ Title text for the button to remove a CGM from Loop</note>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>CGMBLEKitUI</source>
-        <target state="translated">CGMBLEKitUI</target>
+        <target state="final">CGMBLEKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -409,9 +409,9 @@ Use at your own risk.</source>
         <target state="translated">[Här står felen. Och det kan bli väldigt långt, vilket är OK]</target>
         <note>Class = "UILabel"; text = "[Error goes here. And it can get very long and that's OK]"; ObjectID = "gYy-Zz-y12";</note>
       </trans-unit>
-      <trans-unit id="vNG-r7-RbP.headerTitle" xml:space="preserve">
+      <trans-unit id="vNG-r7-RbP.headerTitle" xml:space="preserve" approved="yes">
         <source>Transmitter ID</source>
-        <target state="translated">Sändar-ID</target>
+        <target state="final">Sändar-ID</target>
         <note>Class = "UITableViewSection"; headerTitle = "Transmitter ID"; ObjectID = "vNG-r7-RbP";</note>
       </trans-unit>
     </body>

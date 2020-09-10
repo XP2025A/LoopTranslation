@@ -15,9 +15,9 @@
         <target state="translated">Lägg till kolhydrater</target>
         <note/>
       </trans-unit>
-      <trans-unit id="yc02Yq" xml:space="preserve">
+      <trans-unit id="yc02Yq" xml:space="preserve" approved="yes">
         <source>Add a carb entry to Loop</source>
-        <target state="translated">Lägg till kolhydrater för att kunna loopa</target>
+        <target state="final">Lägg till kolhydrater för att kunna loopa</target>
         <note/>
       </trans-unit>
     </body>
@@ -117,9 +117,9 @@
         <target state="translated">mg/dl</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
-      <trans-unit id="mmol/L" xml:space="preserve">
+      <trans-unit id="mmol/L" xml:space="preserve" approved="yes">
         <source>mmol/L</source>
-        <target state="translated">mmol/l</target>
+        <target state="final">mmol/l</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
@@ -169,9 +169,9 @@
         <target state="translated">mg/dl</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
-      <trans-unit id="mmol/L" xml:space="preserve">
+      <trans-unit id="mmol/L" xml:space="preserve" approved="yes">
         <source>mmol/L</source>
-        <target state="translated">mmol/l</target>
+        <target state="final">mmol/l</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
@@ -181,9 +181,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>DoseMathTests</source>
-        <target state="translated">DoseMathTests</target>
+        <target state="final">DoseMathTests</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -210,9 +210,9 @@
         <target state="translated">Learn</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
+      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve" approved="yes">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to optimize delivery of Apple Watch complication updates during the time you are awake.</source>
-        <target state="translated">Kolhydratdata från Apple Health-databasen används för att avgöra blodsockereffekt. Blodsockervärden från Apple Health-databasen används i diagram och för beräkning av förändring.</target>
+        <target state="final">Kolhydratdata från Apple Health-databasen används för att avgöra blodsockereffekt. Blodsockervärden från Apple Health-databasen används i diagram och för beräkning av förändring.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
     </body>
@@ -287,14 +287,14 @@
         <target state="translated">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
-      <trans-unit id="mg/dL" xml:space="preserve">
+      <trans-unit id="mg/dL" xml:space="preserve" approved="yes">
         <source>mg/dL</source>
-        <target state="translated">mg/dL</target>
+        <target state="final">mg/dL</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
-      <trans-unit id="mmol/L" xml:space="preserve">
+      <trans-unit id="mmol/L" xml:space="preserve" approved="yes">
         <source>mmol/L</source>
-        <target state="translated">mmol/L</target>
+        <target state="final">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
@@ -358,14 +358,14 @@
         <target state="translated">$(PRODUCT_NAME)</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">
+      <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve" approved="yes">
         <source>Bluetooth is used to communicate with insulin pump and continuous glucose monitor devices.</source>
-        <target state="translated">Bluetooth används för att kommunicera med insulinpump och CGM.</target>
+        <target state="final">Bluetooth används för kommunikation med insulinpump och CGM.</target>
         <note>Privacy - Bluetooth Always Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve">
+      <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve" approved="yes">
         <source>Bluetooth is used to communicate with insulin pump and continuous glucose monitor devices.</source>
-        <target state="translated">Bluetooth används för att kommunicera med insulinpump och CGM.</target>
+        <target state="final">Bluetooth används för kommunikation med insulinpump och CGM.</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
@@ -378,14 +378,14 @@
         <target state="translated">Kräv Face ID för att kunna godkänna bolus.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
+      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve" approved="yes">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to improve the Apple Watch complication.</source>
-        <target state="translated">Kolhydratdata från Apple Health-databasen används för att bestämma effekten på glukosvärde. Glukosvärden från Apple Health-databasen används i diagram och för beräkning av förändring.</target>
+        <target state="final">Kolhydratdata från Apple Health-databasen används för att avgöra glukoseffekt. Blodglukosvärden från Apple Health-databasen används i diagram och för beräkning av förändring.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
+      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve" approved="yes">
         <source>Carbohydrate meal data entered in the app and on the watch is stored in the Health database. Glucose data retrieved from the CGM is stored securely in HealthKit.</source>
-        <target state="translated">Kolhydratvärden inmatade i appen i klockan lagras i Apple Health-databasen. Glukosvärden mottagna från CGM lagras säkert i HealthKit.</target>
+        <target state="final">Kolhydratvärden inmatade i Watch-appen lagras i Apple Health-databasen. Blodglukosvärden mottagna från CGM lagras säkert i HealthKit.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -403,13 +403,13 @@
 Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärmen även när tyst läge eller Stör ej är på.            </target>
         <note>Manage Notifications in Settings descriptive text</note>
       </trans-unit>
-      <trans-unit id="&#10;            Notifications appear on your Lock screen or pop up while you’re using other apps.&#10;            &#10;            Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.&#10;            " xml:space="preserve">
+      <trans-unit id="&#10;            Notifications appear on your Lock screen or pop up while you’re using other apps.&#10;            &#10;            Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.&#10;            " xml:space="preserve" approved="yes">
         <source>
             Notifications appear on your Lock screen or pop up while you’re using other apps.
             
             Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.
             </source>
-        <target state="translated">
+        <target state="final">
             Notiser visas på låsskärmen eller medan du använder andra appar.
             
             Notiser visar viktig (appName) app-information utan att behöva öppna appen.  Du kan anpassa när och hur du vill få dessa notiser.
@@ -486,14 +486,14 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="translated">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
-      <trans-unit id="15 min glucose regression coefficient (b₁), continued with decay over 30 min" xml:space="preserve">
+      <trans-unit id="15 min glucose regression coefficient (b₁), continued with decay over 30 min" xml:space="preserve" approved="yes">
         <source>15 min glucose regression coefficient (b₁), continued with decay over 30 min</source>
-        <target state="translated">15 minuters glukosregressionskoefficient (b₁), fortsatt med 30 minuters avklingande</target>
+        <target state="final">15 minuters glukosregressionskoefficient (b₁), fortsatt med 30 minuters avklingande</target>
         <note>Description of the prediction input effect for glucose momentum</note>
       </trans-unit>
-      <trans-unit id="30 min comparison of glucose prediction vs actual, continued with decay over 60 min" xml:space="preserve">
+      <trans-unit id="30 min comparison of glucose prediction vs actual, continued with decay over 60 min" xml:space="preserve" approved="yes">
         <source>30 min comparison of glucose prediction vs actual, continued with decay over 60 min</source>
-        <target state="translated">30 min jämförelse av glukosprediktion och faktiskt värde, fortsatt med 60 minuters avklingande</target>
+        <target state="final">30 min jämförelse av glukosprediktion och faktiskt värde, fortsatt med 60 minuters avklingande</target>
         <note>Description of the prediction input effect for retrospective correction</note>
       </trans-unit>
       <trans-unit id="A manual glucose entry must be between %@ and %@" xml:space="preserve">
@@ -501,14 +501,14 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="translated">Det manuellt inmatade blodsockervärdet måste vara mellan %1$@ och %2$@</target>
         <note>Alert message for a manual glucose entry out of range error</note>
       </trans-unit>
-      <trans-unit id="A model based on the published absorption of Fiasp insulin." xml:space="preserve">
+      <trans-unit id="A model based on the published absorption of Fiasp insulin." xml:space="preserve" approved="yes">
         <source>A model based on the published absorption of Fiasp insulin.</source>
-        <target state="translated">Insulinmodell baserad på publicerade studier av absorption av Fiasp-insulin.</target>
+        <target state="final">Insulinmodell baserad på publicerade studier av absorption av Fiasp-insulin.</target>
         <note>Subtitle of Fiasp preset</note>
       </trans-unit>
-      <trans-unit id="A model based on the published absorption of Humalog, Novolog, and Apidra insulin in adults." xml:space="preserve">
+      <trans-unit id="A model based on the published absorption of Humalog, Novolog, and Apidra insulin in adults." xml:space="preserve" approved="yes">
         <source>A model based on the published absorption of Humalog, Novolog, and Apidra insulin in adults.</source>
-        <target state="translated">Insulinmodell baserad på publicerade studier av absorption av Humalog-, Novolog- samt Apidra-insulin hos vuxna.</target>
+        <target state="final">Insulinmodell baserad på publicerade studier av absorption av Humalog-, Novolog- samt Apidra-insulin hos vuxna.</target>
         <note>Subtitle of Rapid-Acting – Adult preset</note>
       </trans-unit>
       <trans-unit id="A pump must be configured before a bolus can be delivered." xml:space="preserve">
@@ -531,9 +531,9 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="translated">Absorptionstid</target>
         <note>Title of the carb entry absorption time cell</note>
       </trans-unit>
-      <trans-unit id="AcceptRecommendedBolus" xml:space="preserve">
+      <trans-unit id="AcceptRecommendedBolus" xml:space="preserve" approved="yes">
         <source>AcceptRecommendedBolus</source>
-        <target state="translated">AcceptRecommendedBolus</target>
+        <target state="final">AcceptRecommendedBolus</target>
         <note>Action to copy the recommended Bolus value to the actual Bolus Field</note>
       </trans-unit>
       <trans-unit id="Active Carbohydrates" xml:space="preserve">
@@ -620,9 +620,9 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="translated">Ett fel uppstod när du skulle spara ditt blodsockervärde.</target>
         <note>Alert message for a manual glucose entry persistence error</note>
       </trans-unit>
-      <trans-unit id="An updated bolus recommendation is available." xml:space="preserve">
+      <trans-unit id="An updated bolus recommendation is available." xml:space="preserve" approved="yes">
         <source>An updated bolus recommendation is available.</source>
-        <target state="translated">Det finns nu en ny bolusrekommendation.</target>
+        <target state="final">Det finns nu en ny bolusrekommendation.</target>
         <note>Alert message when glucose data returns while on bolus screen</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete this CGM?" xml:space="preserve">
@@ -640,14 +640,14 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="translated">Godkänn bolus på %@ enheter</target>
         <note>The message displayed during a device authentication prompt for bolus specification</note>
       </trans-unit>
-      <trans-unit id="Basal Rate Schedule" xml:space="preserve">
+      <trans-unit id="Basal Rate Schedule" xml:space="preserve" approved="yes">
         <source>Basal Rate Schedule</source>
-        <target state="translated">Basaldosschema</target>
+        <target state="final">Basaldosschema</target>
         <note>Details for configuration error when basal rate schedule is missing</note>
       </trans-unit>
-      <trans-unit id="Basal Rates" xml:space="preserve">
+      <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
         <source>Basal Rates</source>
-        <target state="translated">Basaldoser</target>
+        <target state="final">Basaldoser</target>
         <note>The title of the basal rate profile screen
    The title text for the basal rate schedule</note>
       </trans-unit>
@@ -677,9 +677,9 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <note>The label of the bolus entry button
    The notification title for a bolus failure</note>
       </trans-unit>
-      <trans-unit id="Bolus Recommendation Updated" xml:space="preserve">
+      <trans-unit id="Bolus Recommendation Updated" xml:space="preserve" approved="yes">
         <source>Bolus Recommendation Updated</source>
-        <target state="translated">Bolusrekommendation uppdaterad</target>
+        <target state="final">Bolusrekommendation har uppdaterats</target>
         <note>Alert title for an updated bolus recommendation</note>
       </trans-unit>
       <trans-unit id="Bolus Summary" xml:space="preserve">
@@ -694,7 +694,7 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
       </trans-unit>
       <trans-unit id="Bolusing %1$@" xml:space="preserve">
         <source>Bolusing %1$@</source>
-        <target state="translated">Ger bolus %1$@ </target>
+        <target state="translated">Ger bolus %1$@</target>
         <note>The format string for bolus in progress showing total volume. (1: total volume)</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -715,7 +715,7 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve">
         <source>Carb Ratios</source>
-        <target state="translated">Kolhydratskvoter</target>
+        <target state="translated">Insulinkvoter</target>
         <note>The title of the carb ratios schedule screen
    The title text for the carb ratio schedule</note>
       </trans-unit>
@@ -754,9 +754,9 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="translated">Kontrollera att pumpen är inom räckhåll</target>
         <note>Recovery suggestion when reservoir data is missing</note>
       </trans-unit>
-      <trans-unit id="Check your CGM data source" xml:space="preserve">
+      <trans-unit id="Check your CGM data source" xml:space="preserve" approved="yes">
         <source>Check your CGM data source</source>
-        <target state="translated">Kontrollera din CGM:s datakälla</target>
+        <target state="final">Kontrollera din CGM:s datakälla</target>
         <note>Recovery suggestion when glucose data is missing</note>
       </trans-unit>
       <trans-unit id="Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." xml:space="preserve">
@@ -800,9 +800,9 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="translated">Anpassad override</target>
         <note>The title of the cell indicating a generic temporary override is enabled</note>
       </trans-unit>
-      <trans-unit id="Custom Preset" xml:space="preserve">
+      <trans-unit id="Custom Preset" xml:space="preserve" approved="yes">
         <source>Custom Preset</source>
-        <target state="translated">Anpassad förinställning</target>
+        <target state="final">Anpassad förinställning</target>
         <note>The title of the cell indicating a generic custom preset is enabled</note>
       </trans-unit>
       <trans-unit id="Customer Token" xml:space="preserve">
@@ -895,14 +895,14 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="translated">Förväntat %@</target>
         <note>The subtitle format describing eventual glucose. (1: localized glucose value description)</note>
       </trans-unit>
-      <trans-unit id="Exceeds Maximum Bolus" xml:space="preserve">
+      <trans-unit id="Exceeds Maximum Bolus" xml:space="preserve" approved="yes">
         <source>Exceeds Maximum Bolus</source>
-        <target state="translated">Överstiger din inställning för maxbolus</target>
+        <target state="final">Överskrider din inställning för maxbolus</target>
         <note>The title of the alert describing a maximum bolus validation error</note>
       </trans-unit>
-      <trans-unit id="Fiasp" xml:space="preserve">
+      <trans-unit id="Fiasp" xml:space="preserve" approved="yes">
         <source>Fiasp</source>
-        <target state="translated">Fiasp</target>
+        <target state="final">Fiasp</target>
         <note>Title of insulin model preset</note>
       </trans-unit>
       <trans-unit id="For %1$@" xml:space="preserve">
@@ -1007,9 +1007,9 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="translated">Skapa felrapport</target>
         <note>The title text for the issue report cell</note>
       </trans-unit>
-      <trans-unit id="Launches CGM app" xml:space="preserve">
+      <trans-unit id="Launches CGM app" xml:space="preserve" approved="yes">
         <source>Launches CGM app</source>
-        <target state="translated">Startar CGM-app</target>
+        <target state="final">Startar CGM-app</target>
         <note>Glucose HUD accessibility hint</note>
       </trans-unit>
       <trans-unit id="Loading..." xml:space="preserve">
@@ -1052,9 +1052,9 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="translated">Manuell inmatning av blodsockervärde</target>
         <note>Label for manual glucose entry row on bolus screen</note>
       </trans-unit>
-      <trans-unit id="Meal Bolus" xml:space="preserve">
+      <trans-unit id="Meal Bolus" xml:space="preserve" approved="yes">
         <source>Meal Bolus</source>
-        <target state="translated">Måltidsbolus</target>
+        <target state="final">Måltidsbolus</target>
         <note>Title for bolus entry screen when also entering carbs</note>
       </trans-unit>
       <trans-unit id="Missing data: %1$@" xml:space="preserve">
@@ -1062,9 +1062,9 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="translated">Saknar data: %1$@</target>
         <note>The error message for missing data. (1: missing data details)</note>
       </trans-unit>
-      <trans-unit id="Momentum effects" xml:space="preserve">
+      <trans-unit id="Momentum effects" xml:space="preserve" approved="yes">
         <source>Momentum effects</source>
-        <target state="translated">Momentumeffekter</target>
+        <target state="final">Momentumeffekter</target>
         <note>Details for missing data error when momentum effects are missing</note>
       </trans-unit>
       <trans-unit id="Needs Attention" xml:space="preserve">
@@ -1072,9 +1072,9 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="translated">Kräver uppmärksamhet</target>
         <note>Sensor state description for the non-valid state</note>
       </trans-unit>
-      <trans-unit id="Nightscout" xml:space="preserve">
+      <trans-unit id="Nightscout" xml:space="preserve" approved="yes">
         <source>Nightscout</source>
-        <target state="translated">Nightscout</target>
+        <target state="final">Nightscout</target>
         <note>The title of the Nightscout service</note>
       </trans-unit>
       <trans-unit id="No Bolus Recommended" xml:space="preserve">
@@ -1107,9 +1107,9 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="translated">OK</target>
         <note>The title of the notification action to acknowledge a device alert</note>
       </trans-unit>
-      <trans-unit id="Override Presets" xml:space="preserve">
+      <trans-unit id="Override Presets" xml:space="preserve" approved="yes">
         <source>Override Presets</source>
-        <target state="translated">Override förinställningar</target>
+        <target state="final">Förinställningar för Undantag</target>
         <note>The title text for the override presets</note>
       </trans-unit>
       <trans-unit id="Pre-Meal Targets" xml:space="preserve">
@@ -1189,9 +1189,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">Rekommendationen gick ut för %1$@ sedan</target>
         <note>The error message when a recommendation has expired. (1: age of recommendation in minutes)</note>
       </trans-unit>
-      <trans-unit id="Recommended Basal" xml:space="preserve">
+      <trans-unit id="Recommended Basal" xml:space="preserve" approved="yes">
         <source>Recommended Basal</source>
-        <target state="translated">Rekommenderat basalvärde</target>
+        <target state="final">Rekommenderad basaldos</target>
         <note>The title of the cell displaying a recommended temp basal value</note>
       </trans-unit>
       <trans-unit id="Recommended Bolus" xml:space="preserve">
@@ -1241,12 +1241,12 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Shows last loop error" xml:space="preserve">
         <source>Shows last loop error</source>
-        <target state="translated">Visar senaste loopfelet</target>
+        <target state="translated">Visar senaste Loop-fel</target>
         <note>Loop Completion HUD accessibility hint</note>
       </trans-unit>
-      <trans-unit id="Site URL" xml:space="preserve">
+      <trans-unit id="Site URL" xml:space="preserve" approved="yes">
         <source>Site URL</source>
-        <target state="translated">Adress (URL)</target>
+        <target state="final">Adress (URL)</target>
         <note>The title of the nightscout site URL credential</note>
       </trans-unit>
       <trans-unit id="Starting Bolus" xml:space="preserve">
@@ -1280,9 +1280,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">Tryck för att återuppta</target>
         <note>The subtitle of the cell displaying an action to resume insulin delivery</note>
       </trans-unit>
-      <trans-unit id="The bolus recommendation has updated. Please reconfirm the bolus amount." xml:space="preserve">
+      <trans-unit id="The bolus recommendation has updated. Please reconfirm the bolus amount." xml:space="preserve" approved="yes">
         <source>The bolus recommendation has updated. Please reconfirm the bolus amount.</source>
-        <target state="translated">Bolusrekommendationen har uppdaterats. Konfirmera bolus</target>
+        <target state="final">Bolusrekommendationen har uppdaterats. Bekräfta bolus.</target>
         <note>Alert message for an updated bolus recommendation</note>
       </trans-unit>
       <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve">
@@ -1290,19 +1290,19 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">Äldre modell använd av Loop, vilken tillåter anpassning av insulinets verkningstid.</target>
         <note>Subtitle description of Walsh insulin model setting</note>
       </trans-unit>
-      <trans-unit id="The maximum bolus amount is %@ U." xml:space="preserve">
+      <trans-unit id="The maximum bolus amount is %@ U." xml:space="preserve" approved="yes">
         <source>The maximum bolus amount is %@ U.</source>
-        <target state="translated">Den högst tillåtna bolusmängden är %@ E.</target>
+        <target state="final">Den högst tillåtna bolusmängden är %@ E.</target>
         <note>Alert message for a maximum bolus validation error (1: max bolus value)</note>
       </trans-unit>
-      <trans-unit id="The maximum bolus amount is %@ Units" xml:space="preserve">
+      <trans-unit id="The maximum bolus amount is %@ Units" xml:space="preserve" approved="yes">
         <source>The maximum bolus amount is %@ Units</source>
-        <target state="translated">Den maximala bolusdosen är %@ enheter</target>
+        <target state="final">Den maximala bolusdosen är %@ enheter</target>
         <note>Body of the alert describing a maximum bolus validation error. (1: The localized max bolus value)</note>
       </trans-unit>
-      <trans-unit id="The maximum bolus setting must be configured before a bolus can be delivered." xml:space="preserve">
+      <trans-unit id="The maximum bolus setting must be configured before a bolus can be delivered." xml:space="preserve" approved="yes">
         <source>The maximum bolus setting must be configured before a bolus can be delivered.</source>
-        <target state="translated">Den högst tillåtna bolusmängden måste ställas in innan en bolus kan ges.</target>
+        <target state="final">Den högst tillåtna bolusmängden måste ställas in innan en bolus kan ges.</target>
         <note>Alert message for a missing maximum bolus setting error</note>
       </trans-unit>
       <trans-unit id="Therapy Settings" xml:space="preserve">
@@ -1395,9 +1395,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">mg/dl</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
-      <trans-unit id="mmol/L" xml:space="preserve">
+      <trans-unit id="mmol/L" xml:space="preserve" approved="yes">
         <source>mmol/L</source>
-        <target state="translated">mmol/l</target>
+        <target state="final">mmol/l</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
       <trans-unit id="prediction-description-retrospective-correction" xml:space="preserve">
@@ -1410,9 +1410,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">sedan %@</target>
         <note>Format fragment for a start time</note>
       </trans-unit>
-      <trans-unit id="starting at %@" xml:space="preserve">
+      <trans-unit id="starting at %@" xml:space="preserve" approved="yes">
         <source>starting at %@</source>
-        <target state="translated">Börjar kl.  %@</target>
+        <target state="final">börjar kl. %@</target>
         <note>The format for the description of a temporary override start date</note>
       </trans-unit>
       <trans-unit id="until %@" xml:space="preserve">
@@ -1462,9 +1462,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">ENHETER</target>
         <note>Class = "UILabel"; text = "DEVICES"; ObjectID = "DyC-Sv-qP8";</note>
       </trans-unit>
-      <trans-unit id="E41-FN-nkk.text" xml:space="preserve">
+      <trans-unit id="E41-FN-nkk.text" xml:space="preserve" approved="yes">
         <source>eventually 92 mg/dL</source>
-        <target state="translated">förväntat 5,1 mmol/l</target>
+        <target state="final">förväntat 5,1 mmol/l</target>
         <note>Class = "UILabel"; text = "eventually 92 mg/dL"; ObjectID = "E41-FN-nkk";</note>
       </trans-unit>
       <trans-unit id="EAn-Ja-S1d.text" xml:space="preserve">
@@ -1512,9 +1512,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">🌮</target>
         <note>Class = "UIButton"; normalTitle = "🌮"; ObjectID = "QhO-Yi-AqQ";</note>
       </trans-unit>
-      <trans-unit id="Rse-x8-amW.text" xml:space="preserve">
+      <trans-unit id="Rse-x8-amW.text" xml:space="preserve" approved="yes">
         <source>eventually 92 mg/dL</source>
-        <target state="translated">Förväntat 5,1 mmol/l</target>
+        <target state="final">Förväntat 5,1 mmol/l</target>
         <note>Class = "UILabel"; text = "eventually 92 mg/dL"; ObjectID = "Rse-x8-amW";</note>
       </trans-unit>
       <trans-unit id="SQx-au-ZcM.text" xml:space="preserve">
@@ -1582,9 +1582,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">Kolhydrateffekter</target>
         <note>Class = "UITableViewController"; title = "Carbohydrate Effects"; ObjectID = "hZZ-2S-lrd";</note>
       </trans-unit>
-      <trans-unit id="k3F-Na-7mn.text" xml:space="preserve">
+      <trans-unit id="k3F-Na-7mn.text" xml:space="preserve" approved="yes">
         <source>Recommended Basal</source>
-        <target state="translated">Rekommenderad basaldos</target>
+        <target state="final">Rekommenderad basaldos</target>
         <note>Class = "UILabel"; text = "Recommended Basal"; ObjectID = "k3F-Na-7mn";</note>
       </trans-unit>
       <trans-unit id="m9c-SQ-djE.text" xml:space="preserve">
@@ -1634,9 +1634,9 @@ Faktiskt: %2$@ (%3$@)</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>LoopCore</source>
-        <target state="translated">LoopCore</target>
+        <target state="final">LoopCore</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1658,9 +1658,9 @@ Faktiskt: %2$@ (%3$@)</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve" approved="yes">
         <source>LoopUI</source>
-        <target state="translated">LoopUI</target>
+        <target state="final">LoopUI</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1765,9 +1765,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">mg/dl</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
-      <trans-unit id="mmol/L" xml:space="preserve">
+      <trans-unit id="mmol/L" xml:space="preserve" approved="yes">
         <source>mmol/L</source>
-        <target state="translated">mmol/l</target>
+        <target state="final">mmol/l</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
@@ -1812,9 +1812,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">Bolus misslyckades</target>
         <note>The title of the alert controller displayed after a bolus attempt fails</note>
       </trans-unit>
-      <trans-unit id="Bolus Recommendation Updated" xml:space="preserve">
+      <trans-unit id="Bolus Recommendation Updated" xml:space="preserve" approved="yes">
         <source>Bolus Recommendation Updated</source>
-        <target state="translated">Det finns en ny bolusrekommendation</target>
+        <target state="final">Det finns en ny bolusrekommendation</target>
         <note>Alert title for updated bolus recommendation on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
@@ -1840,9 +1840,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <note>The recovery message displayed after a bolus attempt fails
    The recovery message displayed after a potential carb entry send attempt fails</note>
       </trans-unit>
-      <trans-unit id="Net Basal Rate" xml:space="preserve">
+      <trans-unit id="Net Basal Rate" xml:space="preserve" approved="yes">
         <source>Net Basal Rate</source>
-        <target state="translated">Nettobasaldos</target>
+        <target state="final">Nettobasaldos</target>
         <note>HUD row title for Net Basal Rate</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -1865,9 +1865,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">Undantag</target>
         <note>The text for the Watch button for enabling a temporary override</note>
       </trans-unit>
-      <trans-unit id="Please reconfirm the bolus amount." xml:space="preserve">
+      <trans-unit id="Please reconfirm the bolus amount." xml:space="preserve" approved="yes">
         <source>Please reconfirm the bolus amount.</source>
-        <target state="translated">Bekräfta bolusmängd.</target>
+        <target state="final">Bekräfta bolusmängd.</target>
         <note>Alert message for updated bolus recommendation on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Pre-Meal" xml:space="preserve">
@@ -1875,9 +1875,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">Före måltid</target>
         <note>Title for sheet to enable/disable pre-meal on watch</note>
       </trans-unit>
-      <trans-unit id="Preset" xml:space="preserve">
+      <trans-unit id="Preset" xml:space="preserve" approved="yes">
         <source>Preset</source>
-        <target state="translated">Förinställning</target>
+        <target state="final">Förinställning</target>
         <note>The text for the Watch button for enabling a custom preset</note>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
@@ -1963,9 +1963,9 @@ to bolus</source>
         <target state="translated">mg/dl</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
-      <trans-unit id="mmol/L" xml:space="preserve">
+      <trans-unit id="mmol/L" xml:space="preserve" approved="yes">
         <source>mmol/L</source>
-        <target state="translated">mmol/l</target>
+        <target state="final">mmol/l</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
@@ -1975,9 +1975,9 @@ to bolus</source>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="UtilitarianLargeFlat" xml:space="preserve">
+      <trans-unit id="UtilitarianLargeFlat" xml:space="preserve" approved="yes">
         <source>UtilitarianLargeFlat</source>
-        <target state="translated">UtilitarianLargeFlat</target>
+        <target state="final">UtilitarianLargeFlat</target>
         <note>Utilitarian large flat format string (1: Glucose &amp; Trend symbol) (2: Eventual Glucose) (3: Time)</note>
       </trans-unit>
     </body>
@@ -1987,14 +1987,14 @@ to bolus</source>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve" approved="yes">
         <source>WatchApp Extension</source>
-        <target state="translated">WatchApp Extension</target>
+        <target state="final">WatchApp Extension</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>WatchApp Extension</source>
-        <target state="translated">WatchApp Extension</target>
+        <target state="final">WatchApp Extension</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -2071,9 +2071,9 @@ to bolus</source>
         <target state="translated">2 timmar</target>
         <note>Class = "WKInterfaceMenuItem"; title = "2 hours"; ObjectID = "dPh-7b-Tfv";</note>
       </trans-unit>
-      <trans-unit id="dea-qG-va8.text" xml:space="preserve">
+      <trans-unit id="dea-qG-va8.text" xml:space="preserve" approved="yes">
         <source>TOTAL CARBS</source>
-        <target state="translated">Kolh. totalt</target>
+        <target state="final">Kolh. totalt</target>
         <note>Class = "WKInterfaceLabel"; text = "TOTAL CARBS"; ObjectID = "dea-qG-va8";</note>
       </trans-unit>
       <trans-unit id="f5G-bS-9pd.text" xml:space="preserve">
@@ -2086,9 +2086,9 @@ to bolus</source>
         <target state="translated">3 timmar</target>
         <note>Class = "WKInterfaceMenuItem"; title = "3 hours"; ObjectID = "fR1-7h-SNe";</note>
       </trans-unit>
-      <trans-unit id="hln-CI-MRP.text" xml:space="preserve">
+      <trans-unit id="hln-CI-MRP.text" xml:space="preserve" approved="yes">
         <source>Carbs</source>
-        <target state="translated">Kolh.</target>
+        <target state="final">Kolh.</target>
         <note>Class = "WKInterfaceLabel"; text = "Carbs"; ObjectID = "hln-CI-MRP";</note>
       </trans-unit>
       <trans-unit id="jj3-Gq-HBy.text" xml:space="preserve">
@@ -2121,9 +2121,9 @@ to bolus</source>
         <target state="translated">1 timme</target>
         <note>Class = "WKInterfaceMenuItem"; title = "1 hour"; ObjectID = "vL1-NA-WZ1";</note>
       </trans-unit>
-      <trans-unit id="ycL-5X-a05.text" xml:space="preserve">
+      <trans-unit id="ycL-5X-a05.text" xml:space="preserve" approved="yes">
         <source>ACTIVE CARBS</source>
-        <target state="translated">AKTIVA KOLH.</target>
+        <target state="final">AKTIVA KOLH.</target>
         <note>Class = "WKInterfaceLabel"; text = "ACTIVE CARBS"; ObjectID = "ycL-5X-a05";</note>
       </trans-unit>
       <trans-unit id="yl8-ZP-c3l.text" xml:space="preserve">
