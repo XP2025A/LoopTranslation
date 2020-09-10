@@ -823,7 +823,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="HfQ-fG-8vO.text" xml:space="preserve">
         <source>Review your pump settings below. You can change these settings at any time in Loopʼs Settings screen.</source>
-        <target state="translated">Se över dina pumpinställingar nedan. Du kan närsomhelst ändra dessa i Loops inställningar.</target>
+        <target state="translated">Se över dina pumpinställningar nedan. Du kan närsomhelst ändra dessa i Loops inställningar.</target>
         <note>Class = "UILabel"; text = "Review your pump settings below. You can change these settings at any time in Loopʼs Settings screen."; ObjectID = "HfQ-fG-8vO";</note>
       </trans-unit>
       <trans-unit id="HuY-fE-vM8.text" xml:space="preserve">
@@ -1073,9 +1073,9 @@ Find Device</target>
         <target state="translated">Internt poddfel %1$03d</target>
         <note>The format string for Internal pod fault (1: The fault code value)</note>
       </trans-unit>
-      <trans-unit id="InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@" xml:space="preserve">
+      <trans-unit id="InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@" xml:space="preserve" approved="yes">
         <source>InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@</source>
-        <target state="translated">AvbrutenBolus:  %1$@ E (%2$@ E schemalagd) %3$@ %4$@ %5$@</target>
+        <target state="final">AvbrutenBolus:  %1$@ E (%2$@ E schemalagd) %3$@ %4$@ %5$@</target>
         <note>The format string describing a bolus that was interrupted. (1: The amount delivered)(2: The amount scheduled)(3: Start time of the dose)(4: duration)(5: scheduled certainty)</note>
       </trans-unit>
       <trans-unit id="Invalid address 0x%x. Expected 0x%x" xml:space="preserve">
@@ -1173,9 +1173,9 @@ Find Device</target>
         <target state="translated">Podd-fel</target>
         <note>Inform the user that there is a pod fault.</note>
       </trans-unit>
-      <trans-unit id="Pod Fault: %1$@" xml:space="preserve">
+      <trans-unit id="Pod Fault: %1$@" xml:space="preserve" approved="yes">
         <source>Pod Fault: %1$@</source>
-        <target state="translated">Poddfel: %1$@</target>
+        <target state="final">Podd-fel: %1$@</target>
         <note>Format string for pod fault code</note>
       </trans-unit>
       <trans-unit id="Pod already paired" xml:space="preserve">
@@ -1668,9 +1668,9 @@ Find Device</target>
         <target state="translated">Stäng av bolusljud</target>
         <note>Title text for button to disable bolus beeps</note>
       </trans-unit>
-      <trans-unit id="Disable Confirmation Beeps" xml:space="preserve">
+      <trans-unit id="Disable Confirmation Beeps" xml:space="preserve" approved="yes">
         <source>Disable Confirmation Beeps</source>
-        <target state="translated">Stäng av bekräftelsepip</target>
+        <target state="final">Stäng av bekräftelseljud</target>
         <note>Title text for button to disable confirmation beeps</note>
       </trans-unit>
       <trans-unit id="Enable Bolus Beeps" xml:space="preserve">
@@ -1678,9 +1678,9 @@ Find Device</target>
         <target state="translated">Slå på bolusljud</target>
         <note>Title text for button to enable bolus beeps</note>
       </trans-unit>
-      <trans-unit id="Enable Confirmation Beeps" xml:space="preserve">
+      <trans-unit id="Enable Confirmation Beeps" xml:space="preserve" approved="yes">
         <source>Enable Confirmation Beeps</source>
-        <target state="translated">Sätt på bekräftelsepip</target>
+        <target state="final">Sätt på bekräftelseljud</target>
         <note>Title text for button to enable confirmation beeps</note>
       </trans-unit>
       <trans-unit id="Error Resuming" xml:space="preserve">
@@ -1698,14 +1698,14 @@ Find Device</target>
         <target state="translated">Fel vid avstängning av bolusljud</target>
         <note>The alert title for disable bolus beeps error</note>
       </trans-unit>
-      <trans-unit id="Error disabling confirmation beeps" xml:space="preserve">
+      <trans-unit id="Error disabling confirmation beeps" xml:space="preserve" approved="yes">
         <source>Error disabling confirmation beeps</source>
-        <target state="translated">Fel vid avstängning av bekräftelsepip</target>
+        <target state="final">Fel vid avstängning av bekräftelseljud</target>
         <note>The alert title for disable confirmation beeps error</note>
       </trans-unit>
-      <trans-unit id="Error emitting completion confirmation beep" xml:space="preserve">
+      <trans-unit id="Error emitting completion confirmation beep" xml:space="preserve" approved="yes">
         <source>Error emitting completion confirmation beep</source>
-        <target state="translated">Fel vid sändning av bekräftelsepip</target>
+        <target state="final">Fel vid sändning av bekräftelseljud</target>
         <note>The alert title for emitting completion beep error</note>
       </trans-unit>
       <trans-unit id="Error enabling bolus beeps" xml:space="preserve">
@@ -1713,9 +1713,9 @@ Find Device</target>
         <target state="translated">Fel vid aktivering av bolusljud</target>
         <note>The alert title for enable bolus beeps error</note>
       </trans-unit>
-      <trans-unit id="Error enabling confirmation beeps" xml:space="preserve">
+      <trans-unit id="Error enabling confirmation beeps" xml:space="preserve" approved="yes">
         <source>Error enabling confirmation beeps</source>
-        <target state="translated">Fel vid aktivering av bekräftelsepip</target>
+        <target state="final">Fel vid aktivering av bekräftelseljud</target>
         <note>The alert title for enable confirmation beeps error</note>
       </trans-unit>
       <trans-unit id="Expiration Reminder" xml:space="preserve">
@@ -1833,9 +1833,9 @@ Find Device</target>
         <target state="translated">Podden är fylld</target>
         <note>The text of the loading label when pod is primed</note>
       </trans-unit>
-      <trans-unit id="Priming…" xml:space="preserve">
+      <trans-unit id="Priming…" xml:space="preserve" approved="yes">
         <source>Priming…</source>
-        <target state="translated">Podden fylls...</target>
+        <target state="final">Podden fylls…</target>
         <note>The text of the loading label when priming</note>
       </trans-unit>
       <trans-unit id="Read Pod Status" xml:space="preserve">
@@ -2128,9 +2128,9 @@ Find Device</target>
         <target state="translated">Respons %@ ogiltig</target>
         <note>Invalid response error description (1: response)</note>
       </trans-unit>
-      <trans-unit id="RileyLink did not respond in time" xml:space="preserve">
+      <trans-unit id="RileyLink did not respond in time" xml:space="preserve" approved="yes">
         <source>RileyLink did not respond in time</source>
-        <target state="translated">RileyLink:en svarade inte i tid</target>
+        <target state="final">Din RileyLink svarade inte i tid</target>
         <note>Timeout error description</note>
       </trans-unit>
       <trans-unit id="RileyLink firmware does not support the %@ command" xml:space="preserve" approved="yes">
