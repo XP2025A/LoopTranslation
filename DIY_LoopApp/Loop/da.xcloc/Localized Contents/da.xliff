@@ -131,7 +131,7 @@
     <body>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve" approved="yes">
         <source>Current glucose of %1$@ is below correction range.</source>
-        <target state="final">Nuværende blodsukker på %1$@ er under dit korrektionsinterval.</target>
+        <target state="final">Nuværende blodsukker på %1$@ er under dit korrektionsområde.</target>
         <note>Message when offering bolus recommendation even though bg is below range. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve" approved="yes">
@@ -787,13 +787,13 @@
       </trans-unit>
       <trans-unit id="Correction Range" xml:space="preserve" approved="yes">
         <source>Correction Range</source>
-        <target state="final">Korrektionsinterval</target>
+        <target state="final">Korrektionsområde</target>
         <note>The title of the glucose target range schedule screen
    The title text for the glucose target range schedule</note>
       </trans-unit>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve" approved="yes">
         <source>Current glucose of %1$@ is below correction range.</source>
-        <target state="final">Nuværende blodsukker på %1$@ er under dit korrektionsinterval.</target>
+        <target state="final"> Nuværende blodsukker på %1$@ er under dit korrektionsområde.</target>
         <note>Message when offering bolus recommendation even though bg is below range. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Custom Override" xml:space="preserve" approved="yes">
@@ -2122,19 +2122,19 @@ to bolus</source>
         <target state="final">1 time</target>
         <note>Class = "WKInterfaceMenuItem"; title = "1 hour"; ObjectID = "vL1-NA-WZ1";</note>
       </trans-unit>
-      <trans-unit id="ycL-5X-a05.text" xml:space="preserve">
+      <trans-unit id="ycL-5X-a05.text" xml:space="preserve" approved="yes">
         <source>ACTIVE CARBS</source>
-        <target state="translated">Aktive kulhydrater</target>
+        <target state="final">Aktive kulhydrater</target>
         <note>Class = "WKInterfaceLabel"; text = "ACTIVE CARBS"; ObjectID = "ycL-5X-a05";</note>
       </trans-unit>
-      <trans-unit id="yl8-ZP-c3l.text" xml:space="preserve">
+      <trans-unit id="yl8-ZP-c3l.text" xml:space="preserve" approved="yes">
         <source>---</source>
-        <target state="translated">---</target>
+        <target state="final">---</target>
         <note>Class = "WKInterfaceLabel"; text = "---"; ObjectID = "yl8-ZP-c3l";</note>
       </trans-unit>
-      <trans-unit id="zO8-x6-bZd.text" xml:space="preserve">
+      <trans-unit id="zO8-x6-bZd.text" xml:space="preserve" approved="yes">
         <source>Label</source>
-        <target state="translated">Label</target>
+        <target state="final">Label</target>
         <note>Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "zO8-x6-bZd";</note>
       </trans-unit>
     </body>
