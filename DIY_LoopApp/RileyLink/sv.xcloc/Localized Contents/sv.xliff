@@ -553,7 +553,7 @@
       </trans-unit>
       <trans-unit id="Error Resuming" xml:space="preserve">
         <source>Error Resuming</source>
-        <target state="translated">Fel vid återgång</target>
+        <target state="translated">Fel vid vid återuppta insulintillförsel</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
       <trans-unit id="Error Suspending" xml:space="preserve">
@@ -1117,7 +1117,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="No response from pod" xml:space="preserve">
         <source>No response from pod</source>
-        <target state="translated">Inget svar från pod</target>
+        <target state="translated">Inget svar från podd</target>
         <note>Error message shown when no response from pod was received</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
@@ -1683,9 +1683,9 @@ Hitta enhet</target>
         <target state="final">Sätt på bekräftelseljud</target>
         <note>Title text for button to enable confirmation beeps</note>
       </trans-unit>
-      <trans-unit id="Error Resuming" xml:space="preserve">
+      <trans-unit id="Error Resuming" xml:space="preserve" approved="yes">
         <source>Error Resuming</source>
-        <target state="translated">Fel vid återupptagande</target>
+        <target state="final">Fel vid återuppta insulintillförsel</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
       <trans-unit id="Error Suspending" xml:space="preserve">
