@@ -344,34 +344,34 @@
         <target state="final">Appen antager, at insulinen arbejder aktivt i 6 timer. Du kan vælge mellem forskellige modeller for, hvordan app'en måler insulinets maksimale aktivitet.</target>
         <note>Descriptive text for insulin model</note>
       </trans-unit>
-      <trans-unit id="U" xml:space="preserve">
+      <trans-unit id="U" xml:space="preserve" approved="yes">
         <source>U</source>
-        <target state="translated">E</target>
+        <target state="final">E</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
-      <trans-unit id="U/hr" xml:space="preserve">
+      <trans-unit id="U/hr" xml:space="preserve" approved="yes">
         <source>U/hr</source>
-        <target state="translated">E/t</target>
+        <target state="final">E/t</target>
         <note>The short unit display string for international units of insulin per hour</note>
       </trans-unit>
-      <trans-unit id="Unit" xml:space="preserve">
+      <trans-unit id="Unit" xml:space="preserve" approved="yes">
         <source>Unit</source>
-        <target state="translated">Enhed</target>
+        <target state="final">Enhed</target>
         <note>The long unit display string for a singular international unit of insulin</note>
       </trans-unit>
-      <trans-unit id="Unit/hour" xml:space="preserve">
+      <trans-unit id="Unit/hour" xml:space="preserve" approved="yes">
         <source>Unit/hour</source>
-        <target state="translated">Enhed/time</target>
+        <target state="final">Enhed/time</target>
         <note>The long unit display string for a singular international unit of insulin per hour</note>
       </trans-unit>
-      <trans-unit id="Units" xml:space="preserve">
+      <trans-unit id="Units" xml:space="preserve" approved="yes">
         <source>Units</source>
-        <target state="translated">Enheder</target>
+        <target state="final">Enheder</target>
         <note>The long unit display string for international units of insulin</note>
       </trans-unit>
-      <trans-unit id="Units/hour" xml:space="preserve">
+      <trans-unit id="Units/hour" xml:space="preserve" approved="yes">
         <source>Units/hour</source>
-        <target state="translated">Enheder/time</target>
+        <target state="final">Enheder/time</target>
         <note>The long unit display string for international units of insulin per hour</note>
       </trans-unit>
       <trans-unit id="When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus." xml:space="preserve" approved="yes">
@@ -379,14 +379,14 @@
         <target state="final">Når dit blodsukker forventes at ligge under denne værdi, vil Loop anbefale en basalrate på 0 U/time og vil ikke anbefale en bolus.</target>
         <note>Descriptive text for suspend threshold</note>
       </trans-unit>
-      <trans-unit id="Workout" xml:space="preserve">
+      <trans-unit id="Workout" xml:space="preserve" approved="yes">
         <source>Workout</source>
-        <target state="translated">Træning</target>
+        <target state="final">Træning</target>
         <note>Title for workout mode</note>
       </trans-unit>
-      <trans-unit id="Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
+      <trans-unit id="Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve" approved="yes">
         <source>Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="translated">Din basalrate insulin, er det antal af enheder i timen, som du skal bruge for at dække dit basale insulinbehov.</target>
+        <target state="final">Din basalrate insulin, er det antal af enheder i timen, som du skal bruge for at dække dit basale insulinbehov.</target>
         <note>Descriptive text for basal rate</note>
       </trans-unit>
       <trans-unit id="Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." xml:space="preserve" approved="yes">
@@ -394,49 +394,49 @@
         <target state="final">Dit kulhydratforhold er antallet af gram kulhydrat dækket af én enhed insulin.</target>
         <note>Descriptive text for carb ratio</note>
       </trans-unit>
-      <trans-unit id="Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin." xml:space="preserve">
+      <trans-unit id="Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin." xml:space="preserve" approved="yes">
         <source>Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin.</source>
-        <target state="translated">Din insulinfølsomhed henviser til det fald i blodsukker, der forventes fra én insulinenhed.</target>
+        <target state="final">Din insulinfølsomhed henviser til det fald i blodsukker, der forventes fra én insulinenhed.</target>
         <note>Descriptive text for insulin sensitivity</note>
       </trans-unit>
-      <trans-unit id="com.loudnate.CarbKit.deleteCarbEntryUnownedErrorDescription" xml:space="preserve">
+      <trans-unit id="com.loudnate.CarbKit.deleteCarbEntryUnownedErrorDescription" xml:space="preserve" approved="yes">
         <source>Authorization Denied</source>
-        <target state="translated">Tilladelse nægtet</target>
+        <target state="final">Tilladelse nægtet</target>
         <note>The description of an error returned when attempting to delete a sample not shared by the current app</note>
       </trans-unit>
-      <trans-unit id="com.loudnate.carbKit.sharingDeniedErrorRecoverySuggestion" xml:space="preserve">
+      <trans-unit id="com.loudnate.carbKit.sharingDeniedErrorRecoverySuggestion" xml:space="preserve" approved="yes">
         <source>This sample can be deleted from the Health app</source>
-        <target state="translated">Dette eksempel kan slettes fra Sundheds appen</target>
+        <target state="final">Dette eksempel kan slettes fra Sundheds appen</target>
         <note>The error recovery suggestion when attempting to delete a sample not shared by the current app</note>
       </trans-unit>
-      <trans-unit id="g/U" xml:space="preserve">
+      <trans-unit id="g/U" xml:space="preserve" approved="yes">
         <source>g/U</source>
-        <target state="translated">g/E</target>
+        <target state="final">g/E</target>
         <note>The short unit display string for grams per U</note>
       </trans-unit>
-      <trans-unit id="mg/dL/U" xml:space="preserve">
+      <trans-unit id="mg/dL/U" xml:space="preserve" approved="yes">
         <source>mg/dL/U</source>
-        <target state="translated">mg/dL/E</target>
+        <target state="final">mg/dL/E</target>
         <note>The short unit display string for milligrams per deciliter per U</note>
       </trans-unit>
-      <trans-unit id="mmol/L" xml:space="preserve">
+      <trans-unit id="mmol/L" xml:space="preserve" approved="yes">
         <source>mmol/L</source>
-        <target state="translated">mmol/L</target>
+        <target state="final">mmol/L</target>
         <note>The short unit display string for millimoles per liter</note>
       </trans-unit>
-      <trans-unit id="mmol/L/U" xml:space="preserve">
+      <trans-unit id="mmol/L/U" xml:space="preserve" approved="yes">
         <source>mmol/L/U</source>
-        <target state="translated">mmol/L/E</target>
+        <target state="final">mmol/L/E</target>
         <note>The short unit display string for millimoles per liter per U</note>
       </trans-unit>
-      <trans-unit id="quantity-and-unit-space" xml:space="preserve">
+      <trans-unit id="quantity-and-unit-space" xml:space="preserve" approved="yes">
         <source>%1$@ %2$@</source>
-        <target state="translated">%1$@ %2$@</target>
+        <target state="final">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit with a space. (1: numeric value)(2: unit)</note>
       </trans-unit>
-      <trans-unit id="quantity-and-unit-tight" xml:space="preserve">
+      <trans-unit id="quantity-and-unit-tight" xml:space="preserve" approved="yes">
         <source>%1$@%2$@</source>
-        <target state="translated">%1$@%2$@</target>
+        <target state="final">%1$@%2$@</target>
         <note>Format string for combining localized numeric value and unit without spacing. (1: numeric value)(2: unit)</note>
       </trans-unit>
     </body>
@@ -446,104 +446,104 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="7xi-Om-Y53.text" xml:space="preserve">
+      <trans-unit id="7xi-Om-Y53.text" xml:space="preserve" approved="yes">
         <source>Authorize access to Health to continue</source>
-        <target state="translated">Godkend adgang til Sundhed for at fortsætte</target>
+        <target state="final">Godkend adgang til Sundhed for at fortsætte</target>
         <note>Class = "UILabel"; text = "Authorize access to Health to continue"; ObjectID = "7xi-Om-Y53";</note>
       </trans-unit>
-      <trans-unit id="8sx-XB-DRV.normalTitle" xml:space="preserve">
+      <trans-unit id="8sx-XB-DRV.normalTitle" xml:space="preserve" approved="yes">
         <source>Authorize</source>
-        <target state="translated">Autoriseret</target>
+        <target state="final">Autoriseret</target>
         <note>Class = "UIButton"; normalTitle = "Authorize"; ObjectID = "8sx-XB-DRV";</note>
       </trans-unit>
-      <trans-unit id="D2S-2h-yH6.text" xml:space="preserve">
+      <trans-unit id="D2S-2h-yH6.text" xml:space="preserve" approved="yes">
         <source>g</source>
-        <target state="translated">g</target>
+        <target state="final">g</target>
         <note>Class = "UILabel"; text = "g"; ObjectID = "D2S-2h-yH6";</note>
       </trans-unit>
-      <trans-unit id="K0S-my-3qL.text" xml:space="preserve">
+      <trans-unit id="K0S-my-3qL.text" xml:space="preserve" approved="yes">
         <source>Amount Consumed</source>
-        <target state="translated">Forbrugt mængde</target>
+        <target state="final">Forbrugt mængde</target>
         <note>Class = "UILabel"; text = "Amount Consumed"; ObjectID = "K0S-my-3qL";</note>
       </trans-unit>
-      <trans-unit id="Mde-by-DTA.normalTitle" xml:space="preserve">
+      <trans-unit id="Mde-by-DTA.normalTitle" xml:space="preserve" approved="yes">
         <source>🍽</source>
-        <target state="translated">🍽</target>
+        <target state="final">🍽</target>
         <note>Class = "UIButton"; normalTitle = "🍽"; ObjectID = "Mde-by-DTA";</note>
       </trans-unit>
-      <trans-unit id="Me5-3D-C34.normalTitle" xml:space="preserve">
+      <trans-unit id="Me5-3D-C34.normalTitle" xml:space="preserve" approved="yes">
         <source>🌮</source>
-        <target state="translated">🌮</target>
+        <target state="final">🌮</target>
         <note>Class = "UIButton"; normalTitle = "🌮"; ObjectID = "Me5-3D-C34";</note>
       </trans-unit>
-      <trans-unit id="NRZ-dT-iqj.text" xml:space="preserve">
+      <trans-unit id="NRZ-dT-iqj.text" xml:space="preserve" approved="yes">
         <source>Food Type</source>
-        <target state="translated">Mad type</target>
+        <target state="final">Mad type</target>
         <note>Class = "UILabel"; text = "Food Type"; ObjectID = "NRZ-dT-iqj";</note>
       </trans-unit>
-      <trans-unit id="QZb-e1-xwb.text" xml:space="preserve">
+      <trans-unit id="QZb-e1-xwb.text" xml:space="preserve" approved="yes">
         <source>g COB</source>
-        <target state="translated">g COB</target>
+        <target state="final">g COB</target>
         <note>Class = "UILabel"; text = "g COB"; ObjectID = "QZb-e1-xwb";</note>
       </trans-unit>
-      <trans-unit id="Qgq-n1-hm4.title" xml:space="preserve">
+      <trans-unit id="Qgq-n1-hm4.title" xml:space="preserve" approved="yes">
         <source>Carbohydrates</source>
-        <target state="translated">Kulhydrater</target>
+        <target state="final">Kulhydrater</target>
         <note>Class = "UINavigationItem"; title = "Carbohydrates"; ObjectID = "Qgq-n1-hm4";</note>
       </trans-unit>
-      <trans-unit id="WZV-l9-Ek1.text" xml:space="preserve">
+      <trans-unit id="WZV-l9-Ek1.text" xml:space="preserve" approved="yes">
         <source>...</source>
-        <target state="translated">...</target>
+        <target state="final">...</target>
         <note>Class = "UILabel"; text = "..."; ObjectID = "WZV-l9-Ek1";</note>
       </trans-unit>
-      <trans-unit id="XaD-wV-oiS.normalTitle" xml:space="preserve">
+      <trans-unit id="XaD-wV-oiS.normalTitle" xml:space="preserve" approved="yes">
         <source>🍭</source>
-        <target state="translated">🍭</target>
+        <target state="final">🍭</target>
         <note>Class = "UIButton"; normalTitle = "🍭"; ObjectID = "XaD-wV-oiS";</note>
       </trans-unit>
-      <trans-unit id="bM2-yI-YmX.title" xml:space="preserve">
+      <trans-unit id="bM2-yI-YmX.title" xml:space="preserve" approved="yes">
         <source>Add/Edit Carb Entry</source>
-        <target state="translated">Tilføj/rediger kulhydrat</target>
+        <target state="final">Tilføj/rediger kulhydrat</target>
         <note>Class = "UINavigationItem"; title = "Add/Edit Carb Entry"; ObjectID = "bM2-yI-YmX";</note>
       </trans-unit>
-      <trans-unit id="bdP-2A-DB8.text" xml:space="preserve">
+      <trans-unit id="bdP-2A-DB8.text" xml:space="preserve" approved="yes">
         <source>Food Type</source>
-        <target state="translated">Mad type</target>
+        <target state="final">Mad type</target>
         <note>Class = "UILabel"; text = "Food Type"; ObjectID = "bdP-2A-DB8";</note>
       </trans-unit>
-      <trans-unit id="dyX-Zv-8wU.normalTitle" xml:space="preserve">
+      <trans-unit id="dyX-Zv-8wU.normalTitle" xml:space="preserve" approved="yes">
         <source>🍕</source>
-        <target state="translated">🍕</target>
+        <target state="final">🍕</target>
         <note>Class = "UIButton"; normalTitle = "🍕"; ObjectID = "dyX-Zv-8wU";</note>
       </trans-unit>
-      <trans-unit id="lbE-wQ-pFK.text" xml:space="preserve">
+      <trans-unit id="lbE-wQ-pFK.text" xml:space="preserve" approved="yes">
         <source>...</source>
-        <target state="translated">...</target>
+        <target state="final">...</target>
         <note>Class = "UILabel"; text = "..."; ObjectID = "lbE-wQ-pFK";</note>
       </trans-unit>
-      <trans-unit id="m95-PG-bTq.text" xml:space="preserve">
+      <trans-unit id="m95-PG-bTq.text" xml:space="preserve" approved="yes">
         <source>Detail</source>
-        <target state="translated">Detalje</target>
+        <target state="final">Detalje</target>
         <note>Class = "UILabel"; text = "Detail"; ObjectID = "m95-PG-bTq";</note>
       </trans-unit>
-      <trans-unit id="nXh-BM-MuC.text" xml:space="preserve">
+      <trans-unit id="nXh-BM-MuC.text" xml:space="preserve" approved="yes">
         <source>HealthKit is not available on this device</source>
-        <target state="translated">HealthKit er ikke tilgængelig på denne enhed</target>
+        <target state="final">HealthKit er ikke tilgængelig på denne enhed</target>
         <note>Class = "UILabel"; text = "HealthKit is not available on this device"; ObjectID = "nXh-BM-MuC";</note>
       </trans-unit>
-      <trans-unit id="pHI-f4-pJp.text" xml:space="preserve">
+      <trans-unit id="pHI-f4-pJp.text" xml:space="preserve" approved="yes">
         <source>g Total</source>
-        <target state="translated">g Total</target>
+        <target state="final">g Total</target>
         <note>Class = "UILabel"; text = "g Total"; ObjectID = "pHI-f4-pJp";</note>
       </trans-unit>
-      <trans-unit id="qU9-hG-hMu.placeholder" xml:space="preserve">
+      <trans-unit id="qU9-hG-hMu.placeholder" xml:space="preserve" approved="yes">
         <source>0</source>
-        <target state="translated">0</target>
+        <target state="final">0</target>
         <note>Class = "UITextField"; placeholder = "0"; ObjectID = "qU9-hG-hMu";</note>
       </trans-unit>
-      <trans-unit id="vM9-H7-t3C.text" xml:space="preserve">
+      <trans-unit id="vM9-H7-t3C.text" xml:space="preserve" approved="yes">
         <source>Title</source>
-        <target state="translated">Titel</target>
+        <target state="final">Titel</target>
         <note>Class = "UILabel"; text = "Title"; ObjectID = "vM9-H7-t3C";</note>
       </trans-unit>
     </body>
@@ -553,29 +553,29 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="7Fi-wD-gf2.text" xml:space="preserve">
+      <trans-unit id="7Fi-wD-gf2.text" xml:space="preserve" approved="yes">
         <source>Title</source>
-        <target state="translated">Titel</target>
+        <target state="final">Titel</target>
         <note>Class = "UILabel"; text = "Title"; ObjectID = "7Fi-wD-gf2";</note>
       </trans-unit>
-      <trans-unit id="7Fy-gG-Zof.text" xml:space="preserve">
+      <trans-unit id="7Fy-gG-Zof.text" xml:space="preserve" approved="yes">
         <source>...</source>
-        <target state="translated">...</target>
+        <target state="final">...</target>
         <note>Class = "UILabel"; text = "..."; ObjectID = "7Fy-gG-Zof";</note>
       </trans-unit>
-      <trans-unit id="9jm-X6-3QA.text" xml:space="preserve">
+      <trans-unit id="9jm-X6-3QA.text" xml:space="preserve" approved="yes">
         <source>Detail</source>
-        <target state="translated">Detalje</target>
+        <target state="final">Detalje</target>
         <note>Class = "UILabel"; text = "Detail"; ObjectID = "9jm-X6-3QA";</note>
       </trans-unit>
-      <trans-unit id="PZQ-gO-084.text" xml:space="preserve">
+      <trans-unit id="PZQ-gO-084.text" xml:space="preserve" approved="yes">
         <source>...</source>
-        <target state="translated">...</target>
+        <target state="final">...</target>
         <note>Class = "UILabel"; text = "..."; ObjectID = "PZQ-gO-084";</note>
       </trans-unit>
-      <trans-unit id="TyZ-xm-mVN.segmentTitles[0]" xml:space="preserve">
+      <trans-unit id="TyZ-xm-mVN.segmentTitles[0]" xml:space="preserve" approved="yes">
         <source>Reservoir</source>
-        <target state="translated">Reservoir</target>
+        <target state="final">Reservoir</target>
         <note>Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[0] = "Reservoir"; ObjectID = "TyZ-xm-mVN";</note>
       </trans-unit>
       <trans-unit id="TyZ-xm-mVN.segmentTitles[1]" xml:space="preserve" approved="yes">
@@ -583,24 +583,24 @@
         <target state="final">Hændelseshistorik</target>
         <note>Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[1] = "Event History"; ObjectID = "TyZ-xm-mVN";</note>
       </trans-unit>
-      <trans-unit id="dZi-Ta-IHm.text" xml:space="preserve">
+      <trans-unit id="dZi-Ta-IHm.text" xml:space="preserve" approved="yes">
         <source>U IOB</source>
-        <target state="translated">U IOB</target>
+        <target state="final">U IOB</target>
         <note>Class = "UILabel"; text = "U IOB"; ObjectID = "dZi-Ta-IHm";</note>
       </trans-unit>
-      <trans-unit id="jSc-64-2tZ.text" xml:space="preserve">
+      <trans-unit id="jSc-64-2tZ.text" xml:space="preserve" approved="yes">
         <source>No pump configured</source>
-        <target state="translated">Ingen pumpe konfigureret</target>
+        <target state="final">Ingen pumpe konfigureret</target>
         <note>Class = "UILabel"; text = "No pump configured"; ObjectID = "jSc-64-2tZ";</note>
       </trans-unit>
-      <trans-unit id="kys-by-14s.text" xml:space="preserve">
+      <trans-unit id="kys-by-14s.text" xml:space="preserve" approved="yes">
         <source>U Total</source>
-        <target state="translated">E Total</target>
+        <target state="final">E Total</target>
         <note>Class = "UILabel"; text = "U Total"; ObjectID = "kys-by-14s";</note>
       </trans-unit>
-      <trans-unit id="vls-EW-uwI.title" xml:space="preserve">
+      <trans-unit id="vls-EW-uwI.title" xml:space="preserve" approved="yes">
         <source>Insulin Delivery</source>
-        <target state="translated">Insulin indgivelse</target>
+        <target state="final">Insulinafgivelse</target>
         <note>Class = "UINavigationItem"; title = "Insulin Delivery"; ObjectID = "vls-EW-uwI";</note>
       </trans-unit>
     </body>
@@ -610,85 +610,85 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id=" higher " xml:space="preserve">
+      <trans-unit id=" higher " xml:space="preserve" approved="yes">
         <source> higher </source>
-        <target state="translated"> højere </target>
+        <target state="final"> højere </target>
         <note>Information about workout range relative to correction range</note>
       </trans-unit>
-      <trans-unit id=" lower " xml:space="preserve">
+      <trans-unit id=" lower " xml:space="preserve" approved="yes">
         <source> lower </source>
-        <target state="translated"> lavere </target>
+        <target state="final"> lavere </target>
         <note>Information about pre-meal range relative to correction range</note>
       </trans-unit>
-      <trans-unit id="%1$@ %2$@" xml:space="preserve">
+      <trans-unit id="%1$@ %2$@" xml:space="preserve" approved="yes">
         <source>%1$@ %2$@</source>
-        <target state="translated">%1$@ %2$@</target>
+        <target state="final">%1$@ %2$@</target>
         <note>The format for an override preset cell. (1: symbol)(2: name)
    The format for an override symbol and name (1: symbol)(2: name)</note>
       </trans-unit>
-      <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
+      <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve" approved="yes">
         <source>%1$@ units remaining at %2$@</source>
-        <target state="translated">%1$@ enheder tilbage ved %2$@</target>
+        <target state="final">%1$@ enheder tilbage ved %2$@</target>
         <note>Accessibility format string for (1: localized volume)(2: time)</note>
       </trans-unit>
-      <trans-unit id="%1$@ – %2$@ %3$@" xml:space="preserve">
+      <trans-unit id="%1$@ – %2$@ %3$@" xml:space="preserve" approved="yes">
         <source>%1$@ – %2$@ %3$@</source>
-        <target state="translated">%1$@ – %2$@ %3$@</target>
+        <target state="final">%1$@ – %2$@ %3$@</target>
         <note>The format for a glucose target range. (1: min target)(2: max target)(3: glucose unit)</note>
       </trans-unit>
-      <trans-unit id="%1$d percent complete." xml:space="preserve">
+      <trans-unit id="%1$d percent complete." xml:space="preserve" approved="yes">
         <source>%1$d percent complete.</source>
-        <target state="translated">%1$d procent færdig.</target>
+        <target state="final">%1$d procent færdig.</target>
         <note>Format string for progress accessibility label (1: duration in seconds)</note>
       </trans-unit>
-      <trans-unit id="%@" xml:space="preserve">
+      <trans-unit id="%@" xml:space="preserve" approved="yes">
         <source>%@</source>
-        <target state="translated">%@</target>
+        <target state="final">%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%@ assumes insulin is actively working for 6 hours. You can choose from %@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
+      <trans-unit id="%@ assumes insulin is actively working for 6 hours. You can choose from %@ different models for how the app measures the insulin’s peak activity." xml:space="preserve" approved="yes">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
-        <target state="translated">%1$@ antager at insulin virker aktivt i 6 timer. Du kan vælge mellem %2$@ forskellige modeller for, hvordan appen måler insulinets maksimale aktivitet.</target>
+        <target state="final">%1$@ antager at insulin virker aktivt i 6 timer. Du kan vælge mellem %2$@ forskellige modeller for, hvordan appen måler insulinets maksimale aktivitet.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
-      <trans-unit id="%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve">
+      <trans-unit id="%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve" approved="yes">
         <source>%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</source>
-        <target state="translated">%@ forudsætter, at den insulin, den har leveret, aktivt arbejder på at sænke din glukose i 6 timer. Denne indstilling kan ikke ændres.</target>
+        <target state="final">%@ forudsætter, at den insulin, den har leveret, aktivt arbejder på at sænke din glukose i 6 timer. Denne indstilling kan ikke ændres.</target>
         <note>Information about insulin action duration</note>
       </trans-unit>
-      <trans-unit id="%@%% of normal insulin" xml:space="preserve">
+      <trans-unit id="%@%% of normal insulin" xml:space="preserve" approved="yes">
         <source>%@%% of normal insulin</source>
-        <target state="translated">%@%% af normalt insulin</target>
+        <target state="final">%@%% af normalt insulin</target>
         <note>The format for an insulin needs percentage.</note>
       </trans-unit>
-      <trans-unit id="%@, " xml:space="preserve">
+      <trans-unit id="%@, " xml:space="preserve" approved="yes">
         <source>%@, </source>
-        <target state="translated">%@, </target>
+        <target state="final">%@, </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%@." xml:space="preserve">
+      <trans-unit id="%@." xml:space="preserve" approved="yes">
         <source>%@.</source>
-        <target state="translated">%@.</target>
+        <target state="final">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
-      <trans-unit id="%@U" xml:space="preserve">
+      <trans-unit id="%@U" xml:space="preserve" approved="yes">
         <source>%@U</source>
-        <target state="translated">%@E</target>
+        <target state="final">%@E</target>
         <note>Format string for reservoir volume. (1: The localized volume)</note>
       </trans-unit>
-      <trans-unit id="(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve">
+      <trans-unit id="(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve" approved="yes">
         <source>(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</source>
-        <target state="translated">(appName) antager, at den insulin, det har leveret, arbejder aktivt på at sænke din glukose i 6 timer. Denne indstilling kan ikke ændres.</target>
+        <target state="final">(appName) antager, at den insulin, det har leveret, arbejder aktivt på at sænke din glukose i 6 timer. Denne indstilling kan ikke ændres.</target>
         <note>Information about insulin action duration</note>
       </trans-unit>
-      <trans-unit id="-" xml:space="preserve">
+      <trans-unit id="-" xml:space="preserve" approved="yes">
         <source>-</source>
-        <target state="translated">-</target>
+        <target state="final">-</target>
         <note>Separator between min and max glucose values</note>
       </trans-unit>
-      <trans-unit id="A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do" xml:space="preserve">
+      <trans-unit id="A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do" xml:space="preserve" approved="yes">
         <source>A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do</source>
-        <target state="translated">Et kort hvis tekst vil ombryde til flere linjer, hvis jeg fortsætter med at skrive længe nok - denne længde bør gøre</target>
+        <target state="final">Et kort hvis tekst vil ombryde til flere linjer, hvis jeg fortsætter med at skrive længe nok - denne længde bør gøre</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="A correction range is different. This will be a narrower range." xml:space="preserve" approved="yes">
@@ -696,185 +696,185 @@
         <target state="final">Et korrektionsområde er anderledes. Dette vil være et snævere område.</target>
         <note>Information about differences between target range and correction range</note>
       </trans-unit>
-      <trans-unit id="A setting of 0 U means you will not be able to bolus." xml:space="preserve">
+      <trans-unit id="A setting of 0 U means you will not be able to bolus." xml:space="preserve" approved="yes">
         <source>A setting of 0 U means you will not be able to bolus.</source>
-        <target state="translated">En indstilling på 0 U betyder, at du ikke vil være i stand til at bolus.</target>
+        <target state="final">En indstilling på 0 U betyder, at du ikke vil være i stand til at bolus.</target>
         <note>Caption text for zero maximum bolus setting warning</note>
       </trans-unit>
-      <trans-unit id="A setting of 0 U/hr means Loop will not automatically administer insulin." xml:space="preserve">
+      <trans-unit id="A setting of 0 U/hr means Loop will not automatically administer insulin." xml:space="preserve" approved="yes">
         <source>A setting of 0 U/hr means Loop will not automatically administer insulin.</source>
-        <target state="translated">En indstilling på 0 U/hr betyder Loop vil ikke automatisk administrere insulin.</target>
+        <target state="final">En indstilling på 0 U/hr betyder Loop vil ikke automatisk administrere insulin.</target>
         <note>Caption text for low maximum basal rate warning</note>
       </trans-unit>
-      <trans-unit id="A simple card" xml:space="preserve">
+      <trans-unit id="A simple card" xml:space="preserve" approved="yes">
         <source>A simple card</source>
-        <target state="translated">Et simpelt kort</target>
+        <target state="final">Et simpelt kort</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="A value of 0 U/hr means you will be scheduled to receive no basal insulin." xml:space="preserve">
+      <trans-unit id="A value of 0 U/hr means you will be scheduled to receive no basal insulin." xml:space="preserve" approved="yes">
         <source>A value of 0 U/hr means you will be scheduled to receive no basal insulin.</source>
-        <target state="translated">En værdi på 0 U/time betyder, at du vil planmæssigt ikke vil modtage basal insulin.</target>
+        <target state="final">En værdi på 0 U/time betyder, at du ikke vil modtage basal i den angivende tidesperiode.</target>
         <note>Warning text for basal rate of 0 U/hr</note>
       </trans-unit>
-      <trans-unit id="A value you have chosen is higher than is generally recommended." xml:space="preserve">
+      <trans-unit id="A value you have chosen is higher than is generally recommended." xml:space="preserve" approved="yes">
         <source>A value you have chosen is higher than is generally recommended.</source>
-        <target state="translated">En værdi, du har valgt, er højere end det der normalt anbefales.</target>
+        <target state="final">En værdi, du har valgt, er højere end det der normalt anbefales.</target>
         <note>Warning for entering a high setting value in a schedule interface</note>
       </trans-unit>
-      <trans-unit id="A value you have chosen is lower than is generally recommended." xml:space="preserve">
+      <trans-unit id="A value you have chosen is lower than is generally recommended." xml:space="preserve" approved="yes">
         <source>A value you have chosen is lower than is generally recommended.</source>
-        <target state="translated">En værdi, du har valgt, er lavere end det der normalt anbefales.</target>
+        <target state="final">En værdi, du har valgt, er lavere end det der normalt anbefales.</target>
         <note>Warning for entering a low setting value in a schedule interface</note>
       </trans-unit>
-      <trans-unit id="Above dynamic data" xml:space="preserve">
+      <trans-unit id="Above dynamic data" xml:space="preserve" approved="yes">
         <source>Above dynamic data</source>
-        <target state="translated">Above dynamic data</target>
+        <target state="final">Over dynamisk data</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Above the save button" xml:space="preserve">
+      <trans-unit id="Above the save button" xml:space="preserve" approved="yes">
         <source>Above the save button</source>
-        <target state="translated">Above the save button</target>
+        <target state="final">Over gem knappen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Absorption Time" xml:space="preserve">
+      <trans-unit id="Absorption Time" xml:space="preserve" approved="yes">
         <source>Absorption Time</source>
-        <target state="translated">Absorptionstid</target>
+        <target state="final">Absorberingstid</target>
         <note>Title of the carb entry absorption time cell</note>
       </trans-unit>
-      <trans-unit id="Action Button" xml:space="preserve">
+      <trans-unit id="Action Button" xml:space="preserve" approved="yes">
         <source>Action Button</source>
-        <target state="translated">Handlingsknap</target>
+        <target state="final">Handlingsknap</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Activity" xml:space="preserve">
+      <trans-unit id="Activity" xml:space="preserve" approved="yes">
         <source>Activity</source>
-        <target state="translated">Aktivitet</target>
+        <target state="final">Aktivitet</target>
         <note>The title for the override emoji activity section</note>
       </trans-unit>
-      <trans-unit id="Add" xml:space="preserve">
+      <trans-unit id="Add" xml:space="preserve" approved="yes">
         <source>Add</source>
-        <target state="translated">Tilføj</target>
+        <target state="final">Tilføj</target>
         <note>Button text to confirm adding a new schedule item</note>
       </trans-unit>
-      <trans-unit id="Add Account" xml:space="preserve">
+      <trans-unit id="Add Account" xml:space="preserve" approved="yes">
         <source>Add Account</source>
-        <target state="translated">Tilføj konto</target>
+        <target state="final">Tilføj konto</target>
         <note>The title of the button to add the credentials for a service</note>
       </trans-unit>
-      <trans-unit id="Add Carb Entry" xml:space="preserve">
+      <trans-unit id="Add Carb Entry" xml:space="preserve" approved="yes">
         <source>Add Carb Entry</source>
-        <target state="translated">Tilføj kulhydrater</target>
+        <target state="final">Tilføj kulhydrater</target>
         <note>The title of the view controller to create a new carb entry</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete all history entries?" xml:space="preserve">
+      <trans-unit id="Are you sure you want to delete all history entries?" xml:space="preserve" approved="yes">
         <source>Are you sure you want to delete all history entries?</source>
-        <target state="translated">Er du sikker på at du vil slette alle gamle indtastninger?</target>
+        <target state="final">Er du sikker på at du vil slette alle gamle indtastninger?</target>
         <note>Action sheet confirmation message for pump history deletion</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete all reservoir values?" xml:space="preserve">
+      <trans-unit id="Are you sure you want to delete all reservoir values?" xml:space="preserve" approved="yes">
         <source>Are you sure you want to delete all reservoir values?</source>
-        <target state="translated">Er du sikker på at du vil slette alle reservoir værdier?</target>
+        <target state="final">Er du sikker på at du vil slette alle reservoir værdier?</target>
         <note>Action sheet confirmation message for reservoir deletion</note>
       </trans-unit>
-      <trans-unit id="Basal Rates" xml:space="preserve">
+      <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
         <source>Basal Rates</source>
-        <target state="translated">Basalrater</target>
+        <target state="final">Basalrater</target>
         <note>Title text for multi-value basal rate warning</note>
       </trans-unit>
-      <trans-unit id="Basal, bolus, and correction insulin dose amounts are decreased by %@%%." xml:space="preserve">
+      <trans-unit id="Basal, bolus, and correction insulin dose amounts are decreased by %@%%." xml:space="preserve" approved="yes">
         <source>Basal, bolus, and correction insulin dose amounts are decreased by %@%%.</source>
-        <target state="translated">Basal-, bolus- og korrektionsinsulindoser er sænket med %@%%.</target>
+        <target state="final">Basal-, bolus- og korrektionsinsulindoser er sænket med %@%%.</target>
         <note>Describes a percentage decrease in overall insulin needs</note>
       </trans-unit>
-      <trans-unit id="Basal, bolus, and correction insulin dose amounts are increased by %@%%." xml:space="preserve">
+      <trans-unit id="Basal, bolus, and correction insulin dose amounts are increased by %@%%." xml:space="preserve" approved="yes">
         <source>Basal, bolus, and correction insulin dose amounts are increased by %@%%.</source>
-        <target state="translated">Basal-, bolus- og korrektionsinsulindoser er forøget med %@%%.</target>
+        <target state="final">Basal-, bolus- og korrektionsinsulindoser er forøget med %@%%.</target>
         <note>Describes a percentage increase in overall insulin needs</note>
       </trans-unit>
-      <trans-unit id="Basal, bolus, and correction insulin dose amounts are unaffected." xml:space="preserve">
+      <trans-unit id="Basal, bolus, and correction insulin dose amounts are unaffected." xml:space="preserve" approved="yes">
         <source>Basal, bolus, and correction insulin dose amounts are unaffected.</source>
-        <target state="translated">Basal-, bolus- og korrektionsinsulindoser er uændrede.</target>
+        <target state="final">Basal-, bolus- og korrektionsinsulindoser er uændrede.</target>
         <note>Describes a lack of change in overall insulin needs</note>
       </trans-unit>
-      <trans-unit id="Below dynamic data" xml:space="preserve">
+      <trans-unit id="Below dynamic data" xml:space="preserve" approved="yes">
         <source>Below dynamic data</source>
-        <target state="translated">Below dynamic data</target>
+        <target state="final">Under dynamisk data</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Bottom" xml:space="preserve">
+      <trans-unit id="Bottom" xml:space="preserve" approved="yes">
         <source>Bottom</source>
-        <target state="translated">Bottom</target>
+        <target state="final">Bund</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Bottom component" xml:space="preserve">
+      <trans-unit id="Bottom component" xml:space="preserve" approved="yes">
         <source>Bottom component</source>
-        <target state="translated">Bottom component</target>
+        <target state="final">Nederst komponent</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
+      <trans-unit id="Cancel" xml:space="preserve" approved="yes">
         <source>Cancel</source>
-        <target state="translated">Annuller</target>
+        <target state="final">Annuller</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
-      <trans-unit id="Cancel Override" xml:space="preserve">
+      <trans-unit id="Cancel Override" xml:space="preserve" approved="yes">
         <source>Cancel Override</source>
-        <target state="translated">Annuller override</target>
+        <target state="final">Annuller override</target>
         <note>The text for the override cancellation button</note>
       </trans-unit>
-      <trans-unit id="Canceling Temp Basal" xml:space="preserve">
+      <trans-unit id="Canceling Temp Basal" xml:space="preserve" approved="yes">
         <source>Canceling Temp Basal</source>
-        <target state="translated">Annuller midlertidig basal</target>
+        <target state="final">Annuller midlertidig basal</target>
         <note>Title text for suspend resume button when temp basal canceling</note>
       </trans-unit>
-      <trans-unit id="Carb Ratios" xml:space="preserve">
+      <trans-unit id="Carb Ratios" xml:space="preserve" approved="yes">
         <source>Carb Ratios</source>
-        <target state="translated">Kulhydratforhold</target>
+        <target state="final">Kulhydratforhold</target>
         <note>Title text for multi-value carb ratio warning</note>
       </trans-unit>
-      <trans-unit id="Changes will only apply this time you enable the override. The default settings of %@ will not be affected." xml:space="preserve">
+      <trans-unit id="Changes will only apply this time you enable the override. The default settings of %@ will not be affected." xml:space="preserve" approved="yes">
         <source>Changes will only apply this time you enable the override. The default settings of %@ will not be affected.</source>
-        <target state="translated">Ændringer gælder kun ved denne override. Standardindstillingerne af %@ bliver ikke påvirket.</target>
+        <target state="final">Ændringer gælder kun ved denne override. Standardindstillingerne af %@ bliver ikke påvirket.</target>
         <note>Footer text for customizing an override from a preset (1: preset name)</note>
       </trans-unit>
-      <trans-unit id="Changes will only apply this time you enable the preset. The default settings of %@ will not be affected." xml:space="preserve">
+      <trans-unit id="Changes will only apply this time you enable the preset. The default settings of %@ will not be affected." xml:space="preserve" approved="yes">
         <source>Changes will only apply this time you enable the preset. The default settings of %@ will not be affected.</source>
-        <target state="translated">Ændringerne gælder kun denne override. Standardindstillingerne af %@ bliver ikke påvirket.</target>
+        <target state="final">Ændringerne gælder kun denne override. Standardindstillingerne af %@ bliver ikke påvirket.</target>
         <note>Footer text for customizing from a preset (1: preset name)</note>
       </trans-unit>
-      <trans-unit id="Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." xml:space="preserve">
+      <trans-unit id="Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." xml:space="preserve" approved="yes">
         <source>Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact.</source>
-        <target state="translated">Vælg en længere absorptionstid ved større måltider, eller dem med fedt og proteiner. Det er blot hjælp til algoritmen, og behøver ikke være nøjagtig.</target>
+        <target state="final">Vælg en længere absorberingstid ved større måltider, eller dem med fedt og proteiner. Det er blot hjælp til algoritmen, og behøver ikke være nøjagtig.</target>
         <note>Carb entry section footer text explaining absorption time</note>
       </trans-unit>
-      <trans-unit id="Close" xml:space="preserve">
+      <trans-unit id="Close" xml:space="preserve" approved="yes">
         <source>Close</source>
-        <target state="translated">Luk</target>
+        <target state="final">Luk</target>
         <note>Button text to close a modal
    Text to close informational page</note>
       </trans-unit>
-      <trans-unit id="Completed." xml:space="preserve">
+      <trans-unit id="Completed." xml:space="preserve" approved="yes">
         <source>Completed.</source>
-        <target state="translated">Fuldført.</target>
+        <target state="final">Fuldført.</target>
         <note>Accessibility label for ProgressIndicatorView when showIndeterminantProgress</note>
       </trans-unit>
-      <trans-unit id="Condition" xml:space="preserve">
+      <trans-unit id="Condition" xml:space="preserve" approved="yes">
         <source>Condition</source>
-        <target state="translated">Tilstand</target>
+        <target state="final">Tilstand</target>
         <note>The title for the override emoji condition section</note>
       </trans-unit>
-      <trans-unit id="Confirm Setting" xml:space="preserve">
+      <trans-unit id="Confirm Setting" xml:space="preserve" approved="yes">
         <source>Confirm Setting</source>
-        <target state="translated">Bekræft indstillingerne</target>
+        <target state="final">Bekræft indstillingerne</target>
         <note>The button text for confirming the setting</note>
       </trans-unit>
-      <trans-unit id="Continue" xml:space="preserve">
+      <trans-unit id="Continue" xml:space="preserve" approved="yes">
         <source>Continue</source>
-        <target state="translated">Fortsæt</target>
+        <target state="final">Fortsæt</target>
         <note>Title of the setup button to continue</note>
       </trans-unit>
-      <trans-unit id="Correction Values" xml:space="preserve">
+      <trans-unit id="Correction Values" xml:space="preserve" approved="yes">
         <source>Correction Values</source>
-        <target state="translated">Korrektionværdier</target>
+        <target state="final">Korrektionværdier</target>
         <note>Title text for multi-value correction value warning</note>
       </trans-unit>
       <trans-unit id="Correction range is the blood glucose range that you would like Loop to correct to." xml:space="preserve" approved="yes">
@@ -882,40 +882,40 @@
         <target state="final">Korrektionsområde er det område du gerne vil have at Loop korrigere dit blodsukker til.</target>
         <note>The section footer of correction range schedule</note>
       </trans-unit>
-      <trans-unit id="Custom" xml:space="preserve">
+      <trans-unit id="Custom" xml:space="preserve" approved="yes">
         <source>Custom</source>
-        <target state="translated">Brugerdefineret</target>
+        <target state="final">Brugerdefineret</target>
         <note>The text for a custom override</note>
       </trans-unit>
-      <trans-unit id="Custom Override" xml:space="preserve">
+      <trans-unit id="Custom Override" xml:space="preserve" approved="yes">
         <source>Custom Override</source>
-        <target state="translated">Brugerdefineret override</target>
+        <target state="final">Brugerdefineret override</target>
         <note>The title for the custom override entry screen</note>
       </trans-unit>
-      <trans-unit id="Custom Preset" xml:space="preserve">
+      <trans-unit id="Custom Preset" xml:space="preserve" approved="yes">
         <source>Custom Preset</source>
-        <target state="translated">Brugerdefineret forudindstilling</target>
+        <target state="final">Brugerdefineret forudindstilling</target>
         <note>The title for the custom preset entry screen
    The title for the custom preset selection screen</note>
       </trans-unit>
-      <trans-unit id="Date" xml:space="preserve">
+      <trans-unit id="Date" xml:space="preserve" approved="yes">
         <source>Date</source>
-        <target state="translated">Dato</target>
+        <target state="final">Dato</target>
         <note>Title of the carb entry date picker cell</note>
       </trans-unit>
-      <trans-unit id="Delete" xml:space="preserve">
+      <trans-unit id="Delete" xml:space="preserve" approved="yes">
         <source>Delete</source>
-        <target state="translated">Slet</target>
+        <target state="final">Slet</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Delete Account" xml:space="preserve">
+      <trans-unit id="Delete Account" xml:space="preserve" approved="yes">
         <source>Delete Account</source>
-        <target state="translated">Slet konto</target>
+        <target state="final">Slet konto</target>
         <note>The title of the button to remove the credentials for a service</note>
       </trans-unit>
-      <trans-unit id="Delete All" xml:space="preserve">
+      <trans-unit id="Delete All" xml:space="preserve" approved="yes">
         <source>Delete All</source>
-        <target state="translated">Slet alle</target>
+        <target state="final">Slet alle</target>
         <note>Button title to delete all objects</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve" approved="yes">
@@ -923,224 +923,224 @@
         <target state="final">Insulin-grænser</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Delivery limits are safety guardrails for your insulin delivery." xml:space="preserve">
+      <trans-unit id="Delivery limits are safety guardrails for your insulin delivery." xml:space="preserve" approved="yes">
         <source>Delivery limits are safety guardrails for your insulin delivery.</source>
-        <target state="translated">Indgivelses begrænsningerne er din sikker for insulin indgivelsen.</target>
+        <target state="final">Afgivelsesgrænser er sikkerhedsgrænser for insulinafgivelsen.</target>
         <note>Information about delivery limits</note>
       </trans-unit>
-      <trans-unit id="Disable Preset" xml:space="preserve">
+      <trans-unit id="Disable Preset" xml:space="preserve" approved="yes">
         <source>Disable Preset</source>
-        <target state="translated">Deaktiver forudindstilling</target>
+        <target state="final">Deaktiver forudindstilling</target>
         <note>The text for the custom preset disable button</note>
       </trans-unit>
-      <trans-unit id="Done" xml:space="preserve">
+      <trans-unit id="Done" xml:space="preserve" approved="yes">
         <source>Done</source>
-        <target state="translated">Udført</target>
+        <target state="final">Udført</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Duration" xml:space="preserve">
+      <trans-unit id="Duration" xml:space="preserve" approved="yes">
         <source>Duration</source>
-        <target state="translated">Varighed</target>
+        <target state="final">Varighed</target>
         <note>The text for the override duration setting</note>
       </trans-unit>
-      <trans-unit id="Dynamic component #%@" xml:space="preserve">
+      <trans-unit id="Dynamic component #%@" xml:space="preserve" approved="yes">
         <source>Dynamic component #%@</source>
-        <target state="translated">Dynamisk komponent #%@</target>
+        <target state="final">Dynamisk komponent #%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Dynamic data %@" xml:space="preserve">
+      <trans-unit id="Dynamic data %@" xml:space="preserve" approved="yes">
         <source>Dynamic data %@</source>
-        <target state="translated">Dynamiske data %@</target>
+        <target state="final">Dynamiske data %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Edit" xml:space="preserve">
+      <trans-unit id="Edit" xml:space="preserve" approved="yes">
         <source>Edit</source>
-        <target state="translated">Rediger</target>
+        <target state="final">Rediger</target>
         <note>The title for the enabled custom preset editing screen</note>
       </trans-unit>
-      <trans-unit id="Edit Carb Entry" xml:space="preserve">
+      <trans-unit id="Edit Carb Entry" xml:space="preserve" approved="yes">
         <source>Edit Carb Entry</source>
-        <target state="translated">Ret kulhydrat</target>
+        <target state="final">Ret kulhydrat</target>
         <note>The title of the view controller to edit an existing carb entry</note>
       </trans-unit>
-      <trans-unit id="Edit Override" xml:space="preserve">
+      <trans-unit id="Edit Override" xml:space="preserve" approved="yes">
         <source>Edit Override</source>
-        <target state="translated">Rediger override</target>
+        <target state="final">Rediger override</target>
         <note>The title for the override editing screen</note>
       </trans-unit>
-      <trans-unit id="Editing affects only the active override. The default settings of %@ will not be affected." xml:space="preserve">
+      <trans-unit id="Editing affects only the active override. The default settings of %@ will not be affected." xml:space="preserve" approved="yes">
         <source>Editing affects only the active override. The default settings of %@ will not be affected.</source>
-        <target state="translated">Ændringer gælder kun den aktuelle override. Standardindstillingerne af %@ bliver ikke påvirket.</target>
+        <target state="final">Ændringer gælder kun den aktuelle override. Standardindstillingerne af %@ bliver ikke påvirket.</target>
         <note>Footer text for editing an active override (1: preset name)</note>
       </trans-unit>
-      <trans-unit id="Edits persist only until the preset is disabled. The default settings of %@ will not be affected." xml:space="preserve">
+      <trans-unit id="Edits persist only until the preset is disabled. The default settings of %@ will not be affected." xml:space="preserve" approved="yes">
         <source>Edits persist only until the preset is disabled. The default settings of %@ will not be affected.</source>
-        <target state="translated">Edits persist only until the preset is disabled. The default settings of %@ will not be affected.</target>
+        <target state="final">Ændringer gælder kun indtil preset er deaktiveret. Standardindstillingerne for %@ påvirkes ikke.</target>
         <note>Footer text for editing an enabled custom preset (1: preset name)</note>
       </trans-unit>
-      <trans-unit id="Enable" xml:space="preserve">
+      <trans-unit id="Enable" xml:space="preserve" approved="yes">
         <source>Enable</source>
-        <target state="translated">Aktiver</target>
+        <target state="final">Aktiver</target>
         <note>The button text for enabling a custom preset</note>
       </trans-unit>
-      <trans-unit id="Enable Indefinitely" xml:space="preserve">
+      <trans-unit id="Enable Indefinitely" xml:space="preserve" approved="yes">
         <source>Enable Indefinitely</source>
-        <target state="translated">Aktiver På ubestemt tid</target>
+        <target state="final">Aktiver uendeligt</target>
         <note>The text for the indefinite override duration setting</note>
       </trans-unit>
-      <trans-unit id="Enabled" xml:space="preserve">
+      <trans-unit id="Enabled" xml:space="preserve" approved="yes">
         <source>Enabled</source>
-        <target state="translated">Aktiveret</target>
+        <target state="final">Aktiveret</target>
         <note>The detail text describing an enabled setting</note>
       </trans-unit>
-      <trans-unit id="Enter a number of units" xml:space="preserve">
+      <trans-unit id="Enter a number of units" xml:space="preserve" approved="yes">
         <source>Enter a number of units</source>
-        <target state="translated">Indtast antal enheder</target>
+        <target state="final">Indtast antal enheder</target>
         <note>The placeholder text instructing users how to enter a maximum bolus</note>
       </trans-unit>
-      <trans-unit id="Enter a rate in units per hour" xml:space="preserve">
+      <trans-unit id="Enter a rate in units per hour" xml:space="preserve" approved="yes">
         <source>Enter a rate in units per hour</source>
-        <target state="translated">Indtast en dosis i enheder pr time</target>
+        <target state="final">Indtast en dosis i enheder pr time</target>
         <note>The placeholder text instructing users how to enter a maximum basal rate</note>
       </trans-unit>
-      <trans-unit id="Enter value" xml:space="preserve">
+      <trans-unit id="Enter value" xml:space="preserve" approved="yes">
         <source>Enter value</source>
-        <target state="translated">Indsæt værdi</target>
+        <target state="final">Indsæt værdi</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Example" xml:space="preserve">
+      <trans-unit id="Example" xml:space="preserve" approved="yes">
         <source>Example</source>
-        <target state="translated">Eksempel</target>
+        <target state="final">Eksempel</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Fast" xml:space="preserve">
+      <trans-unit id="Fast" xml:space="preserve" approved="yes">
         <source>Fast</source>
-        <target state="translated">Hurtig</target>
+        <target state="final">Hurtig</target>
         <note>Section title for fast absorbing food</note>
       </trans-unit>
-      <trans-unit id="Fiasp" xml:space="preserve">
+      <trans-unit id="Fiasp" xml:space="preserve" approved="yes">
         <source>Fiasp</source>
-        <target state="translated">Fiasp</target>
+        <target state="final">Fiasp</target>
         <note>Title of insulin model preset - fiasp</note>
       </trans-unit>
-      <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
+      <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve" approved="yes">
         <source>For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target state="translated">For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</target>
+        <target state="final">For dette område, skal du vælge den specifikke glukoseværdi (eller værdiinterval), som du vil have Loop til at sigte efter når Loop justere din basal insulin.</target>
         <note>Information about correction range</note>
       </trans-unit>
-      <trans-unit id="Get help with Therapy Settings" xml:space="preserve">
+      <trans-unit id="Get help with Therapy Settings" xml:space="preserve" approved="yes">
         <source>Get help with Therapy Settings</source>
-        <target state="translated">Get help with Therapy Settings</target>
+        <target state="final">Få hjælp til behandlingsindstillinger</target>
         <note>Support button for Therapy Settings</note>
       </trans-unit>
-      <trans-unit id="Go Back" xml:space="preserve">
+      <trans-unit id="Go Back" xml:space="preserve" approved="yes">
         <source>Go Back</source>
-        <target state="translated">Gå tilbage</target>
+        <target state="final">Gå tilbage</target>
         <note>Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range</note>
       </trans-unit>
-      <trans-unit id="High Basal Rate" xml:space="preserve">
+      <trans-unit id="High Basal Rate" xml:space="preserve" approved="yes">
         <source>High Basal Rate</source>
-        <target state="translated">Høj basalrate</target>
+        <target state="final">Høj basalrate</target>
         <note>Title text for the high basal rate warning</note>
       </trans-unit>
-      <trans-unit id="High Carb Ratio" xml:space="preserve">
+      <trans-unit id="High Carb Ratio" xml:space="preserve" approved="yes">
         <source>High Carb Ratio</source>
-        <target state="translated">Høj kulhydratforhold</target>
+        <target state="final">Høj kulhydratforhold</target>
         <note>Title text for the high carb ratio warning</note>
       </trans-unit>
-      <trans-unit id="High Correction Value" xml:space="preserve">
+      <trans-unit id="High Correction Value" xml:space="preserve" approved="yes">
         <source>High Correction Value</source>
-        <target state="translated">Høj korrektionsværdi</target>
+        <target state="final">Høj korrektionsværdi</target>
         <note>Title text for the high correction value warning</note>
       </trans-unit>
-      <trans-unit id="High Insulin Sensitivity" xml:space="preserve">
+      <trans-unit id="High Insulin Sensitivity" xml:space="preserve" approved="yes">
         <source>High Insulin Sensitivity</source>
-        <target state="translated">Høj insulin følsomhed</target>
+        <target state="final">Høj insulin følsomhed</target>
         <note>Title text for the high insulin sensitivity warning</note>
       </trans-unit>
-      <trans-unit id="High Maximum Basal Rate" xml:space="preserve">
+      <trans-unit id="High Maximum Basal Rate" xml:space="preserve" approved="yes">
         <source>High Maximum Basal Rate</source>
-        <target state="translated">Høj maksimal basalrate</target>
+        <target state="final">Høj maksimal basalrate</target>
         <note>Title text for high maximum basal rate warning</note>
       </trans-unit>
-      <trans-unit id="High Maximum Bolus" xml:space="preserve">
+      <trans-unit id="High Maximum Bolus" xml:space="preserve" approved="yes">
         <source>High Maximum Bolus</source>
-        <target state="translated">Maksimum bolus</target>
+        <target state="final">Maksimum bolus</target>
         <note>Title text for high maximum bolus warning</note>
       </trans-unit>
-      <trans-unit id="High Suspend Threshold" xml:space="preserve">
+      <trans-unit id="High Suspend Threshold" xml:space="preserve" approved="yes">
         <source>High Suspend Threshold</source>
-        <target state="translated">Høj suspenderingsgrænse</target>
+        <target state="final">Høj suspenderingsgrænse</target>
         <note>Title text for the high suspend threshold warning</note>
       </trans-unit>
-      <trans-unit id="If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." xml:space="preserve">
+      <trans-unit id="If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." xml:space="preserve" approved="yes">
         <source>If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL.</source>
-        <target state="translated">If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL.</target>
+        <target state="final">Hvis du har brugt en CGM tidligere er du sandsynligvis bekendt med at få advarsler ud fra et glucoseområde, såsom 70-180 mg / dL eller 90-200 mg / dL.</target>
         <note>Information about target range</note>
       </trans-unit>
-      <trans-unit id="Insulin Sensitivities" xml:space="preserve">
+      <trans-unit id="Insulin Sensitivities" xml:space="preserve" approved="yes">
         <source>Insulin Sensitivities</source>
-        <target state="translated">Insulin følsomheder</target>
+        <target state="final">Insulinfølsomheder</target>
         <note>Title text for multi-value insulin sensitivity warning</note>
       </trans-unit>
-      <trans-unit id="Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." xml:space="preserve">
+      <trans-unit id="Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." xml:space="preserve" approved="yes">
         <source>Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose.</source>
-        <target state="translated">Insulin følsomhed beskriver hvordan dit blodsukker påvirkes af 1 enhed insulin. Mindre værdier betyder at mere insulin vil blive givet, når blodsukkeret er over målet. Værdier der er for små, kan forårsage faretruende lavt blodsukker.</target>
+        <target state="final">Insulinfølsomhed beskriver hvordan dit blodsukker påvirkes af 1 enhed insulin. Mindre værdier betyder at mere insulin vil blive givet, når blodsukkeret er over målet. Værdier der er for små, kan forårsage faretruende lavt blodsukker.</target>
         <note>The description shown on the insulin sensitivity schedule interface.</note>
       </trans-unit>
-      <trans-unit id="Loop supports 1 to 48 rates per day." xml:space="preserve">
+      <trans-unit id="Loop supports 1 to 48 rates per day." xml:space="preserve" approved="yes">
         <source>Loop supports 1 to 48 rates per day.</source>
-        <target state="translated">Loop understøtter 1 til 48 doser per dag.</target>
+        <target state="final">Loop understøtter 1 til 48 doser per dag.</target>
         <note>Information about max number of basal rates</note>
       </trans-unit>
-      <trans-unit id="Low Basal Rate" xml:space="preserve">
+      <trans-unit id="Low Basal Rate" xml:space="preserve" approved="yes">
         <source>Low Basal Rate</source>
-        <target state="translated">Lav basalrate</target>
+        <target state="final">Lav basalrate</target>
         <note>Title text for the low basal rate warning</note>
       </trans-unit>
-      <trans-unit id="Low Carb Ratio" xml:space="preserve">
+      <trans-unit id="Low Carb Ratio" xml:space="preserve" approved="yes">
         <source>Low Carb Ratio</source>
-        <target state="translated">Lav kulhydratforhold</target>
+        <target state="final">Lav kulhydratforhold</target>
         <note>Title text for the low carb ratio warning</note>
       </trans-unit>
-      <trans-unit id="Low Correction Value" xml:space="preserve">
+      <trans-unit id="Low Correction Value" xml:space="preserve" approved="yes">
         <source>Low Correction Value</source>
-        <target state="translated">Lav korrektionsværdi</target>
+        <target state="final">Lav korrektionsværdi</target>
         <note>Title text for the low correction value warning</note>
       </trans-unit>
-      <trans-unit id="Low Insulin Sensitivity" xml:space="preserve">
+      <trans-unit id="Low Insulin Sensitivity" xml:space="preserve" approved="yes">
         <source>Low Insulin Sensitivity</source>
-        <target state="translated">Lav insulin følsomhed</target>
+        <target state="final">Lav insulin følsomhed</target>
         <note>Title text for the low insulin sensitivity warning</note>
       </trans-unit>
-      <trans-unit id="Low Maximum Basal Rate" xml:space="preserve">
+      <trans-unit id="Low Maximum Basal Rate" xml:space="preserve" approved="yes">
         <source>Low Maximum Basal Rate</source>
-        <target state="translated">Lav maksimal basalrate</target>
+        <target state="final">Lav maksimal basalrate</target>
         <note>Title text for low maximum basal rate warning</note>
       </trans-unit>
-      <trans-unit id="Low Maximum Bolus" xml:space="preserve">
+      <trans-unit id="Low Maximum Bolus" xml:space="preserve" approved="yes">
         <source>Low Maximum Bolus</source>
-        <target state="translated">Lav maksimum bolus</target>
+        <target state="final">Lav maksimum bolus</target>
         <note>Title text for low maximum bolus warning</note>
       </trans-unit>
-      <trans-unit id="Low Suspend Threshold" xml:space="preserve">
+      <trans-unit id="Low Suspend Threshold" xml:space="preserve" approved="yes">
         <source>Low Suspend Threshold</source>
-        <target state="translated">Lav suspenderingsgrænse</target>
+        <target state="final">Lav suspenderingsgrænse</target>
         <note>Title text for the low suspend threshold warning</note>
       </trans-unit>
-      <trans-unit id="Maximum Basal Rate" xml:space="preserve">
+      <trans-unit id="Maximum Basal Rate" xml:space="preserve" approved="yes">
         <source>Maximum Basal Rate</source>
-        <target state="translated">Maksimal basalrate</target>
+        <target state="final">Maksimal basalrate</target>
         <note>The title text for the maximum basal rate value</note>
       </trans-unit>
-      <trans-unit id="Maximum Bolus" xml:space="preserve">
+      <trans-unit id="Maximum Bolus" xml:space="preserve" approved="yes">
         <source>Maximum Bolus</source>
-        <target state="translated">Maksimal bolus</target>
+        <target state="final">Maksimal bolus</target>
         <note>The title text for the maximum bolus value</note>
       </trans-unit>
-      <trans-unit id="Maximum basal rate" xml:space="preserve">
+      <trans-unit id="Maximum basal rate" xml:space="preserve" approved="yes">
         <source>Maximum basal rate</source>
-        <target state="translated">Maksimal basalrate</target>
+        <target state="final">Maksimal basalrate</target>
         <note>Maximum basal rate title</note>
       </trans-unit>
       <trans-unit id="Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range." xml:space="preserve" approved="yes">
@@ -1148,59 +1148,59 @@
         <target state="final">Maksimal basalrate er den maksimale automatisk justerede basalrate, som Loop har lov til at sætte for at hjælpe med at nå dit korrektionsområde.</target>
         <note>Information about maximum basal rate</note>
       </trans-unit>
-      <trans-unit id="Maximum bolus" xml:space="preserve">
+      <trans-unit id="Maximum bolus" xml:space="preserve" approved="yes">
         <source>Maximum bolus</source>
-        <target state="translated">Maksimal Bolus</target>
+        <target state="final">Maksimal bolus</target>
         <note>Maximum bolus title</note>
       </trans-unit>
-      <trans-unit id="Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose." xml:space="preserve">
+      <trans-unit id="Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose." xml:space="preserve" approved="yes">
         <source>Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose.</source>
-        <target state="translated">Maksimal bolus er den højeste bolus, som du vil tillade Loop at anbefale på én gang at dække kulhydrater eller nedbringe højt blodsukker.</target>
+        <target state="final">Maksimal bolus er den højeste bolus, som du vil tillade Loop at anbefale på én gang for at dække kulhydrater eller nedbringe højt blodsukker.</target>
         <note>Information about maximum bolus</note>
       </trans-unit>
-      <trans-unit id="Medium" xml:space="preserve">
+      <trans-unit id="Medium" xml:space="preserve" approved="yes">
         <source>Medium</source>
-        <target state="translated">Mellem</target>
+        <target state="final">Medium</target>
         <note>Section title for medium absorbing food</note>
       </trans-unit>
-      <trans-unit id="Middle" xml:space="preserve">
+      <trans-unit id="Middle" xml:space="preserve" approved="yes">
         <source>Middle</source>
-        <target state="translated">Mellem</target>
+        <target state="final">Mellem</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="More Info" xml:space="preserve">
+      <trans-unit id="More Info" xml:space="preserve" approved="yes">
         <source>More Info</source>
-        <target state="translated">Mere info</target>
+        <target state="final">Mere info</target>
         <note>Alert action title to open error help</note>
       </trans-unit>
-      <trans-unit id="Name" xml:space="preserve">
+      <trans-unit id="Name" xml:space="preserve" approved="yes">
         <source>Name</source>
-        <target state="translated">Navn</target>
+        <target state="final">Navn</target>
         <note>The text for the override preset name setting</note>
       </trans-unit>
-      <trans-unit id="New Entry" xml:space="preserve">
+      <trans-unit id="New Entry" xml:space="preserve" approved="yes">
         <source>New Entry</source>
-        <target state="translated">Ny indtastning</target>
+        <target state="final">Ny indtastning</target>
         <note>Title for mini-modal to add a new schedule entry</note>
       </trans-unit>
-      <trans-unit id="New Preset" xml:space="preserve">
+      <trans-unit id="New Preset" xml:space="preserve" approved="yes">
         <source>New Preset</source>
-        <target state="translated">Ny forudindstilling</target>
+        <target state="final">Ny preset</target>
         <note>The title for the new override preset entry screen</note>
       </trans-unit>
-      <trans-unit id="Next: Review Setting" xml:space="preserve">
+      <trans-unit id="Next: Review Setting" xml:space="preserve" approved="yes">
         <source>Next: Review Setting</source>
-        <target state="translated">Næste: Gennemse indstillingen</target>
+        <target state="final">Næste: Gennemse indstillingen</target>
         <note>Button to advance to setting editor</note>
       </trans-unit>
-      <trans-unit id="No Basal Insulin" xml:space="preserve">
+      <trans-unit id="No Basal Insulin" xml:space="preserve" approved="yes">
         <source>No Basal Insulin</source>
-        <target state="translated">Ingen basal insulin</target>
+        <target state="final">Ingen basal insulin</target>
         <note>Title text for the zero basal rate warning</note>
       </trans-unit>
-      <trans-unit id="One or more of the values you have entered are outside of what is generally recommended." xml:space="preserve">
+      <trans-unit id="One or more of the values you have entered are outside of what is generally recommended." xml:space="preserve" approved="yes">
         <source>One or more of the values you have entered are outside of what is generally recommended.</source>
-        <target state="translated">En eller flere af de værdier, du har indtastet, er udenfor hvad der generelt anbefales.</target>
+        <target state="final">En eller flere af de værdier, du har indtastet, er udenfor hvad der generelt anbefales.</target>
         <note>Alert message for confirming basal rates outside the recommended range
    Alert message for confirming carb ratios outside the recommended range
    Alert message for confirming correction range overrides outside the recommended range
@@ -1208,55 +1208,55 @@
    Alert message for confirming delivery limits outside the recommended range
    Alert message for confirming insulin sensitivities outside the recommended range</note>
       </trans-unit>
-      <trans-unit id="Other" xml:space="preserve">
+      <trans-unit id="Other" xml:space="preserve" approved="yes">
         <source>Other</source>
-        <target state="translated">Anden</target>
+        <target state="final">Anden</target>
         <note>Section title for no-carb food
    The title for override emoji miscellaneous section</note>
       </trans-unit>
-      <trans-unit id="Overall Insulin Needs" xml:space="preserve">
+      <trans-unit id="Overall Insulin Needs" xml:space="preserve" approved="yes">
         <source>Overall Insulin Needs</source>
-        <target state="translated">Totalt insulin behov</target>
+        <target state="final">Totalt insulin behov</target>
         <note>The title text for the insulin sensitivity scaling setting</note>
       </trans-unit>
-      <trans-unit id="Override Presets" xml:space="preserve">
+      <trans-unit id="Override Presets" xml:space="preserve" approved="yes">
         <source>Override Presets</source>
-        <target state="translated">Overrides forudindstillinger</target>
+        <target state="final">Overrides presets</target>
         <note>The title text for the override presets screen</note>
       </trans-unit>
-      <trans-unit id="Override presets can be set up under the 'Configuration' section of the settings screen." xml:space="preserve">
+      <trans-unit id="Override presets can be set up under the 'Configuration' section of the settings screen." xml:space="preserve" approved="yes">
         <source>Override presets can be set up under the 'Configuration' section of the settings screen.</source>
-        <target state="translated">Override forudindstillinger kan sættes op i 'Konfiguration' delen af Indstillingsskærmen.</target>
+        <target state="final">Override preset kan sættes op i sektionen 'Konfiguration' i indstillinger.</target>
         <note>Text directing the user to configure override presets</note>
       </trans-unit>
-      <trans-unit id="Overrides" xml:space="preserve">
+      <trans-unit id="Overrides" xml:space="preserve" approved="yes">
         <source>Overrides</source>
-        <target state="translated">Overrides</target>
+        <target state="final">Overrides</target>
         <note>The section title of glucose overrides</note>
       </trans-unit>
-      <trans-unit id="PRESETS" xml:space="preserve">
+      <trans-unit id="PRESETS" xml:space="preserve" approved="yes">
         <source>PRESETS</source>
-        <target state="translated">FORUDINSTILLINGER</target>
+        <target state="final">PRESETS</target>
         <note>The section header text override presets</note>
       </trans-unit>
-      <trans-unit id="Pre-Meal" xml:space="preserve">
+      <trans-unit id="Pre-Meal" xml:space="preserve" approved="yes">
         <source>Pre-Meal</source>
-        <target state="translated">Før-måltid</target>
+        <target state="final">Før-måltid</target>
         <note>Title for the pre-meal override range</note>
       </trans-unit>
-      <trans-unit id="Pre-meal temp adjust range" xml:space="preserve">
+      <trans-unit id="Pre-meal temp adjust range" xml:space="preserve" approved="yes">
         <source>Pre-meal temp adjust range</source>
-        <target state="translated">Midlertidig Før-måltid justerings interval</target>
+        <target state="final">Midlertidig Før-måltid justeringsområde</target>
         <note>Title for pre-meal range information section</note>
       </trans-unit>
-      <trans-unit id="Prescription" xml:space="preserve">
+      <trans-unit id="Prescription" xml:space="preserve" approved="yes">
         <source>Prescription</source>
-        <target state="translated">Recept</target>
+        <target state="final">Recept</target>
         <note>title for prescription section</note>
       </trans-unit>
-      <trans-unit id="Progressing." xml:space="preserve">
+      <trans-unit id="Progressing." xml:space="preserve" approved="yes">
         <source>Progressing.</source>
-        <target state="translated">Status.</target>
+        <target state="final">Status.</target>
         <note>Accessibility label for ProgressIndicatorView when showIndeterminantProgress</note>
       </trans-unit>
       <trans-unit id="Pump Event" xml:space="preserve" approved="yes">
@@ -1264,60 +1264,60 @@
         <target state="final">Pumpe hændelse</target>
         <note>The title of the screen displaying a pump event</note>
       </trans-unit>
-      <trans-unit id="Rapid-Acting – Adults" xml:space="preserve">
+      <trans-unit id="Rapid-Acting – Adults" xml:space="preserve" approved="yes">
         <source>Rapid-Acting – Adults</source>
-        <target state="translated">Hurtigt-Virkende – Voksne</target>
+        <target state="final">Hurtigt-Virkende – Voksne</target>
         <note>Title of insulin model preset - rapid acting adult</note>
       </trans-unit>
-      <trans-unit id="Rapid-Acting – Children" xml:space="preserve">
+      <trans-unit id="Rapid-Acting – Children" xml:space="preserve" approved="yes">
         <source>Rapid-Acting – Children</source>
-        <target state="translated">Hurtigt-Virkende – Børn</target>
+        <target state="final">Hurtigt-Virkende – Børn</target>
         <note>Title of insulin model preset - rapid acting children</note>
       </trans-unit>
-      <trans-unit id="Required" xml:space="preserve">
+      <trans-unit id="Required" xml:space="preserve" approved="yes">
         <source>Required</source>
-        <target state="translated">Påkrævet</target>
+        <target state="final">Påkrævet</target>
         <note>The default placeholder string for a credential</note>
       </trans-unit>
-      <trans-unit id="Resume Delivery" xml:space="preserve">
+      <trans-unit id="Resume Delivery" xml:space="preserve" approved="yes">
         <source>Resume Delivery</source>
-        <target state="translated">Fortsæt indgivelse</target>
+        <target state="final">Fortsæt afgivelse</target>
         <note>Title text for button to resume insulin delivery</note>
       </trans-unit>
-      <trans-unit id="Resuming" xml:space="preserve">
+      <trans-unit id="Resuming" xml:space="preserve" approved="yes">
         <source>Resuming</source>
-        <target state="translated">Fortsætter</target>
+        <target state="final">Fortsætter</target>
         <note>Title text for button when insulin delivery is in the process of being resumed</note>
       </trans-unit>
-      <trans-unit id="Running" xml:space="preserve">
+      <trans-unit id="Running" xml:space="preserve" approved="yes">
         <source>Running</source>
-        <target state="translated">Løber</target>
+        <target state="final">Løber</target>
         <note>The text for the override preset name field placeholder</note>
       </trans-unit>
-      <trans-unit id="SCHEDULED OVERRIDE" xml:space="preserve">
+      <trans-unit id="SCHEDULED OVERRIDE" xml:space="preserve" approved="yes">
         <source>SCHEDULED OVERRIDE</source>
-        <target state="translated">PLANLAGT OVERRIDE</target>
+        <target state="final">PLANLAGT OVERRIDE</target>
         <note>The section header text for a scheduled override</note>
       </trans-unit>
-      <trans-unit id="SCHEDULED PRESET" xml:space="preserve">
+      <trans-unit id="SCHEDULED PRESET" xml:space="preserve" approved="yes">
         <source>SCHEDULED PRESET</source>
-        <target state="translated">PLANLAGT OVERRIDE</target>
+        <target state="final">PLANLAGT OVERRIDE</target>
         <note>The section header text for a scheduled custom preset</note>
       </trans-unit>
-      <trans-unit id="Save" xml:space="preserve">
+      <trans-unit id="Save" xml:space="preserve" approved="yes">
         <source>Save</source>
-        <target state="translated">Gem</target>
+        <target state="final">Gem</target>
         <note>Button text for saving glucose correction range schedule
    Button text for saving insulin sensitivity schedule</note>
       </trans-unit>
-      <trans-unit id="Save Basal Rates?" xml:space="preserve">
+      <trans-unit id="Save Basal Rates?" xml:space="preserve" approved="yes">
         <source>Save Basal Rates?</source>
-        <target state="translated">Gem basalrater?</target>
+        <target state="final">Gem basalrater?</target>
         <note>Alert title for confirming basal rates outside the recommended range</note>
       </trans-unit>
-      <trans-unit id="Save Carb Ratios?" xml:space="preserve">
+      <trans-unit id="Save Carb Ratios?" xml:space="preserve" approved="yes">
         <source>Save Carb Ratios?</source>
-        <target state="translated">Gem kulhydratforhold?</target>
+        <target state="final">Gem kulhydratforhold?</target>
         <note>Alert title for confirming carb ratios outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Save Correction Range Overrides?" xml:space="preserve" approved="yes">
@@ -1335,84 +1335,84 @@
         <target state="final">Gem insulin-grænser?</target>
         <note>Alert title for confirming delivery limits outside the recommended range</note>
       </trans-unit>
-      <trans-unit id="Save Insulin Sensitivities?" xml:space="preserve">
+      <trans-unit id="Save Insulin Sensitivities?" xml:space="preserve" approved="yes">
         <source>Save Insulin Sensitivities?</source>
-        <target state="translated">Gem insulin følsomheder?</target>
+        <target state="final">Gem insulinfølsomheder?</target>
         <note>Alert title for confirming insulin sensitivities outside the recommended range</note>
       </trans-unit>
-      <trans-unit id="Save Suspend Threshold?" xml:space="preserve">
+      <trans-unit id="Save Suspend Threshold?" xml:space="preserve" approved="yes">
         <source>Save Suspend Threshold?</source>
-        <target state="translated">Gem suspenderingsgrænse?</target>
+        <target state="final">Gem suspenderingsgrænse?</target>
         <note>Alert title for confirming a suspend threshold outside the recommended range</note>
       </trans-unit>
-      <trans-unit id="Slow" xml:space="preserve">
+      <trans-unit id="Slow" xml:space="preserve" approved="yes">
         <source>Slow</source>
-        <target state="translated">Langsom</target>
+        <target state="final">Langsom</target>
         <note>Section title for slow absorbing food</note>
       </trans-unit>
-      <trans-unit id="Some of the values you have entered are outside of what is generally recommended." xml:space="preserve">
+      <trans-unit id="Some of the values you have entered are outside of what is generally recommended." xml:space="preserve" approved="yes">
         <source>Some of the values you have entered are outside of what is generally recommended.</source>
-        <target state="translated">En eller flere af de værdier, du har indtastet, er udenfor hvad der generelt anbefales.</target>
+        <target state="final">En eller flere af de værdier, du har indtastet, er udenfor hvad der generelt anbefales.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." xml:space="preserve">
+      <trans-unit id="Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." xml:space="preserve" approved="yes">
         <source>Some users choose a value 2, 3, or 4 times their highest scheduled basal rate.</source>
-        <target state="translated">Nogle brugere vælger en værdi 2, 3 eller 4 gange deres højeste planlagte basalrate.</target>
+        <target state="final">Nogle brugere vælger en værdi 2, 3 eller 4 gange deres højeste basalrate.</target>
         <note>Information about typical maximum basal rates</note>
       </trans-unit>
-      <trans-unit id="Start Time" xml:space="preserve">
+      <trans-unit id="Start Time" xml:space="preserve" approved="yes">
         <source>Start Time</source>
-        <target state="translated">Start tid</target>
+        <target state="final">Start tid</target>
         <note>The text for the override start time</note>
       </trans-unit>
-      <trans-unit id="Starting Temp Basal" xml:space="preserve">
+      <trans-unit id="Starting Temp Basal" xml:space="preserve" approved="yes">
         <source>Starting Temp Basal</source>
-        <target state="translated">Starter midlertidig basal</target>
+        <target state="final">Starter midlertidig basal</target>
         <note>Title text for suspend resume button when temp basal starting</note>
       </trans-unit>
-      <trans-unit id="Submitted by %1$@, %2$@" xml:space="preserve">
+      <trans-unit id="Submitted by %1$@, %2$@" xml:space="preserve" approved="yes">
         <source>Submitted by %1$@, %2$@</source>
-        <target state="translated">Indsendt af %1$@, %2$@</target>
+        <target state="final">Indsendt af %1$@, %2$@</target>
         <note>Format for prescription descriptive text (1: providerName, 2: datePrescribed)</note>
       </trans-unit>
-      <trans-unit id="Support" xml:space="preserve">
+      <trans-unit id="Support" xml:space="preserve" approved="yes">
         <source>Support</source>
-        <target state="translated">Support</target>
+        <target state="final">Support</target>
         <note>Title for support section</note>
       </trans-unit>
-      <trans-unit id="Suspend Delivery" xml:space="preserve">
+      <trans-unit id="Suspend Delivery" xml:space="preserve" approved="yes">
         <source>Suspend Delivery</source>
-        <target state="translated">Pause indgivelse</target>
+        <target state="final">Pause afgivelse</target>
         <note>Title text for button to suspend insulin delivery</note>
       </trans-unit>
-      <trans-unit id="Suspending" xml:space="preserve">
+      <trans-unit id="Suspending" xml:space="preserve" approved="yes">
         <source>Suspending</source>
-        <target state="translated">Pauser</target>
+        <target state="final">Pauser</target>
         <note>Title text for button when insulin delivery is in the process of being stopped</note>
       </trans-unit>
-      <trans-unit id="Switch Preview State" xml:space="preserve">
+      <trans-unit id="Switch Preview State" xml:space="preserve" approved="yes">
         <source>Switch Preview State</source>
-        <target state="translated">Skift forhåndsvisning tilstand</target>
+        <target state="final">Skift forhåndsvisning tilstand</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Symbol" xml:space="preserve">
+      <trans-unit id="Symbol" xml:space="preserve" approved="yes">
         <source>Symbol</source>
-        <target state="translated">Symbol</target>
+        <target state="final">Symbol</target>
         <note>The text for the override preset symbol setting</note>
       </trans-unit>
-      <trans-unit id="Tap '+' to create a new custom preset." xml:space="preserve">
+      <trans-unit id="Tap '+' to create a new custom preset." xml:space="preserve" approved="yes">
         <source>Tap '+' to create a new custom preset.</source>
-        <target state="translated">Tryk på '+' for at oprette en ny brugerdefineret forudindstilling.</target>
+        <target state="final">Tryk på '+' for at oprette en ny brugerdefineret preset.</target>
         <note>Text directing the user to configure their first custom preset</note>
       </trans-unit>
-      <trans-unit id="Tap to set" xml:space="preserve">
+      <trans-unit id="Tap to set" xml:space="preserve" approved="yes">
         <source>Tap to set</source>
-        <target state="translated">Tryk for at gemme</target>
+        <target state="final">Tryk for at gemme</target>
         <note>The empty-state text for a configuration value</note>
       </trans-unit>
-      <trans-unit id="Target Range" xml:space="preserve">
+      <trans-unit id="Target Range" xml:space="preserve" approved="yes">
         <source>Target Range</source>
-        <target state="translated">Mål interval</target>
+        <target state="final">Korrektionsområde</target>
         <note>The text for the override target range setting</note>
       </trans-unit>
       <trans-unit id="Temporary Override" xml:space="preserve">
@@ -1480,14 +1480,14 @@
         <target state="translated">En eller flere af de værdier, du har indtastet, er udenfor hvad der generelt anbefales.</target>
         <note>Caption text for warning where both delivery limits are outside the recommended range</note>
       </trans-unit>
-      <trans-unit id="Therapy Settings" xml:space="preserve">
+      <trans-unit id="Therapy Settings" xml:space="preserve" approved="yes">
         <source>Therapy Settings</source>
-        <target state="translated">Indstillinger for terapi</target>
+        <target state="final">Indstillinger for behandling</target>
         <note>Therapy Settings screen title</note>
       </trans-unit>
-      <trans-unit id="Therapy Settings Support Placeholder" xml:space="preserve">
+      <trans-unit id="Therapy Settings Support Placeholder" xml:space="preserve" approved="yes">
         <source>Therapy Settings Support Placeholder</source>
-        <target state="translated">Therapy Settings Support Placeholder</target>
+        <target state="final">Behandlingsindstillinger Support</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This model assumes peak insulin activity at 55 minutes." xml:space="preserve">
@@ -1587,9 +1587,9 @@
         <target state="translated">Træning</target>
         <note>Title for the workout override range</note>
       </trans-unit>
-      <trans-unit id="Workout temp adjust is the glucose value or range of values you want Loop to target during activity." xml:space="preserve">
+      <trans-unit id="Workout temp adjust is the glucose value or range of values you want Loop to target during activity." xml:space="preserve" approved="yes">
         <source>Workout temp adjust is the glucose value or range of values you want Loop to target during activity.</source>
-        <target state="translated">Workout temp adjust is the glucose value or range of values you want Loop to target during activity.</target>
+        <target state="final">Workout temp justere er glukose værdi eller interval af værdier, du ønsker Loop at målrette under aktivitet.</target>
         <note>Information about workout range</note>
       </trans-unit>
       <trans-unit id="Workout temp adjust range" xml:space="preserve">
