@@ -334,9 +334,9 @@
         <target state="final">Midlertidige korrektionsområde</target>
         <note>Title text for temporary correction ranges</note>
       </trans-unit>
-      <trans-unit id="Temporary Ranges" xml:space="preserve">
+      <trans-unit id="Temporary Ranges" xml:space="preserve" approved="yes">
         <source>Temporary Ranges</source>
-        <target state="translated">Midlertidige intervaller</target>
+        <target state="final">Midlertidige område</target>
         <note>Title text for temporary correction ranges</note>
       </trans-unit>
       <trans-unit id="The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." xml:space="preserve" approved="yes">
@@ -374,9 +374,9 @@
         <target state="translated">Enheder/time</target>
         <note>The long unit display string for international units of insulin per hour</note>
       </trans-unit>
-      <trans-unit id="When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus." xml:space="preserve">
+      <trans-unit id="When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus." xml:space="preserve" approved="yes">
         <source>When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus.</source>
-        <target state="translated">Når dit blodsukker forventes at ligge under denne værdi, vil app'en anbefale en basalrate på 0 U/time og vil ikke anbefale en bolus.</target>
+        <target state="final">Når dit blodsukker forventes at ligge under denne værdi, vil Loop anbefale en basalrate på 0 U/time og vil ikke anbefale en bolus.</target>
         <note>Descriptive text for suspend threshold</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
@@ -389,9 +389,9 @@
         <target state="translated">Din basalrate insulin, er det antal af enheder i timen, som du skal bruge for at dække dit basale insulinbehov.</target>
         <note>Descriptive text for basal rate</note>
       </trans-unit>
-      <trans-unit id="Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." xml:space="preserve">
+      <trans-unit id="Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." xml:space="preserve" approved="yes">
         <source>Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin.</source>
-        <target state="translated">Din kulhydrat ratio er antallet af gram kulhydrat dækket af én enhed insulin.</target>
+        <target state="final">Dit kulhydratforhold er antallet af gram kulhydrat dækket af én enhed insulin.</target>
         <note>Descriptive text for carb ratio</note>
       </trans-unit>
       <trans-unit id="Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin." xml:space="preserve">
