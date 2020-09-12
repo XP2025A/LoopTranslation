@@ -1521,9 +1521,9 @@ Find enhed</target>
         <target state="translated">%1$@%2$@%3$@</target>
         <note>The format string for displaying an offset from a time zone: (1: GMT)(2: -)(3: 4:00)</note>
       </trans-unit>
-      <trans-unit id="%1$@. Insulin delivery has stopped. Please deactivate and remove pod." xml:space="preserve">
+      <trans-unit id="%1$@. Insulin delivery has stopped. Please deactivate and remove pod." xml:space="preserve" approved="yes">
         <source>%1$@. Insulin delivery has stopped. Please deactivate and remove pod.</source>
-        <target state="translated">%1$@. Insulin indgivelse er stoppet. Venligst deaktiver og fjern pod.</target>
+        <target state="final">%1$@. Insulinafgivelse er stoppet. Venligst deaktiver og fjern pod.</target>
         <note>Format string providing instructions for replacing pod due to a fault. (1: The fault description)</note>
       </trans-unit>
       <trans-unit id="%@ U" xml:space="preserve">
@@ -1597,9 +1597,9 @@ Find enhed</target>
         <target state="translated">Tildelt adresse</target>
         <note>The title text for the address assigned to the pod</note>
       </trans-unit>
-      <trans-unit id="Basal Delivery" xml:space="preserve">
+      <trans-unit id="Basal Delivery" xml:space="preserve" approved="yes">
         <source>Basal Delivery</source>
-        <target state="translated">Basal indgivelse</target>
+        <target state="final">Afgiver basal</target>
         <note>The title of the cell showing pod basal status</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
@@ -1607,9 +1607,9 @@ Find enhed</target>
         <target state="translated">Basalrate</target>
         <note>The title text for the basal rate schedule</note>
       </trans-unit>
-      <trans-unit id="Bolus Delivery" xml:space="preserve">
+      <trans-unit id="Bolus Delivery" xml:space="preserve" approved="yes">
         <source>Bolus Delivery</source>
-        <target state="translated">Bolus indgivelse</target>
+        <target state="final">Afgiver bolus</target>
         <note>The title of the cell showing pod bolus status</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
