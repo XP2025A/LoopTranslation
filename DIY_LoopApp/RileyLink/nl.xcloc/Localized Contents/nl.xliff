@@ -961,23 +961,23 @@ Zoek Apparaat</target>
     <body>
       <trans-unit id=" (inactive)" xml:space="preserve">
         <source> (inactive)</source>
-        <target state="needs-translation"> (inactive)</target>
+        <target state="translated"> (Inactief)</target>
         <note>Description for an inactive alert modifier</note>
       </trans-unit>
       <trans-unit id="%1$@ minutes" xml:space="preserve">
         <source>%1$@ minutes</source>
-        <target state="needs-translation">%1$@ minutes</target>
+        <target state="translated">%1$@ minuten</target>
         <note>The format string for minutes (1: number of minutes string)</note>
       </trans-unit>
       <trans-unit id="%@ dB" xml:space="preserve">
         <source>%@ dB</source>
-        <target state="needs-translation">%@ dB</target>
+        <target state="translated">%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
       </trans-unit>
       <trans-unit id="Alerts: %1$@&#10;" xml:space="preserve">
         <source>Alerts: %1$@
 </source>
-        <target state="needs-translation">Alerts: %1$@
+        <target state="translated">Waarschuwingen: %1$@
 </target>
         <note>The format string for Alerts: (1: the alerts string)</note>
       </trans-unit>
@@ -998,7 +998,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Bolus: %1$@U %2$@ %3$@ %4$@" xml:space="preserve">
         <source>Bolus: %1$@U %2$@ %3$@ %4$@</source>
-        <target state="needs-translation">Bolus: %1$@U %2$@ %3$@ %4$@</target>
+        <target state="translated">Bolus: %1$@U %2$@ %3$@ %4$@</target>
         <note>The format string describing a bolus. (1: The amount delivered)(2: Start time of the dose)(3: duration)(4: scheduled certainty)</note>
       </trans-unit>
       <trans-unit id="Bolusing" xml:space="preserve">
@@ -1023,7 +1023,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Crosstalk possible. Please move to a new location and try again" xml:space="preserve">
         <source>Crosstalk possible. Please move to a new location and try again</source>
-        <target state="needs-translation">Crosstalk possible. Please move to a new location and try again</target>
+        <target state="translated">Verstoring mogelijk. Ga naar een nieuwe locatie en probeer het opnieuw</target>
         <note>Recovery suggestion when unexpected address received</note>
       </trans-unit>
       <trans-unit id="Deactivated" xml:space="preserve">
@@ -1034,7 +1034,7 @@ Zoek Apparaat</target>
       <trans-unit id="Delivery Status: %1$@&#10;" xml:space="preserve">
         <source>Delivery Status: %1$@
 </source>
-        <target state="needs-translation">Delivery Status: %1$@
+        <target state="translated">Leveringsstatus: %1$@
 </target>
         <note>The format string for Delivery Status: (1: delivery status string)</note>
       </trans-unit>
@@ -1080,13 +1080,13 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Invalid address 0x%x. Expected 0x%x" xml:space="preserve">
         <source>Invalid address 0x%1$x. Expected 0x%2$x</source>
-        <target state="needs-translation">Invalid address 0x%1$x. Expected 0x%2$x</target>
+        <target state="translated">Ongeldig adres 0x%1$x. Verwachte 0x%2$x</target>
         <note>Error message for when unexpected address is received (1: received address) (2: expected address)</note>
       </trans-unit>
       <trans-unit id="Last Bolus Not Delivered: %1$@ U&#10;" xml:space="preserve">
         <source>Last Bolus Not Delivered: %1$@ U
 </source>
-        <target state="needs-translation">Last Bolus Not Delivered: %1$@ U
+        <target state="translated">Laatste Bolus niet geleverd: %1$@ U
 </target>
         <note>The format string for Last Bolus Not Delivered: (1: bolus not delivered string)</note>
       </trans-unit>
@@ -1133,7 +1133,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Omnipod" xml:space="preserve">
         <source>Omnipod</source>
-        <target state="needs-translation">Omnipod</target>
+        <target state="translated">Omnipod</target>
         <note>Generic title of the omnipod pump manager</note>
       </trans-unit>
       <trans-unit id="Paired" xml:space="preserve">
@@ -1153,13 +1153,13 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Please try repositioning the pod or the RileyLink and try again" xml:space="preserve">
         <source>Please try repositioning the pod or the RileyLink and try again</source>
-        <target state="needs-translation">Please try repositioning the pod or the RileyLink and try again</target>
+        <target state="translated">Probeer de pod of RileyLink te herpositioneren en probeer het opnieuw</target>
         <note>Recovery suggestion when no response is received from pod</note>
       </trans-unit>
       <trans-unit id="Pod Active: %1$@&#10;" xml:space="preserve">
         <source>Pod Active: %1$@
 </source>
-        <target state="needs-translation">Pod Active: %1$@
+        <target state="translated">Pod Actief: %1$@
 </target>
         <note>The format string for Pod Active: (1: Pod active time string)</note>
       </trans-unit>
@@ -1170,7 +1170,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Pod Fault" xml:space="preserve">
         <source>Pod Fault</source>
-        <target state="needs-translation">Pod Fault</target>
+        <target state="translated">Pod fout</target>
         <note>Inform the user that there is a pod fault.</note>
       </trans-unit>
       <trans-unit id="Pod Fault: %1$@" xml:space="preserve">
@@ -1215,7 +1215,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Pod sent ack instead of response" xml:space="preserve">
         <source>Pod sent ack instead of response</source>
-        <target state="needs-translation">Pod sent ack instead of response</target>
+        <target state="translated">Pod verzond ack ipv reactie</target>
         <note>Error message shown when pod sends ack instead of response</note>
       </trans-unit>
       <trans-unit id="Pod setup window expired" xml:space="preserve">
@@ -1242,7 +1242,7 @@ Zoek Apparaat</target>
       <trans-unit id="Reservoir Level: %1$@ U&#10;" xml:space="preserve">
         <source>Reservoir Level: %1$@ U
 </source>
-        <target state="needs-translation">Reservoir Level: %1$@ U
+        <target state="translated">Reservoirniveau: %1$@ U
 </target>
         <note>The format string for Reservoir Level: (1: reservoir level string)</note>
       </trans-unit>
@@ -1304,13 +1304,13 @@ Zoek Apparaat</target>
       <trans-unit id="Total Insulin Delivered: %1$@ U&#10;" xml:space="preserve">
         <source>Total Insulin Delivered: %1$@ U
 </source>
-        <target state="needs-translation">Total Insulin Delivered: %1$@ U
+        <target state="translated">Totale insuline geleverd: %1$@ U
 </target>
         <note>The format string for Total Insulin Delivered: (1: total insulin delivered string)</note>
       </trans-unit>
       <trans-unit id="Try again" xml:space="preserve">
         <source>Try again</source>
-        <target state="needs-translation">Try again</target>
+        <target state="translated">Probeer opnieuw</target>
         <note>Recovery suggestion when ack received instead of response</note>
       </trans-unit>
       <trans-unit id="Uncertain" xml:space="preserve">
@@ -1345,17 +1345,17 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="oneNotUsedButin33" xml:space="preserve">
         <source>oneNotUsedButin33</source>
-        <target state="needs-translation">oneNotUsedButin33</target>
+        <target state="translated">oneNotUsedButin33</target>
         <note>Pod state oneNotUsedButin33</note>
       </trans-unit>
       <trans-unit id="threeNotUsedButin33" xml:space="preserve">
         <source>threeNotUsedButin33</source>
-        <target state="needs-translation">threeNotUsedButin33</target>
+        <target state="translated">threeNotUsedButin33</target>
         <note>Pod state threeNotUsedButin33</note>
       </trans-unit>
       <trans-unit id="twoNotUsedButin33" xml:space="preserve">
         <source>twoNotUsedButin33</source>
-        <target state="needs-translation">twoNotUsedButin33</target>
+        <target state="translated">twoNotUsedButin33</target>
         <note>Pod state twoNotUsedButin33</note>
       </trans-unit>
     </body>
@@ -1367,7 +1367,7 @@ Zoek Apparaat</target>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>OmniKitPlugin</source>
-        <target state="needs-translation">OmniKitPlugin</target>
+        <target state="translated">OmniKitPlugin</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1384,7 +1384,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="3HH-eJ-lRh.title" xml:space="preserve">
         <source>RileyLink Setup</source>
-        <target state="needs-translation">RileyLink Setup</target>
+        <target state="translated">RileyLink Setup</target>
         <note>Class = "UINavigationItem"; title = "RileyLink Setup"; ObjectID = "3HH-eJ-lRh";</note>
       </trans-unit>
       <trans-unit id="6vo-Ov-UpE.title" xml:space="preserve">
@@ -1479,7 +1479,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="vEc-Km-ewe.text" xml:space="preserve">
         <source>Label</source>
-        <target state="needs-translation">Label</target>
+        <target state="translated">Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "vEc-Km-ewe";</note>
       </trans-unit>
       <trans-unit id="vmF-Dc-3DS.text" xml:space="preserve">
@@ -1501,7 +1501,7 @@ Zoek Apparaat</target>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>OmniKitUI</source>
-        <target state="needs-translation">OmniKitUI</target>
+        <target state="translated">OmniKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1518,7 +1518,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="%1$@%2$@%3$@" xml:space="preserve">
         <source>%1$@%2$@%3$@</source>
-        <target state="needs-translation">%1$@%2$@%3$@</target>
+        <target state="translated">%1$@%2$@%3$@</target>
         <note>The format string for displaying an offset from a time zone: (1: GMT)(2: -)(3: 4:00)</note>
       </trans-unit>
       <trans-unit id="%1$@. Insulin delivery has stopped. Please deactivate and remove pod." xml:space="preserve">
@@ -1549,12 +1549,12 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="%@ dB" xml:space="preserve">
         <source>%@ dB</source>
-        <target state="needs-translation">%@ dB</target>
+        <target state="translated">%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
       </trans-unit>
       <trans-unit id="%@%%" xml:space="preserve">
         <source>%@%%</source>
-        <target state="needs-translation">%@%%</target>
+        <target state="translated">%@%%</target>
         <note>Format string for bolus percent progress. (1: Percent progress)</note>
       </trans-unit>
       <trans-unit id="%@+ U" xml:space="preserve">
@@ -1564,7 +1564,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
         <source>%@.</source>
-        <target state="needs-translation">%@.</target>
+        <target state="translated">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
       <trans-unit id="%@U" xml:space="preserve">
@@ -1670,7 +1670,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Disable Confirmation Beeps" xml:space="preserve">
         <source>Disable Confirmation Beeps</source>
-        <target state="needs-translation">Disable Confirmation Beeps</target>
+        <target state="translated">Schakel bevestigingsbeeps uit</target>
         <note>Title text for button to disable confirmation beeps</note>
       </trans-unit>
       <trans-unit id="Enable Bolus Beeps" xml:space="preserve">
@@ -1680,7 +1680,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Enable Confirmation Beeps" xml:space="preserve">
         <source>Enable Confirmation Beeps</source>
-        <target state="needs-translation">Enable Confirmation Beeps</target>
+        <target state="translated">Schakel bevestigingsbeeps in</target>
         <note>Title text for button to enable confirmation beeps</note>
       </trans-unit>
       <trans-unit id="Error Resuming" xml:space="preserve">
@@ -1700,12 +1700,12 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Error disabling confirmation beeps" xml:space="preserve">
         <source>Error disabling confirmation beeps</source>
-        <target state="needs-translation">Error disabling confirmation beeps</target>
+        <target state="translated">Fout bij het uitschakelen van bevestigingspiepen</target>
         <note>The alert title for disable confirmation beeps error</note>
       </trans-unit>
       <trans-unit id="Error emitting completion confirmation beep" xml:space="preserve">
         <source>Error emitting completion confirmation beep</source>
-        <target state="needs-translation">Error emitting completion confirmation beep</target>
+        <target state="translated">Fout bij het uitzenden van voltooiingspiep</target>
         <note>The alert title for emitting completion beep error</note>
       </trans-unit>
       <trans-unit id="Error enabling bolus beeps" xml:space="preserve">
@@ -1715,7 +1715,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Error enabling confirmation beeps" xml:space="preserve">
         <source>Error enabling confirmation beeps</source>
-        <target state="needs-translation">Error enabling confirmation beeps</target>
+        <target state="translated">Fout bij het uitschakelen van bevestigingspiepen</target>
         <note>The alert title for enable confirmation beeps error</note>
       </trans-unit>
       <trans-unit id="Expiration Reminder" xml:space="preserve">
@@ -1840,22 +1840,22 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Read Pod Status" xml:space="preserve">
         <source>Read Pod Status</source>
-        <target state="needs-translation">Read Pod Status</target>
+        <target state="translated">Lees pompstatus</target>
         <note>The title of the command to read the pod status</note>
       </trans-unit>
       <trans-unit id="Read Pod Status…" xml:space="preserve">
         <source>Read Pod Status…</source>
-        <target state="needs-translation">Read Pod Status…</target>
+        <target state="translated">Lees pompstatus…</target>
         <note>Progress message for reading Pod status.</note>
       </trans-unit>
       <trans-unit id="Read Pulse Log" xml:space="preserve">
         <source>Read Pulse Log</source>
-        <target state="needs-translation">Read Pulse Log</target>
+        <target state="translated">Lees Pulse Log</target>
         <note>The title of the command to read the pulse log</note>
       </trans-unit>
       <trans-unit id="Reading Pulse Log…" xml:space="preserve">
         <source>Reading Pulse Log…</source>
-        <target state="needs-translation">Reading Pulse Log…</target>
+        <target state="translated">Lezen Pulse Log…</target>
         <note>Progress message for reading pulse log.</note>
       </trans-unit>
       <trans-unit id="Remaining" xml:space="preserve">
@@ -1876,7 +1876,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Reservoir" xml:space="preserve">
         <source>Reservoir</source>
-        <target state="needs-translation">Reservoir</target>
+        <target state="translated">Reservoir</target>
         <note>The title of the cell showing reservoir status</note>
       </trans-unit>
       <trans-unit id="Retry Pod Deactivation" xml:space="preserve">
@@ -1897,7 +1897,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Status</target>
         <note>The title of the status section in settings</note>
       </trans-unit>
       <trans-unit id="Succeeded" xml:space="preserve">
@@ -1922,7 +1922,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="TID" xml:space="preserve">
         <source>TID</source>
-        <target state="needs-translation">TID</target>
+        <target state="translated">TID</target>
         <note>The title of the cell showing the pod TID</note>
       </trans-unit>
       <trans-unit id="Test Command" xml:space="preserve">
@@ -1959,12 +1959,12 @@ Zoek Apparaat</target>
     <body>
       <trans-unit id="%@ dB" xml:space="preserve">
         <source>%@ dB</source>
-        <target state="needs-translation">%@ dB</target>
+        <target state="translated">%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
       </trans-unit>
       <trans-unit id="API Secret" xml:space="preserve">
         <source>API Secret</source>
-        <target state="needs-translation">API Secret</target>
+        <target state="translated">API Secret</target>
         <note>The title of the nightscout API secret credential</note>
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
@@ -1979,7 +1979,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Add Minimed Pump" xml:space="preserve">
         <source>Add Minimed Pump</source>
-        <target state="needs-translation">Add Minimed Pump</target>
+        <target state="translated">Minimed pomp toevoegen</target>
         <note>Title text for button to set up a new minimed pump</note>
       </trans-unit>
       <trans-unit id="Configuration" xml:space="preserve">
@@ -2004,7 +2004,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Nightscout" xml:space="preserve">
         <source>Nightscout</source>
-        <target state="needs-translation">Nightscout</target>
+        <target state="translated">Nightscout</target>
         <note>The title of the Nightscout service</note>
       </trans-unit>
       <trans-unit id="Pump ID" xml:space="preserve">
@@ -2014,7 +2014,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="Pumps" xml:space="preserve">
         <source>Pumps</source>
-        <target state="needs-translation">Pumps</target>
+        <target state="translated">Pomp</target>
         <note>Title text for section listing configured pumps</note>
       </trans-unit>
       <trans-unit id="Required" xml:space="preserve">
@@ -2024,12 +2024,12 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="RileyLink Testing" xml:space="preserve">
         <source>RileyLink Testing</source>
-        <target state="needs-translation">RileyLink Testing</target>
+        <target state="translated">RileyLink Testen</target>
         <note>Title for RileyLink Testing main view controller</note>
       </trans-unit>
       <trans-unit id="Setup Omnipod" xml:space="preserve">
         <source>Setup Omnipod</source>
-        <target state="needs-translation">Setup Omnipod</target>
+        <target state="translated">Omnipod instellen</target>
         <note>Title text for button to set up omnipod</note>
       </trans-unit>
       <trans-unit id="Site URL" xml:space="preserve">
@@ -2049,7 +2049,7 @@ Zoek Apparaat</target>
       </trans-unit>
       <trans-unit id="http://mysite.herokuapp.com" xml:space="preserve">
         <source>http://mysite.herokuapp.com</source>
-        <target state="needs-translation">http://mysite.herokuapp.com</target>
+        <target state="translated">http://mysite.herokuapp.com</target>
         <note>The placeholder text for the nightscout site URL credential</note>
       </trans-unit>
     </body>
