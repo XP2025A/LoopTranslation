@@ -395,11 +395,11 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="&#10;            Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.&#10;            " xml:space="preserve">
+      <trans-unit id="&#10;            Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.&#10;            " xml:space="preserve" approved="yes">
         <source>
             Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.
             </source>
-        <target state="translated">
+        <target state="final">
 Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärmen även när tyst läge eller Stör ej är på.            </target>
         <note>Manage Notifications in Settings descriptive text</note>
       </trans-unit>
@@ -416,9 +416,9 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
             </target>
         <note>Manage Notifications in Settings descriptive text</note>
       </trans-unit>
-      <trans-unit id=" (pending: %@)" xml:space="preserve">
+      <trans-unit id=" (pending: %@)" xml:space="preserve" approved="yes">
         <source> (pending: %@)</source>
-        <target state="translated"> (återstår: %@)</target>
+        <target state="final"> (återstår: %@)</target>
         <note>The string format appended to active insulin that describes pending insulin. (1: pending insulin)</note>
       </trans-unit>
       <trans-unit id="%1$@ %2$@" xml:space="preserve">
@@ -436,9 +436,9 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="translated">%1$@ + %2$@</target>
         <note>Formats (1: carb start time) and (2: carb absorption duration)</note>
       </trans-unit>
-      <trans-unit id="%1$@ U left" xml:space="preserve">
+      <trans-unit id="%1$@ U left" xml:space="preserve" approved="yes">
         <source>%1$@ U left</source>
-        <target state="translated">%1$@ E kvar</target>
+        <target state="final">%1$@ E kvar</target>
         <note>Low reservoir alert format string. (1: Number of units remaining)</note>
       </trans-unit>
       <trans-unit id="%1$@ U left: %2$@" xml:space="preserve">
@@ -605,19 +605,19 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="final">Amplitude</target>
         <note>The title of the Amplitude service</note>
       </trans-unit>
-      <trans-unit id="An adjustment to the adult model based on empirical effects in children." xml:space="preserve">
+      <trans-unit id="An adjustment to the adult model based on empirical effects in children." xml:space="preserve" approved="yes">
         <source>An adjustment to the adult model based on empirical effects in children.</source>
-        <target state="translated">En justering av vuxenmodellen baserad på empirisk effekt på barn.</target>
+        <target state="final">En justering av vuxenmodellen baserad på empirisk erfarenhet av insulineffekt hos barn.</target>
         <note>Subtitle of Rapid-Acting – Children preset</note>
       </trans-unit>
-      <trans-unit id="An error occurred while trying to save your carb entry." xml:space="preserve">
+      <trans-unit id="An error occurred while trying to save your carb entry." xml:space="preserve" approved="yes">
         <source>An error occurred while trying to save your carb entry.</source>
-        <target state="translated">Ett fel uppstod när du skulle spara dina kolhydrater.</target>
+        <target state="final">Ett fel uppstod när du skulle spara dina kolhydrater.</target>
         <note>Alert message for a carb entry persistence error</note>
       </trans-unit>
-      <trans-unit id="An error occurred while trying to save your manual glucose entry." xml:space="preserve">
+      <trans-unit id="An error occurred while trying to save your manual glucose entry." xml:space="preserve" approved="yes">
         <source>An error occurred while trying to save your manual glucose entry.</source>
-        <target state="translated">Ett fel uppstod när du skulle spara ditt blodsockervärde.</target>
+        <target state="final">Ett fel uppstod när du skulle spara ditt blodsockervärde.</target>
         <note>Alert message for a manual glucose entry persistence error</note>
       </trans-unit>
       <trans-unit id="An updated bolus recommendation is available." xml:space="preserve" approved="yes">
@@ -625,14 +625,14 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <target state="final">Det finns nu en ny bolusrekommendation.</target>
         <note>Alert message when glucose data returns while on bolus screen</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete this CGM?" xml:space="preserve">
+      <trans-unit id="Are you sure you want to delete this CGM?" xml:space="preserve" approved="yes">
         <source>Are you sure you want to delete this CGM?</source>
-        <target state="translated">Är du säker på att du vill radera denna CGM?</target>
+        <target state="final">Är du säker på att du vill radera denna CGM?</target>
         <note>Confirmation message for deleting a CGM</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete this service?" xml:space="preserve">
+      <trans-unit id="Are you sure you want to delete this service?" xml:space="preserve" approved="yes">
         <source>Are you sure you want to delete this service?</source>
-        <target state="translated">Vill du ta bort den här tjänsten?</target>
+        <target state="final">Vill du ta bort den här tjänsten?</target>
         <note>Confirmation message for deleting a service</note>
       </trans-unit>
       <trans-unit id="Authenticate to Bolus %@ Units" xml:space="preserve">
