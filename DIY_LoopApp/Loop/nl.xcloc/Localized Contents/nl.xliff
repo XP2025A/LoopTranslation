@@ -141,7 +141,7 @@
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve">
         <source>Predicted glucose of %1$@ is below your suspend threshold setting.</source>
-        <target state="translated">Voorspelde glucose van %1$@ is onder het onderbreken van basaal instelling.</target>
+        <target state="translated">Verwachte glucose van %1$@ is lager dan de onderbroken insuline drempel instelling.</target>
         <note>Notice message when recommending bolus when BG is below the suspend threshold. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to optimize delivery of Apple Watch complication updates during the time you are awake.</source>
-        <target state="translated">Maaltijd data van de Health database wordt gebruikt om de effecten op glucose te bepalen. Glucose data vanuit de Health database worden gebruikt voor het berekenen en weergeven van het momentum. Slaap data vanuit Health wordt gebruikt om de Apple Watch complicaties vooral actief te laten zijn als je wakker bent.</target>
+        <target state="translated">Maaltijd data van de Health database wordt gebruikt om de glucose effecten te bepalen. Glucose data vanuit de Health database worden gebruikt voor het berekenen en weergeven van het momentum. Slaap data vanuit Health wordt gebruikt om de Apple Watch complicaties vooral actief te laten zijn als je wakker bent.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
     </body>
@@ -380,7 +380,7 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to improve the Apple Watch complication.</source>
-        <target state="translated">Maaltijd data van de Health database wordt gebruikt om de effecten op glucose te bepalen.Glucose data vanuit de Health database worden gebruikt voor het berekenen en weergeven van het momentum </target>
+        <target state="translated">Maaltijd data van de Health database wordt gebruikt om de glucose effecten te bepalen. Glucose data vanuit de Health database worden gebruikt voor het berekenen en weergeven van het momentum. Slaap data vanuit de Health database worden gebruikt om de Apple Watch complicatie te verbeteren</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
