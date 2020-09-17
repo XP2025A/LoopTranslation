@@ -1786,7 +1786,7 @@
     <body>
       <trans-unit id="Comms Issue" xml:space="preserve">
         <source>Comms Issue</source>
-        <target state="needs-translation">Comms Issue</target>
+        <target state="translated">Kommunikationsfejl</target>
         <note>Status highlight that delivery is uncertain.</note>
       </trans-unit>
       <trans-unit id="Insulin Suspended" xml:space="preserve">
@@ -1832,9 +1832,9 @@
         <source>%1$@ has been unable to communicate with the Simulator Pump since %2$@.
 
 Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered.</source>
-        <target state="needs-translation">%1$@ has been unable to communicate with the Simulator Pump since %2$@.
+        <target state="translated">%1$@ har ikke været i stand til at kommunikere med simulator pumpen siden %2$@.
 
-Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered.</target>
+Uden kommunikation kan appen ikke fortsætte med at sende kommandoer til afgivelse af insulin eller vise nøjagtig og opdateret information om dit aktive insulin eller det insulin du får.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
@@ -1849,12 +1849,12 @@ Without communication, the app cannot continue to send commands for insulin deli
       </trans-unit>
       <trans-unit id="Back" xml:space="preserve">
         <source>Back</source>
-        <target state="needs-translation">Back</target>
+        <target state="translated">Tilbage</target>
         <note>Back button text on DeliveryUncertaintyRecoveryView</note>
       </trans-unit>
       <trans-unit id="CGM Settings" xml:space="preserve">
         <source>CGM Settings</source>
-        <target state="needs-translation">CGM Settings</target>
+        <target state="translated">Indstillinger for CGM</target>
         <note>Title for CGM simulator settings</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -1864,7 +1864,7 @@ Without communication, the app cannot continue to send commands for insulin deli
       </trans-unit>
       <trans-unit id="Comms Recovery" xml:space="preserve">
         <source>Comms Recovery</source>
-        <target state="needs-translation">Comms Recovery</target>
+        <target state="translated">Kommunikation genoprettelse</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Service" xml:space="preserve">
@@ -1889,12 +1889,12 @@ Without communication, the app cannot continue to send commands for insulin deli
       </trans-unit>
       <trans-unit id="Pump Settings" xml:space="preserve">
         <source>Pump Settings</source>
-        <target state="needs-translation">Pump Settings</target>
+        <target state="translated">Pumpe indstillinger</target>
         <note>Title for Pump simulator settings</note>
       </trans-unit>
       <trans-unit id="Recover Simulator" xml:space="preserve">
         <source>Recover Simulator</source>
-        <target state="needs-translation">Recover Simulator</target>
+        <target state="translated">Gendan simulator</target>
         <note>Button title recovering comms</note>
       </trans-unit>
       <trans-unit id="quantity-and-unit-space" xml:space="preserve">
