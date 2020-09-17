@@ -189,9 +189,9 @@
         <target state="final">Målvärde</target>
         <note>Title text for glucose target range</note>
       </trans-unit>
-      <trans-unit id="Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
+      <trans-unit id="Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve" approved="yes">
         <source>Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target state="translated">Målvärde är det ideala blodsockerintervall du vill att Loop ska hålla dig inom.</target>
+        <target state="final">Målvärde är det ideala blodsockerintervall som du vill att Loop ska hålla dig inom.</target>
         <note>Descriptive text for glucose target range</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve" approved="yes">
@@ -1028,9 +1028,9 @@
         <target state="final">Målvärde är det ideala blodsockerintervall som du vill att Loop ska hålla dig inom.</target>
         <note>Information about correction range</note>
       </trans-unit>
-      <trans-unit id="Get help with Therapy Settings" xml:space="preserve">
+      <trans-unit id="Get help with Therapy Settings" xml:space="preserve" approved="yes">
         <source>Get help with Therapy Settings</source>
-        <target state="needs-translation">Get help with Therapy Settings</target>
+        <target state="final">Få hjälp med behandlingsinställningar</target>
         <note>Support button for Therapy Settings</note>
       </trans-unit>
       <trans-unit id="Go Back" xml:space="preserve" approved="yes">
@@ -1254,9 +1254,9 @@
         <target state="final">Recept</target>
         <note>title for prescription section</note>
       </trans-unit>
-      <trans-unit id="Progressing." xml:space="preserve">
+      <trans-unit id="Progressing." xml:space="preserve" approved="yes">
         <source>Progressing.</source>
-        <target state="needs-translation">Progressing.</target>
+        <target state="final">Behandlas.</target>
         <note>Accessibility label for ProgressIndicatorView when showIndeterminantProgress</note>
       </trans-unit>
       <trans-unit id="Pump Event" xml:space="preserve" approved="yes">
@@ -1390,9 +1390,9 @@
         <target state="final">Pausar</target>
         <note>Title text for button when insulin delivery is in the process of being stopped</note>
       </trans-unit>
-      <trans-unit id="Switch Preview State" xml:space="preserve">
+      <trans-unit id="Switch Preview State" xml:space="preserve" approved="yes">
         <source>Switch Preview State</source>
-        <target state="needs-translation">Switch Preview State</target>
+        <target state="final">Byt förhandsvisningsläge</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Symbol" xml:space="preserve" approved="yes">
@@ -1480,14 +1480,14 @@
         <target state="final">Några av de värden du har angett är utanför vad som generellt rekommenderas.</target>
         <note>Caption text for warning where both delivery limits are outside the recommended range</note>
       </trans-unit>
-      <trans-unit id="Therapy Settings" xml:space="preserve">
+      <trans-unit id="Therapy Settings" xml:space="preserve" approved="yes">
         <source>Therapy Settings</source>
-        <target state="needs-translation">Therapy Settings</target>
+        <target state="final">Behandlingsinställningar</target>
         <note>Therapy Settings screen title</note>
       </trans-unit>
-      <trans-unit id="Therapy Settings Support Placeholder" xml:space="preserve">
+      <trans-unit id="Therapy Settings Support Placeholder" xml:space="preserve" approved="yes">
         <source>Therapy Settings Support Placeholder</source>
-        <target state="needs-translation">Therapy Settings Support Placeholder</target>
+        <target state="final">Behandlingsinställningar Support</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This model assumes peak insulin activity at 55 minutes." xml:space="preserve" approved="yes">
@@ -1567,14 +1567,14 @@
         <target state="final">Verifierar</target>
         <note>Label indicating validation is occurring</note>
       </trans-unit>
-      <trans-unit id="Walsh" xml:space="preserve">
+      <trans-unit id="Walsh" xml:space="preserve" approved="yes">
         <source>Walsh</source>
-        <target state="translated">Walsh</target>
+        <target state="final">Walsh</target>
         <note>Title of insulin model setting</note>
       </trans-unit>
-      <trans-unit id="Warning" xml:space="preserve">
+      <trans-unit id="Warning" xml:space="preserve" approved="yes">
         <source>Warning</source>
-        <target state="translated">Varning</target>
+        <target state="final">Varning</target>
         <note>Title of an alert containing a validation warning</note>
       </trans-unit>
       <trans-unit id="Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable." xml:space="preserve" approved="yes">
@@ -1582,9 +1582,9 @@
         <target state="final">Rådgör med din vårdgivare för att bestämma ett värde som är högre än din högsta schemalagda basaldos, men så konservativ eller aggressiv som du känner dig bekväm med.</target>
         <note>Disclaimer</note>
       </trans-unit>
-      <trans-unit id="Workout" xml:space="preserve">
+      <trans-unit id="Workout" xml:space="preserve" approved="yes">
         <source>Workout</source>
-        <target state="translated">Träning</target>
+        <target state="final">Träning</target>
         <note>Title for the workout override range</note>
       </trans-unit>
       <trans-unit id="Workout temp adjust is the glucose value or range of values you want Loop to target during activity." xml:space="preserve">
@@ -1629,27 +1629,27 @@
       </trans-unit>
       <trans-unit id="You can edit a setting by tapping into any line item." xml:space="preserve">
         <source>You can edit a setting by tapping into any line item.</source>
-        <target state="translated">Du kan ändra en inställning genom att trycka på en av raderna.</target>
+        <target state="translated">Du kan ändra en inställning genom att trycka på ett objekt på en av raderna.</target>
         <note>Description of how to edit setting</note>
       </trans-unit>
       <trans-unit id="You can edit the setting by tapping into the line item." xml:space="preserve">
         <source>You can edit the setting by tapping into the line item.</source>
-        <target state="translated">Du kan ändra en inställning genom att trycka på en av raderna.</target>
+        <target state="translated">Du kan ändra en inställning genom att trycka på ett objekt på raden.</target>
         <note>Description of how to edit setting</note>
       </trans-unit>
-      <trans-unit id="Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
+      <trans-unit id="Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve" approved="yes">
         <source>Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="translated">Din bassaldos är det antal enheter insulin per timme som krävs för din basala ämnesomsättning.</target>
+        <target state="final">Din bassaldos är det antal enheter insulin per timme som krävs för din basala ämnesomsättning.</target>
         <note>Information about basal rates</note>
       </trans-unit>
-      <trans-unit id="Your healthcare provider can help you choose a correction range that's right for you." xml:space="preserve">
+      <trans-unit id="Your healthcare provider can help you choose a correction range that's right for you." xml:space="preserve" approved="yes">
         <source>Your healthcare provider can help you choose a correction range that's right for you.</source>
-        <target state="translated">Din vårdgivare kan hjälpa dig att välja ett målvärde som passar dig.</target>
+        <target state="final">Din vårdgivare kan hjälpa dig att välja ett målvärde som passar dig.</target>
         <note>Disclaimer</note>
       </trans-unit>
       <trans-unit id="Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." xml:space="preserve">
         <source>Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin.</source>
-        <target state="translated">Insulinkänslighet (ISF) är ett mått på hur mycket din blodsocker sjunker av en enhet insulin.</target>
+        <target state="translated">Insulinkänslighet (ISF) är ett mått på hur många enheter din blodsocker sjunker av en enhet insulin.</target>
         <note>Description of insulin sensitivity factor</note>
       </trans-unit>
       <trans-unit id="Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." xml:space="preserve" approved="yes">
@@ -1697,9 +1697,9 @@
         <target state="final">min</target>
         <note>Placeholder for minimum value in glucose range</note>
       </trans-unit>
-      <trans-unit id="more content" xml:space="preserve">
+      <trans-unit id="more content" xml:space="preserve" approved="yes">
         <source>more content</source>
-        <target state="translated">mer innehåll</target>
+        <target state="final">mer innehåll</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="quantity-and-unit-space" xml:space="preserve">
@@ -1855,9 +1855,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>LoopTestingKit</source>
-        <target state="translated">LoopTestingKit</target>
+        <target state="final">LoopTestingKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>

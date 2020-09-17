@@ -136,7 +136,7 @@
       </trans-unit>
       <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve">
         <source>Predicted glucose at %1$@ is %2$@.</source>
-        <target state="translated">Forventet blodsukker om %1$@ er %2$@.</target>
+        <target state="translated">Forventet blodsukker kl %1$@ er %2$@.</target>
         <note>Message when offering bolus recommendation even though bg is below range and minBG is in future. (1: glucose time)(2: glucose number)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve">
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to optimize delivery of Apple Watch complication updates during the time you are awake.</source>
-        <target state="translated">Måltidsdata fra helsedatabasen brukes til å bestemme blodsukkereffekter. Blodsukkerdata fra helsedatabasen brukes til beregning av grafer og momentum. Søvndata fra helsedatabasen brukes til å optimalisere leveringen av oppdateringer for Apple Watch når du er våken.</target>
+        <target state="translated">Måltider med karbohydrater lagret i helsedatabasen brukes til å bestemme blodsukkereffekter. Blodsukkerdata fra helsedatabasen brukes til beregning av grafer og momentum. Søvndata fra helsedatabasen brukes til å optimalisere leveringen av oppdateringer for Apple Watch når du er våken.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
     </body>
@@ -380,7 +380,7 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to improve the Apple Watch complication.</source>
-        <target state="translated">Matdata fra Health-databasen brukes til å bestemme blodsukkereffekt. Blodsukkerdata hentes fra HealthKit for opptegning og analyse.</target>
+        <target state="translated">Måltider med karbohydrater lagret i helsedatabasen brukes til å bestemme blodsukkereffekter. Blodsukkerdata fra helsedatabasen brukes til beregning av grafer og momentum. Søvndata fra helsedatabasen brukes til å forbedre Apple Watch-komplikasjonen.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
@@ -1120,12 +1120,12 @@
       </trans-unit>
       <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve">
         <source>Predicted glucose at %1$@ is %2$@.</source>
-        <target state="translated">Forventet blodsukker om %1$@ er %2$@.</target>
+        <target state="translated">Forventet blodsukker kl %1$@ er %2$@.</target>
         <note>Message when offering bolus recommendation even though bg is below range and minBG is in future. (1: glucose time)(2: glucose number)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve">
         <source>Predicted glucose of %1$@ is below your suspend threshold setting.</source>
-        <target state="translated">Forventet blodsukker %1$@ er under innstilling for insulinstopp</target>
+        <target state="translated">Forventet blodsukker %1$@ er under innstilling for insulinstopp.</target>
         <note>Notice message when recommending bolus when BG is below the suspend threshold. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Predicted: %1$@&#10;Actual: %2$@ (%3$@)" xml:space="preserve">
@@ -1358,7 +1358,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Your glucose is below or predicted to go below your suspend threshold, %@." xml:space="preserve">
         <source>Your glucose is below or predicted to go below your suspend threshold, %@.</source>
-        <target state="needs-translation">Your glucose is below or predicted to go below your suspend threshold, %@.</target>
+        <target state="translated">Blodsukkeret er under, eller forventes å gå under under innstillingen for insulinstopp, %@.</target>
         <note>Caption for bolus screen notice when no bolus is recommended due to prediction dropping below suspend threshold</note>
       </trans-unit>
       <trans-unit id="at %@" xml:space="preserve">
@@ -2025,17 +2025,17 @@ to bolus</target>
     <body>
       <trans-unit id="CsQ-fc-KLC.text" xml:space="preserve">
         <source>—</source>
-        <target state="needs-translation">—</target>
+        <target state="translated">—</target>
         <note>Class = "WKInterfaceLabel"; text = "—"; ObjectID = "CsQ-fc-KLC";</note>
       </trans-unit>
       <trans-unit id="Dt1-kz-jMZ.text" xml:space="preserve">
         <source>---</source>
-        <target state="needs-translation">---</target>
+        <target state="translated">---</target>
         <note>Class = "WKInterfaceLabel"; text = "---"; ObjectID = "Dt1-kz-jMZ";</note>
       </trans-unit>
       <trans-unit id="IRi-4t-ESO.text" xml:space="preserve">
         <source>—</source>
-        <target state="needs-translation">—</target>
+        <target state="translated">—</target>
         <note>Class = "WKInterfaceLabel"; text = "—"; ObjectID = "IRi-4t-ESO";</note>
       </trans-unit>
       <trans-unit id="JXa-s1-PJx.text" xml:space="preserve">
@@ -2050,7 +2050,7 @@ to bolus</target>
       </trans-unit>
       <trans-unit id="Mhe-aR-kQQ.text" xml:space="preserve">
         <source>—</source>
-        <target state="needs-translation">—</target>
+        <target state="translated">—</target>
         <note>Class = "WKInterfaceLabel"; text = "—"; ObjectID = "Mhe-aR-kQQ";</note>
       </trans-unit>
       <trans-unit id="T4U-wP-dSW.text" xml:space="preserve">
@@ -2130,7 +2130,7 @@ to bolus</target>
       </trans-unit>
       <trans-unit id="yl8-ZP-c3l.text" xml:space="preserve">
         <source>---</source>
-        <target state="needs-translation">---</target>
+        <target state="translated">---</target>
         <note>Class = "WKInterfaceLabel"; text = "---"; ObjectID = "yl8-ZP-c3l";</note>
       </trans-unit>
       <trans-unit id="zO8-x6-bZd.text" xml:space="preserve">
