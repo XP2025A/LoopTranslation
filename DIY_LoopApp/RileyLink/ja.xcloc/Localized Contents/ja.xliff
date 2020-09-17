@@ -2,7 +2,7 @@
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Crypto/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -14,7 +14,7 @@
   </file>
   <file original="en.lproj/Localizable.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id=" (inactive)" xml:space="preserve">
@@ -82,6 +82,11 @@
         <target state="needs-translation">Internal pod fault %1$03d</target>
         <note>The format string for Internal pod fault (1: The fault code value)</note>
       </trans-unit>
+      <trans-unit id="Invalid CRC" xml:space="preserve">
+        <source>Invalid CRC</source>
+        <target state="needs-translation">Invalid CRC</target>
+        <note>Description for MessageError invalidCrc</note>
+      </trans-unit>
       <trans-unit id="Low reservoir advisory alarm" xml:space="preserve">
         <source>Low reservoir advisory alarm</source>
         <target state="needs-translation">Low reservoir advisory alarm</target>
@@ -98,6 +103,11 @@
         <note>Delivery status when basal is running
    Pod state when running above fifty units</note>
       </trans-unit>
+      <trans-unit id="Not enough data" xml:space="preserve">
+        <source>Not enough data</source>
+        <target state="needs-translation">Not enough data</target>
+        <note>Description for MessageError notEnoughData</note>
+      </trans-unit>
       <trans-unit id="Occlusion detected" xml:space="preserve">
         <source>Occlusion detected</source>
         <target state="needs-translation">Occlusion detected</target>
@@ -107,6 +117,11 @@
         <source>Paired</source>
         <target state="needs-translation">Paired</target>
         <note>Pod status after pairing</note>
+      </trans-unit>
+      <trans-unit id="Parsing Error: " xml:space="preserve">
+        <source>Parsing Error: </source>
+        <target state="needs-translation">Parsing Error: </target>
+        <note>Description for MessageError parsingError</note>
       </trans-unit>
       <trans-unit id="Pod expiration advisory alarm" xml:space="preserve">
         <source>Pod expiration advisory alarm</source>
@@ -169,10 +184,25 @@
         <target state="needs-translation">Temp basal running</target>
         <note>Delivery status when temp basal is running</note>
       </trans-unit>
+      <trans-unit id="Unexpected message sequence number" xml:space="preserve">
+        <source>Unexpected message sequence number</source>
+        <target state="needs-translation">Unexpected message sequence number</target>
+        <note>Description for MessageError invalidSequence</note>
+      </trans-unit>
+      <trans-unit id="Unknown Value (%1$@) for type %2$@" xml:space="preserve">
+        <source>Unknown Value (%1$@) for type %2$@</source>
+        <target state="needs-translation">Unknown Value (%1$@) for type %2$@</target>
+        <note>Format string for description of MessageError unknownValue. (1: value) (2: Type)</note>
+      </trans-unit>
       <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve">
         <source>Unknown pod fault %1$03d</source>
         <target state="needs-translation">Unknown pod fault %1$03d</target>
         <note>The format string for Unknown pod fault (1: The fault code value)</note>
+      </trans-unit>
+      <trans-unit id="Validation failed: %1$@" xml:space="preserve">
+        <source>Validation failed: %1$@</source>
+        <target state="needs-translation">Validation failed: %1$@</target>
+        <note>Format string for description of MessageError validationFailed. (1: description of validation failure)</note>
       </trans-unit>
       <trans-unit id="Waiting for pairing reminder" xml:space="preserve">
         <source>Waiting for pairing reminder</source>
@@ -198,7 +228,7 @@
   </file>
   <file original="MinimedKit/Base.lproj/Localizable.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="A bolus is already in progress" xml:space="preserve">
@@ -225,6 +255,11 @@
         <source>Basal Profile %1$@: %2$@ U/hour</source>
         <target state="translated">ベーサルプロファイル %1$@: %2$@ U/時</target>
         <note>The format string description of a BasalProfileStartPumpEvent. (1: The index of the profile)(2: The basal rate)</note>
+      </trans-unit>
+      <trans-unit id="Bolus in Progress" xml:space="preserve">
+        <source>Bolus in Progress</source>
+        <target state="needs-translation">Bolus in Progress</target>
+        <note>Error description when failure due to bolus in progress</note>
       </trans-unit>
       <trans-unit id="Bolus in progress" xml:space="preserve">
         <source>Bolus in progress</source>
@@ -301,6 +336,11 @@
         <target state="translated">Minimed 500/700 シリーズ</target>
         <note>Generic title of the minimed pump manager</note>
       </trans-unit>
+      <trans-unit id="No RileyLink Connected" xml:space="preserve">
+        <source>No RileyLink Connected</source>
+        <target state="needs-translation">No RileyLink Connected</target>
+        <note>Error description when no rileylink connected</note>
+      </trans-unit>
       <trans-unit id="North America" xml:space="preserve">
         <source>North America</source>
         <target state="needs-translation">North America</target>
@@ -356,6 +396,11 @@
         <target state="translated">一時基礎レート: %1$d%%</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in percent)</note>
       </trans-unit>
+      <trans-unit id="Unable to store pump data" xml:space="preserve">
+        <source>Unable to store pump data</source>
+        <target state="needs-translation">Unable to store pump data</target>
+        <note>Error description when storage fails</note>
+      </trans-unit>
       <trans-unit id="Unknown pump error code: %1$@" xml:space="preserve">
         <source>Unknown pump error code: %1$@</source>
         <target state="translated">ポンプエラーコード 不明: %1$@</target>
@@ -380,7 +425,7 @@
   </file>
   <file original="MinimedKit/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -392,7 +437,7 @@
   </file>
   <file original="MinimedKitPlugin/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -404,7 +449,7 @@
   </file>
   <file original="MinimedKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="%1$@  %2$@/%3$@  %4$@" xml:space="preserve">
@@ -788,7 +833,7 @@ Find Device</target>
   </file>
   <file original="MinimedKitUI/Base.lproj/MinimedPumpManager.storyboard" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="0MV-2k-Dty.title" xml:space="preserve">
@@ -920,7 +965,7 @@ Find Device</target>
   </file>
   <file original="MinimedKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -932,7 +977,7 @@ Find Device</target>
   </file>
   <file original="NightscoutUploadKit/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -944,7 +989,7 @@ Find Device</target>
   </file>
   <file original="OmniKit/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -956,7 +1001,7 @@ Find Device</target>
   </file>
   <file original="OmniKit/en.lproj/Localizable.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id=" (inactive)" xml:space="preserve">
@@ -1068,6 +1113,11 @@ Find Device</target>
         <target state="translated">初期化完了</target>
         <note>Pod inititialized</note>
       </trans-unit>
+      <trans-unit id="Insulin Suspended" xml:space="preserve">
+        <source>Insulin Suspended</source>
+        <target state="needs-translation">Insulin Suspended</target>
+        <note>Status highlight that insulin delivery was suspended.</note>
+      </trans-unit>
       <trans-unit id="Internal pod fault %1$03d" xml:space="preserve">
         <source>Internal pod fault %1$03d</source>
         <target state="translated">インターナルポッドエラー %1$03d</target>
@@ -1077,6 +1127,11 @@ Find Device</target>
         <source>InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@</source>
         <target state="translated">ボーラス中断: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@</target>
         <note>The format string describing a bolus that was interrupted. (1: The amount delivered)(2: The amount scheduled)(3: Start time of the dose)(4: duration)(5: scheduled certainty)</note>
+      </trans-unit>
+      <trans-unit id="Invalid CRC" xml:space="preserve">
+        <source>Invalid CRC</source>
+        <target state="needs-translation">Invalid CRC</target>
+        <note>Description for MessageError invalidCrc</note>
       </trans-unit>
       <trans-unit id="Invalid address 0x%x. Expected 0x%x" xml:space="preserve">
         <source>Invalid address 0x%1$x. Expected 0x%2$x</source>
@@ -1099,6 +1154,16 @@ Find Device</target>
         <source>Make sure your RileyLink is nearby and powered on</source>
         <target state="translated">RileyLink が近くにあり電源が入っているか確認</target>
         <note>Recovery suggestion when no RileyLink is available</note>
+      </trans-unit>
+      <trans-unit id="No Insulin" xml:space="preserve">
+        <source>No Insulin</source>
+        <target state="needs-translation">No Insulin</target>
+        <note>Status highlight that a pump is out of insulin.</note>
+      </trans-unit>
+      <trans-unit id="No Pod" xml:space="preserve">
+        <source>No Pod</source>
+        <target state="needs-translation">No Pod</target>
+        <note>Status highlight that when no pod is paired.</note>
       </trans-unit>
       <trans-unit id="No RileyLink available" xml:space="preserve">
         <source>No RileyLink available</source>
@@ -1126,6 +1191,11 @@ Find Device</target>
         <note>Delivery status when basal is running
    Pod state when running above fifty units</note>
       </trans-unit>
+      <trans-unit id="Not enough data" xml:space="preserve">
+        <source>Not enough data</source>
+        <target state="needs-translation">Not enough data</target>
+        <note>Description for MessageError notEnoughData</note>
+      </trans-unit>
       <trans-unit id="Occlusion detected" xml:space="preserve">
         <source>Occlusion detected</source>
         <target state="translated">閉塞があります</target>
@@ -1140,6 +1210,11 @@ Find Device</target>
         <source>Paired</source>
         <target state="translated">ペアリングされました</target>
         <note>Pod status after pairing</note>
+      </trans-unit>
+      <trans-unit id="Parsing Error: " xml:space="preserve">
+        <source>Parsing Error: </source>
+        <target state="needs-translation">Parsing Error: </target>
+        <note>Description for MessageError parsingError</note>
       </trans-unit>
       <trans-unit id="Please bring your pod closer to the RileyLink and try again" xml:space="preserve">
         <source>Please bring your pod closer to the RileyLink and try again</source>
@@ -1318,15 +1393,30 @@ Find Device</target>
         <target state="translated">不明</target>
         <note>String describing a dose that was possibly scheduled</note>
       </trans-unit>
+      <trans-unit id="Unexpected message sequence number" xml:space="preserve">
+        <source>Unexpected message sequence number</source>
+        <target state="needs-translation">Unexpected message sequence number</target>
+        <note>Description for MessageError invalidSequence</note>
+      </trans-unit>
       <trans-unit id="Unexpected response from pod" xml:space="preserve">
         <source>Unexpected response from pod</source>
         <target state="translated">ポッドから予期せぬ反応</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
+      <trans-unit id="Unknown Value (%1$@) for type %2$@" xml:space="preserve">
+        <source>Unknown Value (%1$@) for type %2$@</source>
+        <target state="needs-translation">Unknown Value (%1$@) for type %2$@</target>
+        <note>Format string for description of MessageError unknownValue. (1: value) (2: Type)</note>
+      </trans-unit>
       <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve">
         <source>Unknown pod fault %1$03d</source>
         <target state="needs-translation">Unknown pod fault %1$03d</target>
         <note>The format string for Unknown pod fault (1: The fault code value)</note>
+      </trans-unit>
+      <trans-unit id="Validation failed: %1$@" xml:space="preserve">
+        <source>Validation failed: %1$@</source>
+        <target state="needs-translation">Validation failed: %1$@</target>
+        <note>Format string for description of MessageError validationFailed. (1: description of validation failure)</note>
       </trans-unit>
       <trans-unit id="Wait for existing bolus to finish, or cancel bolus" xml:space="preserve">
         <source>Wait for existing bolus to finish, or cancel bolus</source>
@@ -1362,7 +1452,7 @@ Find Device</target>
   </file>
   <file original="OmniKitPlugin/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1374,7 +1464,7 @@ Find Device</target>
   </file>
   <file original="OmniKitUI/Base.lproj/OmnipodPumpManager.storyboard" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="1LF-te-Bdd.headerTitle" xml:space="preserve">
@@ -1496,7 +1586,7 @@ Find Device</target>
   </file>
   <file original="OmniKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1508,7 +1598,7 @@ Find Device</target>
   </file>
   <file original="OmniKitUI/en.lproj/Localizable.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
@@ -1954,7 +2044,7 @@ Find Device</target>
   </file>
   <file original="RileyLink/Base.lproj/Localizable.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="%@ dB" xml:space="preserve">
@@ -2056,7 +2146,7 @@ Find Device</target>
   </file>
   <file original="RileyLink/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -2078,7 +2168,7 @@ Find Device</target>
   </file>
   <file original="RileyLink/en.lproj/LoopKit.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve">
@@ -2090,7 +2180,7 @@ Find Device</target>
   </file>
   <file original="RileyLinkBLEKit/Base.lproj/Localizable.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="Data exceeded maximum size of %@ bytes" xml:space="preserve">
@@ -2157,7 +2247,7 @@ Find Device</target>
   </file>
   <file original="RileyLinkBLEKit/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -2169,7 +2259,7 @@ Find Device</target>
   </file>
   <file original="RileyLinkKit/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -2181,7 +2271,7 @@ Find Device</target>
   </file>
   <file original="RileyLinkKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="%@ dB" xml:space="preserve">
@@ -2263,7 +2353,7 @@ Find Device</target>
   </file>
   <file original="RileyLinkKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
