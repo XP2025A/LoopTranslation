@@ -1,644 +1,680 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Crypto/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Crypto</source>
-        <target state="needs-translation">Crypto</target>
+        <target>Crypto</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="en.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id=" (inactive)" xml:space="preserve">
         <source> (inactive)</source>
-        <target state="translated"> (ei-aktiivinen)</target>
+        <target> (ei-aktiivinen)</target>
         <note>Description for an inactive alert modifier</note>
       </trans-unit>
       <trans-unit id="Auto-off alarm" xml:space="preserve">
         <source>Auto-off alarm</source>
-        <target state="translated">Autom. pois -varoitus</target>
+        <target>Autom. pois -varoitus</target>
         <note>Description for auto-off alarm</note>
       </trans-unit>
       <trans-unit id="Below 50 units" xml:space="preserve">
         <source>Below 50 units</source>
-        <target state="translated">Alle 50 yksikköä</target>
+        <target>Alle 50 yksikköä</target>
         <note>Pod state when running below fifty units</note>
       </trans-unit>
       <trans-unit id="Bolusing" xml:space="preserve">
         <source>Bolusing</source>
-        <target state="translated">Bolus käynnissä</target>
+        <target>Bolus käynnissä</target>
         <note>Delivery status when bolusing</note>
       </trans-unit>
       <trans-unit id="Bolusing with temp basal" xml:space="preserve">
         <source>Bolusing with temp basal</source>
-        <target state="translated">Annostellaan bolus ja tilap. basaali</target>
+        <target>Annostellaan bolus ja tilap. basaali</target>
         <note>Delivery status when bolusing and temp basal is running</note>
       </trans-unit>
       <trans-unit id="Cannula inserting" xml:space="preserve">
         <source>Cannula inserting</source>
-        <target state="translated">Asetetaan kanyyli</target>
+        <target>Asetetaan kanyyli</target>
         <note>Pod state when inserting cannula</note>
       </trans-unit>
       <trans-unit id="Deactivated" xml:space="preserve">
         <source>Deactivated</source>
-        <target state="translated">Deaktivoitu</target>
+        <target>Deaktivoitu</target>
         <note>Pod state when pod has been deactivated</note>
       </trans-unit>
       <trans-unit id="Empty reservoir" xml:space="preserve">
         <source>Empty reservoir</source>
-        <target state="translated">Säiliö tyhjä</target>
+        <target>Säiliö tyhjä</target>
         <note>Description for Empty reservoir pod fault</note>
       </trans-unit>
       <trans-unit id="Error event logged, shutting down" xml:space="preserve">
         <source>Error event logged, shutting down</source>
-        <target state="translated">Virhetapahtuma, sammutetaan</target>
+        <target>Virhetapahtuma, sammutetaan</target>
         <note>Pod state error event logged shutting down</note>
       </trans-unit>
       <trans-unit id="Expiration alert" xml:space="preserve">
         <source>Expiration alert</source>
-        <target state="translated">Pumppu vanhenee -varoitus</target>
+        <target>Pumppu vanhenee -varoitus</target>
         <note>Description for expiration alert</note>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve">
         <source>Finish setup </source>
-        <target state="translated">Lopeta asennus</target>
+        <target>Lopeta asennus</target>
         <note>Description for finish setup</note>
       </trans-unit>
       <trans-unit id="Initialized" xml:space="preserve">
         <source>Initialized</source>
-        <target state="translated">Aloitettu</target>
+        <target>Aloitettu</target>
         <note>Pod inititialized</note>
       </trans-unit>
       <trans-unit id="Internal pod fault %1$03d" xml:space="preserve">
         <source>Internal pod fault %1$03d</source>
-        <target state="translated">Sisäinen pumpun vika %1$03d</target>
+        <target>Sisäinen pumpun vika %1$03d</target>
         <note>The format string for Internal pod fault (1: The fault code value)</note>
+      </trans-unit>
+      <trans-unit id="Invalid CRC" xml:space="preserve">
+        <source>Invalid CRC</source>
+        <note>Description for MessageError invalidCrc</note>
       </trans-unit>
       <trans-unit id="Low reservoir advisory alarm" xml:space="preserve">
         <source>Low reservoir advisory alarm</source>
-        <target state="translated">Säiliö lähes tyhjä -tiedotehälytys</target>
+        <target>Säiliö lähes tyhjä -tiedotehälytys</target>
         <note>Description for low reservoir alarm</note>
       </trans-unit>
       <trans-unit id="No alerts" xml:space="preserve">
         <source>No alerts</source>
-        <target state="translated">Ei hälytyksiä</target>
+        <target>Ei hälytyksiä</target>
         <note>Pod alert state when no alerts are active</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
         <source>Normal</source>
-        <target state="translated">Normaali</target>
+        <target>Normaali</target>
         <note>Delivery status when basal is running
    Pod state when running above fifty units</note>
       </trans-unit>
+      <trans-unit id="Not enough data" xml:space="preserve">
+        <source>Not enough data</source>
+        <note>Description for MessageError notEnoughData</note>
+      </trans-unit>
       <trans-unit id="Occlusion detected" xml:space="preserve">
         <source>Occlusion detected</source>
-        <target state="translated">Tukos havaittu</target>
+        <target>Tukos havaittu</target>
         <note>Description for Occlusion detected pod fault</note>
       </trans-unit>
       <trans-unit id="Paired" xml:space="preserve">
         <source>Paired</source>
-        <target state="translated">Yhdistetty</target>
+        <target>Yhdistetty</target>
         <note>Pod status after pairing</note>
+      </trans-unit>
+      <trans-unit id="Parsing Error: " xml:space="preserve">
+        <source>Parsing Error: </source>
+        <note>Description for MessageError parsingError</note>
       </trans-unit>
       <trans-unit id="Pod expiration advisory alarm" xml:space="preserve">
         <source>Pod expiration advisory alarm</source>
-        <target state="translated">Pumppu vanhenemassa -tiedotehälytys</target>
+        <target>Pumppu vanhenemassa -tiedotehälytys</target>
         <note>Description for expiration advisory alarm</note>
       </trans-unit>
       <trans-unit id="Pod expired" xml:space="preserve">
         <source>Pod expired</source>
-        <target state="translated">Pumppu vanhentunut</target>
+        <target>Pumppu vanhentunut</target>
         <note>Description for Pod expired pod fault</note>
       </trans-unit>
       <trans-unit id="Pod setup window expired" xml:space="preserve">
         <source>Pod setup window expired</source>
-        <target state="translated">Pumpun asennusaika umpeutui</target>
+        <target>Pumpun asennusaika umpeutui</target>
         <note>Pod state when prime or cannula insertion has not completed in the time allotted</note>
       </trans-unit>
       <trans-unit id="Priming" xml:space="preserve">
         <source>Priming</source>
-        <target state="translated">Alustetaan</target>
+        <target>Alustetaan</target>
         <note>Delivery status when pod is priming
    Pod status when priming</note>
       </trans-unit>
       <trans-unit id="Ready for basal programming" xml:space="preserve">
         <source>Ready for basal programming</source>
-        <target state="translated">Valmis basaalin ohjelmointiin</target>
+        <target>Valmis basaalin ohjelmointiin</target>
         <note>Pod state when ready for basal programming</note>
       </trans-unit>
       <trans-unit id="Ready to insert cannula" xml:space="preserve">
         <source>Ready to insert cannula</source>
-        <target state="translated">Valmis kanyylin asetukseen</target>
+        <target>Valmis kanyylin asetukseen</target>
         <note>Pod state when ready for cannula insertion</note>
       </trans-unit>
       <trans-unit id="Scheduled Basal" xml:space="preserve">
         <source>Scheduled Basal</source>
-        <target state="translated">Ohjelmoitu basaali</target>
+        <target>Ohjelmoitu basaali</target>
         <note>Delivery status when basal is running</note>
       </trans-unit>
       <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
         <source>Shutdown imminent alarm</source>
-        <target state="translated">Mykistä hälytys</target>
+        <target>Mykistä hälytys</target>
         <note>Description for shutdown imminent alarm</note>
       </trans-unit>
       <trans-unit id="Suspended" xml:space="preserve">
         <source>Suspended</source>
-        <target state="translated">Pysäytetty</target>
+        <target>Pysäytetty</target>
         <note>Delivery status when insulin delivery is suspended</note>
       </trans-unit>
       <trans-unit id="Tank fill completed" xml:space="preserve">
         <source>Tank fill completed</source>
-        <target state="translated">Säiliön täyttö valmis</target>
+        <target>Säiliön täyttö valmis</target>
         <note>Pod tank fill completed</note>
       </trans-unit>
       <trans-unit id="Tank power activated" xml:space="preserve">
         <source>Tank power activated</source>
-        <target state="translated">Säiliön virta aktivoitu</target>
+        <target>Säiliön virta aktivoitu</target>
         <note>Pod power to motor activated</note>
       </trans-unit>
       <trans-unit id="Temp basal running" xml:space="preserve">
         <source>Temp basal running</source>
-        <target state="translated">Tilapäinen basaali käytössä</target>
+        <target>Tilapäinen basaali käytössä</target>
         <note>Delivery status when temp basal is running</note>
+      </trans-unit>
+      <trans-unit id="Unexpected message sequence number" xml:space="preserve">
+        <source>Unexpected message sequence number</source>
+        <note>Description for MessageError invalidSequence</note>
+      </trans-unit>
+      <trans-unit id="Unknown Value (%1$@) for type %2$@" xml:space="preserve">
+        <source>Unknown Value (%1$@) for type %2$@</source>
+        <note>Format string for description of MessageError unknownValue. (1: value) (2: Type)</note>
       </trans-unit>
       <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve">
         <source>Unknown pod fault %1$03d</source>
-        <target state="translated">Tuntematon pumpun virhe %1$03d</target>
+        <target>Tuntematon pumpun virhe %1$03d</target>
         <note>The format string for Unknown pod fault (1: The fault code value)</note>
+      </trans-unit>
+      <trans-unit id="Validation failed: %1$@" xml:space="preserve">
+        <source>Validation failed: %1$@</source>
+        <note>Format string for description of MessageError validationFailed. (1: description of validation failure)</note>
       </trans-unit>
       <trans-unit id="Waiting for pairing reminder" xml:space="preserve">
         <source>Waiting for pairing reminder</source>
-        <target state="translated">Odotetaan yhdistämismuistutusta</target>
+        <target>Odotetaan yhdistämismuistutusta</target>
         <note>Description waiting for pairing reminder</note>
       </trans-unit>
       <trans-unit id="oneNotUsedButin33" xml:space="preserve">
         <source>oneNotUsedButin33</source>
-        <target state="needs-translation">oneNotUsedButin33</target>
+        <target>oneNotUsedButin33</target>
         <note>Pod state oneNotUsedButin33</note>
       </trans-unit>
       <trans-unit id="threeNotUsedButin33" xml:space="preserve">
         <source>threeNotUsedButin33</source>
-        <target state="needs-translation">threeNotUsedButin33</target>
+        <target>threeNotUsedButin33</target>
         <note>Pod state threeNotUsedButin33</note>
       </trans-unit>
       <trans-unit id="twoNotUsedButin33" xml:space="preserve">
         <source>twoNotUsedButin33</source>
-        <target state="needs-translation">twoNotUsedButin33</target>
+        <target>twoNotUsedButin33</target>
         <note>Pod state twoNotUsedButin33</note>
       </trans-unit>
     </body>
   </file>
   <file original="MinimedKit/Base.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="A bolus is already in progress" xml:space="preserve">
         <source>A bolus is already in progress</source>
-        <target state="translated">Bolus on jo käynnissä</target>
+        <target>Bolus on jo käynnissä</target>
         <note>Communications error for a bolus currently running</note>
       </trans-unit>
       <trans-unit id="AlarmClockReminder" xml:space="preserve">
         <source>AlarmClockReminder</source>
-        <target state="translated">HerätysKelloMuistutus</target>
+        <target>HerätysKelloMuistutus</target>
         <note>The description of AlarmClockReminderPumpEvent</note>
       </trans-unit>
       <trans-unit id="AlarmSensor" xml:space="preserve">
         <source>AlarmSensor</source>
-        <target state="translated">HälytysSensori</target>
+        <target>HälytysSensori</target>
         <note>The description of AlarmSensorPumpEvent</note>
       </trans-unit>
       <trans-unit id="Alkaline" xml:space="preserve">
         <source>Alkaline</source>
-        <target state="translated">Alkaliini</target>
+        <target>Alkaliini</target>
         <note>Describing the battery chemistry as Alkaline</note>
       </trans-unit>
       <trans-unit id="Basal Profile %1$@: %2$@ U/hour" xml:space="preserve">
         <source>Basal Profile %1$@: %2$@ U/hour</source>
-        <target state="translated">Basaaliprofiili %1$@: %2$@ U/h</target>
+        <target>Basaaliprofiili %1$@: %2$@ U/h</target>
         <note>The format string description of a BasalProfileStartPumpEvent. (1: The index of the profile)(2: The basal rate)</note>
+      </trans-unit>
+      <trans-unit id="Bolus in Progress" xml:space="preserve">
+        <source>Bolus in Progress</source>
+        <note>Error description when failure due to bolus in progress</note>
       </trans-unit>
       <trans-unit id="Bolus in progress" xml:space="preserve">
         <source>Bolus in progress</source>
-        <target state="translated">Bolus käynnissä</target>
+        <target>Bolus käynnissä</target>
         <note>Pump error code when bolus is in progress</note>
       </trans-unit>
       <trans-unit id="Canada" xml:space="preserve">
         <source>Canada</source>
-        <target state="translated">Kanada</target>
+        <target>Kanada</target>
         <note>Describing the Canada pump region</note>
       </trans-unit>
       <trans-unit id="Check that the pump is not suspended or priming, or has a percent temp basal type" xml:space="preserve">
         <source>Check that the pump is not suspended or priming, or has a percent temp basal type</source>
-        <target state="translated">Tarkista, että pumppu ei ole pysäytetty, vakiotäytöllä tai basaalityypiksi ei ole valittu prosentteja</target>
+        <target>Tarkista, että pumppu ei ole pysäytetty, vakiotäytöllä tai basaalityypiksi ei ole valittu prosentteja</target>
         <note>Suggestions for diagnosing a command refused pump error</note>
       </trans-unit>
       <trans-unit id="Command refused" xml:space="preserve">
         <source>Command refused</source>
-        <target state="translated">Komento hylättiin</target>
+        <target>Komento hylättiin</target>
         <note>Pump error code returned when command refused</note>
       </trans-unit>
       <trans-unit id="Comms with another pump detected" xml:space="preserve">
         <source>Comms with another pump detected.</source>
-        <target state="translated">Toisen pumpun viestintää havaittu.</target>
+        <target>Toisen pumpun viestintää havaittu.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Decoding Error" xml:space="preserve">
         <source>Decoding Error</source>
-        <target state="translated">Dekoodausvirhe</target>
+        <target>Dekoodausvirhe</target>
         <note>Error description</note>
       </trans-unit>
       <trans-unit id="Device Error" xml:space="preserve">
         <source>Device Error</source>
-        <target state="translated">Laitevirhe</target>
+        <target>Laitevirhe</target>
         <note>Error description</note>
       </trans-unit>
       <trans-unit id="Event History" xml:space="preserve">
         <source>Event History</source>
-        <target state="translated">Tapahtumahistoria</target>
+        <target>Tapahtumahistoria</target>
         <note>Describing the pump history insulin data source</note>
       </trans-unit>
       <trans-unit id="History page does not exist" xml:space="preserve">
         <source>History page does not exist</source>
-        <target state="translated">Historiasivua ei ole olemassa</target>
+        <target>Historiasivua ei ole olemassa</target>
         <note>Pump error code when invalid history page is requested</note>
       </trans-unit>
       <trans-unit id="Invalid response during %1$@: %2$@" xml:space="preserve">
         <source>Invalid response during %1$@: %2$@</source>
-        <target state="translated">Virheellinen vastaus %1$@: %2$@</target>
+        <target>Virheellinen vastaus %1$@: %2$@</target>
         <note>Format string for failure reason. (1: The operation being performed) (2: The response data)</note>
       </trans-unit>
       <trans-unit id="Lithium" xml:space="preserve">
         <source>Lithium</source>
-        <target state="translated">Litium</target>
+        <target>Litium</target>
         <note>Describing the battery chemistry as Lithium</note>
       </trans-unit>
       <trans-unit id="Make sure your RileyLink is nearby and powered on" xml:space="preserve">
         <source>Make sure your RileyLink is nearby and powered on</source>
-        <target state="translated">Varmista, että RileyLink on riittävän lähellä ja se on kytketty päälle</target>
+        <target>Varmista, että RileyLink on riittävän lähellä ja se on kytketty päälle</target>
         <note>Recovery suggestion</note>
       </trans-unit>
       <trans-unit id="Max setting exceeded" xml:space="preserve">
         <source>Max setting exceeded</source>
-        <target state="translated">Maksimiasetus ylitetty</target>
+        <target>Maksimiasetus ylitetty</target>
         <note>Pump error code describing max setting exceeded</note>
       </trans-unit>
       <trans-unit id="Minimed %@" xml:space="preserve">
         <source>Minimed %@</source>
-        <target state="needs-translation">Minimed %@</target>
+        <target>Minimed %@</target>
         <note>Pump title (1: model number)</note>
       </trans-unit>
       <trans-unit id="Minimed 500/700 Series" xml:space="preserve">
         <source>Minimed 500/700 Series</source>
-        <target state="translated">Minimed 500/700 -sarja</target>
+        <target>Minimed 500/700 -sarja</target>
         <note>Generic title of the minimed pump manager</note>
+      </trans-unit>
+      <trans-unit id="No RileyLink Connected" xml:space="preserve">
+        <source>No RileyLink Connected</source>
+        <note>Error description when no rileylink connected</note>
       </trans-unit>
       <trans-unit id="North America" xml:space="preserve">
         <source>North America</source>
-        <target state="translated">Pohjois-Amerikka</target>
+        <target>Pohjois-Amerikka</target>
         <note>Describing the North America pump region</note>
       </trans-unit>
       <trans-unit id="Pump Error" xml:space="preserve">
         <source>Pump Error</source>
-        <target state="translated">Pumppuvirhe</target>
+        <target>Pumppuvirhe</target>
         <note>Error description</note>
       </trans-unit>
       <trans-unit id="Pump did not respond" xml:space="preserve">
         <source>Pump did not respond</source>
-        <target state="translated">Pumppu ei vastannut</target>
+        <target>Pumppu ei vastannut</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pump is suspended" xml:space="preserve">
         <source>Pump is suspended</source>
-        <target state="translated">Pumppu on pysäytetty</target>
+        <target>Pumppu on pysäytetty</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pump responded unexpectedly" xml:space="preserve">
         <source>Pump responded unexpectedly</source>
-        <target state="translated">Pumppu vastasi epätavallisesti</target>
+        <target>Pumppu vastasi epätavallisesti</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="PumpMessage(%1$@, %2$@, %3$@, %4$@)" xml:space="preserve">
         <source>PumpMessage(%1$@, %2$@, %3$@, %4$@)</source>
-        <target state="translated">PumppuViesti(%1$@, %2$@, %3$@, %4$@)</target>
+        <target>PumppuViesti(%1$@, %2$@, %3$@, %4$@)</target>
         <note>The format string describing a pump message. (1: The packet type)(2: The message type)(3: The message address)(4: The message data</note>
       </trans-unit>
       <trans-unit id="Reservoir" xml:space="preserve">
         <source>Reservoir</source>
-        <target state="translated">Säiliö</target>
+        <target>Säiliö</target>
         <note>Describing the reservoir insulin data source</note>
       </trans-unit>
       <trans-unit id="RileyLink radio tune failed" xml:space="preserve">
         <source>RileyLink radio tune failed</source>
-        <target state="translated">RileyLink-radion viritys epäonnistui</target>
+        <target>RileyLink-radion viritys epäonnistui</target>
         <note>Error description</note>
       </trans-unit>
       <trans-unit id="Temporary Basal: %1$.3f U/hour" xml:space="preserve">
         <source>Temporary Basal: %1$.3f U/hour</source>
-        <target state="translated">Tilapäinen basaali: %1$.3f U/h</target>
+        <target>Tilapäinen basaali: %1$.3f U/h</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in minutes)</note>
       </trans-unit>
       <trans-unit id="Temporary Basal: %1$d min" xml:space="preserve">
         <source>Temporary Basal: %1$d min</source>
-        <target state="translated">Tilapäinen basaali: %1$d min</target>
+        <target>Tilapäinen basaali: %1$d min</target>
         <note>The format string description of a TempBasalDurationPumpEvent. (1: The duration of the temp basal in minutes)</note>
       </trans-unit>
       <trans-unit id="Temporary Basal: %1$d%%" xml:space="preserve">
         <source>Temporary Basal: %1$d%%</source>
-        <target state="translated">Tilapäinen basaali: %1$d%%</target>
+        <target>Tilapäinen basaali: %1$d%%</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in percent)</note>
+      </trans-unit>
+      <trans-unit id="Unable to store pump data" xml:space="preserve">
+        <source>Unable to store pump data</source>
+        <note>Error description when storage fails</note>
       </trans-unit>
       <trans-unit id="Unknown pump error code: %1$@" xml:space="preserve">
         <source>Unknown pump error code: %1$@</source>
-        <target state="translated">Tuntematon pumpun virhekoodi: %1$@</target>
+        <target>Tuntematon pumpun virhekoodi: %1$@</target>
         <note>The format string description of an unknown pump error code. (1: The specific error code raw value)</note>
       </trans-unit>
       <trans-unit id="Unknown pump model: %@" xml:space="preserve">
         <source>Unknown pump model: %@</source>
-        <target state="translated">Tuntematon pumppumalli: %@</target>
+        <target>Tuntematon pumppumalli: %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unknown response during %1$@: %2$@" xml:space="preserve">
         <source>Unknown response during %1$@: %2$@</source>
-        <target state="translated">Tuntematon vastaus %1$@: %2$@</target>
+        <target>Tuntematon vastaus %1$@: %2$@</target>
         <note>Format string for an unknown response. (1: The operation being performed) (2: The response data)</note>
       </trans-unit>
       <trans-unit id="World-Wide" xml:space="preserve">
         <source>World-Wide</source>
-        <target state="translated">Maailmanlaajuinen</target>
+        <target>Maailmanlaajuinen</target>
         <note>Describing the worldwide pump region</note>
       </trans-unit>
     </body>
   </file>
   <file original="MinimedKit/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>MinimedKit</source>
-        <target state="needs-translation">MinimedKit</target>
+        <target>MinimedKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="MinimedKitPlugin/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>MinimedKitPlugin</source>
-        <target state="needs-translation">MinimedKitPlugin</target>
+        <target>MinimedKitPlugin</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="MinimedKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="%1$@  %2$@/%3$@  %4$@" xml:space="preserve">
         <source>%1$@  %2$@/%3$@  %4$@</source>
-        <target state="needs-translation">%1$@  %2$@/%3$@  %4$@</target>
+        <target>%1$@  %2$@/%3$@  %4$@</target>
         <note>The format string for displaying a frequency tune trial. Extra spaces added for emphesis: (1: frequency in MHz)(2: success count)(3: total count)(4: average RSSI)</note>
       </trans-unit>
       <trans-unit id="%1$@ Units of insulin remaining&#10;" xml:space="preserve">
         <source>%1$@ Units of insulin remaining
 </source>
-        <target state="translated">%1$@ insuliiniyksikköä jäljellä
+        <target>%1$@ insuliiniyksikköä jäljellä
 </target>
         <note>The format string describing units of insulin remaining: (1: number of units)</note>
       </trans-unit>
       <trans-unit id="%1$@ basal schedule entries&#10;" xml:space="preserve">
         <source>%1$@ basal schedule entries
 </source>
-        <target state="translated">%1$@ basaaliohjelman kirjausta
+        <target>%1$@ basaaliohjelman kirjausta
 </target>
         <note>The format string describing number of basal schedule entries: (1: number of entries)</note>
       </trans-unit>
       <trans-unit id="%1$@%2$@%3$@" xml:space="preserve">
         <source>%1$@%2$@%3$@</source>
-        <target state="needs-translation">%1$@%2$@%3$@</target>
+        <target>%1$@%2$@%3$@</target>
         <note>The format string for displaying an offset from a time zone: (1: GMT)(2: -)(3: 4:00)</note>
       </trans-unit>
       <trans-unit id="%@ dB" xml:space="preserve">
         <source>%@ dB</source>
-        <target state="needs-translation">%@ dB</target>
+        <target>%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
       </trans-unit>
       <trans-unit id="Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure." xml:space="preserve">
         <source>Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure.</source>
-        <target state="translated">Alkali- ja litiumparistot tyhjenevät eri nopeudella. Alkaliparistojen varaus vähenee yleensä lineaarisesti ajan kuluessa, kun taas litiumparistot ylläpitävät yleensä varaustaan korkeana kunnes käyttöaika on noin puolessa välissä. Normaalilla käytöllä Minimed (x22/x15) insuliinipumppu toimii Loop-käytössä alkaliparistolla noin 4–5 päivää. Litiumparistot kestävät 1–2 viikkoa. Tämä valinta näyttää pariston varauksen vähenemisnopeuden sen perusteella kumpi paristotyyppi on valittu ja varoittaa käyttäjää, kun pariston käyttöaika on loppumassa noin 8–10 tunnin kuluessa</target>
+        <target>Alkali- ja litiumparistot tyhjenevät eri nopeudella. Alkaliparistojen varaus vähenee yleensä lineaarisesti ajan kuluessa, kun taas litiumparistot ylläpitävät yleensä varaustaan korkeana kunnes käyttöaika on noin puolessa välissä. Normaalilla käytöllä Minimed (x22/x15) insuliinipumppu toimii Loop-käytössä alkaliparistolla noin 4–5 päivää. Litiumparistot kestävät 1–2 viikkoa. Tämä valinta näyttää pariston varauksen vähenemisnopeuden sen perusteella kumpi paristotyyppi on valittu ja varoittaa käyttäjää, kun pariston käyttöaika on loppumassa noin 8–10 tunnin kuluessa</target>
         <note>Instructions on selecting battery chemistry type</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete this pump?" xml:space="preserve">
         <source>Are you sure you want to delete this pump?</source>
-        <target state="translated">Haluatko varmasti poistaa tämän pumpun?</target>
+        <target>Haluatko varmasti poistaa tämän pumpun?</target>
         <note>Confirmation message for deleting a pump</note>
       </trans-unit>
       <trans-unit id="Awake Until" xml:space="preserve">
         <source>Awake Until</source>
-        <target state="translated">Hereillä asti</target>
+        <target>Hereillä asti</target>
         <note>The title of the cell describing an awake radio</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target state="translated">Basaalimäärät</target>
+        <target>Basaalimäärät</target>
         <note>The title text for the basal rate schedule</note>
       </trans-unit>
       <trans-unit id="Battery: %1$@ volts&#10;" xml:space="preserve">
         <source>Battery: %1$@ volts
 </source>
-        <target state="translated">Paristo: %1$@ volttia
+        <target>Paristo: %1$@ volttia
 </target>
         <note>The format string describing pump battery voltage: (1: battery voltage)</note>
       </trans-unit>
       <trans-unit id="Best Frequency" xml:space="preserve">
         <source>Best Frequency</source>
-        <target state="translated">Paras taajuus</target>
+        <target>Paras taajuus</target>
         <note>The label indicating the best radio frequency</note>
       </trans-unit>
       <trans-unit id="Bolusing: %1$@&#10;" xml:space="preserve">
         <source>Bolusing: %1$@
 </source>
-        <target state="translated">Annostellaan bolus: %1$@
+        <target>Annostellaan bolus: %1$@
 </target>
         <note>The format string describing pump bolusing state: (1: bolusing)</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target state="translated">Kumoa</target>
+        <target>Kumoa</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
       <trans-unit id="Change Time" xml:space="preserve">
         <source>Change Time</source>
-        <target state="translated">Muuta aika</target>
+        <target>Muuta aika</target>
         <note>The title of the command to change pump time</note>
       </trans-unit>
       <trans-unit id="Change Time Zone" xml:space="preserve">
         <source>Change Time Zone</source>
-        <target state="translated">Muuta aikavyöhyke</target>
+        <target>Muuta aikavyöhyke</target>
         <note>The title of the command to change pump time zone</note>
       </trans-unit>
       <trans-unit id="Changing time…" xml:space="preserve">
         <source>Changing time…</source>
-        <target state="translated">Muutetaan aikaa…</target>
+        <target>Muutetaan aikaa…</target>
         <note>Progress message for changing pump time.</note>
       </trans-unit>
       <trans-unit id="Commands" xml:space="preserve">
         <source>Commands</source>
-        <target state="translated">Komennot</target>
+        <target>Komennot</target>
         <note>The title of the section describing commands</note>
       </trans-unit>
       <trans-unit id="Configuration" xml:space="preserve">
         <source>Configuration</source>
-        <target state="translated">Määritykset</target>
+        <target>Määritykset</target>
         <note>The title of the configuration section in settings</note>
       </trans-unit>
       <trans-unit id="Connect" xml:space="preserve">
         <source>Connect</source>
-        <target state="translated">Yhdistä</target>
+        <target>Yhdistä</target>
         <note>Button title to connect to pump during setup</note>
       </trans-unit>
       <trans-unit id="Connection State" xml:space="preserve">
         <source>Connection State</source>
-        <target state="translated">Yhteyden tila</target>
+        <target>Yhteyden tila</target>
         <note>The title of the cell showing BLE connection state</note>
       </trans-unit>
       <trans-unit id="Delete Pump" xml:space="preserve">
         <source>Delete Pump</source>
-        <target state="translated">Poista pumppu</target>
+        <target>Poista pumppu</target>
         <note>Button title to delete pump
    Title text for the button to remove a pump from Loop</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
         <source>Delivery Limits</source>
-        <target state="translated">Annostelurajat</target>
+        <target>Annostelurajat</target>
         <note>Title text for delivery limits</note>
       </trans-unit>
       <trans-unit id="Device" xml:space="preserve">
         <source>Device</source>
-        <target state="translated">Laite</target>
+        <target>Laite</target>
         <note>The title of the section describing the device</note>
       </trans-unit>
       <trans-unit id="Discover Commands" xml:space="preserve">
         <source>Discover Commands</source>
-        <target state="translated">Hae komennot</target>
+        <target>Hae komennot</target>
         <note>The title of the command to discover commands</note>
       </trans-unit>
       <trans-unit id="Discovering commands…" xml:space="preserve">
         <source>Discovering commands…</source>
-        <target state="translated">Haetaan komentoja…</target>
+        <target>Haetaan komentoja…</target>
         <note>Progress message for discovering commands.</note>
       </trans-unit>
       <trans-unit id="Enable Diagnostic LEDs" xml:space="preserve">
         <source>Enable Diagnostic LEDs</source>
-        <target state="translated">Ota käyttöön diagnostiset LED-valot</target>
+        <target>Ota käyttöön diagnostiset LED-valot</target>
         <note>The title of the command to enable diagnostic LEDs</note>
       </trans-unit>
       <trans-unit id="Enabled Diagnostic LEDs" xml:space="preserve">
         <source>Enabled Diagnostic LEDs</source>
-        <target state="translated">Diagnostiset LED-valot otettu käyttöön</target>
+        <target>Diagnostiset LED-valot otettu käyttöön</target>
         <note>Progress message for enabling diagnostic LEDs</note>
       </trans-unit>
       <trans-unit id="Error Resuming" xml:space="preserve">
         <source>Error Resuming</source>
-        <target state="translated">Virhe jatkamisessa</target>
+        <target>Virhe jatkamisessa</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
       <trans-unit id="Error Suspending" xml:space="preserve">
         <source>Error Suspending</source>
-        <target state="translated">Virhe pysäytyksessä</target>
+        <target>Virhe pysäytyksessä</target>
         <note>The alert title for a suspend error</note>
       </trans-unit>
       <trans-unit id="Fetch Enlite Glucose" xml:space="preserve">
         <source>Fetch Enlite Glucose</source>
-        <target state="translated">Hae Enliten glukoosiarvo</target>
+        <target>Hae Enliten glukoosiarvo</target>
         <note>The title of the command to fetch recent glucose</note>
       </trans-unit>
       <trans-unit id="Fetch Recent History" xml:space="preserve">
         <source>Fetch Recent History</source>
-        <target state="translated">Hae viimeaikaiset tapahtumat</target>
+        <target>Hae viimeaikaiset tapahtumat</target>
         <note>The title of the command to fetch recent history</note>
       </trans-unit>
       <trans-unit id="Fetching glucose…" xml:space="preserve">
         <source>Fetching glucose…</source>
-        <target state="translated">Haetaan glukoosiarvo…</target>
+        <target>Haetaan glukoosiarvo…</target>
         <note>Progress message for fetching pump glucose.</note>
       </trans-unit>
       <trans-unit id="Fetching history…" xml:space="preserve">
         <source>Fetching history…</source>
-        <target state="translated">Haetaan viimeaikaisia tapahtumia…</target>
+        <target>Haetaan viimeaikaisia tapahtumia…</target>
         <note>Progress message for fetching pump history.</note>
       </trans-unit>
       <trans-unit id="Fetching pump model…" xml:space="preserve">
         <source>Fetching pump model…</source>
-        <target state="translated">Haetaan pumpun mallia…</target>
+        <target>Haetaan pumpun mallia…</target>
         <note>Progress message for fetching pump model.</note>
       </trans-unit>
       <trans-unit id="Firmware" xml:space="preserve">
         <source>Firmware</source>
-        <target state="translated">Laiteohjelmisto</target>
+        <target>Laiteohjelmisto</target>
         <note>The title of the cell showing firmware version</note>
       </trans-unit>
       <trans-unit id="Firmware Version" xml:space="preserve">
         <source>Firmware Version</source>
-        <target state="translated">Laiteohjelmiston versio</target>
+        <target>Laiteohjelmiston versio</target>
         <note>The title of the cell showing the pump firmware version</note>
       </trans-unit>
       <trans-unit id="Get Pump Model" xml:space="preserve">
         <source>Get Pump Model</source>
-        <target state="translated">Hae pumpun malli</target>
+        <target>Hae pumpun malli</target>
         <note>The title of the command to get pump model</note>
       </trans-unit>
       <trans-unit id="Get Statistics…" xml:space="preserve">
         <source>Get Statistics…</source>
-        <target state="translated">Hae tilastotiedot…</target>
+        <target>Hae tilastotiedot…</target>
         <note>Progress message for getting statistics.</note>
       </trans-unit>
       <trans-unit id="Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option." xml:space="preserve">
         <source>Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option.</source>
-        <target state="translated">Pumpun annostelemat insuliinimäärät on mahdollista määrittää joko tulkitsemalla tapahtumahistoriaa tai arvioimalla pumppusäiliön insuliinimäärää ajan kuluessa. Tapahtumahistorian lukeminen antaa tarkemman kuvan tilanteesta ja mahdollistaa ajantasaisen tiedonsiirron Nightscoutiin, mutta toisaalta tämä kuluttaa pumpun paristoa nopeammin ja lisää radiovirheiden todennäköisyyttä siihen verrattuna, että luettaisiin ainoastaan pumppusäiliössä olevan insuliinin määrää. Jos valittua lähdettä ei voida mistä tahansa syystä käyttää, järjestelmä pyrkii käyttämään toista vaihtoehtoa.</target>
+        <target>Pumpun annostelemat insuliinimäärät on mahdollista määrittää joko tulkitsemalla tapahtumahistoriaa tai arvioimalla pumppusäiliön insuliinimäärää ajan kuluessa. Tapahtumahistorian lukeminen antaa tarkemman kuvan tilanteesta ja mahdollistaa ajantasaisen tiedonsiirron Nightscoutiin, mutta toisaalta tämä kuluttaa pumpun paristoa nopeammin ja lisää radiovirheiden todennäköisyyttä siihen verrattuna, että luettaisiin ainoastaan pumppusäiliössä olevan insuliinin määrää. Jos valittua lähdettä ei voida mistä tahansa syystä käyttää, järjestelmä pyrkii käyttämään toista vaihtoehtoa.</target>
         <note>Instructions on selecting an insulin data source</note>
       </trans-unit>
       <trans-unit id="Last Awake" xml:space="preserve">
         <source>Last Awake</source>
-        <target state="translated">Viimeksi hereillä</target>
+        <target>Viimeksi hereillä</target>
         <note>The title of the cell describing an awake radio</note>
       </trans-unit>
       <trans-unit id="Listening Off" xml:space="preserve">
         <source>Listening Off</source>
-        <target state="translated">Kuuntelu pois päältä</target>
+        <target>Kuuntelu pois päältä</target>
         <note>The title of the cell describing no radio awake data</note>
       </trans-unit>
       <trans-unit id="MySentry Pair" xml:space="preserve">
         <source>MySentry Pair</source>
-        <target state="translated">MySentry-paritus</target>
+        <target>MySentry-paritus</target>
         <note>The title of the command to pair with mysentry</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
-        <target state="translated">Nimi</target>
+        <target>Nimi</target>
         <note>The title of the cell showing device name</note>
       </trans-unit>
       <trans-unit id="No response" xml:space="preserve">
         <source>No response</source>
-        <target state="translated">Ei vastausta</target>
+        <target>Ei vastausta</target>
         <note>Message display when no response from tuning pump</note>
       </trans-unit>
       <trans-unit id="On Idle" xml:space="preserve">
         <source>On Idle</source>
-        <target state="translated">Valmiustilassa</target>
+        <target>Valmiustilassa</target>
         <note>The title of the cell showing the last idle</note>
       </trans-unit>
       <trans-unit id="On your pump, go to the Find Device screen and select &quot;Find Device&quot;.&#10;&#10;Main Menu &gt;&#10;Utilities &gt;&#10;Connect Devices &gt;&#10;Other Devices &gt;&#10;On &gt;&#10;Find Device" xml:space="preserve">
@@ -650,7 +686,7 @@ Connect Devices &gt;
 Other Devices &gt;
 On &gt;
 Find Device</source>
-        <target state="translated">Mene pumppusi Etsi laite -näytölle ja valitse "Etsi laite".
+        <target>Mene pumppusi Etsi laite -näytölle ja valitse "Etsi laite".
 
  Päävalikko &gt;
 Työkalut &gt;
@@ -662,1613 +698,1649 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Preferred Data Source" xml:space="preserve">
         <source>Preferred Data Source</source>
-        <target state="translated">Ensisijainen tietolähde</target>
+        <target>Ensisijainen tietolähde</target>
         <note>The title text for the preferred insulin data source config</note>
       </trans-unit>
       <trans-unit id="Pump" xml:space="preserve">
         <source>Pump</source>
-        <target state="translated">Pumppu</target>
+        <target>Pumppu</target>
         <note>The title of the section describing the pump</note>
       </trans-unit>
       <trans-unit id="Pump Battery Type" xml:space="preserve">
         <source>Pump Battery Type</source>
-        <target state="translated">Pumpun paristotyyppi</target>
+        <target>Pumpun paristotyyppi</target>
         <note>The title text for the battery type value</note>
       </trans-unit>
       <trans-unit id="Pump ID" xml:space="preserve">
         <source>Pump ID</source>
-        <target state="translated">Pumpun tunniste</target>
+        <target>Pumpun tunniste</target>
         <note>The title of the cell showing pump ID
    The title text for the pump ID config value</note>
       </trans-unit>
       <trans-unit id="Pump Model" xml:space="preserve">
         <source>Pump Model</source>
-        <target state="translated">Pumpun malli</target>
+        <target>Pumpun malli</target>
         <note>The title of the cell showing the pump model number</note>
       </trans-unit>
       <trans-unit id="Pump Settings" xml:space="preserve">
         <source>Pump Settings</source>
-        <target state="translated">Pumpun asetukset</target>
+        <target>Pumpun asetukset</target>
         <note>Title of the pump settings view controller</note>
       </trans-unit>
       <trans-unit id="Read Basal Schedule" xml:space="preserve">
         <source>Read Basal Schedule</source>
-        <target state="translated">Lue basaaliohjelma</target>
+        <target>Lue basaaliohjelma</target>
         <note>The title of the command to read basal schedule</note>
       </trans-unit>
       <trans-unit id="Read Pump Status" xml:space="preserve">
         <source>Read Pump Status</source>
-        <target state="translated">Lue pumpun tila</target>
+        <target>Lue pumpun tila</target>
         <note>The title of the command to read pump status</note>
       </trans-unit>
       <trans-unit id="Reading basal schedule…" xml:space="preserve">
         <source>Reading basal schedule…</source>
-        <target state="translated">Luetaan basaaliohjelmaa…</target>
+        <target>Luetaan basaaliohjelmaa…</target>
         <note>Progress message for reading basal schedule</note>
       </trans-unit>
       <trans-unit id="Reading pump status…" xml:space="preserve">
         <source>Reading pump status…</source>
-        <target state="translated">Luetaan pumpun tilaa…</target>
+        <target>Luetaan pumpun tilaa…</target>
         <note>Progress message for reading pump status</note>
       </trans-unit>
       <trans-unit id="Region" xml:space="preserve">
         <source>Region</source>
-        <target state="translated">Alue</target>
+        <target>Alue</target>
         <note>The title of the cell showing the pump region</note>
       </trans-unit>
       <trans-unit id="Retry" xml:space="preserve">
         <source>Retry</source>
-        <target state="translated">Yritä uudelleen</target>
+        <target>Yritä uudelleen</target>
         <note>Button title to retry sentry setup</note>
       </trans-unit>
       <trans-unit id="RileyLink Statistics" xml:space="preserve">
         <source>RileyLink Statistics</source>
-        <target state="translated">RileyLinkin tiedot</target>
+        <target>RileyLinkin tiedot</target>
         <note>The title of the command to fetch RileyLink statistics</note>
       </trans-unit>
       <trans-unit id="Save to Pump…" xml:space="preserve">
         <source>Save to Pump…</source>
-        <target state="translated">Tallenna pumppuun…</target>
+        <target>Tallenna pumppuun…</target>
         <note>Title of button to save basal profile to pump
    Title of button to save delivery limit settings to pump</note>
       </trans-unit>
       <trans-unit id="Send Button Press" xml:space="preserve">
         <source>Send Button Press</source>
-        <target state="translated">Lähetä napin painallus</target>
+        <target>Lähetä napin painallus</target>
         <note>The title of the command to send a button press</note>
       </trans-unit>
       <trans-unit id="Sending button press…" xml:space="preserve">
         <source>Sending button press…</source>
-        <target state="translated">Lähetetään napin painallusta…</target>
+        <target>Lähetetään napin painallusta…</target>
         <note>Progress message for sending button press to pump.</note>
       </trans-unit>
       <trans-unit id="Signal Strength" xml:space="preserve">
         <source>Signal Strength</source>
-        <target state="translated">Signaalin vahvuus</target>
+        <target>Signaalin vahvuus</target>
         <note>The title of the cell showing BLE signal strength (RSSI)</note>
       </trans-unit>
       <trans-unit id="Succeeded" xml:space="preserve">
         <source>Succeeded</source>
-        <target state="translated">Onnistui</target>
+        <target>Onnistui</target>
         <note>A message indicating a command succeeded</note>
       </trans-unit>
       <trans-unit id="Suspended: %1$@&#10;" xml:space="preserve">
         <source>Suspended: %1$@
 </source>
-        <target state="translated">Annostelu pysäytetty: %1$@
+        <target>Annostelu pysäytetty: %1$@
 </target>
         <note>The format string describing pump suspended state: (1: suspended)</note>
       </trans-unit>
       <trans-unit id="Trials" xml:space="preserve">
         <source>Trials</source>
-        <target state="translated">Yritykset</target>
+        <target>Yritykset</target>
         <note>The label indicating the results of each frequency trial</note>
       </trans-unit>
       <trans-unit id="Tune Radio Frequency" xml:space="preserve">
         <source>Tune Radio Frequency</source>
-        <target state="translated">Säädä radiotaajuus</target>
+        <target>Säädä radiotaajuus</target>
         <note>The title of the command to re-tune the radio</note>
       </trans-unit>
       <trans-unit id="Tuning radio…" xml:space="preserve">
         <source>Tuning radio…</source>
-        <target state="translated">Säädetään radiota…</target>
+        <target>Säädetään radiota…</target>
         <note>Progress message for tuning radio</note>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
-        <target state="translated">Tuntematon</target>
+        <target>Tuntematon</target>
         <note>The detail text for an unknown pump model</note>
       </trans-unit>
       <trans-unit id="Uptime" xml:space="preserve">
         <source>Uptime</source>
-        <target state="translated">Toiminta-aika</target>
+        <target>Toiminta-aika</target>
         <note>The title of the cell showing uptime</note>
       </trans-unit>
     </body>
   </file>
   <file original="MinimedKitUI/Base.lproj/MinimedPumpManager.storyboard" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="0MV-2k-Dty.title" xml:space="preserve">
         <source>RileyLink Setup</source>
-        <target state="translated">RileyLink-asennus</target>
+        <target>RileyLink-asennus</target>
         <note>Class = "UITableViewController"; title = "RileyLink Setup"; ObjectID = "0MV-2k-Dty";</note>
       </trans-unit>
       <trans-unit id="1fp-45-qWK.text" xml:space="preserve">
         <source>Find Device</source>
-        <target state="translated">Etsi laite</target>
+        <target>Etsi laite</target>
         <note>Class = "UILabel"; text = "Find Device"; ObjectID = "1fp-45-qWK";</note>
       </trans-unit>
       <trans-unit id="A6i-Cb-baR.text" xml:space="preserve">
         <source>Other Devices</source>
-        <target state="translated">Muut laitteet</target>
+        <target>Muut laitteet</target>
         <note>Class = "UILabel"; text = "Other Devices"; ObjectID = "A6i-Cb-baR";</note>
       </trans-unit>
       <trans-unit id="Bdb-j4-WcR.text" xml:space="preserve">
         <source>Do not change the time using your pumpʼs menu.</source>
-        <target state="translated">Älä muuta kellonaikaa käyttämällä pumpun omaa valikkoa.</target>
+        <target>Älä muuta kellonaikaa käyttämällä pumpun omaa valikkoa.</target>
         <note>Class = "UILabel"; text = "Do not change the time using your pumpʼs menu."; ObjectID = "Bdb-j4-WcR";</note>
       </trans-unit>
       <trans-unit id="Fps-h3-V4K.title" xml:space="preserve">
         <source>Pump Clock</source>
-        <target state="translated">Pumpun kello</target>
+        <target>Pumpun kello</target>
         <note>Class = "UITableViewController"; title = "Pump Clock"; ObjectID = "Fps-h3-V4K";</note>
       </trans-unit>
       <trans-unit id="HeG-VF-L5P.placeholder" xml:space="preserve">
         <source>Enter the 6-digit pump ID</source>
-        <target state="translated">Syötä 6-numeroinen pumpun tunniste</target>
+        <target>Syötä 6-numeroinen pumpun tunniste</target>
         <note>Class = "UITextField"; placeholder = "Enter the 6-digit pump ID"; ObjectID = "HeG-VF-L5P";</note>
       </trans-unit>
       <trans-unit id="HfQ-fG-8vO.text" xml:space="preserve">
         <source>Review your pump settings below. You can change these settings at any time in Loopʼs Settings screen.</source>
-        <target state="translated">Tarkista pumpun asetukset alta. Voit muokata näitä asetuksia milloin tahansa Loopin Asetukset-näkymässä.</target>
+        <target>Tarkista pumpun asetukset alta. Voit muokata näitä asetuksia milloin tahansa Loopin Asetukset-näkymässä.</target>
         <note>Class = "UILabel"; text = "Review your pump settings below. You can change these settings at any time in Loopʼs Settings screen."; ObjectID = "HfQ-fG-8vO";</note>
       </trans-unit>
       <trans-unit id="HuY-fE-vM8.text" xml:space="preserve">
         <source>If you travel to a different time zone for an extended period of time, you can change the pumpʼs time zone at any time in Loopʼs Settings screen.</source>
-        <target state="translated">Jos matkustat toiselle aikavyöhykkeelle pidemmäksi aikaa, voit muuttaa pumpun aikavyöhykkeen milloin tahansa Loopin Asetukset-näkymässä.</target>
+        <target>Jos matkustat toiselle aikavyöhykkeelle pidemmäksi aikaa, voit muuttaa pumpun aikavyöhykkeen milloin tahansa Loopin Asetukset-näkymässä.</target>
         <note>Class = "UILabel"; text = "If you travel to a different time zone for an extended period of time, you can change the pumpʼs time zone at any time in Loopʼs Settings screen."; ObjectID = "HuY-fE-vM8";</note>
       </trans-unit>
       <trans-unit id="IQ5-53-x9s.text" xml:space="preserve">
         <source>Loop will keep your pumpʼs clock synchronized with your phone in the time zone youʼre in now.</source>
-        <target state="translated">Loop synkronoi pumpun kellon puhelimesi kanssa samalle aikavyöhykkeelle sijaintisi perusteella.</target>
+        <target>Loop synkronoi pumpun kellon puhelimesi kanssa samalle aikavyöhykkeelle sijaintisi perusteella.</target>
         <note>Class = "UILabel"; text = "Loop will keep your pumpʼs clock synchronized with your phone in the time zone youʼre in now."; ObjectID = "IQ5-53-x9s";</note>
       </trans-unit>
       <trans-unit id="Nwf-TJ-KmJ.title" xml:space="preserve">
         <source>Setup Complete</source>
-        <target state="translated">Asennus valmis</target>
+        <target>Asennus valmis</target>
         <note>Class = "UITableViewController"; title = "Setup Complete"; ObjectID = "Nwf-TJ-KmJ";</note>
       </trans-unit>
       <trans-unit id="OZk-Db-KCs.title" xml:space="preserve">
         <source>Pump Setup</source>
-        <target state="translated">Pumpun asennus</target>
+        <target>Pumpun asennus</target>
         <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "OZk-Db-KCs";</note>
       </trans-unit>
       <trans-unit id="V47-Nq-7ew.title" xml:space="preserve">
         <source>Pump Setup</source>
-        <target state="translated">Pumpun asennus</target>
+        <target>Pumpun asennus</target>
         <note>Class = "UINavigationItem"; title = "Pump Setup"; ObjectID = "V47-Nq-7ew";</note>
       </trans-unit>
       <trans-unit id="ZnF-zy-5gR.headerTitle" xml:space="preserve">
         <source>Main Menu</source>
-        <target state="translated">Päävalikko</target>
+        <target>Päävalikko</target>
         <note>Class = "UITableViewSection"; headerTitle = "Main Menu"; ObjectID = "ZnF-zy-5gR";</note>
       </trans-unit>
       <trans-unit id="c7t-pZ-WqY.text" xml:space="preserve">
         <source>Utilities</source>
-        <target state="translated">Apuohjelmat</target>
+        <target>Apuohjelmat</target>
         <note>Class = "UILabel"; text = "Utilities"; ObjectID = "c7t-pZ-WqY";</note>
       </trans-unit>
       <trans-unit id="erq-yb-anx.text" xml:space="preserve">
         <source>Connect Devices</source>
-        <target state="translated">Yhdistä laitteet</target>
+        <target>Yhdistä laitteet</target>
         <note>Class = "UILabel"; text = "Connect Devices"; ObjectID = "erq-yb-anx";</note>
       </trans-unit>
       <trans-unit id="fVG-pl-jT9.footerTitle" xml:space="preserve">
         <source>The pump ID is the 6-digit numerical portion of the serial number (labeled as SN or S/N).</source>
-        <target state="translated">Pumpun tunniste on 6-numeroinen osa sarjanumeroa (alkaa SN tai S/N).</target>
+        <target>Pumpun tunniste on 6-numeroinen osa sarjanumeroa (alkaa SN tai S/N).</target>
         <note>Class = "UITableViewSection"; footerTitle = "The pump ID is the 6-digit numerical portion of the serial number (labeled as SN or S/N)."; ObjectID = "fVG-pl-jT9";</note>
       </trans-unit>
       <trans-unit id="fVG-pl-jT9.headerTitle" xml:space="preserve">
         <source>Pump ID</source>
-        <target state="translated">Pumpun tunniste</target>
+        <target>Pumpun tunniste</target>
         <note>Class = "UITableViewSection"; headerTitle = "Pump ID"; ObjectID = "fVG-pl-jT9";</note>
       </trans-unit>
       <trans-unit id="g1m-3k-XI3.text" xml:space="preserve">
         <source>Your pump is ready for use.</source>
-        <target state="translated">Pumppu on käyttövalmis.</target>
+        <target>Pumppu on käyttövalmis.</target>
         <note>Class = "UILabel"; text = "Your pump is ready for use."; ObjectID = "g1m-3k-XI3";</note>
       </trans-unit>
       <trans-unit id="iQZ-kT-QUm.title" xml:space="preserve">
         <source>Pump Settings</source>
-        <target state="translated">Pumpun asetukset</target>
+        <target>Pumpun asetukset</target>
         <note>Class = "UITableViewController"; title = "Pump Settings"; ObjectID = "iQZ-kT-QUm";</note>
       </trans-unit>
       <trans-unit id="lGI-LD-xR7.footerTitle" xml:space="preserve">
         <source>The pump region and color are denoted as the last 3 letters of the the model number (labeled as REF).</source>
-        <target state="translated">Pumpun alue ja väri on merkitty kolmella viimeisellä kirjaimella mallinumeron lopussa (nimetty REF).</target>
+        <target>Pumpun alue ja väri on merkitty kolmella viimeisellä kirjaimella mallinumeron lopussa (nimetty REF).</target>
         <note>Class = "UITableViewSection"; footerTitle = "The pump region and color are denoted as the last 3 letters of the the model number (labeled as REF)."; ObjectID = "lGI-LD-xR7";</note>
       </trans-unit>
       <trans-unit id="lGI-LD-xR7.headerTitle" xml:space="preserve">
         <source>Region and Color</source>
-        <target state="translated">Alue ja väri</target>
+        <target>Alue ja väri</target>
         <note>Class = "UITableViewSection"; headerTitle = "Region and Color"; ObjectID = "lGI-LD-xR7";</note>
       </trans-unit>
       <trans-unit id="oBL-lh-SHI.title" xml:space="preserve">
         <source>Pump Broadcasts</source>
-        <target state="translated">Pumpun lähetykset</target>
+        <target>Pumpun lähetykset</target>
         <note>Class = "UITableViewController"; title = "Pump Broadcasts"; ObjectID = "oBL-lh-SHI";</note>
       </trans-unit>
       <trans-unit id="ojQ-ob-gBx.text" xml:space="preserve">
         <source>On</source>
-        <target state="translated">Päällä</target>
+        <target>Päällä</target>
         <note>Class = "UILabel"; text = "On"; ObjectID = "ojQ-ob-gBx";</note>
       </trans-unit>
       <trans-unit id="tGa-FP-JqD.text" xml:space="preserve">
         <source>Enter the pump region</source>
-        <target state="translated">Syötä pumpun alue</target>
+        <target>Syötä pumpun alue</target>
         <note>Class = "UILabel"; text = "Enter the pump region"; ObjectID = "tGa-FP-JqD";</note>
       </trans-unit>
       <trans-unit id="yLn-Ya-p1R.text" xml:space="preserve">
         <source>Loop will listen for status messages sent by your pump. Follow the steps below on your pump to enable these messages:</source>
-        <target state="translated">Loop kuuntelee pumpun lähettämiä tilaviestejä. Seuraa alla mainittuja ohjeita ottaaksesi nämä viestit käyttöön pumpussasi:</target>
+        <target>Loop kuuntelee pumpun lähettämiä tilaviestejä. Seuraa alla mainittuja ohjeita ottaaksesi nämä viestit käyttöön pumpussasi:</target>
         <note>Class = "UILabel"; text = "Loop will listen for status messages sent by your pump. Follow the steps below on your pump to enable these messages:"; ObjectID = "yLn-Ya-p1R";</note>
       </trans-unit>
     </body>
   </file>
   <file original="MinimedKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>MinimedKitUI</source>
-        <target state="needs-translation">MinimedKitUI</target>
+        <target>MinimedKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="NightscoutUploadKit/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>NightscoutUploadKit</source>
-        <target state="needs-translation">NightscoutUploadKit</target>
+        <target>NightscoutUploadKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="OmniKit/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>OmniKit</source>
-        <target state="needs-translation">OmniKit</target>
+        <target>OmniKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="OmniKit/en.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id=" (inactive)" xml:space="preserve">
         <source> (inactive)</source>
-        <target state="translated"> (ei-aktiivinen)</target>
+        <target> (ei-aktiivinen)</target>
         <note>Description for an inactive alert modifier</note>
       </trans-unit>
       <trans-unit id="%1$@ minutes" xml:space="preserve">
         <source>%1$@ minutes</source>
-        <target state="translated">%1$@ minuuttia</target>
+        <target>%1$@ minuuttia</target>
         <note>The format string for minutes (1: number of minutes string)</note>
       </trans-unit>
       <trans-unit id="%@ dB" xml:space="preserve">
         <source>%@ dB</source>
-        <target state="needs-translation">%@ dB</target>
+        <target>%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
       </trans-unit>
       <trans-unit id="Alerts: %1$@&#10;" xml:space="preserve">
         <source>Alerts: %1$@
 </source>
-        <target state="translated">Hälytykset: %1$@
+        <target>Hälytykset: %1$@
 </target>
         <note>The format string for Alerts: (1: the alerts string)</note>
       </trans-unit>
       <trans-unit id="Auto-off alarm" xml:space="preserve">
         <source>Auto-off alarm</source>
-        <target state="translated">Autom. pois -varoitus</target>
+        <target>Autom. pois -varoitus</target>
         <note>Description for auto-off alarm</note>
       </trans-unit>
       <trans-unit id="Below 50 units" xml:space="preserve">
         <source>Below 50 units</source>
-        <target state="translated">Alle 50 yksikköä</target>
+        <target>Alle 50 yksikköä</target>
         <note>Pod state when running below fifty units</note>
       </trans-unit>
       <trans-unit id="Bolus in progress" xml:space="preserve">
         <source>Bolus in progress</source>
-        <target state="translated">Bolus vireillä</target>
+        <target>Bolus vireillä</target>
         <note>Error message shown when operation could not be completed due to existing bolus in progress</note>
       </trans-unit>
       <trans-unit id="Bolus: %1$@U %2$@ %3$@ %4$@" xml:space="preserve">
         <source>Bolus: %1$@U %2$@ %3$@ %4$@</source>
-        <target state="needs-translation">Bolus: %1$@U %2$@ %3$@ %4$@</target>
+        <target>Bolus: %1$@U %2$@ %3$@ %4$@</target>
         <note>The format string describing a bolus. (1: The amount delivered)(2: Start time of the dose)(3: duration)(4: scheduled certainty)</note>
       </trans-unit>
       <trans-unit id="Bolusing" xml:space="preserve">
         <source>Bolusing</source>
-        <target state="translated">Annostellaan bolus</target>
+        <target>Annostellaan bolus</target>
         <note>Delivery status when bolusing</note>
       </trans-unit>
       <trans-unit id="Bolusing with temp basal" xml:space="preserve">
         <source>Bolusing with temp basal</source>
-        <target state="translated">Annostellaan bolus ja tilap. basaali</target>
+        <target>Annostellaan bolus ja tilap. basaali</target>
         <note>Delivery status when bolusing and temp basal is running</note>
       </trans-unit>
       <trans-unit id="Cannula inserting" xml:space="preserve">
         <source>Cannula inserting</source>
-        <target state="translated">Asetetaan kanyyli</target>
+        <target>Asetetaan kanyyli</target>
         <note>Pod state when inserting cannula</note>
       </trans-unit>
       <trans-unit id="Certain" xml:space="preserve">
         <source>Certain</source>
-        <target state="translated">Varma</target>
+        <target>Varma</target>
         <note>String describing a dose that was certainly scheduled</note>
       </trans-unit>
       <trans-unit id="Crosstalk possible. Please move to a new location and try again" xml:space="preserve">
         <source>Crosstalk possible. Please move to a new location and try again</source>
-        <target state="needs-translation">Crosstalk possible. Please move to a new location and try again</target>
+        <target>Crosstalk possible. Please move to a new location and try again</target>
         <note>Recovery suggestion when unexpected address received</note>
       </trans-unit>
       <trans-unit id="Deactivated" xml:space="preserve">
         <source>Deactivated</source>
-        <target state="translated">Deaktivoitu</target>
+        <target>Deaktivoitu</target>
         <note>Pod state when pod has been deactivated</note>
       </trans-unit>
       <trans-unit id="Delivery Status: %1$@&#10;" xml:space="preserve">
         <source>Delivery Status: %1$@
 </source>
-        <target state="translated">Annostelun tila: %1$@
+        <target>Annostelun tila: %1$@
 </target>
         <note>The format string for Delivery Status: (1: delivery status string)</note>
       </trans-unit>
       <trans-unit id="Empty reservoir" xml:space="preserve">
         <source>Empty reservoir</source>
-        <target state="translated">Säiliö tyhjä</target>
+        <target>Säiliö tyhjä</target>
         <note>Description for Empty reservoir pod fault</note>
       </trans-unit>
       <trans-unit id="Empty response from pod" xml:space="preserve">
         <source>Empty response from pod</source>
-        <target state="translated">Tyhjä vastaus pumpulta</target>
+        <target>Tyhjä vastaus pumpulta</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
       <trans-unit id="Error event logged, shutting down" xml:space="preserve">
         <source>Error event logged, shutting down</source>
-        <target state="translated">Virhetapahtuma, suljetaan</target>
+        <target>Virhetapahtuma, suljetaan</target>
         <note>Pod state error event logged shutting down</note>
       </trans-unit>
       <trans-unit id="Expiration alert" xml:space="preserve">
         <source>Expiration alert</source>
-        <target state="translated">Pumppu vanhenee -varoitus</target>
+        <target>Pumppu vanhenee -varoitus</target>
         <note>Description for expiration alert</note>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve">
         <source>Finish setup </source>
-        <target state="translated">Lopeta asennus</target>
+        <target>Lopeta asennus</target>
         <note>Description for finish setup</note>
       </trans-unit>
       <trans-unit id="Initialized" xml:space="preserve">
         <source>Initialized</source>
-        <target state="translated">Aloitettu</target>
+        <target>Aloitettu</target>
         <note>Pod inititialized</note>
+      </trans-unit>
+      <trans-unit id="Insulin Suspended" xml:space="preserve">
+        <source>Insulin Suspended</source>
+        <note>Status highlight that insulin delivery was suspended.</note>
       </trans-unit>
       <trans-unit id="Internal pod fault %1$03d" xml:space="preserve">
         <source>Internal pod fault %1$03d</source>
-        <target state="translated">Sisäinen pumpun vika %1$03d</target>
+        <target>Sisäinen pumpun vika %1$03d</target>
         <note>The format string for Internal pod fault (1: The fault code value)</note>
       </trans-unit>
       <trans-unit id="InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@" xml:space="preserve">
         <source>InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@</source>
-        <target state="translated">KeskeytettyBolus: %1$@ U (%2$@ U ohjelmoitu) %3$@ %4$@ %5$@</target>
+        <target>KeskeytettyBolus: %1$@ U (%2$@ U ohjelmoitu) %3$@ %4$@ %5$@</target>
         <note>The format string describing a bolus that was interrupted. (1: The amount delivered)(2: The amount scheduled)(3: Start time of the dose)(4: duration)(5: scheduled certainty)</note>
+      </trans-unit>
+      <trans-unit id="Invalid CRC" xml:space="preserve">
+        <source>Invalid CRC</source>
+        <note>Description for MessageError invalidCrc</note>
       </trans-unit>
       <trans-unit id="Invalid address 0x%x. Expected 0x%x" xml:space="preserve">
         <source>Invalid address 0x%1$x. Expected 0x%2$x</source>
-        <target state="needs-translation">Invalid address 0x%1$x. Expected 0x%2$x</target>
+        <target>Invalid address 0x%1$x. Expected 0x%2$x</target>
         <note>Error message for when unexpected address is received (1: received address) (2: expected address)</note>
       </trans-unit>
       <trans-unit id="Last Bolus Not Delivered: %1$@ U&#10;" xml:space="preserve">
         <source>Last Bolus Not Delivered: %1$@ U
 </source>
-        <target state="translated">Viim. bolusta ei annosteltu: %1$@ U
+        <target>Viim. bolusta ei annosteltu: %1$@ U
 </target>
         <note>The format string for Last Bolus Not Delivered: (1: bolus not delivered string)</note>
       </trans-unit>
       <trans-unit id="Low reservoir advisory alarm" xml:space="preserve">
         <source>Low reservoir advisory alarm</source>
-        <target state="translated">Säiliö lähes tyhjä -tiedotehälytys</target>
+        <target>Säiliö lähes tyhjä -tiedotehälytys</target>
         <note>Description for low reservoir alarm</note>
       </trans-unit>
       <trans-unit id="Make sure your RileyLink is nearby and powered on" xml:space="preserve">
         <source>Make sure your RileyLink is nearby and powered on</source>
-        <target state="translated">Varmista, että RileyLink on riittävän lähellä ja kytketty päälle</target>
+        <target>Varmista, että RileyLink on riittävän lähellä ja kytketty päälle</target>
         <note>Recovery suggestion when no RileyLink is available</note>
+      </trans-unit>
+      <trans-unit id="No Insulin" xml:space="preserve">
+        <source>No Insulin</source>
+        <note>Status highlight that a pump is out of insulin.</note>
+      </trans-unit>
+      <trans-unit id="No Pod" xml:space="preserve">
+        <source>No Pod</source>
+        <note>Status highlight that when no pod is paired.</note>
       </trans-unit>
       <trans-unit id="No RileyLink available" xml:space="preserve">
         <source>No RileyLink available</source>
-        <target state="translated">Ei RileyLinkiä lähistöllä</target>
+        <target>Ei RileyLinkiä lähistöllä</target>
         <note>Error message shown when no response from pod was received</note>
       </trans-unit>
       <trans-unit id="No alerts" xml:space="preserve">
         <source>No alerts</source>
-        <target state="translated">Ei hälytyksiä</target>
+        <target>Ei hälytyksiä</target>
         <note>Pod alert state when no alerts are active</note>
       </trans-unit>
       <trans-unit id="No pod paired" xml:space="preserve">
         <source>No pod paired</source>
-        <target state="translated">Ei yhdistettyä pumppua</target>
+        <target>Ei yhdistettyä pumppua</target>
         <note>Error message shown when no pod is paired</note>
       </trans-unit>
       <trans-unit id="No response from pod" xml:space="preserve">
         <source>No response from pod</source>
-        <target state="translated">Ei vastausta pumpusta</target>
+        <target>Ei vastausta pumpusta</target>
         <note>Error message shown when no response from pod was received</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
         <source>Normal</source>
-        <target state="translated">Normaali</target>
+        <target>Normaali</target>
         <note>Delivery status when basal is running
    Pod state when running above fifty units</note>
       </trans-unit>
+      <trans-unit id="Not enough data" xml:space="preserve">
+        <source>Not enough data</source>
+        <note>Description for MessageError notEnoughData</note>
+      </trans-unit>
       <trans-unit id="Occlusion detected" xml:space="preserve">
         <source>Occlusion detected</source>
-        <target state="translated">Tukos havaittu</target>
+        <target>Tukos havaittu</target>
         <note>Description for Occlusion detected pod fault</note>
       </trans-unit>
       <trans-unit id="Omnipod" xml:space="preserve">
         <source>Omnipod</source>
-        <target state="needs-translation">Omnipod</target>
+        <target>Omnipod</target>
         <note>Generic title of the omnipod pump manager</note>
       </trans-unit>
       <trans-unit id="Paired" xml:space="preserve">
         <source>Paired</source>
-        <target state="translated">Yhdistetty</target>
+        <target>Yhdistetty</target>
         <note>Pod status after pairing</note>
+      </trans-unit>
+      <trans-unit id="Parsing Error: " xml:space="preserve">
+        <source>Parsing Error: </source>
+        <note>Description for MessageError parsingError</note>
       </trans-unit>
       <trans-unit id="Please bring your pod closer to the RileyLink and try again" xml:space="preserve">
         <source>Please bring your pod closer to the RileyLink and try again</source>
-        <target state="translated">Vie pumppu ja RileyLink lähemmäksi toisiaan ja yritä uudelleen</target>
+        <target>Vie pumppu ja RileyLink lähemmäksi toisiaan ja yritä uudelleen</target>
         <note>Recovery suggestion when no response is received from pod</note>
       </trans-unit>
       <trans-unit id="Please pair a new pod" xml:space="preserve">
         <source>Please pair a new pod</source>
-        <target state="translated">Yhdistä uusi pumppu</target>
+        <target>Yhdistä uusi pumppu</target>
         <note>Recover suggestion shown when no pod is paired</note>
       </trans-unit>
       <trans-unit id="Please try repositioning the pod or the RileyLink and try again" xml:space="preserve">
         <source>Please try repositioning the pod or the RileyLink and try again</source>
-        <target state="needs-translation">Please try repositioning the pod or the RileyLink and try again</target>
+        <target>Please try repositioning the pod or the RileyLink and try again</target>
         <note>Recovery suggestion when no response is received from pod</note>
       </trans-unit>
       <trans-unit id="Pod Active: %1$@&#10;" xml:space="preserve">
         <source>Pod Active: %1$@
 </source>
-        <target state="needs-translation">Pod Active: %1$@
+        <target>Pod Active: %1$@
 </target>
         <note>The format string for Pod Active: (1: Pod active time string)</note>
       </trans-unit>
       <trans-unit id="Pod Expiration Notice" xml:space="preserve">
         <source>Pod Expiration Notice</source>
-        <target state="translated">Pumppu vanhenemassa -ilmoitus</target>
+        <target>Pumppu vanhenemassa -ilmoitus</target>
         <note>The title for pod expiration notification</note>
       </trans-unit>
       <trans-unit id="Pod Fault" xml:space="preserve">
         <source>Pod Fault</source>
-        <target state="needs-translation">Pod Fault</target>
+        <target>Pod Fault</target>
         <note>Inform the user that there is a pod fault.</note>
       </trans-unit>
       <trans-unit id="Pod Fault: %1$@" xml:space="preserve">
         <source>Pod Fault: %1$@</source>
-        <target state="translated">Pumppuvirhe: %1$@</target>
+        <target>Pumppuvirhe: %1$@</target>
         <note>Format string for pod fault code</note>
       </trans-unit>
       <trans-unit id="Pod already paired" xml:space="preserve">
         <source>Pod already paired</source>
-        <target state="translated">Pumppu on jo yhdistetty</target>
+        <target>Pumppu on jo yhdistetty</target>
         <note>Error message shown when user cannot pair because pod is already paired</note>
       </trans-unit>
       <trans-unit id="Pod already primed" xml:space="preserve">
         <source>Pod already primed</source>
-        <target state="translated">Pumppu on jo alustettu</target>
+        <target>Pumppu on jo alustettu</target>
         <note>Error message shown when prime is attempted, but pod is already primed</note>
       </trans-unit>
       <trans-unit id="Pod expiration advisory alarm" xml:space="preserve">
         <source>Pod expiration advisory alarm</source>
-        <target state="translated">Pumppu vanhenemassa -tiedotehälytys</target>
+        <target>Pumppu vanhenemassa -tiedotehälytys</target>
         <note>Description for expiration advisory alarm</note>
       </trans-unit>
       <trans-unit id="Pod expired" xml:space="preserve">
         <source>Pod expired</source>
-        <target state="translated">Pumppu vanhentunut</target>
+        <target>Pumppu vanhentunut</target>
         <note>Description for Pod expired pod fault</note>
       </trans-unit>
       <trans-unit id="Pod is not in a state ready for cannula insertion." xml:space="preserve">
         <source>Pod is not in a state ready for cannula insertion.</source>
-        <target state="translated">Pumppu ei ole valmis kanyylin asettamiseen.</target>
+        <target>Pumppu ei ole valmis kanyylin asettamiseen.</target>
         <note>Error message when cannula insertion fails because the pod is in an unexpected state</note>
       </trans-unit>
       <trans-unit id="Pod is not in a state ready for priming." xml:space="preserve">
         <source>Pod is not in a state ready for priming.</source>
-        <target state="translated">Pumppu ei ole valmis alustukseen.</target>
+        <target>Pumppu ei ole valmis alustukseen.</target>
         <note>Error message when prime fails because the pod is in an unexpected state</note>
       </trans-unit>
       <trans-unit id="Pod is suspended" xml:space="preserve">
         <source>Pod is suspended</source>
-        <target state="translated">Pumppu on pysäytetty</target>
+        <target>Pumppu on pysäytetty</target>
         <note>Error message action could not be performed because pod is suspended</note>
       </trans-unit>
       <trans-unit id="Pod sent ack instead of response" xml:space="preserve">
         <source>Pod sent ack instead of response</source>
-        <target state="needs-translation">Pod sent ack instead of response</target>
+        <target>Pod sent ack instead of response</target>
         <note>Error message shown when pod sends ack instead of response</note>
       </trans-unit>
       <trans-unit id="Pod setup window expired" xml:space="preserve">
         <source>Pod setup window expired</source>
-        <target state="translated">Pumpun asennusaika umpeutui</target>
+        <target>Pumpun asennusaika umpeutui</target>
         <note>Pod state when prime or cannula insertion has not completed in the time allotted</note>
       </trans-unit>
       <trans-unit id="Priming" xml:space="preserve">
         <source>Priming</source>
-        <target state="translated">Alustetaan</target>
+        <target>Alustetaan</target>
         <note>Delivery status when pod is priming
    Pod status when priming</note>
       </trans-unit>
       <trans-unit id="Ready for basal programming" xml:space="preserve">
         <source>Ready for basal programming</source>
-        <target state="translated">Valmis basaalin ohjelmointiin</target>
+        <target>Valmis basaalin ohjelmointiin</target>
         <note>Pod state when ready for basal programming</note>
       </trans-unit>
       <trans-unit id="Ready to insert cannula" xml:space="preserve">
         <source>Ready to insert cannula</source>
-        <target state="translated">Valmis kanyylin asetukseen</target>
+        <target>Valmis kanyylin asetukseen</target>
         <note>Pod state when ready for cannula insertion</note>
       </trans-unit>
       <trans-unit id="Reservoir Level: %1$@ U&#10;" xml:space="preserve">
         <source>Reservoir Level: %1$@ U
 </source>
-        <target state="needs-translation">Reservoir Level: %1$@ U
+        <target>Reservoir Level: %1$@ U
 </target>
         <note>The format string for Reservoir Level: (1: reservoir level string)</note>
       </trans-unit>
       <trans-unit id="Resume: %1$@ %2$@" xml:space="preserve">
         <source>Resume: %1$@ %2$@</source>
-        <target state="translated">Jatka: %1$@ %2$@</target>
+        <target>Jatka: %1$@ %2$@</target>
         <note>The format string describing a resume. (1: Time)(2: Scheduled certainty</note>
       </trans-unit>
       <trans-unit id="Scheduled Basal" xml:space="preserve">
         <source>Scheduled Basal</source>
-        <target state="translated">Ohjelmoitu basaali</target>
+        <target>Ohjelmoitu basaali</target>
         <note>Delivery status when basal is running</note>
       </trans-unit>
       <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
         <source>Shutdown imminent alarm</source>
-        <target state="translated">Mykistä hälytys</target>
+        <target>Mykistä hälytys</target>
         <note>Description for shutdown imminent alarm</note>
       </trans-unit>
       <trans-unit id="Suspend: %1$@ %2$@" xml:space="preserve">
         <source>Suspend: %1$@ %2$@</source>
-        <target state="translated">Pysäytä: %1$@ %2$@</target>
+        <target>Pysäytä: %1$@ %2$@</target>
         <note>The format string describing a suspend. (1: Time)(2: Scheduled certainty</note>
       </trans-unit>
       <trans-unit id="Suspended" xml:space="preserve">
         <source>Suspended</source>
-        <target state="translated">Pysäytetty</target>
+        <target>Pysäytetty</target>
         <note>Delivery status when insulin delivery is suspended</note>
       </trans-unit>
       <trans-unit id="Tank fill completed" xml:space="preserve">
         <source>Tank fill completed</source>
-        <target state="translated">Säiliön täyttö valmis</target>
+        <target>Säiliön täyttö valmis</target>
         <note>Pod tank fill completed</note>
       </trans-unit>
       <trans-unit id="Tank power activated" xml:space="preserve">
         <source>Tank power activated</source>
-        <target state="translated">Säiliön virta aktivoitu</target>
+        <target>Säiliön virta aktivoitu</target>
         <note>Pod power to motor activated</note>
       </trans-unit>
       <trans-unit id="Temp basal in progress" xml:space="preserve">
         <source>Temp basal in progress</source>
-        <target state="translated">Tilapäinen basaali meneillään</target>
+        <target>Tilapäinen basaali meneillään</target>
         <note>Error message shown when temp basal could not be set due to existing temp basal in progress</note>
       </trans-unit>
       <trans-unit id="Temp basal running" xml:space="preserve">
         <source>Temp basal running</source>
-        <target state="translated">Tilapäinen basaali käynnissä</target>
+        <target>Tilapäinen basaali käynnissä</target>
         <note>Delivery status when temp basal is running</note>
       </trans-unit>
       <trans-unit id="TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@" xml:space="preserve">
         <source>TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@</source>
-        <target state="translated">TilapBasaali: %1$@ U/h %2$@ %3$@ %4$@ U %5$@</target>
+        <target>TilapBasaali: %1$@ U/h %2$@ %3$@ %4$@ U %5$@</target>
         <note>The format string describing a temp basal. (1: The rate)(2: Start time)(3: duration)(4: volume)(5: scheduled certainty</note>
       </trans-unit>
       <trans-unit id="Time to replace your pod! Your pod will expire in %1$@" xml:space="preserve">
         <source>Time to replace your pod! Your pod will expire in %1$@</source>
-        <target state="translated">Aika vaihtaa pumppu! Pumppu vanhenee %1$@</target>
+        <target>Aika vaihtaa pumppu! Pumppu vanhenee %1$@</target>
         <note>The format string for pod expiration notification body (1: time until expiration)</note>
       </trans-unit>
       <trans-unit id="Total Insulin Delivered: %1$@ U&#10;" xml:space="preserve">
         <source>Total Insulin Delivered: %1$@ U
 </source>
-        <target state="needs-translation">Total Insulin Delivered: %1$@ U
+        <target>Total Insulin Delivered: %1$@ U
 </target>
         <note>The format string for Total Insulin Delivered: (1: total insulin delivered string)</note>
       </trans-unit>
       <trans-unit id="Try again" xml:space="preserve">
         <source>Try again</source>
-        <target state="needs-translation">Try again</target>
+        <target>Try again</target>
         <note>Recovery suggestion when ack received instead of response</note>
       </trans-unit>
       <trans-unit id="Uncertain" xml:space="preserve">
         <source>Uncertain</source>
-        <target state="translated">Epävarma</target>
+        <target>Epävarma</target>
         <note>String describing a dose that was possibly scheduled</note>
+      </trans-unit>
+      <trans-unit id="Unexpected message sequence number" xml:space="preserve">
+        <source>Unexpected message sequence number</source>
+        <note>Description for MessageError invalidSequence</note>
       </trans-unit>
       <trans-unit id="Unexpected response from pod" xml:space="preserve">
         <source>Unexpected response from pod</source>
-        <target state="translated">Odottamaton vastaus pumpusta</target>
+        <target>Odottamaton vastaus pumpusta</target>
         <note>Error message shown when empty response from pod was received</note>
+      </trans-unit>
+      <trans-unit id="Unknown Value (%1$@) for type %2$@" xml:space="preserve">
+        <source>Unknown Value (%1$@) for type %2$@</source>
+        <note>Format string for description of MessageError unknownValue. (1: value) (2: Type)</note>
       </trans-unit>
       <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve">
         <source>Unknown pod fault %1$03d</source>
-        <target state="translated">Tuntematon pumppuvirhe %1$03d</target>
+        <target>Tuntematon pumppuvirhe %1$03d</target>
         <note>The format string for Unknown pod fault (1: The fault code value)</note>
+      </trans-unit>
+      <trans-unit id="Validation failed: %1$@" xml:space="preserve">
+        <source>Validation failed: %1$@</source>
+        <note>Format string for description of MessageError validationFailed. (1: description of validation failure)</note>
       </trans-unit>
       <trans-unit id="Wait for existing bolus to finish, or cancel bolus" xml:space="preserve">
         <source>Wait for existing bolus to finish, or cancel bolus</source>
-        <target state="translated">Odota, että meneillään oleva bolus päättyy tai kumoa bolus</target>
+        <target>Odota, että meneillään oleva bolus päättyy tai kumoa bolus</target>
         <note>Recovery suggestion when operation could not be completed due to existing bolus in progress</note>
       </trans-unit>
       <trans-unit id="Wait for existing temp basal to finish, or suspend to cancel" xml:space="preserve">
         <source>Wait for existing temp basal to finish, or suspend to cancel</source>
-        <target state="translated">Odota, että meneillään oleva tilapäinen basaali päättyy tai pysäytä pumppu kumotaksesi</target>
+        <target>Odota, että meneillään oleva tilapäinen basaali päättyy tai pysäytä pumppu kumotaksesi</target>
         <note>Recovery suggestion when operation could not be completed due to existing temp basal in progress</note>
       </trans-unit>
       <trans-unit id="Waiting for pairing reminder" xml:space="preserve">
         <source>Waiting for pairing reminder</source>
-        <target state="translated">Odotetaan yhdistämismuistutusta</target>
+        <target>Odotetaan yhdistämismuistutusta</target>
         <note>Description waiting for pairing reminder</note>
       </trans-unit>
       <trans-unit id="oneNotUsedButin33" xml:space="preserve">
         <source>oneNotUsedButin33</source>
-        <target state="needs-translation">oneNotUsedButin33</target>
+        <target>oneNotUsedButin33</target>
         <note>Pod state oneNotUsedButin33</note>
       </trans-unit>
       <trans-unit id="threeNotUsedButin33" xml:space="preserve">
         <source>threeNotUsedButin33</source>
-        <target state="needs-translation">threeNotUsedButin33</target>
+        <target>threeNotUsedButin33</target>
         <note>Pod state threeNotUsedButin33</note>
       </trans-unit>
       <trans-unit id="twoNotUsedButin33" xml:space="preserve">
         <source>twoNotUsedButin33</source>
-        <target state="needs-translation">twoNotUsedButin33</target>
+        <target>twoNotUsedButin33</target>
         <note>Pod state twoNotUsedButin33</note>
       </trans-unit>
     </body>
   </file>
   <file original="OmniKitPlugin/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>OmniKitPlugin</source>
-        <target state="needs-translation">OmniKitPlugin</target>
+        <target>OmniKitPlugin</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="OmniKitUI/Base.lproj/OmnipodPumpManager.storyboard" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="1LF-te-Bdd.headerTitle" xml:space="preserve">
         <source>Remove POD</source>
-        <target state="translated">Poista pumppu</target>
+        <target>Poista pumppu</target>
         <note>Class = "UITableViewSection"; headerTitle = "Remove POD"; ObjectID = "1LF-te-Bdd";</note>
       </trans-unit>
       <trans-unit id="3HH-eJ-lRh.title" xml:space="preserve">
         <source>RileyLink Setup</source>
-        <target state="translated">RileyLink-asennus</target>
+        <target>RileyLink-asennus</target>
         <note>Class = "UINavigationItem"; title = "RileyLink Setup"; ObjectID = "3HH-eJ-lRh";</note>
       </trans-unit>
       <trans-unit id="6vo-Ov-UpE.title" xml:space="preserve">
         <source>Pod Settings</source>
-        <target state="translated">Pumpun asetukset</target>
+        <target>Pumpun asetukset</target>
         <note>Class = "UITableViewController"; title = "Pod Settings"; ObjectID = "6vo-Ov-UpE";</note>
       </trans-unit>
       <trans-unit id="91O-Un-vKc.title" xml:space="preserve">
         <source>Pump Setup</source>
-        <target state="translated">Pumpun asennus</target>
+        <target>Pumpun asennus</target>
         <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "91O-Un-vKc";</note>
       </trans-unit>
       <trans-unit id="EUt-xk-Rmp.footerTitle" xml:space="preserve">
         <source>NOTE: Do not remove the pod's needle cap at this time.</source>
-        <target state="translated">HUOM: Älä poista pumpun neulansuojusta vielä tässä vaiheessa.</target>
+        <target>HUOM: Älä poista pumpun neulansuojusta vielä tässä vaiheessa.</target>
         <note>Class = "UITableViewSection"; footerTitle = "NOTE: Do not remove the pod's needle cap at this time."; ObjectID = "EUt-xk-Rmp";</note>
       </trans-unit>
       <trans-unit id="EUt-xk-Rmp.headerTitle" xml:space="preserve">
         <source>Prepare Pod</source>
-        <target state="translated">Valmistele pumppu</target>
+        <target>Valmistele pumppu</target>
         <note>Class = "UITableViewSection"; headerTitle = "Prepare Pod"; ObjectID = "EUt-xk-Rmp";</note>
       </trans-unit>
       <trans-unit id="Eng-IY-fQ7.text" xml:space="preserve">
         <source>Loop will remind you to change your pod before it expires. You can change this to a time convenient for you.</source>
-        <target state="translated">Loop muistuttaa sinua, ennen kuin pumpun käyttöaika loppuu. Halutessasi voit muuttaa aikaa sinulle sopivaksi.</target>
+        <target>Loop muistuttaa sinua, ennen kuin pumpun käyttöaika loppuu. Halutessasi voit muuttaa aikaa sinulle sopivaksi.</target>
         <note>Class = "UILabel"; text = "Loop will remind you to change your pod before it expires. You can change this to a time convenient for you."; ObjectID = "Eng-IY-fQ7";</note>
       </trans-unit>
       <trans-unit id="GK7-jb-tyY.text" xml:space="preserve">
         <source>Please deactivate the pod. When deactivation is complete, remove pod from body.</source>
-        <target state="translated">Deaktivoi pumppu. Kun deaktivointi on valmis, irrota pumppu kehosta.</target>
+        <target>Deaktivoi pumppu. Kun deaktivointi on valmis, irrota pumppu kehosta.</target>
         <note>Class = "UILabel"; text = "Please deactivate the pod. When deactivation is complete, remove pod from body."; ObjectID = "GK7-jb-tyY";</note>
       </trans-unit>
       <trans-unit id="HwT-30-f0y.title" xml:space="preserve">
         <source>Insert Cannula</source>
-        <target state="translated">Aseta kanyyli</target>
+        <target>Aseta kanyyli</target>
         <note>Class = "UINavigationItem"; title = "Insert Cannula"; ObjectID = "HwT-30-f0y";</note>
       </trans-unit>
       <trans-unit id="Iuv-5M-bDH.text" xml:space="preserve">
         <source>Prepare site. Remove the pod's needle cap and adhesive backing. If pod is OK, apply to site.</source>
-        <target state="translated">Valmistele infuusiokohta. Poista pumpun neulansuojus ja suojateippi. Jos pumppu on OK, kiinnitä se iholle.</target>
+        <target>Valmistele infuusiokohta. Poista pumpun neulansuojus ja suojateippi. Jos pumppu on OK, kiinnitä se iholle.</target>
         <note>Class = "UILabel"; text = "Prepare site. Remove the pod's needle cap and adhesive backing. If pod is OK, apply to site."; ObjectID = "Iuv-5M-bDH";</note>
       </trans-unit>
       <trans-unit id="aNg-mm-Uuy.title" xml:space="preserve">
         <source>Pump Setup</source>
-        <target state="translated">Pumpun asennus</target>
+        <target>Pumpun asennus</target>
         <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "aNg-mm-Uuy";</note>
       </trans-unit>
       <trans-unit id="ack-ra-XH6.title" xml:space="preserve">
         <source>Pump Setup</source>
-        <target state="translated">Pumpun asennus</target>
+        <target>Pumpun asennus</target>
         <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "ack-ra-XH6";</note>
       </trans-unit>
       <trans-unit id="bJ5-iH-fnF.text" xml:space="preserve">
         <source>Your Pod is ready for use.</source>
-        <target state="translated">Pumppu on valmis käyttöön.</target>
+        <target>Pumppu on valmis käyttöön.</target>
         <note>Class = "UILabel"; text = "Your Pod is ready for use."; ObjectID = "bJ5-iH-fnF";</note>
       </trans-unit>
       <trans-unit id="ePA-6p-q8C.text" xml:space="preserve">
         <source>Reminder</source>
-        <target state="translated">Muistutus</target>
+        <target>Muistutus</target>
         <note>Class = "UILabel"; text = "Reminder"; ObjectID = "ePA-6p-q8C";</note>
       </trans-unit>
       <trans-unit id="jVO-Ut-MhL.title" xml:space="preserve">
         <source>Pod Pairing</source>
-        <target state="translated">Yhdistäminen pumppuun</target>
+        <target>Yhdistäminen pumppuun</target>
         <note>Class = "UINavigationItem"; title = "Pod Pairing"; ObjectID = "jVO-Ut-MhL";</note>
       </trans-unit>
       <trans-unit id="k1Y-x4-m0a.title" xml:space="preserve">
         <source>Pump Setup</source>
-        <target state="translated">Pumpun asennus</target>
+        <target>Pumpun asennus</target>
         <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "k1Y-x4-m0a";</note>
       </trans-unit>
       <trans-unit id="kLL-SQ-K0a.text" xml:space="preserve">
         <source>Review your settings below. They will be programmed into the pod during pairing. You can change these settings at any time in Loopʼs Settings screen.</source>
-        <target state="translated">Tarkista, että asetukset ovat oikein. Ne tallennetaan pumppuun yhdistämisen aikana. Voit muokata asetuksia milloin tahansa Loopin Asetukset-näkymässä.</target>
+        <target>Tarkista, että asetukset ovat oikein. Ne tallennetaan pumppuun yhdistämisen aikana. Voit muokata asetuksia milloin tahansa Loopin Asetukset-näkymässä.</target>
         <note>Class = "UILabel"; text = "Review your settings below. They will be programmed into the pod during pairing. You can change these settings at any time in Loopʼs Settings screen."; ObjectID = "kLL-SQ-K0a";</note>
       </trans-unit>
       <trans-unit id="nDb-R5-e02.title" xml:space="preserve">
         <source>Setup Complete</source>
-        <target state="translated">Asennus valmis</target>
+        <target>Asennus valmis</target>
         <note>Class = "UINavigationItem"; title = "Setup Complete"; ObjectID = "nDb-R5-e02";</note>
       </trans-unit>
       <trans-unit id="rcC-ke-lUP.footerTitle" xml:space="preserve">
         <source>NOTE: If cannula sticks out, press cancel.</source>
-        <target state="translated">HUOM: Jos kanyyli ulottuu taustan ulkopuolelle, paina Kumoa.</target>
+        <target>HUOM: Jos kanyyli ulottuu taustan ulkopuolelle, paina Kumoa.</target>
         <note>Class = "UITableViewSection"; footerTitle = "NOTE: If cannula sticks out, press cancel."; ObjectID = "rcC-ke-lUP";</note>
       </trans-unit>
       <trans-unit id="rcC-ke-lUP.headerTitle" xml:space="preserve">
         <source>Apply POD</source>
-        <target state="translated">Aseta pumppu</target>
+        <target>Aseta pumppu</target>
         <note>Class = "UITableViewSection"; headerTitle = "Apply POD"; ObjectID = "rcC-ke-lUP";</note>
       </trans-unit>
       <trans-unit id="vEc-Km-ewe.text" xml:space="preserve">
         <source>Label</source>
-        <target state="translated">Nimiö</target>
+        <target>Nimiö</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "vEc-Km-ewe";</note>
       </trans-unit>
       <trans-unit id="vmF-Dc-3DS.text" xml:space="preserve">
         <source>Fill a new pod with insulin. Listen for 2 beeps from the pod during filling. Keep the RileyLink about 6 inches from the pod during pairing.</source>
-        <target state="translated">Täytä uusi pumppu insuliinilla. Odota, että kuulet täytön aikana kaksi pumpun piippausta. Pidä RileyLink pumpun vieressä yhdistämisen aikana.</target>
+        <target>Täytä uusi pumppu insuliinilla. Odota, että kuulet täytön aikana kaksi pumpun piippausta. Pidä RileyLink pumpun vieressä yhdistämisen aikana.</target>
         <note>Class = "UILabel"; text = "Fill a new pod with insulin. Listen for 2 beeps from the pod during filling. Keep the RileyLink about 6 inches from the pod during pairing."; ObjectID = "vmF-Dc-3DS";</note>
       </trans-unit>
       <trans-unit id="yy1-xf-HdR.title" xml:space="preserve">
         <source>Replace Pod</source>
-        <target state="translated">Vaihda pumppu</target>
+        <target>Vaihda pumppu</target>
         <note>Class = "UINavigationItem"; title = "Replace Pod"; ObjectID = "yy1-xf-HdR";</note>
       </trans-unit>
     </body>
   </file>
   <file original="OmniKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>OmniKitUI</source>
-        <target state="needs-translation">OmniKitUI</target>
+        <target>OmniKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="OmniKitUI/en.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
         <source>%1$@ units remaining at %2$@</source>
-        <target state="translated">%1$@ yksikköä jäljellä %2$@</target>
+        <target>%1$@ yksikköä jäljellä %2$@</target>
         <note>Accessibility format string for (1: localized volume)(2: time)</note>
       </trans-unit>
       <trans-unit id="%1$@%2$@%3$@" xml:space="preserve">
         <source>%1$@%2$@%3$@</source>
-        <target state="needs-translation">%1$@%2$@%3$@</target>
+        <target>%1$@%2$@%3$@</target>
         <note>The format string for displaying an offset from a time zone: (1: GMT)(2: -)(3: 4:00)</note>
       </trans-unit>
       <trans-unit id="%1$@. Insulin delivery has stopped. Please deactivate and remove pod." xml:space="preserve">
         <source>%1$@. Insulin delivery has stopped. Please deactivate and remove pod.</source>
-        <target state="translated">%1$@. Insuliinin annostelu on loppunut. Deaktivoi ja poista pumppu.</target>
+        <target>%1$@. Insuliinin annostelu on loppunut. Deaktivoi ja poista pumppu.</target>
         <note>Format string providing instructions for replacing pod due to a fault. (1: The fault description)</note>
       </trans-unit>
       <trans-unit id="%@ U" xml:space="preserve">
         <source>%@ U</source>
-        <target state="needs-translation">%@ U</target>
+        <target>%@ U</target>
         <note>Format string for delivered insulin. (1: The localized amount)
    Format string for insulin remaining in reservoir. (1: The localized amount)</note>
       </trans-unit>
       <trans-unit id="%@ U (Finished)" xml:space="preserve">
         <source>%@ U (Finished)</source>
-        <target state="translated">%@ U (valmis)</target>
+        <target>%@ U (valmis)</target>
         <note>Format string for bolus progress when finished. (1: The localized amount)</note>
       </trans-unit>
       <trans-unit id="%@ U of %@ U (%@)" xml:space="preserve">
         <source>%1$@ U of %2$@ U (%3$@)</source>
-        <target state="needs-translation">%1$@ U of %2$@ U (%3$@)</target>
+        <target>%1$@ U of %2$@ U (%3$@)</target>
         <note>Format string for bolus progress. (1: The delivered amount) (2: The programmed amount) (3: the percent progress)</note>
       </trans-unit>
       <trans-unit id="%@ U/hour" xml:space="preserve">
         <source>%@ U/hour</source>
-        <target state="translated">%@ U/tunti</target>
+        <target>%@ U/tunti</target>
         <note>Format string for temp basal rate. (1: The localized amount)</note>
       </trans-unit>
       <trans-unit id="%@ dB" xml:space="preserve">
         <source>%@ dB</source>
-        <target state="needs-translation">%@ dB</target>
+        <target>%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
       </trans-unit>
       <trans-unit id="%@%%" xml:space="preserve">
         <source>%@%%</source>
-        <target state="needs-translation">%@%%</target>
+        <target>%@%%</target>
         <note>Format string for bolus percent progress. (1: Percent progress)</note>
       </trans-unit>
       <trans-unit id="%@+ U" xml:space="preserve">
         <source>%@+ U</source>
-        <target state="needs-translation">%@+ U</target>
+        <target>%@+ U</target>
         <note>Format string for reservoir reading when above or equal to maximum reading. (1: The localized amount)</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
         <source>%@.</source>
-        <target state="needs-translation">%@.</target>
+        <target>%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
       <trans-unit id="%@U" xml:space="preserve">
         <source>%@U</source>
-        <target state="needs-translation">%@U</target>
+        <target>%@U</target>
         <note>Format string for reservoir volume. (1: The localized volume)</note>
       </trans-unit>
       <trans-unit id="Active Time" xml:space="preserve">
         <source>Active Time</source>
-        <target state="translated">Aktiivinen aika</target>
+        <target>Aktiivinen aika</target>
         <note>The title of the cell showing the pod activated at time</note>
       </trans-unit>
       <trans-unit id="Alarms" xml:space="preserve">
         <source>Alarms</source>
-        <target state="translated">Hälytykset</target>
+        <target>Hälytykset</target>
         <note>The title of the cell showing alarm status</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to shutdown this pod?" xml:space="preserve">
         <source>Are you sure you want to shutdown this pod?</source>
-        <target state="translated">Haluatko varmasti sammuttaa tämän pumpun?</target>
+        <target>Haluatko varmasti sammuttaa tämän pumpun?</target>
         <note>Confirmation message for shutting down a pod</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to stop using Omnipod?" xml:space="preserve">
         <source>Are you sure you want to stop using Omnipod?</source>
-        <target state="translated">Haluatko varmasti lopettaa Omnipodin käytön?</target>
+        <target>Haluatko varmasti lopettaa Omnipodin käytön?</target>
         <note>Confirmation message for removing Omnipod PumpManager</note>
       </trans-unit>
       <trans-unit id="Assigned Address" xml:space="preserve">
         <source>Assigned Address</source>
-        <target state="translated">Määritetty osoite</target>
+        <target>Määritetty osoite</target>
         <note>The title text for the address assigned to the pod</note>
       </trans-unit>
       <trans-unit id="Basal Delivery" xml:space="preserve">
         <source>Basal Delivery</source>
-        <target state="translated">Basaali</target>
+        <target>Basaali</target>
         <note>The title of the cell showing pod basal status</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target state="translated">Basaalitasot</target>
+        <target>Basaalitasot</target>
         <note>The title text for the basal rate schedule</note>
       </trans-unit>
       <trans-unit id="Bolus Delivery" xml:space="preserve">
         <source>Bolus Delivery</source>
-        <target state="translated">Bolus</target>
+        <target>Bolus</target>
         <note>The title of the cell showing pod bolus status</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target state="translated">Kumoa</target>
+        <target>Kumoa</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
       <trans-unit id="Change Time Zone" xml:space="preserve">
         <source>Change Time Zone</source>
-        <target state="translated">Muuta aikavyöhyke</target>
+        <target>Muuta aikavyöhyke</target>
         <note>The title of the command to change pump time zone</note>
       </trans-unit>
       <trans-unit id="Changing time…" xml:space="preserve">
         <source>Changing time…</source>
-        <target state="translated">Muutetaan aikaa…</target>
+        <target>Muutetaan aikaa…</target>
         <note>Progress message for changing pod time.</note>
       </trans-unit>
       <trans-unit id="Configuration" xml:space="preserve">
         <source>Configuration</source>
-        <target state="translated">Määritykset</target>
+        <target>Määritykset</target>
         <note>The title of the configuration section in settings</note>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
         <source>Continue</source>
-        <target state="translated">Jatka</target>
+        <target>Jatka</target>
         <note>The title of the continue action in an action sheet</note>
       </trans-unit>
       <trans-unit id="Deactivate" xml:space="preserve">
         <source>Deactivate</source>
-        <target state="translated">Deaktivoi</target>
+        <target>Deaktivoi</target>
         <note>Button title to deactivate pod because of fault during setup</note>
       </trans-unit>
       <trans-unit id="Deactivate Pod" xml:space="preserve">
         <source>Deactivate Pod</source>
-        <target state="translated">Deaktivoi pumppu</target>
+        <target>Deaktivoi pumppu</target>
         <note>Button title for pod deactivation
    Button title to deactivate pod</note>
       </trans-unit>
       <trans-unit id="Delete Omnipod" xml:space="preserve">
         <source>Delete Omnipod</source>
-        <target state="translated">Poista Omnipod</target>
+        <target>Poista Omnipod</target>
         <note>Button title to delete Omnipod PumpManager</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
         <source>Delivery Limits</source>
-        <target state="translated">Annostelurajat</target>
+        <target>Annostelurajat</target>
         <note>Title text for delivery limits</note>
       </trans-unit>
       <trans-unit id="Device Information" xml:space="preserve">
         <source>Device Information</source>
-        <target state="translated">Laitteen tiedot</target>
+        <target>Laitteen tiedot</target>
         <note>The title of the device information section in settings</note>
       </trans-unit>
       <trans-unit id="Disable Bolus Beeps" xml:space="preserve">
         <source>Disable Bolus Beeps</source>
-        <target state="translated">Laita bolusäänet pois</target>
+        <target>Laita bolusäänet pois</target>
         <note>Title text for button to disable bolus beeps</note>
       </trans-unit>
       <trans-unit id="Disable Confirmation Beeps" xml:space="preserve">
         <source>Disable Confirmation Beeps</source>
-        <target state="translated">Laita vahvistusäänet pois</target>
+        <target>Laita vahvistusäänet pois</target>
         <note>Title text for button to disable confirmation beeps</note>
       </trans-unit>
       <trans-unit id="Enable Bolus Beeps" xml:space="preserve">
         <source>Enable Bolus Beeps</source>
-        <target state="translated">Laita bolusäänet päälle</target>
+        <target>Laita bolusäänet päälle</target>
         <note>Title text for button to enable bolus beeps</note>
       </trans-unit>
       <trans-unit id="Enable Confirmation Beeps" xml:space="preserve">
         <source>Enable Confirmation Beeps</source>
-        <target state="translated">Laita vahvistusäänet päälle</target>
+        <target>Laita vahvistusäänet päälle</target>
         <note>Title text for button to enable confirmation beeps</note>
       </trans-unit>
       <trans-unit id="Error Resuming" xml:space="preserve">
         <source>Error Resuming</source>
-        <target state="translated">Virhe jatkamisessa</target>
+        <target>Virhe jatkamisessa</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
       <trans-unit id="Error Suspending" xml:space="preserve">
         <source>Error Suspending</source>
-        <target state="translated">Virhe pysäytyksessä</target>
+        <target>Virhe pysäytyksessä</target>
         <note>The alert title for a suspend error</note>
       </trans-unit>
       <trans-unit id="Error disabling bolus beeps" xml:space="preserve">
         <source>Error disabling bolus beeps</source>
-        <target state="translated">Virhe laitettaessa bolusäänet pois päältä</target>
+        <target>Virhe laitettaessa bolusäänet pois päältä</target>
         <note>The alert title for disable bolus beeps error</note>
       </trans-unit>
       <trans-unit id="Error disabling confirmation beeps" xml:space="preserve">
         <source>Error disabling confirmation beeps</source>
-        <target state="translated">Virhe laitettaessa vahvistusäänet pois päältä</target>
+        <target>Virhe laitettaessa vahvistusäänet pois päältä</target>
         <note>The alert title for disable confirmation beeps error</note>
       </trans-unit>
       <trans-unit id="Error emitting completion confirmation beep" xml:space="preserve">
         <source>Error emitting completion confirmation beep</source>
-        <target state="translated">Virhe lähetettäessä valmistumisen vahvistusääni</target>
+        <target>Virhe lähetettäessä valmistumisen vahvistusääni</target>
         <note>The alert title for emitting completion beep error</note>
       </trans-unit>
       <trans-unit id="Error enabling bolus beeps" xml:space="preserve">
         <source>Error enabling bolus beeps</source>
-        <target state="translated">Virhe laitettaessa bolusäänet päälle</target>
+        <target>Virhe laitettaessa bolusäänet päälle</target>
         <note>The alert title for enable bolus beeps error</note>
       </trans-unit>
       <trans-unit id="Error enabling confirmation beeps" xml:space="preserve">
         <source>Error enabling confirmation beeps</source>
-        <target state="translated">Virhe laitettaessa vahvistusäänet päälle</target>
+        <target>Virhe laitettaessa vahvistusäänet päälle</target>
         <note>The alert title for enable confirmation beeps error</note>
       </trans-unit>
       <trans-unit id="Expiration Reminder" xml:space="preserve">
         <source>Expiration Reminder</source>
-        <target state="translated">Vanhenemismuistutus</target>
+        <target>Vanhenemismuistutus</target>
         <note>The title of the cell showing the pod expiration reminder date</note>
       </trans-unit>
       <trans-unit id="Expired" xml:space="preserve">
         <source>Expired</source>
-        <target state="translated">Vanhentunut</target>
+        <target>Vanhentunut</target>
         <note>The title of the cell showing the pod expiration after expiry</note>
       </trans-unit>
       <trans-unit id="Expires" xml:space="preserve">
         <source>Expires</source>
-        <target state="translated">Vanhenee</target>
+        <target>Vanhenee</target>
         <note>The title of the cell showing the pod expiration</note>
       </trans-unit>
       <trans-unit id="Fault" xml:space="preserve">
         <source>Fault</source>
-        <target state="translated">Virhe</target>
+        <target>Virhe</target>
         <note>Pod life HUD view label</note>
       </trans-unit>
       <trans-unit id="Finish pod setup" xml:space="preserve">
         <source>Finish pod setup</source>
-        <target state="translated">Lopeta pumpun asennus</target>
+        <target>Lopeta pumpun asennus</target>
         <note>The title of the command to finish pod setup</note>
       </trans-unit>
       <trans-unit id="Greater than %1$@ units remaining at %2$@" xml:space="preserve">
         <source>Greater than %1$@ units remaining at %2$@</source>
-        <target state="translated">Enemmän kuin %1$@ yksikköä jäljellä klo %2$@</target>
+        <target>Enemmän kuin %1$@ yksikköä jäljellä klo %2$@</target>
         <note>Accessibility format string for (1: localized volume)(2: time)</note>
       </trans-unit>
       <trans-unit id="Incompletely set up pod must be deactivated before pairing with a new one. Please deactivate and discard pod." xml:space="preserve">
         <source>Incompletely set up pod must be deactivated before pairing with a new one. Please deactivate and discard pod.</source>
-        <target state="translated">Puutteellisesti asennettu pumppu täytyy deaktivoida ennen kuin uusi pumppu voidaan yhdistää. Deaktivoi ja hylkää pumppu.</target>
+        <target>Puutteellisesti asennettu pumppu täytyy deaktivoida ennen kuin uusi pumppu voidaan yhdistää. Deaktivoi ja hylkää pumppu.</target>
         <note>Instructions when deactivating pod that has been paired, but not attached.</note>
       </trans-unit>
       <trans-unit id="Incompletely set up pod must be deactivated before pairing with a new one. Please deactivate and remove pod." xml:space="preserve">
         <source>Incompletely set up pod must be deactivated before pairing with a new one. Please deactivate and remove pod.</source>
-        <target state="translated">Puutteellisesti asennettu pumppu täytyy deaktivoida ennen kuin uusi pumppu voidaan yhdistää. Deaktivoi ja poista pumppu.</target>
+        <target>Puutteellisesti asennettu pumppu täytyy deaktivoida ennen kuin uusi pumppu voidaan yhdistää. Deaktivoi ja poista pumppu.</target>
         <note>Instructions when deactivating pod that has been paired and possibly attached.</note>
       </trans-unit>
       <trans-unit id="Insert Cannula" xml:space="preserve">
         <source>Insert Cannula</source>
-        <target state="translated">Aseta kanyyli</target>
+        <target>Aseta kanyyli</target>
         <note>Button title to insert cannula during setup</note>
       </trans-unit>
       <trans-unit id="Insulin Delivered" xml:space="preserve">
         <source>Insulin Delivered</source>
-        <target state="translated">Annosteltu insuliini</target>
+        <target>Annosteltu insuliini</target>
         <note>The title of the cell showing delivered insulin</note>
       </trans-unit>
       <trans-unit id="Invalid entry" xml:space="preserve">
         <source>Invalid entry</source>
-        <target state="translated">Virheellinen merkintä</target>
+        <target>Virheellinen merkintä</target>
         <note>The error message shown when Loop's basal schedule has an unsupported rate</note>
       </trans-unit>
       <trans-unit id="Lot" xml:space="preserve">
         <source>Lot</source>
-        <target state="needs-translation">Lot</target>
+        <target>Lot</target>
         <note>The title of the cell showing the pod lot id</note>
       </trans-unit>
       <trans-unit id="None" xml:space="preserve">
         <source>None</source>
-        <target state="translated">Ei mitään</target>
+        <target>Ei mitään</target>
         <note>The detail text for bolus delivery when no bolus is being delivered</note>
       </trans-unit>
       <trans-unit id="PI Version" xml:space="preserve">
         <source>PI Version</source>
-        <target state="translated">PI-versio</target>
+        <target>PI-versio</target>
         <note>The title of the cell showing the pod pi version</note>
       </trans-unit>
       <trans-unit id="PM Version" xml:space="preserve">
         <source>PM Version</source>
-        <target state="translated">PM-versio</target>
+        <target>PM-versio</target>
         <note>The title of the cell showing the pod pm version</note>
       </trans-unit>
       <trans-unit id="Pair" xml:space="preserve">
         <source>Pair</source>
-        <target state="translated">Yhdistä</target>
+        <target>Yhdistä</target>
         <note>Button title to pair with pod during setup</note>
       </trans-unit>
       <trans-unit id="Pair New Pod" xml:space="preserve">
         <source>Pair New Pod</source>
-        <target state="translated">Yhdistä uusi pumppu</target>
+        <target>Yhdistä uusi pumppu</target>
         <note>The title of the command to pair new pod</note>
       </trans-unit>
       <trans-unit id="Pairing…" xml:space="preserve">
         <source>Pairing…</source>
-        <target state="translated">Yhdistetään…</target>
+        <target>Yhdistetään…</target>
         <note>The text of the loading label when pairing</note>
       </trans-unit>
       <trans-unit id="Play Test Beeps" xml:space="preserve">
         <source>Play Test Beeps</source>
-        <target state="translated">Soita testiäänet</target>
+        <target>Soita testiäänet</target>
         <note>The title of the command to play test beeps</note>
       </trans-unit>
       <trans-unit id="Play Test Beeps…" xml:space="preserve">
         <source>Play Test Beeps…</source>
-        <target state="translated">Soitetaan testiäänet…</target>
+        <target>Soitetaan testiäänet…</target>
         <note>Progress message for play test beeps.</note>
       </trans-unit>
       <trans-unit id="Pod Age" xml:space="preserve">
         <source>Pod Age</source>
-        <target state="translated">Pumpun ikä</target>
+        <target>Pumpun ikä</target>
         <note>Label describing pod age view</note>
       </trans-unit>
       <trans-unit id="Pod Settings" xml:space="preserve">
         <source>Pod Settings</source>
-        <target state="translated">Pumpun asetukset</target>
+        <target>Pumpun asetukset</target>
         <note>Title of the pod settings view controller</note>
       </trans-unit>
       <trans-unit id="Primed" xml:space="preserve">
         <source>Primed</source>
-        <target state="translated">Alustettu</target>
+        <target>Alustettu</target>
         <note>The text of the loading label when pod is primed</note>
       </trans-unit>
       <trans-unit id="Priming…" xml:space="preserve">
         <source>Priming…</source>
-        <target state="translated">Alustetaan…</target>
+        <target>Alustetaan…</target>
         <note>The text of the loading label when priming</note>
       </trans-unit>
       <trans-unit id="Read Pod Status" xml:space="preserve">
         <source>Read Pod Status</source>
-        <target state="translated">Lue pumpun tila</target>
+        <target>Lue pumpun tila</target>
         <note>The title of the command to read the pod status</note>
       </trans-unit>
       <trans-unit id="Read Pod Status…" xml:space="preserve">
         <source>Read Pod Status…</source>
-        <target state="translated">Luetaan pumpun tilaa…</target>
+        <target>Luetaan pumpun tilaa…</target>
         <note>Progress message for reading Pod status.</note>
       </trans-unit>
       <trans-unit id="Read Pulse Log" xml:space="preserve">
         <source>Read Pulse Log</source>
-        <target state="translated">Lue pulssiloki</target>
+        <target>Lue pulssiloki</target>
         <note>The title of the command to read the pulse log</note>
       </trans-unit>
       <trans-unit id="Reading Pulse Log…" xml:space="preserve">
         <source>Reading Pulse Log…</source>
-        <target state="translated">Luetaan pulssilokia…</target>
+        <target>Luetaan pulssilokia…</target>
         <note>Progress message for reading pulse log.</note>
       </trans-unit>
       <trans-unit id="Remaining" xml:space="preserve">
         <source>Remaining</source>
-        <target state="translated">Jäljellä</target>
+        <target>Jäljellä</target>
         <note>Label describing time remaining view</note>
       </trans-unit>
       <trans-unit id="Replace Pod" xml:space="preserve">
         <source>Replace Pod</source>
-        <target state="translated">Vaihda pumppu</target>
+        <target>Vaihda pumppu</target>
         <note>Label indicating pod replacement necessary
    The title of the command to replace pod</note>
       </trans-unit>
       <trans-unit id="Replace Pod Now" xml:space="preserve">
         <source>Replace Pod Now</source>
-        <target state="translated">Vaihda pumppu nyt</target>
+        <target>Vaihda pumppu nyt</target>
         <note>The title of the command to replace pod when there is a pod fault</note>
       </trans-unit>
       <trans-unit id="Reservoir" xml:space="preserve">
         <source>Reservoir</source>
-        <target state="translated">Säiliö</target>
+        <target>Säiliö</target>
         <note>The title of the cell showing reservoir status</note>
       </trans-unit>
       <trans-unit id="Retry Pod Deactivation" xml:space="preserve">
         <source>Retry Pod Deactivation</source>
-        <target state="translated">Deaktivoi pumppu uudelleen</target>
+        <target>Deaktivoi pumppu uudelleen</target>
         <note>Button title for retrying pod deactivation</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
-        <target state="translated">Tallenna</target>
+        <target>Tallenna</target>
         <note>Title of button to save delivery limit settings
    Title of button to sync basal profile when no pod paired</note>
       </trans-unit>
       <trans-unit id="Schedule" xml:space="preserve">
         <source>Schedule</source>
-        <target state="translated">Ohjelmoitu</target>
+        <target>Ohjelmoitu</target>
         <note>The detail text of the basal row when pod is running scheduled basal</note>
       </trans-unit>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
-        <target state="translated">Tila</target>
+        <target>Tila</target>
         <note>The title of the status section in settings</note>
       </trans-unit>
       <trans-unit id="Succeeded" xml:space="preserve">
         <source>Succeeded</source>
-        <target state="translated">Onnistui</target>
+        <target>Onnistui</target>
         <note>A message indicating a command succeeded</note>
       </trans-unit>
       <trans-unit id="Suspended" xml:space="preserve">
         <source>Suspended</source>
-        <target state="translated">Pysäytetty</target>
+        <target>Pysäytetty</target>
         <note>The detail text of the basal row when pod is suspended</note>
       </trans-unit>
       <trans-unit id="Switch from Omnipod Pumps" xml:space="preserve">
         <source>Switch from Omnipod Pumps</source>
-        <target state="translated">Lopeta Omnipodin käyttö</target>
+        <target>Lopeta Omnipodin käyttö</target>
         <note>Title text for the button to delete Omnipod PumpManager</note>
       </trans-unit>
       <trans-unit id="Sync With Pod" xml:space="preserve">
         <source>Sync With Pod</source>
-        <target state="translated">Synkronoi pumpun kanssa</target>
+        <target>Synkronoi pumpun kanssa</target>
         <note>Title of button to sync basal profile from pod</note>
       </trans-unit>
       <trans-unit id="TID" xml:space="preserve">
         <source>TID</source>
-        <target state="needs-translation">TID</target>
+        <target>TID</target>
         <note>The title of the cell showing the pod TID</note>
       </trans-unit>
       <trans-unit id="Test Command" xml:space="preserve">
         <source>Test Command</source>
-        <target state="translated">Testikomento</target>
+        <target>Testikomento</target>
         <note>The title of the command to run the test command</note>
       </trans-unit>
       <trans-unit id="Testing Commands…" xml:space="preserve">
         <source>Testing Commands…</source>
-        <target state="translated">Testataan komentoja…</target>
+        <target>Testataan komentoja…</target>
         <note>Progress message for testing commands.</note>
       </trans-unit>
       <trans-unit id="Too many entries" xml:space="preserve">
         <source>Too many entries</source>
-        <target state="translated">Liian monta basaalitasoa määritetty</target>
+        <target>Liian monta basaalitasoa määritetty</target>
         <note>The error message shown when Loop's basal schedule has more entries than the pod can support</note>
       </trans-unit>
       <trans-unit id="Unable to deactivate pod. Please continue and pair a new one." xml:space="preserve">
         <source>Unable to deactivate pod. Please continue and pair a new one.</source>
-        <target state="translated">Pumpun deaktivointi ei onnistunut. Jatka ja yhdistä uusi pumppu.</target>
+        <target>Pumpun deaktivointi ei onnistunut. Jatka ja yhdistä uusi pumppu.</target>
         <note>Instructions when pod cannot be deactivated</note>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
-        <target state="translated">Tuntematon</target>
+        <target>Tuntematon</target>
         <note>The detail text for delivered insulin when no measurement is available</note>
       </trans-unit>
     </body>
   </file>
   <file original="RileyLink/Base.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="%@ dB" xml:space="preserve">
         <source>%@ dB</source>
-        <target state="needs-translation">%@ dB</target>
+        <target>%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
       </trans-unit>
       <trans-unit id="API Secret" xml:space="preserve">
         <source>API Secret</source>
-        <target state="translated">API-salasana</target>
+        <target>API-salasana</target>
         <note>The title of the nightscout API secret credential</note>
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
-        <target state="translated">Tietoja</target>
+        <target>Tietoja</target>
         <note>The title of the about section</note>
       </trans-unit>
       <trans-unit id="Add Account" xml:space="preserve">
         <source>Add Account</source>
-        <target state="translated">Lisää tili</target>
+        <target>Lisää tili</target>
         <note>The title of the button to add the credentials for a service</note>
       </trans-unit>
       <trans-unit id="Add Minimed Pump" xml:space="preserve">
         <source>Add Minimed Pump</source>
-        <target state="translated">Lisää Minimed-pumppu</target>
+        <target>Lisää Minimed-pumppu</target>
         <note>Title text for button to set up a new minimed pump</note>
       </trans-unit>
       <trans-unit id="Configuration" xml:space="preserve">
         <source>Configuration</source>
-        <target state="translated">Määritykset</target>
+        <target>Määritykset</target>
         <note>The title of the configuration section in settings</note>
       </trans-unit>
       <trans-unit id="Delete Account" xml:space="preserve">
         <source>Delete Account</source>
-        <target state="translated">Poista tili</target>
+        <target>Poista tili</target>
         <note>The title of the button to remove the credentials for a service</note>
       </trans-unit>
       <trans-unit id="Enter the 6-digit pump ID" xml:space="preserve">
         <source>Enter the 6-digit pump ID</source>
-        <target state="translated">Syötä 6-numeroinen pumpun tunniste</target>
+        <target>Syötä 6-numeroinen pumpun tunniste</target>
         <note>The placeholder text instructing users how to enter a pump ID</note>
       </trans-unit>
       <trans-unit id="Fetch CGM" xml:space="preserve">
         <source>Fetch CGM</source>
-        <target state="translated">Hae CGM-data</target>
+        <target>Hae CGM-data</target>
         <note>The title text for the pull cgm Data cell</note>
       </trans-unit>
       <trans-unit id="Nightscout" xml:space="preserve">
         <source>Nightscout</source>
-        <target state="needs-translation">Nightscout</target>
+        <target>Nightscout</target>
         <note>The title of the Nightscout service</note>
       </trans-unit>
       <trans-unit id="Pump ID" xml:space="preserve">
         <source>Pump ID</source>
-        <target state="translated">Pumpun tunniste</target>
+        <target>Pumpun tunniste</target>
         <note>The title text for the pump ID config value</note>
       </trans-unit>
       <trans-unit id="Pumps" xml:space="preserve">
         <source>Pumps</source>
-        <target state="translated">Pumput</target>
+        <target>Pumput</target>
         <note>Title text for section listing configured pumps</note>
       </trans-unit>
       <trans-unit id="Required" xml:space="preserve">
         <source>Required</source>
-        <target state="translated">Pakollinen</target>
+        <target>Pakollinen</target>
         <note>The default placeholder string for a credential</note>
       </trans-unit>
       <trans-unit id="RileyLink Testing" xml:space="preserve">
         <source>RileyLink Testing</source>
-        <target state="translated">RileyLink-testaus</target>
+        <target>RileyLink-testaus</target>
         <note>Title for RileyLink Testing main view controller</note>
       </trans-unit>
       <trans-unit id="Setup Omnipod" xml:space="preserve">
         <source>Setup Omnipod</source>
-        <target state="translated">Asenna Omnipod</target>
+        <target>Asenna Omnipod</target>
         <note>Title text for button to set up omnipod</note>
       </trans-unit>
       <trans-unit id="Site URL" xml:space="preserve">
         <source>Site URL</source>
-        <target state="translated">URL</target>
+        <target>URL</target>
         <note>The title of the nightscout site URL credential</note>
       </trans-unit>
       <trans-unit id="Tap to set" xml:space="preserve">
         <source>Tap to set</source>
-        <target state="translated">Napauta asettaaksesi</target>
+        <target>Napauta asettaaksesi</target>
         <note>The empty-state text for a configuration value</note>
       </trans-unit>
       <trans-unit id="Upload To Nightscout" xml:space="preserve">
         <source>Upload To Nightscout</source>
-        <target state="translated">Lataa Nightscoutiin</target>
+        <target>Lataa Nightscoutiin</target>
         <note>The title text for the nightscout upload enabled switch cell</note>
       </trans-unit>
       <trans-unit id="http://mysite.herokuapp.com" xml:space="preserve">
         <source>http://mysite.herokuapp.com</source>
-        <target state="translated">http://omaosoite.herokuapp.com</target>
+        <target>http://omaosoite.herokuapp.com</target>
         <note>The placeholder text for the nightscout site URL credential</note>
       </trans-unit>
     </body>
   </file>
   <file original="RileyLink/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>RileyLink</source>
-        <target state="needs-translation">RileyLink</target>
+        <target>RileyLink</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleGetInfoString" xml:space="preserve">
         <source/>
-        <target state="translated"/>
+        <target/>
         <note>Get Info string</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>RileyLink</source>
-        <target state="needs-translation">RileyLink</target>
+        <target>RileyLink</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="RileyLink/en.lproj/LoopKit.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target>OK</target>
         <note>The title of the action used to dismiss an error alert</note>
       </trans-unit>
     </body>
   </file>
   <file original="RileyLinkBLEKit/Base.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="Data exceeded maximum size of %@ bytes" xml:space="preserve">
         <source>Data exceeded maximum size of %@ bytes</source>
-        <target state="translated">Tietomäärä ylitti maksimikoon %@ tavua</target>
+        <target>Tietomäärä ylitti maksimikoon %@ tavua</target>
         <note>Write size limit exceeded error description (1: size limit)</note>
       </trans-unit>
       <trans-unit id="Input %@ is invalid" xml:space="preserve">
         <source>Input %@ is invalid</source>
-        <target state="translated">Syöte %@ on virheellinen</target>
+        <target>Syöte %@ on virheellinen</target>
         <note>Invalid input error description (1: input)</note>
       </trans-unit>
       <trans-unit id="Make sure the device is nearby, and the issue should resolve automatically" xml:space="preserve">
         <source>Make sure the device is nearby, and the issue should resolve automatically</source>
-        <target state="translated">Varmista, että laite on lähellä, jolloin ongelman pitäisi ratketa itsestään</target>
+        <target>Varmista, että laite on lähellä, jolloin ongelman pitäisi ratketa itsestään</target>
         <note>Recovery suggestion for unknown peripheral characteristic</note>
       </trans-unit>
       <trans-unit id="Peripheral did not respond in time" xml:space="preserve">
         <source>Peripheral did not respond in time</source>
-        <target state="translated">Ulkoinen laite ei vastannut ajoissa</target>
+        <target>Ulkoinen laite ei vastannut ajoissa</target>
         <note>Timeout error description</note>
       </trans-unit>
       <trans-unit id="Peripheral isnʼt connected" xml:space="preserve">
         <source>Peripheral isnʼt connected</source>
-        <target state="translated">Ulkoinen laite ei ole yhdistetty</target>
+        <target>Ulkoinen laite ei ole yhdistetty</target>
         <note>Not ready error description</note>
       </trans-unit>
       <trans-unit id="Pump did not respond in time" xml:space="preserve">
         <source>Pump did not respond in time</source>
-        <target state="translated">Pumppu ei vastannut ajoissa</target>
+        <target>Pumppu ei vastannut ajoissa</target>
         <note>Response timeout error description</note>
       </trans-unit>
       <trans-unit id="Response %@ is invalid" xml:space="preserve">
         <source>Response %@ is invalid</source>
-        <target state="translated">Vastaus %@ on virheellinen</target>
+        <target>Vastaus %@ on virheellinen</target>
         <note>Invalid response error description (1: response)</note>
       </trans-unit>
       <trans-unit id="RileyLink did not respond in time" xml:space="preserve">
         <source>RileyLink did not respond in time</source>
-        <target state="translated">RileyLink ei vastannut ajoissa</target>
+        <target>RileyLink ei vastannut ajoissa</target>
         <note>Timeout error description</note>
       </trans-unit>
       <trans-unit id="RileyLink firmware does not support the %@ command" xml:space="preserve">
         <source>RileyLink firmware does not support the %@ command</source>
-        <target state="translated">RileyLink-laiteohelmisto ei tue %@ komentoa</target>
+        <target>RileyLink-laiteohelmisto ei tue %@ komentoa</target>
         <note>Unsupported command error description</note>
       </trans-unit>
       <trans-unit id="RileyLink is not connected" xml:space="preserve">
         <source>RileyLink is not connected</source>
-        <target state="translated">RileyLink ei ole yhdistetty</target>
+        <target>RileyLink ei ole yhdistetty</target>
         <note>Not ready error description</note>
       </trans-unit>
       <trans-unit id="The RileyLink was temporarily disconnected" xml:space="preserve">
         <source>The RileyLink was temporarily disconnected</source>
-        <target state="translated">Yhteys RileyLinkiin oli tilapäisesti poikki</target>
+        <target>Yhteys RileyLinkiin oli tilapäisesti poikki</target>
         <note>Failure reason: unknown peripheral characteristic</note>
       </trans-unit>
       <trans-unit id="Unknown characteristic" xml:space="preserve">
         <source>Unknown characteristic</source>
-        <target state="translated">Tuntematon ominaisuus</target>
+        <target>Tuntematon ominaisuus</target>
         <note>Error description</note>
       </trans-unit>
     </body>
   </file>
   <file original="RileyLinkBLEKit/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>RileyLinkBLEKit</source>
-        <target state="needs-translation">RileyLinkBLEKit</target>
+        <target>RileyLinkBLEKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="RileyLinkKit/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>RileyLinkKit</source>
-        <target state="needs-translation">RileyLinkKit</target>
+        <target>RileyLinkKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="RileyLinkKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="%@ dB" xml:space="preserve">
         <source>%@ dB</source>
-        <target state="needs-translation">%@ dB</target>
+        <target>%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
       </trans-unit>
       <trans-unit id="Commands" xml:space="preserve">
         <source>Commands</source>
-        <target state="translated">Komennot</target>
+        <target>Komennot</target>
         <note>The title of the section describing commands</note>
       </trans-unit>
       <trans-unit id="Connected" xml:space="preserve">
         <source>Connected</source>
-        <target state="translated">Yhdistetty</target>
+        <target>Yhdistetty</target>
         <note>The connected state</note>
       </trans-unit>
       <trans-unit id="Connecting" xml:space="preserve">
         <source>Connecting</source>
-        <target state="translated">Yhdistetään</target>
+        <target>Yhdistetään</target>
         <note>The in-progress connecting state</note>
       </trans-unit>
       <trans-unit id="Connection State" xml:space="preserve">
         <source>Connection State</source>
-        <target state="translated">Yhteyden tila</target>
+        <target>Yhteyden tila</target>
         <note>The title of the cell showing BLE connection state</note>
       </trans-unit>
       <trans-unit id="Device" xml:space="preserve">
         <source>Device</source>
-        <target state="translated">Laite</target>
+        <target>Laite</target>
         <note>The title of the section describing the device</note>
       </trans-unit>
       <trans-unit id="Devices" xml:space="preserve">
         <source>Devices</source>
-        <target state="translated">Laitteet</target>
+        <target>Laitteet</target>
         <note>The title of the devices table section in RileyLink settings</note>
       </trans-unit>
       <trans-unit id="Disconnected" xml:space="preserve">
         <source>Disconnected</source>
-        <target state="translated">Ei yhteydessä</target>
+        <target>Ei yhteydessä</target>
         <note>The disconnected state</note>
       </trans-unit>
       <trans-unit id="Disconnecting" xml:space="preserve">
         <source>Disconnecting</source>
-        <target state="translated">Katkaistaan</target>
+        <target>Katkaistaan</target>
         <note>The in-progress disconnecting state</note>
       </trans-unit>
       <trans-unit id="Firmware" xml:space="preserve">
         <source>Firmware</source>
-        <target state="translated">Laiteohjelmisto</target>
+        <target>Laiteohjelmisto</target>
         <note>The title of the cell showing firmware version</note>
       </trans-unit>
       <trans-unit id="Frequency" xml:space="preserve">
         <source>Frequency</source>
-        <target state="translated">Taajuus</target>
+        <target>Taajuus</target>
         <note>The title of the cell showing current rileylink frequency</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
-        <target state="translated">Nimi</target>
+        <target>Nimi</target>
         <note>The title of the cell showing device name</note>
       </trans-unit>
       <trans-unit id="RileyLink allows for communication with the pump over Bluetooth Low Energy." xml:space="preserve">
         <source>RileyLink allows for communication with the pump over Bluetooth Low Energy.</source>
-        <target state="translated">RileyLink mahdollistaa tiedonsiirron pumpun kanssa Bluetooth Low Energy -yhteyden kautta.</target>
+        <target>RileyLink mahdollistaa tiedonsiirron pumpun kanssa Bluetooth Low Energy -yhteyden kautta.</target>
         <note>RileyLink setup description</note>
       </trans-unit>
       <trans-unit id="Signal Strength" xml:space="preserve">
         <source>Signal Strength</source>
-        <target state="translated">Signaalin vahvuus</target>
+        <target>Signaalin vahvuus</target>
         <note>The title of the cell showing BLE signal strength (RSSI)</note>
       </trans-unit>
       <trans-unit id="Uptime" xml:space="preserve">
         <source>Uptime</source>
-        <target state="translated">Päällä</target>
+        <target>Päällä</target>
         <note>The title of the cell showing uptime</note>
       </trans-unit>
     </body>
   </file>
   <file original="RileyLinkKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>RileyLinkKitUI</source>
-        <target state="needs-translation">RileyLinkKitUI</target>
+        <target>RileyLinkKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>

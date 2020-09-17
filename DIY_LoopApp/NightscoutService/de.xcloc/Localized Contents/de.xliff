@@ -1,101 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="NightscoutServiceKit/Base.lproj/Localizable.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="Nightscout" xml:space="preserve">
         <source>Nightscout</source>
-        <target state="needs-translation">Nightscout</target>
+        <target>Nightscout</target>
         <note>The title of the Nightscout service</note>
       </trans-unit>
       <trans-unit id="Pre-Meal" xml:space="preserve">
         <source>Pre-Meal</source>
-        <target state="needs-translation">Pre-Meal</target>
+        <target>Pre-Meal</target>
         <note>Name uploaded to Nightscout for Pre-Meal override</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
         <source>Workout</source>
-        <target state="needs-translation">Workout</target>
+        <target>Workout</target>
         <note>Name uploaded to Nightscout for legacy workout override</note>
       </trans-unit>
     </body>
   </file>
   <file original="NightscoutServiceKit/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>NightscoutServiceKit</source>
-        <target state="needs-translation">NightscoutServiceKit</target>
+        <target>NightscoutServiceKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="NightscoutServiceKitPlugin/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>NightscoutServiceKitPlugin</source>
-        <target state="needs-translation">NightscoutServiceKitPlugin</target>
+        <target>NightscoutServiceKitPlugin</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="NightscoutServiceKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="API Secret" xml:space="preserve">
         <source>API Secret</source>
-        <target state="needs-translation">API Secret</target>
+        <target>API Secret</target>
         <note>The title of the Nightscout API secret</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete this service?" xml:space="preserve">
         <source>Are you sure you want to delete this service?</source>
-        <target state="needs-translation">Are you sure you want to delete this service?</target>
+        <target>Are you sure you want to delete this service?</target>
         <note>Confirmation message for deleting a service</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target>Cancel</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
       <trans-unit id="Delete Service" xml:space="preserve">
         <source>Delete Service</source>
-        <target state="needs-translation">Delete Service</target>
+        <target>Delete Service</target>
         <note>Button title to delete a service</note>
       </trans-unit>
       <trans-unit id="Required" xml:space="preserve">
         <source>Required</source>
-        <target state="translated">Erforderlich</target>
+        <target>Erforderlich</target>
         <note>The default placeholder for required text</note>
       </trans-unit>
       <trans-unit id="Site URL" xml:space="preserve">
         <source>Site URL</source>
-        <target state="translated">Seiten-URL</target>
+        <target>Seiten-URL</target>
         <note>The title of the Nightscout site URL</note>
       </trans-unit>
       <trans-unit id="https://mysite.herokuapp.com" xml:space="preserve">
         <source>https://mysite.herokuapp.com</source>
-        <target state="needs-translation">https://mysite.herokuapp.com</target>
+        <target>https://mysite.herokuapp.com</target>
         <note>The placeholder text for the Nightscout site URL</note>
       </trans-unit>
     </body>
   </file>
   <file original="NightscoutServiceKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>NightscoutServiceKitUI</source>
-        <target state="needs-translation">NightscoutServiceKitUI</target>
+        <target>NightscoutServiceKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>

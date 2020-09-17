@@ -1,399 +1,399 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="CGMBLEKit Example/Base.lproj/Main.storyboard" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="3i8-2m-QFG.text" xml:space="preserve">
         <source>Run alongside G5 app</source>
-        <target state="translated">Esegui insieme all’app G5</target>
+        <target>Esegui insieme all’app G5</target>
         <note>Class = "UILabel"; text = "Run alongside G5 app"; ObjectID = "3i8-2m-QFG";</note>
       </trans-unit>
       <trans-unit id="5y6-vU-qC3.text" xml:space="preserve">
         <source>Transmitter ID</source>
-        <target state="translated">ID trasmettitore</target>
+        <target>ID trasmettitore</target>
         <note>Class = "UILabel"; text = "Transmitter ID"; ObjectID = "5y6-vU-qC3";</note>
       </trans-unit>
       <trans-unit id="9p7-LX-EMK.text" xml:space="preserve">
         <source>Waiting for first reading</source>
-        <target state="translated">In attesa della prima lettura</target>
+        <target>In attesa della prima lettura</target>
         <note>Class = "UILabel"; text = "Waiting for first reading"; ObjectID = "9p7-LX-EMK";</note>
       </trans-unit>
       <trans-unit id="HEQ-Bp-kx7.normalTitle" xml:space="preserve">
         <source>Start</source>
-        <target state="translated">Avvia</target>
+        <target>Avvia</target>
         <note>Class = "UIButton"; normalTitle = "Start"; ObjectID = "HEQ-Bp-kx7";</note>
       </trans-unit>
       <trans-unit id="HYW-Ex-7LC.normalTitle" xml:space="preserve">
         <source>Calibrate</source>
-        <target state="translated">Calibra</target>
+        <target>Calibra</target>
         <note>Class = "UIButton"; normalTitle = "Calibrate"; ObjectID = "HYW-Ex-7LC";</note>
       </trans-unit>
       <trans-unit id="JAM-9K-KeE.normalTitle" xml:space="preserve">
         <source>Stop</source>
-        <target state="translated">Interrompi</target>
+        <target>Interrompi</target>
         <note>Class = "UIButton"; normalTitle = "Stop"; ObjectID = "JAM-9K-KeE";</note>
       </trans-unit>
       <trans-unit id="NSs-9e-3Sl.text" xml:space="preserve">
         <source>Stay connected</source>
-        <target state="translated">Rimani connesso</target>
+        <target>Rimani connesso</target>
         <note>Class = "UILabel"; text = "Stay connected"; ObjectID = "NSs-9e-3Sl";</note>
       </trans-unit>
       <trans-unit id="e0T-ru-tWD.text" xml:space="preserve">
         <source>500000</source>
-        <target state="needs-translation">500000</target>
+        <target>500000</target>
         <note>Class = "UITextField"; text = "500000"; ObjectID = "e0T-ru-tWD";</note>
       </trans-unit>
       <trans-unit id="zAF-A7-1Oc.text" xml:space="preserve">
         <source>––</source>
-        <target state="needs-translation">––</target>
+        <target>––</target>
         <note>Class = "UILabel"; text = "––"; ObjectID = "zAF-A7-1Oc";</note>
       </trans-unit>
     </body>
   </file>
   <file original="CGMBLEKit Example/en.lproj/InfoPlist.strings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>CGMBLEKit Example</source>
-        <target state="needs-translation">CGMBLEKit Example</target>
+        <target>CGMBLEKit Example</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="CGMBLEKit Example/en.lproj/Localizable.strings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="Backfill" xml:space="preserve">
         <source>Backfill</source>
-        <target state="needs-translation">Backfill</target>
+        <target>Backfill</target>
         <note>Title displayed during backfill response</note>
       </trans-unit>
       <trans-unit id="Error" xml:space="preserve">
         <source>Error</source>
-        <target state="needs-translation">Error</target>
+        <target>Error</target>
         <note>Title displayed during error response</note>
       </trans-unit>
       <trans-unit id="Unknown Data" xml:space="preserve">
         <source>Unknown Data</source>
-        <target state="needs-translation">Unknown Data</target>
+        <target>Unknown Data</target>
         <note>Title displayed during unknown data response</note>
       </trans-unit>
     </body>
   </file>
   <file original="CGMBLEKit/Base.lproj/Localizable.strings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="Dexcom G5" xml:space="preserve">
         <source>Dexcom G5</source>
-        <target state="needs-translation">Dexcom G5</target>
+        <target>Dexcom G5</target>
         <note>CGM display title</note>
       </trans-unit>
       <trans-unit id="Dexcom G6" xml:space="preserve">
         <source>Dexcom G6</source>
-        <target state="needs-translation">Dexcom G6</target>
+        <target>Dexcom G6</target>
         <note>CGM display title</note>
       </trans-unit>
       <trans-unit id="Glucose data is unavailable" xml:space="preserve">
         <source>Glucose data is unavailable</source>
-        <target state="translated">I dati sulla glicemia non sono disponibili</target>
+        <target>I dati sulla glicemia non sono disponibili</target>
         <note>Error description for unreliable state</note>
       </trans-unit>
       <trans-unit id="Low Battery" xml:space="preserve">
         <source>Low Battery</source>
-        <target state="translated">Batteria Bassa</target>
+        <target>Batteria Bassa</target>
         <note>Describes a low battery</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target>OK</target>
         <note>Describes a functioning transmitter</note>
       </trans-unit>
       <trans-unit id="Peripheral command was invalid" xml:space="preserve">
         <source>Peripheral command was invalid</source>
-        <target state="needs-translation">Peripheral command was invalid</target>
+        <target>Peripheral command was invalid</target>
         <note>invlid config error description</note>
       </trans-unit>
       <trans-unit id="Peripheral did not respond in time" xml:space="preserve">
         <source>Peripheral did not respond in time</source>
-        <target state="translated">La periferica non ha risposto nel tempo limite</target>
+        <target>La periferica non ha risposto nel tempo limite</target>
         <note>Timeout error description</note>
       </trans-unit>
       <trans-unit id="Peripheral isnʼt connected" xml:space="preserve">
         <source>Peripheral isnʼt connected</source>
-        <target state="translated">La periferica non e' connessa</target>
+        <target>La periferica non e' connessa</target>
         <note>Not ready error description</note>
       </trans-unit>
       <trans-unit id="Sensor calibration is OK" xml:space="preserve">
         <source>Sensor calibration is OK</source>
-        <target state="translated">La calibrazione del sensore e' valida</target>
+        <target>La calibrazione del sensore e' valida</target>
         <note>The description of sensor calibration state when sensor calibration is ok.</note>
       </trans-unit>
       <trans-unit id="Sensor is in unknown state %1$d" xml:space="preserve">
         <source>Sensor is in unknown state %1$d</source>
-        <target state="translated">Il sensore presenta stato sconosciuto %1$d</target>
+        <target>Il sensore presenta stato sconosciuto %1$d</target>
         <note>The description of sensor calibration state when raw value is unknown. (1: missing data details)</note>
       </trans-unit>
       <trans-unit id="Sensor is stopped" xml:space="preserve">
         <source>Sensor is stopped</source>
-        <target state="translated">Il sensore e' spento</target>
+        <target>Il sensore e' spento</target>
         <note>The description of sensor calibration state when sensor sensor is stopped.</note>
       </trans-unit>
       <trans-unit id="Sensor is warming up" xml:space="preserve">
         <source>Sensor is warming up</source>
-        <target state="translated">Il sensore e' in fase di avvio</target>
+        <target>Il sensore e' in fase di avvio</target>
         <note>The description of sensor calibration state when sensor sensor is warming up.</note>
       </trans-unit>
       <trans-unit id="Sensor needs calibration" xml:space="preserve">
         <source>Sensor needs calibration</source>
-        <target state="translated">Il sensore necessita di calibrazione</target>
+        <target>Il sensore necessita di calibrazione</target>
         <note>The description of sensor calibration state when sensor needs calibration.</note>
       </trans-unit>
       <trans-unit id="Unknown characteristic" xml:space="preserve">
         <source>Unknown characteristic</source>
-        <target state="translated">Caratteristiche sconosciute</target>
+        <target>Caratteristiche sconosciute</target>
         <note>Error description</note>
       </trans-unit>
     </body>
   </file>
   <file original="CGMBLEKit/en.lproj/InfoPlist.strings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>CGMBLEKit</source>
-        <target state="needs-translation">CGMBLEKit</target>
+        <target>CGMBLEKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="CGMBLEKitG5Plugin/en.lproj/InfoPlist.strings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>CGMBLEKitG5Plugin</source>
-        <target state="needs-translation">CGMBLEKitG5Plugin</target>
+        <target>CGMBLEKitG5Plugin</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source>Copyright © 2019 LoopKit Authors. All rights reserved.</source>
-        <target state="needs-translation">Copyright © 2019 LoopKit Authors. All rights reserved.</target>
+        <target>Copyright © 2019 LoopKit Authors. All rights reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="CGMBLEKitG6Plugin/en.lproj/InfoPlist.strings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>CGMBLEKitG6Plugin</source>
-        <target state="needs-translation">CGMBLEKitG6Plugin</target>
+        <target>CGMBLEKitG6Plugin</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source>Copyright © 2019 LoopKit Authors. All rights reserved.</source>
-        <target state="needs-translation">Copyright © 2019 LoopKit Authors. All rights reserved.</target>
+        <target>Copyright © 2019 LoopKit Authors. All rights reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="CGMBLEKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="%@/min" xml:space="preserve">
         <source>%@/min</source>
-        <target state="needs-translation">%@/min</target>
+        <target>%@/min</target>
         <note>Format string for glucose trend per minute. (1: glucose value and unit)</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete this CGM?" xml:space="preserve">
         <source>Are you sure you want to delete this CGM?</source>
-        <target state="translated">Sei sicuro di voler eliminare questo CGM?</target>
+        <target>Sei sicuro di voler eliminare questo CGM?</target>
         <note>Confirmation message for deleting a CGM</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target state="translated">Cancella</target>
+        <target>Cancella</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
-        <target state="translated">Data</target>
+        <target>Data</target>
         <note>Title describing glucose date</note>
       </trans-unit>
       <trans-unit id="Delete CGM" xml:space="preserve">
         <source>Delete CGM</source>
-        <target state="translated">Elimina CGM</target>
+        <target>Elimina CGM</target>
         <note>Button title to delete CGM
 Title text for the button to remove a CGM from Loop</note>
       </trans-unit>
       <trans-unit id="Glucose" xml:space="preserve">
         <source>Glucose</source>
-        <target state="translated">Glicemie</target>
+        <target>Glicemie</target>
         <note>Title describing glucose value</note>
       </trans-unit>
       <trans-unit id="Glucose (Adjusted)" xml:space="preserve">
         <source>Glucose (Adjusted)</source>
-        <target state="translated">Glicemie (Corretto)</target>
+        <target>Glicemie (Corretto)</target>
         <note>Describes a glucose value adjusted to reflect a recent calibration</note>
       </trans-unit>
       <trans-unit id="Latest Calibration" xml:space="preserve">
         <source>Latest Calibration</source>
-        <target state="translated">Ultima calibrazione</target>
+        <target>Ultima calibrazione</target>
         <note>Section title for latest glucose calibration</note>
       </trans-unit>
       <trans-unit id="Latest Connection" xml:space="preserve">
         <source>Latest Connection</source>
-        <target state="needs-translation">Latest Connection</target>
+        <target>Latest Connection</target>
         <note>Section title for latest connection date</note>
       </trans-unit>
       <trans-unit id="Latest Reading" xml:space="preserve">
         <source>Latest Reading</source>
-        <target state="translated">Ultima lettura</target>
+        <target>Ultima lettura</target>
         <note>Section title for latest glucose reading</note>
       </trans-unit>
       <trans-unit id="Open App" xml:space="preserve">
         <source>Open App</source>
-        <target state="translated">Apri app</target>
+        <target>Apri app</target>
         <note>Button title to open CGM app</note>
       </trans-unit>
       <trans-unit id="Remote Data Synchronization" xml:space="preserve">
         <source>Remote Data Synchronization</source>
-        <target state="needs-translation">Remote Data Synchronization</target>
+        <target>Remote Data Synchronization</target>
         <note>Section title for remote data synchronization</note>
       </trans-unit>
       <trans-unit id="Session Age" xml:space="preserve">
         <source>Session Age</source>
-        <target state="translated">Età sessione</target>
+        <target>Età sessione</target>
         <note>Title describing sensor session age</note>
       </trans-unit>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
-        <target state="translated">Stato</target>
+        <target>Stato</target>
         <note>Title describing CGM calibration and battery state</note>
       </trans-unit>
       <trans-unit id="Transmitter Age" xml:space="preserve">
         <source>Transmitter Age</source>
-        <target state="translated">Età trasmettitore</target>
+        <target>Età trasmettitore</target>
         <note>Title describing transmitter session age</note>
       </trans-unit>
       <trans-unit id="Transmitter ID" xml:space="preserve">
         <source>Transmitter ID</source>
-        <target state="translated">ID Trasmettitore</target>
+        <target>ID Trasmettitore</target>
         <note>The title text for the Dexcom G5/G6 transmitter ID config value</note>
       </trans-unit>
       <trans-unit id="Trend" xml:space="preserve">
         <source>Trend</source>
-        <target state="translated">Andamento</target>
+        <target>Andamento</target>
         <note>Title describing glucose trend</note>
       </trans-unit>
       <trans-unit id="Upload Readings" xml:space="preserve">
         <source>Upload Readings</source>
-        <target state="needs-translation">Upload Readings</target>
+        <target>Upload Readings</target>
         <note>The title text for the upload glucose switch cell</note>
       </trans-unit>
     </body>
   </file>
   <file original="CGMBLEKitUI/Base.lproj/TransmitterManagerSetup.storyboard" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="5oU-vK-JHQ.text" xml:space="preserve">
         <source>Credentials</source>
-        <target state="translated">Credenziali</target>
+        <target>Credenziali</target>
         <note>Class = "UILabel"; text = "Credentials"; ObjectID = "5oU-vK-JHQ";</note>
       </trans-unit>
       <trans-unit id="Dds-49-o7G.title" xml:space="preserve">
         <source>Transmitter Setup</source>
-        <target state="translated">Configurazione trasmettitore</target>
+        <target>Configurazione trasmettitore</target>
         <note>Class = "UITableViewController"; title = "Transmitter Setup"; ObjectID = "Dds-49-o7G";</note>
       </trans-unit>
       <trans-unit id="GOT-KQ-cEh.text" xml:space="preserve">
         <source>Detail</source>
-        <target state="translated">Dettaglio</target>
+        <target>Dettaglio</target>
         <note>Class = "UILabel"; text = "Detail"; ObjectID = "GOT-KQ-cEh";</note>
       </trans-unit>
       <trans-unit id="Qub-6B-0aB.footerTitle" xml:space="preserve">
         <source>The transmitter ID can be found printed on the back of the device, on the side of the box it came in, and from within the settings menus of the receiver and mobile app.</source>
-        <target state="translated">L'ID del trasmettitore è riportato sul retro del dispositivo, ai lati della confezione di imballaggio e nel menù Impostazioni del ricevitore e dell’app per dispositivi mobili.</target>
+        <target>L'ID del trasmettitore è riportato sul retro del dispositivo, ai lati della confezione di imballaggio e nel menù Impostazioni del ricevitore e dell’app per dispositivi mobili.</target>
         <note>Class = "UITableViewSection"; footerTitle = "The transmitter ID can be found printed on the back of the device, on the side of the box it came in, and from within the settings menus of the receiver and mobile app."; ObjectID = "Qub-6B-0aB";</note>
       </trans-unit>
       <trans-unit id="Qub-6B-0aB.headerTitle" xml:space="preserve">
         <source>Transmitter ID</source>
-        <target state="translated">ID trasmettitore</target>
+        <target>ID trasmettitore</target>
         <note>Class = "UITableViewSection"; headerTitle = "Transmitter ID"; ObjectID = "Qub-6B-0aB";</note>
       </trans-unit>
       <trans-unit id="k1N-Rg-XDy.footerTitle" xml:space="preserve">
         <source>Data can be downloaded over the Internet from Share when the transmitter connection fails.</source>
-        <target state="translated">In caso di problemi di connessione del trasmettitore, puoi scaricare i dati da Internet grazie alla funzionalità Condividi.</target>
+        <target>In caso di problemi di connessione del trasmettitore, puoi scaricare i dati da Internet grazie alla funzionalità Condividi.</target>
         <note>Class = "UITableViewSection"; footerTitle = "Data can be downloaded over the Internet from Share when the transmitter connection fails."; ObjectID = "k1N-Rg-XDy";</note>
       </trans-unit>
       <trans-unit id="k1N-Rg-XDy.headerTitle" xml:space="preserve">
         <source>Dexcom Share</source>
-        <target state="needs-translation">Dexcom Share</target>
+        <target>Dexcom Share</target>
         <note>Class = "UITableViewSection"; headerTitle = "Dexcom Share"; ObjectID = "k1N-Rg-XDy";</note>
       </trans-unit>
       <trans-unit id="nKX-TW-GhD.placeholder" xml:space="preserve">
         <source>Enter the 6-digit transmitter ID</source>
-        <target state="translated">Inserisci ID a 6 cifre del trasmettitore</target>
+        <target>Inserisci ID a 6 cifre del trasmettitore</target>
         <note>Class = "UITextField"; placeholder = "Enter the 6-digit transmitter ID"; ObjectID = "nKX-TW-GhD";</note>
       </trans-unit>
     </body>
   </file>
   <file original="CGMBLEKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>CGMBLEKitUI</source>
-        <target state="needs-translation">CGMBLEKitUI</target>
+        <target>CGMBLEKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="ResetTransmitter/Base.lproj/Main.storyboard" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="3SD-s3-7OM.title" xml:space="preserve">
         <source>Reset Complete</source>
-        <target state="translated">Ripristino completato</target>
+        <target>Ripristino completato</target>
         <note>Class = "UINavigationItem"; title = "Reset Complete"; ObjectID = "3SD-s3-7OM";</note>
       </trans-unit>
       <trans-unit id="7nc-6t-4hZ.title" xml:space="preserve">
         <source>Reset Transmitter</source>
-        <target state="translated">Ripristina trasmettitore</target>
+        <target>Ripristina trasmettitore</target>
         <note>Class = "UINavigationItem"; title = "Reset Transmitter"; ObjectID = "7nc-6t-4hZ";</note>
       </trans-unit>
       <trans-unit id="G4a-ia-wQC.placeholder" xml:space="preserve">
         <source>Enter the 6-digit ID</source>
-        <target state="translated">Inserisci ID a 6 cifre del trasmettitore</target>
+        <target>Inserisci ID a 6 cifre del trasmettitore</target>
         <note>Class = "UITextField"; placeholder = "Enter the 6-digit ID"; ObjectID = "G4a-ia-wQC";</note>
       </trans-unit>
       <trans-unit id="LBC-6R-q79.normalTitle" xml:space="preserve">
         <source>Reset</source>
-        <target state="translated">Ripristina</target>
+        <target>Ripristina</target>
         <note>Class = "UIButton"; normalTitle = "Reset"; ObjectID = "LBC-6R-q79";</note>
       </trans-unit>
       <trans-unit id="MbK-kj-ejl.text" xml:space="preserve">
         <source>The transmitter has been successfully reset. Connect it to the app to begin a new sensor session.</source>
-        <target state="translated">Il trasmettitore è stato ripristinato. Collegalo all’app per avviare una nuova sessione di misurazione.</target>
+        <target>Il trasmettitore è stato ripristinato. Collegalo all’app per avviare una nuova sessione di misurazione.</target>
         <note>Class = "UITextView"; text = "The transmitter has been successfully reset. Connect it to the app to begin a new sensor session."; ObjectID = "MbK-kj-ejl";</note>
       </trans-unit>
       <trans-unit id="cJ3-Gc-pnc.text" xml:space="preserve">
@@ -401,77 +401,77 @@ Title text for the button to remove a CGM from Loop</note>
 This may have unintended consequences for data services, such as Clarity and Share, especially when using a reset transmitter with the same account.
 Resetting cannot be undone.
 Use at your own risk.</source>
-        <target state="translated">Questo strumento può ripristinare l'orologio di un trasmettitore che ha raggiunto la data di scadenza, consentendo di avviare nuove sessioni del sensore. Questo può avere effetti indesiderati su servizi di dati come Clarity e Share, soprattutto se il ripristino avviene con lo stesso account. Il ripristino non può essere annullato. Effettualo a tuo rischio e pericolo.</target>
+        <target>Questo strumento può ripristinare l'orologio di un trasmettitore che ha raggiunto la data di scadenza, consentendo di avviare nuove sessioni del sensore. Questo può avere effetti indesiderati su servizi di dati come Clarity e Share, soprattutto se il ripristino avviene con lo stesso account. Il ripristino non può essere annullato. Effettualo a tuo rischio e pericolo.</target>
         <note>Class = "UITextView"; text = "This tool can reset the clock on a transmitter that has reached its expiration date, allowing new sensor sessions to again be started.\nThis may have unintended consequences for data services, such as Clarity and Share, especially when using a reset transmitter with the same account.\nResetting cannot be undone.\nUse at your own risk."; ObjectID = "cJ3-Gc-pnc";</note>
       </trans-unit>
       <trans-unit id="gYy-Zz-y12.text" xml:space="preserve">
         <source>[Error goes here. And it can get very long and that's OK]</source>
-        <target state="translated">[L'errore va qui. Può essere molto lungo, ma va bene]</target>
+        <target>[L'errore va qui. Può essere molto lungo, ma va bene]</target>
         <note>Class = "UILabel"; text = "[Error goes here. And it can get very long and that's OK]"; ObjectID = "gYy-Zz-y12";</note>
       </trans-unit>
       <trans-unit id="vNG-r7-RbP.headerTitle" xml:space="preserve">
         <source>Transmitter ID</source>
-        <target state="translated">ID trasmettitore</target>
+        <target>ID trasmettitore</target>
         <note>Class = "UITableViewSection"; headerTitle = "Transmitter ID"; ObjectID = "vNG-r7-RbP";</note>
       </trans-unit>
     </body>
   </file>
   <file original="ResetTransmitter/en.lproj/InfoPlist.strings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Reset</source>
-        <target state="needs-translation">Reset</target>
+        <target>Reset</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>ResetTransmitter</source>
-        <target state="needs-translation">ResetTransmitter</target>
+        <target>ResetTransmitter</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">
         <source>Bluetooth is used to communicate with continuous glucose monitor devices</source>
-        <target state="needs-translation">Bluetooth is used to communicate with continuous glucose monitor devices</target>
+        <target>Bluetooth is used to communicate with continuous glucose monitor devices</target>
         <note>Privacy - Bluetooth Always Usage Description</note>
       </trans-unit>
       <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve">
         <source>Bluetooth is used to communicate with continuous glucose monitor devices</source>
-        <target state="needs-translation">Bluetooth is used to communicate with continuous glucose monitor devices</target>
+        <target>Bluetooth is used to communicate with continuous glucose monitor devices</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
       </trans-unit>
     </body>
   </file>
   <file original="ResetTransmitter/en.lproj/Localizable.strings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
       <trans-unit id="Are you sure you want to reset this transmitter?" xml:space="preserve">
         <source>Are you sure you want to reset this transmitter?</source>
-        <target state="translated">Sei sicuro di voler ripristinare questo trasmettitore?</target>
+        <target>Sei sicuro di voler ripristinare questo trasmettitore?</target>
         <note>Title of the reset confirmation sheet</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target state="translated">Annulla</target>
+        <target>Annulla</target>
         <note>Title of button to cancel reset</note>
       </trans-unit>
       <trans-unit id="It will take up to 10 minutes to complete." xml:space="preserve">
         <source>It will take up to 10 minutes to complete.</source>
-        <target state="translated">L’operazione richiederà circa 10 minuti.</target>
+        <target>L’operazione richiederà circa 10 minuti.</target>
         <note>Message of the reset confirmation sheet</note>
       </trans-unit>
       <trans-unit id="Reset" xml:space="preserve">
         <source>Reset</source>
-        <target state="translated">Ripristina</target>
+        <target>Ripristina</target>
         <note>Reset button title
    Title of button to begin reset</note>
       </trans-unit>
       <trans-unit id="Transmitter Reset Complete" xml:space="preserve">
         <source>Transmitter Reset Complete</source>
-        <target state="translated">Ripristino trasmettitore completato</target>
+        <target>Ripristino trasmettitore completato</target>
         <note>Notification title for background completion notification</note>
       </trans-unit>
     </body>
