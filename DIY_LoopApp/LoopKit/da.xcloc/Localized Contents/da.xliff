@@ -154,19 +154,19 @@
         <target state="final">%1$@ E bolus er måske ikke gennemført</target>
         <note>Describes an uncertain bolus failure (1: size of the bolus in units)</note>
       </trans-unit>
-      <trans-unit id="%@ Range" xml:space="preserve">
+      <trans-unit id="%@ Range" xml:space="preserve" approved="yes">
         <source>%@ Range</source>
-        <target state="translated">%@ område</target>
+        <target state="final">%@ område</target>
         <note>Format for correction range override therapy setting card</note>
       </trans-unit>
-      <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>A value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="translated">En værdi, du har angivet, er højere end den, der typisk anbefales til de fleste.</target>
+        <target state="final">En værdi, du har angivet, er højere end den, der typisk anbefales til de fleste.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
-      <trans-unit id="A value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="A value you have entered is lower than what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>A value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="translated">En værdi, du har angivet, er lavere end den, der typisk anbefales til de fleste.</target>
+        <target state="final">En værdi, du har angivet, er lavere end den, der typisk anbefales til de fleste.</target>
         <note>Descriptive text for guardrail low value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Authorization Denied" xml:space="preserve" approved="yes">
@@ -174,9 +174,9 @@
         <target state="final">Tilladelse nægtet</target>
         <note>The error description describing when Health sharing was denied</note>
       </trans-unit>
-      <trans-unit id="Basal Rates" xml:space="preserve">
+      <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
         <source>Basal Rates</source>
-        <target state="translated">Basalrater</target>
+        <target state="final">Basalrater</target>
         <note>Title text for basal rates</note>
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve" approved="yes">
@@ -194,9 +194,9 @@
         <target state="final">Kommunikations fejl</target>
         <note>Generic pump error description</note>
       </trans-unit>
-      <trans-unit id="Communications interrupted during insulin delivery command." xml:space="preserve">
+      <trans-unit id="Communications interrupted during insulin delivery command." xml:space="preserve" approved="yes">
         <source>Communications interrupted during insulin delivery command.</source>
-        <target state="translated">Kommunikation afbrudt under insulinafgivelseskommando.</target>
+        <target state="final">Kommunikation afbrudt under insulinafgivelse (kommando).</target>
         <note>Failure reason for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Connection Failure" xml:space="preserve" approved="yes">
@@ -269,9 +269,9 @@
         <target state="final">Det er sikkert at forsøge igen</target>
         <note>Recovery instruction for a certain bolus failure</note>
       </trans-unit>
-      <trans-unit id="Make sure your pump is within communication range of your phone." xml:space="preserve">
+      <trans-unit id="Make sure your pump is within communication range of your phone." xml:space="preserve" approved="yes">
         <source>Make sure your pump is within communication range of your phone.</source>
-        <target state="translated">Sørg for, at din pumpe er tæt på din telefon.</target>
+        <target state="final">Sørg for, at din pumpe er tæt på din telefon.</target>
         <note>Recovery suggestion for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate" xml:space="preserve" approved="yes">
@@ -309,9 +309,9 @@
         <target state="final">OK</target>
         <note>Sensor state description for the valid state</note>
       </trans-unit>
-      <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>One or more of the values you have entered is outside of what is typically recommended for most people.</source>
-        <target state="translated">En eller flere af de værdier, du har indtastet, er udenfor hvad der generelt anbefales.</target>
+        <target state="final">En eller flere af de værdier, du har indtastet, er udenfor hvad der generelt anbefales.</target>
         <note>Descriptive text for saving settings outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Please re-enable sharing in Health" xml:space="preserve" approved="yes">
@@ -339,9 +339,9 @@
         <target state="final">Stiger meget hurtigt</target>
         <note>Glucose trend up-up-up</note>
       </trans-unit>
-      <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="translated">Nogle af de værdier, du har angivet, ligger uden for det, der typisk anbefales til de fleste.</target>
+        <target state="final">Nogle af de værdier, du har angivet, ligger uden for det, der typisk anbefales til de fleste.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Suspend Threshold" xml:space="preserve" approved="yes">
@@ -349,9 +349,9 @@
         <target state="final">Suspenderingsgrænse</target>
         <note>Title text for suspend threshold</note>
       </trans-unit>
-      <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve">
+      <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve" approved="yes">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</source>
-        <target state="translated">Sænker midlertidigt dit blodsukker mål før et måltid for at modvirke stigning i blodsukker efter måltidet.</target>
+        <target state="final">Sænker midlertidigt dit blodsukker mål før et måltid for at modvirke stigning i blodsukker efter måltidet.</target>
         <note>Descriptive text for pre-meal correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end." xml:space="preserve" approved="yes">
@@ -359,9 +359,9 @@
         <target state="final">Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end.</target>
         <note>Description of pre-meal mode</note>
       </trans-unit>
-      <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
+      <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve" approved="yes">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</source>
-        <target state="translated">Hæver midlertidigt dit blodsukkermål før, under eller efter fysisk aktivitet for at reducere risikoen for lavt blodsukker.</target>
+        <target state="final">Hæver midlertidigt dit blodsukkermål før, under eller efter fysisk aktivitet for at reducere risikoen for lavt blodsukker.</target>
         <note>Descriptive text for workout correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." xml:space="preserve" approved="yes">
@@ -374,19 +374,19 @@
         <target state="final">Appen antager, at insulinen arbejder aktivt i 6 timer. Du kan vælge mellem forskellige modeller for, hvordan app'en måler insulinets maksimale aktivitet.</target>
         <note>Descriptive text for insulin model</note>
       </trans-unit>
-      <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>The value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="translated">En værdi, du har angivet, er højere end den, der typisk anbefales til de fleste.</target>
+        <target state="final">En værdi, du har angivet, er højere end den, der typisk anbefales til de fleste.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
-      <trans-unit id="The value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="The value you have entered is lower than what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>The value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="translated">En værdi, du har angivet, er lavere end den, der typisk anbefales til de fleste.</target>
+        <target state="final">En værdi, du har angivet, er lavere end den, der typisk anbefales til de fleste.</target>
         <note>Descriptive text for guardrail low value warning</note>
       </trans-unit>
-      <trans-unit id="The values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="The values you have entered are outside of what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>The values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="translated">Nogle af de værdier, du har angivet, ligger uden for det, der typisk anbefales til de fleste.</target>
+        <target state="final">Nogle af de værdier, du har angivet, ligger uden for det, der typisk anbefales til de fleste.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve" approved="yes">
@@ -399,9 +399,9 @@
         <target state="final">E/t</target>
         <note>The short unit display string for international units of insulin per hour</note>
       </trans-unit>
-      <trans-unit id="Uncertain Delivery" xml:space="preserve">
+      <trans-unit id="Uncertain Delivery" xml:space="preserve" approved="yes">
         <source>Uncertain Delivery</source>
-        <target state="translated">Usikker afgivelse</target>
+        <target state="final">Usikker afgivelse</target>
         <note>Error description for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Unit" xml:space="preserve" approved="yes">
@@ -816,9 +816,9 @@
         <target state="final">Er du sikker på at du vil slette alle reservoir værdier?</target>
         <note>Action sheet confirmation message for reservoir deletion</note>
       </trans-unit>
-      <trans-unit id="Authenticate to save therapy setting" xml:space="preserve">
+      <trans-unit id="Authenticate to save therapy setting" xml:space="preserve" approved="yes">
         <source>Authenticate to save therapy setting</source>
-        <target state="translated">Godkend for at gemme behandlingsindstilling</target>
+        <target state="final">Godkend for at gemme behandlingsindstilling</target>
         <note>Authentication hint string for therapy settings</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
@@ -1118,9 +1118,9 @@
         <target state="final">Høj suspenderingsgrænse</target>
         <note>Title text for the high suspend threshold warning</note>
       </trans-unit>
-      <trans-unit id="If these settings look good to you, tap Save Settings to continue." xml:space="preserve">
+      <trans-unit id="If these settings look good to you, tap Save Settings to continue." xml:space="preserve" approved="yes">
         <source>If these settings look good to you, tap Save Settings to continue.</source>
-        <target state="translated">Hvis indstillingerne er korrekte, skal du trykke på "Gem indstillinger" for at fortsætte.</target>
+        <target state="final">Hvis indstillingerne er korrekte, skal du trykke på "Gem indstillinger" for at fortsætte.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." xml:space="preserve" approved="yes">
@@ -1324,14 +1324,14 @@
         <target state="final">Fortsætter</target>
         <note>Title text for button when insulin delivery is in the process of being resumed</note>
       </trans-unit>
-      <trans-unit id="Review and Save Settings" xml:space="preserve">
+      <trans-unit id="Review and Save Settings" xml:space="preserve" approved="yes">
         <source>Review and Save Settings</source>
-        <target state="translated">Gennemse og gem indstillinger</target>
+        <target state="final">Gennemse og gem indstillinger</target>
         <note>title for summary description section</note>
       </trans-unit>
-      <trans-unit id="Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." xml:space="preserve">
+      <trans-unit id="Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." xml:space="preserve" approved="yes">
         <source>Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen.</source>
-        <target state="translated">Gennemgå dine behandlingsindstillinger nedenfor. Hvis du vil redigere en af disse indstillinger, skal du trykke på "Tilbage" for at gå tilbage til skærmen.</target>
+        <target state="final">Gennemgå dine behandlingsindstillinger nedenfor. Hvis du vil redigere en af disse indstillinger, skal du trykke på "Tilbage" for at gå tilbage til den skærm.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="Running" xml:space="preserve" approved="yes">
@@ -1395,9 +1395,9 @@
         <target state="final">Langsom</target>
         <note>Section title for slow absorbing food</note>
       </trans-unit>
-      <trans-unit id="Some of the values you have entered are outside of what Tidepool typically recommends for most people." xml:space="preserve">
+      <trans-unit id="Some of the values you have entered are outside of what Tidepool typically recommends for most people." xml:space="preserve" approved="yes">
         <source>Some of the values you have entered are outside of what Tidepool typically recommends for most people.</source>
-        <target state="translated">Nogle af de værdier, du har angivet, ligger uden for det, Tidepool typisk anbefaler.</target>
+        <target state="final">Nogle af de værdier, du har angivet, ligger uden for det, Tidepool typisk anbefaler.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." xml:space="preserve" approved="yes">
@@ -1460,39 +1460,39 @@
         <target state="final">Korrektionsområde</target>
         <note>The text for the override target range setting</note>
       </trans-unit>
-      <trans-unit id="Temporary Override" xml:space="preserve">
+      <trans-unit id="Temporary Override" xml:space="preserve" approved="yes">
         <source>Temporary Override</source>
-        <target state="translated">Midlertidig override</target>
+        <target state="final">Midlertidig override</target>
         <note>The title for the override selection screen</note>
       </trans-unit>
-      <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve">
+      <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve" approved="yes">
         <source>The legacy model used by Loop, allowing customization of action duration.</source>
-        <target state="translated">Den ældre model, der bruges af Loop, og som gør det muligt at tilpasse handlingens varighed.</target>
+        <target state="final">Ældre model, der bruges af Loop, og som gør det muligt at tilpasse handlingens varighed.</target>
         <note>Subtitle description of Walsh insulin model setting</note>
       </trans-unit>
-      <trans-unit id="The maximum absorption time is %@" xml:space="preserve">
+      <trans-unit id="The maximum absorption time is %@" xml:space="preserve" approved="yes">
         <source>The maximum absorption time is %@</source>
-        <target state="translated">Den maksimale absorptionstid er %@</target>
+        <target state="final">Den maksimale absorptionstid er %@</target>
         <note>Alert body displayed absorption time greater than max (1: maximum absorption time)</note>
       </trans-unit>
-      <trans-unit id="The maximum allowed amount is %@ grams" xml:space="preserve">
+      <trans-unit id="The maximum allowed amount is %@ grams" xml:space="preserve" approved="yes">
         <source>The maximum allowed amount is %@ grams</source>
-        <target state="translated">Den maksimalt tilladte dosis er %@ grams</target>
+        <target state="final">Den maksimalt tilladte mængde er %@ grams</target>
         <note>Alert body displayed for quantity greater than max (1: maximum quantity in grams)</note>
       </trans-unit>
-      <trans-unit id="The rapid-acting adult model assumes peak activity at 75 minutes." xml:space="preserve">
+      <trans-unit id="The rapid-acting adult model assumes peak activity at 75 minutes." xml:space="preserve" approved="yes">
         <source>The rapid-acting adult model assumes peak activity at 75 minutes.</source>
-        <target state="translated">Den rapid-acting adult model antager peak aktivitet på 75 minutter.</target>
+        <target state="final">Den rapid-acting adult model antager peak aktivitet på 75 minutter.</target>
         <note>Information about adult insulin model</note>
       </trans-unit>
-      <trans-unit id="The rapid-acting child model assumes peak activity at 65 minutes." xml:space="preserve">
+      <trans-unit id="The rapid-acting child model assumes peak activity at 65 minutes." xml:space="preserve" approved="yes">
         <source>The rapid-acting child model assumes peak activity at 65 minutes.</source>
-        <target state="translated">Den rapid-acting adult model antager peak aktivitet på 65 minutter.</target>
+        <target state="final">Den rapid-acting adult model antager peak aktivitet på 65 minutter.</target>
         <note>Information about child insulin model</note>
       </trans-unit>
-      <trans-unit id="The schedule starts at midnight and cannot contain a rate of 0 U/hr." xml:space="preserve">
+      <trans-unit id="The schedule starts at midnight and cannot contain a rate of 0 U/hr." xml:space="preserve" approved="yes">
         <source>The schedule starts at midnight and cannot contain a rate of 0 U/hr.</source>
-        <target state="translated">Tidsplanen starter ved midnat og kan ikke indeholde en dosis på 0 U/time.</target>
+        <target state="final">Tidsplanen starter ved midnat og kan ikke indeholde en dosis på 0 U/time.</target>
         <note>Information about basal rate scheduling</note>
       </trans-unit>
       <trans-unit id="Therapy Settings" xml:space="preserve" approved="yes">
@@ -1505,30 +1505,30 @@
         <target state="final">Behandlingsindstillinger Support</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="This model assumes peak insulin activity at 55 minutes." xml:space="preserve">
+      <trans-unit id="This model assumes peak insulin activity at 55 minutes." xml:space="preserve" approved="yes">
         <source>This model assumes peak insulin activity at 55 minutes.</source>
-        <target state="translated">Denne model forudsætter peak insulin aktivitet på 55 minutter.</target>
+        <target state="final">Denne model forudsætter peak insulin aktivitet på 55 minutter.</target>
         <note>Subtitle of Fiasp preset</note>
       </trans-unit>
-      <trans-unit id="This model assumes peak insulin activity at 65 minutes." xml:space="preserve">
+      <trans-unit id="This model assumes peak insulin activity at 65 minutes." xml:space="preserve" approved="yes">
         <source>This model assumes peak insulin activity at 65 minutes.</source>
-        <target state="translated">Denne model forudsætter peak insulin aktivitet på 65 minutter.</target>
+        <target state="final">Denne model forudsætter peak insulin aktivitet på 65 minutter.</target>
         <note>Subtitle of Rapid-Acting – Children preset</note>
       </trans-unit>
-      <trans-unit id="This model assumes peak insulin activity at 75 minutes." xml:space="preserve">
+      <trans-unit id="This model assumes peak insulin activity at 75 minutes." xml:space="preserve" approved="yes">
         <source>This model assumes peak insulin activity at 75 minutes.</source>
-        <target state="translated">Denne model forudsætter peak insulin aktivitet på 75 minutter.</target>
+        <target state="final">Denne model forudsætter peak insulin aktivitet på 75 minutter.</target>
         <note>Subtitle of Rapid-Acting – Adult preset</note>
       </trans-unit>
-      <trans-unit id="This will typically be" xml:space="preserve">
+      <trans-unit id="This will typically be" xml:space="preserve" approved="yes">
         <source>This will typically be</source>
-        <target state="translated">Dette vil typisk være</target>
+        <target state="final">Dette vil typisk være</target>
         <note>Information about pre-meal range relative to correction range
    Information about workout range relative to correction range</note>
       </trans-unit>
-      <trans-unit id="Time" xml:space="preserve">
+      <trans-unit id="Time" xml:space="preserve" approved="yes">
         <source>Time</source>
-        <target state="translated">Tid</target>
+        <target state="final">Tid</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Times in %1$@%2$@%3$@" xml:space="preserve">
