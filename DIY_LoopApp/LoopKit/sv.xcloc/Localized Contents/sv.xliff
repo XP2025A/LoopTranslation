@@ -156,17 +156,17 @@
       </trans-unit>
       <trans-unit id="%@ Range" xml:space="preserve">
         <source>%@ Range</source>
-        <target state="needs-translation">%@ Range</target>
+        <target state="translated">%@ Intervall</target>
         <note>Format for correction range override therapy setting card</note>
       </trans-unit>
       <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="needs-translation">A value you have entered is higher than what is typically recommended for most people.</target>
+        <target state="translated">Det värde du har angett är högre än vad som normalt rekommenderas för de flesta.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="A value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="needs-translation">A value you have entered is lower than what is typically recommended for most people.</target>
+        <target state="translated">Det värde du har angett är lägre än vad som normalt rekommenderas för de flesta.</target>
         <note>Descriptive text for guardrail low value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Authorization Denied" xml:space="preserve" approved="yes">
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target state="needs-translation">Basal Rates</target>
+        <target state="translated">Basaldoser</target>
         <note>Title text for basal rates</note>
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve" approved="yes">
@@ -196,7 +196,7 @@
       </trans-unit>
       <trans-unit id="Communications interrupted during insulin delivery command." xml:space="preserve">
         <source>Communications interrupted during insulin delivery command.</source>
-        <target state="needs-translation">Communications interrupted during insulin delivery command.</target>
+        <target state="translated">Kommunikation avbruten under insulintillförselkommando.</target>
         <note>Failure reason for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Connection Failure" xml:space="preserve" approved="yes">
@@ -361,7 +361,7 @@
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</source>
-        <target state="needs-translation">Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</target>
+        <target state="translated">Höj tillfälligt ditt målvärde före, under eller efter fysisk aktivitet för att minska risken för låga blodsockervärden.</target>
         <note>Descriptive text for workout correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." xml:space="preserve" approved="yes">
@@ -376,12 +376,12 @@
       </trans-unit>
       <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
         <source>The value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="needs-translation">The value you have entered is higher than what is typically recommended for most people.</target>
+        <target state="translated">Det värde du har angett är högre än vad som normalt rekommenderas för de flesta.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
       <trans-unit id="The value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
         <source>The value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="needs-translation">The value you have entered is lower than what is typically recommended for most people.</target>
+        <target state="translated">Det värde du har angett är lägre än vad som normalt rekommenderas för de flesta.</target>
         <note>Descriptive text for guardrail low value warning</note>
       </trans-unit>
       <trans-unit id="The values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
@@ -1326,7 +1326,7 @@
       </trans-unit>
       <trans-unit id="Review and Save Settings" xml:space="preserve">
         <source>Review and Save Settings</source>
-        <target state="needs-translation">Review and Save Settings</target>
+        <target state="translated">Granska och spara inställningar</target>
         <note>title for summary description section</note>
       </trans-unit>
       <trans-unit id="Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." xml:space="preserve">
@@ -1786,7 +1786,7 @@
     <body>
       <trans-unit id="Comms Issue" xml:space="preserve">
         <source>Comms Issue</source>
-        <target state="needs-translation">Comms Issue</target>
+        <target state="translated">Problem med kommandon</target>
         <note>Status highlight that delivery is uncertain.</note>
       </trans-unit>
       <trans-unit id="Insulin Suspended" xml:space="preserve">
@@ -1849,12 +1849,12 @@ Without communication, the app cannot continue to send commands for insulin deli
       </trans-unit>
       <trans-unit id="Back" xml:space="preserve">
         <source>Back</source>
-        <target state="needs-translation">Back</target>
+        <target state="translated">Tillbaka</target>
         <note>Back button text on DeliveryUncertaintyRecoveryView</note>
       </trans-unit>
       <trans-unit id="CGM Settings" xml:space="preserve">
         <source>CGM Settings</source>
-        <target state="needs-translation">CGM Settings</target>
+        <target state="translated">CGM-inställningar</target>
         <note>Title for CGM simulator settings</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve" approved="yes">
@@ -1864,7 +1864,7 @@ Without communication, the app cannot continue to send commands for insulin deli
       </trans-unit>
       <trans-unit id="Comms Recovery" xml:space="preserve">
         <source>Comms Recovery</source>
-        <target state="needs-translation">Comms Recovery</target>
+        <target state="translated">Återställning av kommandon</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Service" xml:space="preserve" approved="yes">
@@ -1889,12 +1889,12 @@ Without communication, the app cannot continue to send commands for insulin deli
       </trans-unit>
       <trans-unit id="Pump Settings" xml:space="preserve">
         <source>Pump Settings</source>
-        <target state="needs-translation">Pump Settings</target>
+        <target state="translated">Pumpinställningar</target>
         <note>Title for Pump simulator settings</note>
       </trans-unit>
       <trans-unit id="Recover Simulator" xml:space="preserve">
         <source>Recover Simulator</source>
-        <target state="needs-translation">Recover Simulator</target>
+        <target state="translated">Återställ simulator</target>
         <note>Button title recovering comms</note>
       </trans-unit>
       <trans-unit id="quantity-and-unit-space" xml:space="preserve" approved="yes">
