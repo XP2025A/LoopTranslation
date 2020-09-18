@@ -373,9 +373,9 @@
         <target state="final">Kameraet bruges til at scanne stregkoder på enheder</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
+      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve" approved="yes">
         <source>Face ID is used to authenticate insulin bolus and to save changes to therapy settings.</source>
-        <target state="translated">Face ID bruges til at godkende insulin bolus og til at gemme ændringer i behandlingsindstillinger.</target>
+        <target state="final">Face ID bruges til at godkende bolus og til at gemme ændringer i indstillinger.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve" approved="yes">
@@ -452,10 +452,10 @@
         <target state="final">%1$@ E/time @ %2$@</target>
         <note>The format for recommended temp basal rate and time. (1: localized rate number)(2: localized time)</note>
       </trans-unit>
-      <trans-unit id="%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.&#10;You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options." xml:space="preserve">
+      <trans-unit id="%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.&#10;You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options." xml:space="preserve" approved="yes">
         <source>%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.
 You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options.</source>
-        <target state="translated">%1$@ kan ikke kommunikere med insulinpumpen. Appen vil fortsætte med at forsøge at nå din pumpe, men insulinafgivelsesoplysninger kan ikke opdateres, og ingen automatisering kan fortsætte.
+        <target state="final">%1$@ kan ikke kommunikere med insulinpumpen. Appen vil fortsætte med at forsøge at nå din pumpe, men insulinafgivelsesoplysninger kan ikke opdateres, og ingen automatisering kan fortsætte.
 Du kan vente flere minutter for at se, om problemet bliver løst, eller tryk på knappen nedenfor for at få mere at vide om andre muligheder.</target>
         <note>Message for alert shown when delivery status is uncertain. (1: app name)</note>
       </trans-unit>
@@ -494,9 +494,9 @@ Du kan vente flere minutter for at se, om problemet bliver løst, eller tryk på
         <target state="final">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
-      <trans-unit id="--" xml:space="preserve">
+      <trans-unit id="--" xml:space="preserve" approved="yes">
         <source>--</source>
-        <target state="translated">--</target>
+        <target state="final">--</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="15 min glucose regression coefficient (b₁), continued with decay over 30 min" xml:space="preserve" approved="yes">
@@ -549,9 +549,9 @@ Du kan vente flere minutter for at se, om problemet bliver løst, eller tryk på
         <target state="final">AccepterAnbefaletBolus</target>
         <note>Action to copy the recommended Bolus value to the actual Bolus Field</note>
       </trans-unit>
-      <trans-unit id="Accounts" xml:space="preserve">
+      <trans-unit id="Accounts" xml:space="preserve" approved="yes">
         <source>Accounts</source>
-        <target state="translated">Konti</target>
+        <target state="final">Konti</target>
         <note>The title of the accounts section in settings</note>
       </trans-unit>
       <trans-unit id="Active Carbohydrates" xml:space="preserve" approved="yes">
@@ -579,9 +579,9 @@ Du kan vente flere minutter for at se, om problemet bliver løst, eller tryk på
         <target state="final">Aktiv insulin: %@</target>
         <note>The string format describing active insulin. (1: localized insulin value description)</note>
       </trans-unit>
-      <trans-unit id="Add Account" xml:space="preserve">
+      <trans-unit id="Add Account" xml:space="preserve" approved="yes">
         <source>Add Account</source>
-        <target state="translated">Tilføj konto</target>
+        <target state="final">Tilføj konto</target>
         <note>The title of the add account action sheet in settings
    The title of the add account button in settings</note>
       </trans-unit>
@@ -648,10 +648,10 @@ Du kan vente flere minutter for at se, om problemet bliver løst, eller tryk på
         <target state="final">En opdateret bolus anbefaling er tilgængelig.</target>
         <note>Alert message when glucose data returns while on bolus screen</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete all your %@ Data?&#10;(This action is not reversible)" xml:space="preserve">
+      <trans-unit id="Are you sure you want to delete all your %@ Data?&#10;(This action is not reversible)" xml:space="preserve" approved="yes">
         <source>Are you sure you want to delete all your %@ Data?
 (This action is not reversible)</source>
-        <target state="translated">Er du sikker på, at du vil slette alle dine %@ data?
+        <target state="final">Er du sikker på, at du vil slette alle dine %@ data?
 (Denne handling kan ikke fortrydes)</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -845,9 +845,9 @@ Du kan vente flere minutter for at se, om problemet bliver løst, eller tryk på
         <target state="final">Dato</target>
         <note>Title of the carb entry date picker cell</note>
       </trans-unit>
-      <trans-unit id="Delete" xml:space="preserve">
+      <trans-unit id="Delete" xml:space="preserve" approved="yes">
         <source>Delete</source>
-        <target state="translated">Slet</target>
+        <target state="final">Slet</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Account" xml:space="preserve" approved="yes">
@@ -865,24 +865,24 @@ Du kan vente flere minutter for at se, om problemet bliver løst, eller tryk på
         <target state="final">Slet tjeneste</target>
         <note>Button title to delete a service</note>
       </trans-unit>
-      <trans-unit id="Delete Testing CGM Data" xml:space="preserve">
+      <trans-unit id="Delete Testing CGM Data" xml:space="preserve" approved="yes">
         <source>Delete Testing CGM Data</source>
-        <target state="translated">Slet test af CGM-data</target>
+        <target state="final">Slet CGM testdata</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Delete Testing Data" xml:space="preserve">
+      <trans-unit id="Delete Testing Data" xml:space="preserve" approved="yes">
         <source>Delete Testing Data</source>
-        <target state="translated">Slet testdata</target>
+        <target state="final">Slet testdata</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Delete Testing Pump Data" xml:space="preserve">
+      <trans-unit id="Delete Testing Pump Data" xml:space="preserve" approved="yes">
         <source>Delete Testing Pump Data</source>
-        <target state="translated">Slet test-pumpedata</target>
+        <target state="final">Slet pumpe testdata</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Deliver" xml:space="preserve">
+      <trans-unit id="Deliver" xml:space="preserve" approved="yes">
         <source>Deliver</source>
-        <target state="translated">Afgiv</target>
+        <target state="final">Afgiv</target>
         <note>Button text to deliver a bolus</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve" approved="yes">
@@ -920,9 +920,9 @@ Du kan vente flere minutter for at se, om problemet bliver løst, eller tryk på
         <target state="final">Aktiverer</target>
         <note>The action hint of the workout mode toggle button when disabled</note>
       </trans-unit>
-      <trans-unit id="Enter Bolus" xml:space="preserve">
+      <trans-unit id="Enter Bolus" xml:space="preserve" approved="yes">
         <source>Enter Bolus</source>
-        <target state="translated">Indtast Bolus</target>
+        <target state="final">Indtast bolus</target>
         <note>Button text to begin entering a bolus</note>
       </trans-unit>
       <trans-unit id="Enter Manual BG" xml:space="preserve" approved="yes">
@@ -960,9 +960,9 @@ Du kan vente flere minutter for at se, om problemet bliver løst, eller tryk på
         <target state="final">Overstiger maximum bolus</target>
         <note>The title of the alert describing a maximum bolus validation error</note>
       </trans-unit>
-      <trans-unit id="Failed to Resume Insulin Delivery" xml:space="preserve">
+      <trans-unit id="Failed to Resume Insulin Delivery" xml:space="preserve" approved="yes">
         <source>Failed to Resume Insulin Delivery</source>
-        <target state="translated">Insulinafgivelse kunne ikke genoptages</target>
+        <target state="final">Insulinafgivelse kunne ikke genoptages</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
       <trans-unit id="Fiasp" xml:space="preserve" approved="yes">
@@ -1077,9 +1077,9 @@ Du kan vente flere minutter for at se, om problemet bliver løst, eller tryk på
         <target state="final">Åbner CGM app</target>
         <note>Glucose HUD accessibility hint</note>
       </trans-unit>
-      <trans-unit id="Learn More" xml:space="preserve">
+      <trans-unit id="Learn More" xml:space="preserve" approved="yes">
         <source>Learn More</source>
-        <target state="translated">Lær mere</target>
+        <target state="final">Lær mere</target>
         <note>OK button title for alert shown when delivery status is uncertain</note>
       </trans-unit>
       <trans-unit id="Loading..." xml:space="preserve" approved="yes">
@@ -1167,9 +1167,9 @@ Du kan vente flere minutter for at se, om problemet bliver løst, eller tryk på
         <target state="final">Mangler blodsukker data</target>
         <note>Title for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
-      <trans-unit id="No Recent Pump Data" xml:space="preserve">
+      <trans-unit id="No Recent Pump Data" xml:space="preserve" approved="yes">
         <source>No Recent Pump Data</source>
-        <target state="translated">Ingen nyere pumpedata</target>
+        <target state="final">Ingen nyere pumpedata</target>
         <note>Title for bolus screen notice when pump data is missing or stale</note>
       </trans-unit>
       <trans-unit id="No connected devices, or failure during device connection" xml:space="preserve" approved="yes">
@@ -1342,9 +1342,9 @@ Faktisk: %2$@ (%3$@)</target>
         <target state="final">Suspenderingsgrænse</target>
         <note>The title text in settings</note>
       </trans-unit>
-      <trans-unit id="Tap here to set up a Account" xml:space="preserve">
+      <trans-unit id="Tap here to set up a Account" xml:space="preserve" approved="yes">
         <source>Tap here to set up a Account</source>
-        <target state="translated">Tryk her for at oprette en pumpe</target>
+        <target state="final">Tryk her for at oprette en pumpe</target>
         <note>The descriptive text of the add account button in settings</note>
       </trans-unit>
       <trans-unit id="Tap here to set up a CGM" xml:space="preserve" approved="yes">
@@ -1402,9 +1402,9 @@ Faktisk: %2$@ (%3$@)</target>
         <target state="final">E</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
-      <trans-unit id="Unable To Reach Pump" xml:space="preserve">
+      <trans-unit id="Unable To Reach Pump" xml:space="preserve" approved="yes">
         <source>Unable To Reach Pump</source>
-        <target state="translated">Kan ikke få kontakt til pumpen</target>
+        <target state="final">Kan ikke få kontakt til pumpen</target>
         <note>Title for alert shown when delivery status is uncertain</note>
       </trans-unit>
       <trans-unit id="Unable to Save Carb Entry" xml:space="preserve" approved="yes">
@@ -1447,9 +1447,9 @@ Faktisk: %2$@ (%3$@)</target>
         <target state="final">Dit blodsukker er under eller forventes at gå under din suspenderingsgrænse, %@.</target>
         <note>Caption for bolus screen notice when no bolus is recommended due to prediction dropping below suspend threshold</note>
       </trans-unit>
-      <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve">
+      <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve" approved="yes">
         <source>Your pump data is stale. Loop cannot recommend a bolus amount.</source>
-        <target state="translated">Dine pumpedata er forældede. Loop kan ikke anbefale en bolus mængde.</target>
+        <target state="final">Dine pumpedata er forældede. Loop kan ikke anbefale en bolus mængde.</target>
         <note>Caption for bolus screen notice when pump data is missing or stale</note>
       </trans-unit>
       <trans-unit id="at %@" xml:space="preserve" approved="yes">
@@ -1599,9 +1599,9 @@ Faktisk: %2$@ (%3$@)</target>
         <target state="final">Til sidst 92 mg/dL</target>
         <note>Class = "UILabel"; text = "eventually 92 mg/dL"; ObjectID = "Rse-x8-amW";</note>
       </trans-unit>
-      <trans-unit id="SQx-au-ZcM.text" xml:space="preserve">
+      <trans-unit id="SQx-au-ZcM.text" xml:space="preserve" approved="yes">
         <source>g Active Carbs</source>
-        <target state="translated">g Aktive kulhydrater</target>
+        <target state="final">g aktive kulhydrater</target>
         <note>Class = "UILabel"; text = "g Active Carbs"; ObjectID = "SQx-au-ZcM";</note>
       </trans-unit>
       <trans-unit id="Tz7-80-bJ7.title" xml:space="preserve" approved="yes">
