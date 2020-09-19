@@ -311,7 +311,7 @@
       </trans-unit>
       <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve">
         <source>One or more of the values you have entered is outside of what is typically recommended for most people.</source>
-        <target state="needs-translation">One or more of the values you have entered is outside of what is typically recommended for most people.</target>
+        <target state="translated">Ett eller flera av de värden du har angett är utanför vad som generellt rekommenderas.</target>
         <note>Descriptive text for saving settings outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Please re-enable sharing in Health" xml:space="preserve" approved="yes">
@@ -341,7 +341,7 @@
       </trans-unit>
       <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="needs-translation">Some of the values you have entered are outside of what is typically recommended for most people.</target>
+        <target state="translated">Ett eller flera av de värden du har angett är utanför vad som generellt rekommenderas.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Suspend Threshold" xml:space="preserve" approved="yes">
@@ -351,7 +351,7 @@
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</source>
-        <target state="needs-translation">Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</target>
+        <target state="translated">Sänk tillfälligt ditt målvärde före en måltid för att motverka postprandiella hyperglykemier.</target>
         <note>Descriptive text for pre-meal correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end." xml:space="preserve" approved="yes">
@@ -386,7 +386,7 @@
       </trans-unit>
       <trans-unit id="The values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>The values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="needs-translation">The values you have entered are outside of what is typically recommended for most people.</target>
+        <target state="translated">Ett eller flera av de värden du har angett är utanför vad som generellt rekommenderas.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve" approved="yes">
@@ -401,7 +401,7 @@
       </trans-unit>
       <trans-unit id="Uncertain Delivery" xml:space="preserve">
         <source>Uncertain Delivery</source>
-        <target state="needs-translation">Uncertain Delivery</target>
+        <target state="translated">Oklart ifall bolus administrerats</target>
         <note>Error description for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Unit" xml:space="preserve" approved="yes">
@@ -818,7 +818,7 @@
       </trans-unit>
       <trans-unit id="Authenticate to save therapy setting" xml:space="preserve">
         <source>Authenticate to save therapy setting</source>
-        <target state="needs-translation">Authenticate to save therapy setting</target>
+        <target state="translated">Autentisera för att spara behandlingsinställningar</target>
         <note>Authentication hint string for therapy settings</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
@@ -1120,7 +1120,7 @@
       </trans-unit>
       <trans-unit id="If these settings look good to you, tap Save Settings to continue." xml:space="preserve">
         <source>If these settings look good to you, tap Save Settings to continue.</source>
-        <target state="needs-translation">If these settings look good to you, tap Save Settings to continue.</target>
+        <target state="translated">Om inställningarna ser bra ut, tryck på Spara inställningar för att fortsätta.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." xml:space="preserve" approved="yes">
@@ -1331,7 +1331,7 @@
       </trans-unit>
       <trans-unit id="Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." xml:space="preserve">
         <source>Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen.</source>
-        <target state="needs-translation">Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen.</target>
+        <target state="translated">Granska dina behandlingsinställningar nedan. Om du behöver ändra någon av dessa, tryck Tillbaka för att gå tillbaka till den skärmen.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="Running" xml:space="preserve" approved="yes">
@@ -1397,7 +1397,7 @@
       </trans-unit>
       <trans-unit id="Some of the values you have entered are outside of what Tidepool typically recommends for most people." xml:space="preserve">
         <source>Some of the values you have entered are outside of what Tidepool typically recommends for most people.</source>
-        <target state="needs-translation">Some of the values you have entered are outside of what Tidepool typically recommends for most people.</target>
+        <target state="translated">Ett eller flera av de värden du har angett är utanför vad som generellt rekommenderas.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." xml:space="preserve" approved="yes">
@@ -1674,7 +1674,7 @@
       </trans-unit>
       <trans-unit id="authentication-button-delete" xml:space="preserve">
         <source>authentication-button-delete</source>
-        <target state="needs-translation">authentication-button-delete</target>
+        <target state="translated">autentisering-knapp-ta bort</target>
         <note>The title of the button to remove the credentials for a service</note>
       </trans-unit>
       <trans-unit id="com.loudnate.CarbKit.COBDateLabel" xml:space="preserve" approved="yes">
@@ -1832,9 +1832,9 @@
         <source>%1$@ has been unable to communicate with the Simulator Pump since %2$@.
 
 Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered.</source>
-        <target state="needs-translation">%1$@ has been unable to communicate with the Simulator Pump since %2$@.
+        <target state="translated">%1$@ har tappat kommunikation med simulatorpumpen sedan %2$@.
 
-Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered.</target>
+Utan kommunikation kan appen inte fortsätta att skicka kommandon för insulintillförsel eller visa korrekt, aktuell information om ditt aktiva insulin eller det insulin som administrerats.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve" approved="yes">
