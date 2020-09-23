@@ -717,9 +717,9 @@ You can wait several minutes to see if the issue resolves or tap the button belo
         <target state="translated">Bolus-sammendrag</target>
         <note>Title for card displaying carb entry and bolus recommendation</note>
       </trans-unit>
-      <trans-unit id="Bolused %1$@ of %2$@" xml:space="preserve">
+      <trans-unit id="Bolused %1$@ of %2$@" xml:space="preserve" approved="yes">
         <source>Bolused %1$@ of %2$@</source>
-        <target state="translated">Ga bolus %1$@ of %2$@</target>
+        <target state="final">Ga bolus %1$@ of %2$@</target>
         <note>The format string for bolus progress. (1: delivered volume)(2: total volume)</note>
       </trans-unit>
       <trans-unit id="Bolusing %1$@" xml:space="preserve">
