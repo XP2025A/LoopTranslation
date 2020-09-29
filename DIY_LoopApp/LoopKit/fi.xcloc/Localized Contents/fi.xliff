@@ -7,17 +7,17 @@
     <body>
       <trans-unit id="7bK-jq-Zjz.title" xml:space="preserve">
         <source>UI Tests</source>
-        <target state="needs-translation">UI Tests</target>
+        <target state="translated">UI Tests</target>
         <note>Class = "UITableViewController"; title = "UI Tests"; ObjectID = "7bK-jq-Zjz";</note>
       </trans-unit>
       <trans-unit id="Arm-wq-HPj.text" xml:space="preserve">
         <source>Title</source>
-        <target state="needs-translation">Title</target>
+        <target state="translated">Otsikko</target>
         <note>Class = "UILabel"; text = "Title"; ObjectID = "Arm-wq-HPj";</note>
       </trans-unit>
       <trans-unit id="RMx-3f-FxP.title" xml:space="preserve">
         <source>UI Tests</source>
-        <target state="needs-translation">UI Tests</target>
+        <target state="translated">UI Tests</target>
         <note>Class = "UINavigationController"; title = "UI Tests"; ObjectID = "RMx-3f-FxP";</note>
       </trans-unit>
     </body>
@@ -29,7 +29,7 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>LoopKit Example</source>
-        <target state="needs-translation">LoopKit Example</target>
+        <target state="translated">LoopKit-esimerkki</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
@@ -124,17 +124,17 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>LoopKit</source>
-        <target state="needs-translation">LoopKit</target>
+        <target state="translated">LoopKit</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data is retrieved from HealthKit for graphing and analysis.</source>
-        <target state="needs-translation">Meal data from the Health database is used to determine glucose effects. Glucose data is retrieved from HealthKit for graphing and analysis.</target>
+        <target state="translated">Terveys-tietokannan ateriatietoja käytetään glukoosivaikutusten määrittämiseen. Glukoositiedot haetaan HealthKitistä graafeja ja analysointia varten.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</source>
-        <target state="needs-translation">Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</target>
+        <target state="translated">Sovelluksen ja kellon kautta tallennetut hiilihydraattitiedot tallennetaan Terveys-tietokantaan. Glukoositiedot tallennetaan turvallisesti HealthKitiin.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -156,17 +156,17 @@
       </trans-unit>
       <trans-unit id="%@ Range" xml:space="preserve">
         <source>%@ Range</source>
-        <target state="needs-translation">%@ Range</target>
+        <target state="translated">%@ alue</target>
         <note>Format for correction range override therapy setting card</note>
       </trans-unit>
       <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="needs-translation">A value you have entered is higher than what is typically recommended for most people.</target>
+        <target state="translated">Antamasi arvo on suurempi kuin useimmille ihmisille yleensä suositeltu arvo.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="A value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="needs-translation">A value you have entered is lower than what is typically recommended for most people.</target>
+        <target state="translated">Antamasi arvo on pienempi kuin useimmille ihmisille tyypillisesti suositeltava arvo.</target>
         <note>Descriptive text for guardrail low value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Authorization Denied" xml:space="preserve">
@@ -176,12 +176,12 @@
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target state="needs-translation">Basal Rates</target>
+        <target state="translated">Basaalitasot</target>
         <note>Title text for basal rates</note>
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve">
         <source>Carb Ratios</source>
-        <target state="needs-translation">Carb Ratios</target>
+        <target state="translated">Hiilihydraattisuhteet</target>
         <note>Title text for carb ratios</note>
       </trans-unit>
       <trans-unit id="Check your pump before retrying" xml:space="preserve">
@@ -196,7 +196,7 @@
       </trans-unit>
       <trans-unit id="Communications interrupted during insulin delivery command." xml:space="preserve">
         <source>Communications interrupted during insulin delivery command.</source>
-        <target state="needs-translation">Communications interrupted during insulin delivery command.</target>
+        <target state="translated">Yhteys katkesi insuliinin annostelu -toiminnon aikana.</target>
         <note>Failure reason for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Connection Failure" xml:space="preserve">
@@ -206,17 +206,17 @@
       </trans-unit>
       <trans-unit id="Correction Range" xml:space="preserve">
         <source>Correction Range</source>
-        <target state="needs-translation">Correction Range</target>
+        <target state="translated">Korjausalue</target>
         <note>Title text for glucose target range</note>
       </trans-unit>
       <trans-unit id="Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
         <source>Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target state="needs-translation">Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</target>
+        <target state="translated">Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä basaali-insuliinin määrää.</target>
         <note>Descriptive text for glucose target range</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
         <source>Delivery Limits</source>
-        <target state="needs-translation">Delivery Limits</target>
+        <target state="translated">Annostelurajat</target>
         <note>Title text for delivery limits</note>
       </trans-unit>
       <trans-unit id="Device Refused" xml:space="preserve">
@@ -251,12 +251,12 @@
       </trans-unit>
       <trans-unit id="Insulin Model" xml:space="preserve">
         <source>Insulin Model</source>
-        <target state="needs-translation">Insulin Model</target>
+        <target state="translated">Insuliinimalli</target>
         <note>Title text for insulin model</note>
       </trans-unit>
       <trans-unit id="Insulin Sensitivities" xml:space="preserve">
         <source>Insulin Sensitivities</source>
-        <target state="needs-translation">Insulin Sensitivities</target>
+        <target state="translated">Insuliiniherkkyydet</target>
         <note>Title text for insulin sensitivity</note>
       </trans-unit>
       <trans-unit id="Invalid Configuration" xml:space="preserve">
@@ -271,27 +271,27 @@
       </trans-unit>
       <trans-unit id="Make sure your pump is within communication range of your phone." xml:space="preserve">
         <source>Make sure your pump is within communication range of your phone.</source>
-        <target state="needs-translation">Make sure your pump is within communication range of your phone.</target>
+        <target state="translated">Varmista, että pumppu on puhelimen yhteysalueen sisällä.</target>
         <note>Recovery suggestion for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate" xml:space="preserve">
         <source>Maximum Basal Rate</source>
-        <target state="needs-translation">Maximum Basal Rate</target>
+        <target state="translated">Suurin sallittu basaalitaso</target>
         <note>Title text for maximum basal rate configuration</note>
       </trans-unit>
       <trans-unit id="Maximum Bolus" xml:space="preserve">
         <source>Maximum Bolus</source>
-        <target state="needs-translation">Maximum Bolus</target>
+        <target state="translated">Suurin sallittu bolus</target>
         <note>Title text for maximum bolus configuration</note>
       </trans-unit>
       <trans-unit id="Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically." xml:space="preserve">
         <source>Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically.</source>
-        <target state="needs-translation">Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically.</target>
+        <target state="translated">Suurin sallittu basaalitaso on korkein väliaikainen basaalitaso, jonka Loop saa asettaa automaattisesti.</target>
         <note>Descriptive text for maximum basal rate</note>
       </trans-unit>
       <trans-unit id="Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." xml:space="preserve">
         <source>Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</source>
-        <target state="needs-translation">Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</target>
+        <target state="translated">Suurin sallittu bolus on suurin bolusmäärä, jonka voi antaa yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.</target>
         <note>Descriptive text for maximum bolus</note>
       </trans-unit>
       <trans-unit id="Needs Attention" xml:space="preserve">
@@ -306,12 +306,12 @@
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target state="translated">OK</target>
         <note>Sensor state description for the valid state</note>
       </trans-unit>
       <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve">
         <source>One or more of the values you have entered is outside of what is typically recommended for most people.</source>
-        <target state="needs-translation">One or more of the values you have entered is outside of what is typically recommended for most people.</target>
+        <target state="translated">Yksi tai useampi antamistasi arvoista on sen ulkopuolella, mitä useimmille ihmisille tyypillisesti suositellaan.</target>
         <note>Descriptive text for saving settings outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Please re-enable sharing in Health" xml:space="preserve">
@@ -321,7 +321,7 @@
       </trans-unit>
       <trans-unit id="Pre-Meal" xml:space="preserve">
         <source>Pre-Meal</source>
-        <target state="needs-translation">Pre-Meal</target>
+        <target state="translated">Ennen ateriaa</target>
         <note>Title for pre-meal mode</note>
       </trans-unit>
       <trans-unit id="Rising" xml:space="preserve">
@@ -341,17 +341,17 @@
       </trans-unit>
       <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="needs-translation">Some of the values you have entered are outside of what is typically recommended for most people.</target>
+        <target state="translated">Jotkut antamistasi arvoista on sen ulkopuolella, mitä useimmille ihmisille tyypillisesti suositellaan.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Suspend Threshold" xml:space="preserve">
         <source>Suspend Threshold</source>
-        <target state="needs-translation">Suspend Threshold</target>
+        <target state="translated">Pysäytysraja</target>
         <note>Title text for suspend threshold</note>
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</source>
-        <target state="needs-translation">Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</target>
+        <target state="translated">Laske glukoositavoitetta väliaikaisesti ennen ateriaa vaikuttaaksesi aterian jälkeiseen glukoosinousuun.</target>
         <note>Descriptive text for pre-meal correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end." xml:space="preserve">
