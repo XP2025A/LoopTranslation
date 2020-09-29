@@ -29,7 +29,7 @@
     <body>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
       <trans-unit id="Add Carb Entry" xml:space="preserve">
@@ -69,7 +69,7 @@
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="Range" xml:space="preserve">
@@ -89,7 +89,7 @@
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
         <source>U</source>
-        <target state="needs-translation">U</target>
+        <target state="translated">U</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
       <trans-unit id="Visualizes the most frequent glucose values by time of day" xml:space="preserve">
@@ -104,22 +104,22 @@
       </trans-unit>
       <trans-unit id="dB" xml:space="preserve">
         <source>dB</source>
-        <target state="needs-translation">dB</target>
+        <target state="translated">dB</target>
         <note>The short unit display string for decibles</note>
       </trans-unit>
       <trans-unit id="g" xml:space="preserve">
         <source>g</source>
-        <target state="needs-translation">g</target>
+        <target state="translated">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
       <trans-unit id="mg/dL" xml:space="preserve">
         <source>mg/dL</source>
-        <target state="needs-translation">mg/dL</target>
+        <target state="translated">mg/dL</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
       <trans-unit id="mmol/L" xml:space="preserve">
         <source>mmol/L</source>
-        <target state="needs-translation">mmol/L</target>
+        <target state="translated">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
@@ -131,47 +131,47 @@
     <body>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
         <source>Current glucose of %1$@ is below correction range.</source>
-        <target state="needs-translation">Current glucose of %1$@ is below correction range.</target>
+        <target state="translated">Nykyinen glukoosi %1$@ on korjausalueen alapuolella.</target>
         <note>Message when offering bolus recommendation even though bg is below range. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve">
         <source>Predicted glucose at %1$@ is %2$@.</source>
-        <target state="needs-translation">Predicted glucose at %1$@ is %2$@.</target>
+        <target state="translated">Ennustettu glukoosi klo %1$@ on %2$@.</target>
         <note>Message when offering bolus recommendation even though bg is below range and minBG is in future. (1: glucose time)(2: glucose number)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve">
         <source>Predicted glucose of %1$@ is below your suspend threshold setting.</source>
-        <target state="needs-translation">Predicted glucose of %1$@ is below your suspend threshold setting.</target>
+        <target state="translated">Ennustettu glukoosi %1$@ on pysäytysrajan alapuolella.</target>
         <note>Notice message when recommending bolus when BG is below the suspend threshold. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
         <source>U</source>
-        <target state="needs-translation">U</target>
+        <target state="translated">U</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
       <trans-unit id="dB" xml:space="preserve">
         <source>dB</source>
-        <target state="needs-translation">dB</target>
+        <target state="translated">dB</target>
         <note>The short unit display string for decibles</note>
       </trans-unit>
       <trans-unit id="g" xml:space="preserve">
         <source>g</source>
-        <target state="needs-translation">g</target>
+        <target state="translated">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
       <trans-unit id="mg/dL" xml:space="preserve">
         <source>mg/dL</source>
-        <target state="needs-translation">mg/dL</target>
+        <target state="translated">mg/dL</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
       <trans-unit id="mmol/L" xml:space="preserve">
         <source>mmol/L</source>
-        <target state="needs-translation">mmol/L</target>
+        <target state="translated">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
@@ -183,7 +183,7 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>DoseMathTests</source>
-        <target state="needs-translation">DoseMathTests</target>
+        <target state="translated">AnnosLaskelmaTestit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -195,7 +195,7 @@
     <body>
       <trans-unit id="8hF-Ij-B7m.title" xml:space="preserve">
         <source>Learn</source>
-        <target state="needs-translation">Learn</target>
+        <target state="translated">Opettele</target>
         <note>Class = "UINavigationItem"; title = "Learn"; ObjectID = "8hF-Ij-B7m";</note>
       </trans-unit>
     </body>
@@ -207,7 +207,7 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Learn</source>
-        <target state="needs-translation">Learn</target>
+        <target state="translated">Opettele</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
@@ -224,37 +224,37 @@
     <body>
       <trans-unit id="%1$@" xml:space="preserve">
         <source>%1$@</source>
-        <target state="needs-translation">%1$@</target>
+        <target state="translated">%1$@</target>
         <note>The subtitle format describing the grams of active carbs.  (1: localized carb value description)</note>
       </trans-unit>
       <trans-unit id="%1$@ U" xml:space="preserve">
         <source>%1$@ U</source>
-        <target state="needs-translation">%1$@ U</target>
+        <target state="translated">%1$@ U</target>
         <note>The subtitle format describing units of active insulin. (1: localized insulin value description)</note>
       </trans-unit>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
       <trans-unit id="? U" xml:space="preserve">
         <source>? U</source>
-        <target state="needs-translation">? U</target>
+        <target state="translated">? U</target>
         <note>Displayed in the widget when the amount of active insulin cannot be determined.</note>
       </trans-unit>
       <trans-unit id="? g" xml:space="preserve">
         <source>? g</source>
-        <target state="needs-translation">? g</target>
+        <target state="translated">? g</target>
         <note>Displayed in the widget when the amount of active carbs cannot be determined.</note>
       </trans-unit>
       <trans-unit id="Active Carbs" xml:space="preserve">
         <source>Active Carbs</source>
-        <target state="needs-translation">Active Carbs</target>
+        <target state="translated">Aktiivinen hiilihydraatti</target>
         <note>Widget label title describing the active carbs</note>
       </trans-unit>
       <trans-unit id="Active Insulin" xml:space="preserve">
         <source>Active Insulin</source>
-        <target state="needs-translation">Active Insulin</target>
+        <target state="translated">Aktiivinen insuliini</target>
         <note>Widget label title describing the active insulin</note>
       </trans-unit>
       <trans-unit id="Eventually %1$@" xml:space="preserve">
@@ -264,37 +264,37 @@
       </trans-unit>
       <trans-unit id="IOB %1$@ U" xml:space="preserve">
         <source>IOB %1$@ U</source>
-        <target state="needs-translation">IOB %1$@ U</target>
+        <target state="translated">IOB %1$@ U</target>
         <note>The subtitle format describing units of active insulin. (1: localized insulin value description)</note>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
         <source>U</source>
-        <target state="needs-translation">U</target>
+        <target state="translated">U</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
       <trans-unit id="dB" xml:space="preserve">
         <source>dB</source>
-        <target state="needs-translation">dB</target>
+        <target state="translated">dB</target>
         <note>The short unit display string for decibles</note>
       </trans-unit>
       <trans-unit id="g" xml:space="preserve">
         <source>g</source>
-        <target state="needs-translation">g</target>
+        <target state="translated">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
       <trans-unit id="mg/dL" xml:space="preserve">
         <source>mg/dL</source>
-        <target state="needs-translation">mg/dL</target>
+        <target state="translated">mg/dL</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
       <trans-unit id="mmol/L" xml:space="preserve">
         <source>mmol/L</source>
-        <target state="needs-translation">mmol/L</target>
+        <target state="translated">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
@@ -316,12 +316,12 @@
       </trans-unit>
       <trans-unit id="Vgf-p1-2QP.text" xml:space="preserve">
         <source>0 U</source>
-        <target state="needs-translation">0 U</target>
+        <target state="translated">0 U</target>
         <note>Class = "UILabel"; text = "0 U"; ObjectID = "Vgf-p1-2QP";</note>
       </trans-unit>
       <trans-unit id="dPp-lJ-5sh.text" xml:space="preserve">
         <source>0 g</source>
-        <target state="needs-translation">0 g</target>
+        <target state="translated">0 g</target>
         <note>Class = "UILabel"; text = "0 g"; ObjectID = "dPp-lJ-5sh";</note>
       </trans-unit>
     </body>
@@ -333,12 +333,12 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Loop</source>
-        <target state="needs-translation">Loop</target>
+        <target state="translated">Loop</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Loop Status Extension</source>
-        <target state="needs-translation">Loop Status Extension</target>
+        <target state="translated">Loop Tila Laajennus</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -350,12 +350,12 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Loop</source>
-        <target state="needs-translation">Loop</target>
+        <target state="translated">Loop</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>$(PRODUCT_NAME)</source>
-        <target state="needs-translation">$(PRODUCT_NAME)</target>
+        <target state="translated">$(PRODUCT_NAME)</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">
@@ -370,12 +370,12 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>Camera is used to scan barcodes of devices</source>
-        <target state="needs-translation">Camera is used to scan barcodes of devices</target>
+        <target state="translated">Kameraa käytetään laitteiden viivakoodien skannaamiseen</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>Face ID is used to authenticate insulin bolus and to save changes to therapy settings.</source>
-        <target state="needs-translation">Face ID is used to authenticate insulin bolus and to save changes to therapy settings.</target>
+        <target state="translated">Face ID:tä käytetään boluksen vahvistamiseen ja hoitoasetusten tallentamiseen.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
@@ -399,8 +399,8 @@
         <source>
             Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.
             </source>
-        <target state="needs-translation">
-            Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.
+        <target state="translated">
+            Kriittiset hälytykset toistavat aina äänen ja näkyvät lukitulla näytöllä, vaikka iPhone olisi mykistetty tai Älä häiritse -tilassa.
             </target>
         <note>Manage Notifications in Settings descriptive text</note>
       </trans-unit>
@@ -410,10 +410,10 @@
             
             Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.
             </source>
-        <target state="needs-translation">
-            Notifications appear on your Lock screen or pop up while you’re using other apps.
+        <target state="translated">
+            Ilmoitukset näkyvät lukitulla näytöllä tai tulevat näkyviin, kun käytät muita sovelluksia
             
-            Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.
+            Ilmoitukset antavat tärkeää (appName) -sovelluksen tietoa ilman, että avaat sovellusta. Voit mukauttaa milloin ja miten haluat vastaanottaa nämä ilmoitukset.
             </target>
         <note>Manage Notifications in Settings descriptive text</note>
       </trans-unit>
@@ -424,17 +424,17 @@
       </trans-unit>
       <trans-unit id="%1$@ %2$@" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string combining carb entry quantity and absorption time emoji</note>
       </trans-unit>
       <trans-unit id="%1$@ %2$@/U" xml:space="preserve">
         <source>%1$@ %2$@/U</source>
-        <target state="needs-translation">%1$@ %2$@/U</target>
+        <target state="translated">%1$@ %2$@/U</target>
         <note>Format string for carb ratio average. (1: value)(2: carb unit)</note>
       </trans-unit>
       <trans-unit id="%1$@ + %2$@" xml:space="preserve">
         <source>%1$@ + %2$@</source>
-        <target state="needs-translation">%1$@ + %2$@</target>
+        <target state="translated">%1$@ + %2$@</target>
         <note>Formats (1: carb start time) and (2: carb absorption duration)</note>
       </trans-unit>
       <trans-unit id="%1$@ U left" xml:space="preserve">
@@ -455,28 +455,28 @@
       <trans-unit id="%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.&#10;You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options." xml:space="preserve">
         <source>%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.
 You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options.</source>
-        <target state="needs-translation">%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.
-You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options.</target>
+        <target state="translated">%1$@ ei pysty kommunikoimaan insuliinipumpun kanssa. Sovellus yrittää edelleen yhdistää pumppuun, mutta insuliininannostelun tietot eivät päivity, eikä automatiikka ole päällä.
+Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napauttaa alla olevaa painiketta saadaksesi lisätietoja muista vaihtoehdoista.</target>
         <note>Message for alert shown when delivery status is uncertain. (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
       <trans-unit id="%1$@ – %2$@ %3$@" xml:space="preserve">
         <source>%1$@ – %2$@ %3$@</source>
-        <target state="needs-translation">%1$@ – %2$@ %3$@</target>
+        <target state="translated">%1$@ – %2$@ %3$@</target>
         <note>Format string for glucose target range. (1: Min target)(2: Max target)(3: glucose unit)</note>
       </trans-unit>
       <trans-unit id="%1$@: %2$@" xml:space="preserve">
         <source>%1$@: %2$@</source>
-        <target state="needs-translation">%1$@: %2$@</target>
+        <target state="translated">%1$@: %2$@</target>
         <note>Formats (1: carb value) and (2: food type)</note>
       </trans-unit>
       <trans-unit id="%@ %@" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>The format for an active override preset. (1: preset symbol)(2: preset name)</note>
       </trans-unit>
       <trans-unit id="%@ U Total" xml:space="preserve">
@@ -491,12 +491,12 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
         <source>%@.</source>
-        <target state="needs-translation">%@.</target>
+        <target state="translated">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
       <trans-unit id="--" xml:space="preserve">
         <source>--</source>
-        <target state="needs-translation">--</target>
+        <target state="translated">--</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="15 min glucose regression coefficient (b₁), continued with decay over 30 min" xml:space="preserve">
@@ -511,7 +511,7 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="A manual glucose entry must be between %@ and %@" xml:space="preserve">
         <source>A manual glucose entry must be between %1$@ and %2$@</source>
-        <target state="needs-translation">A manual glucose entry must be between %1$@ and %2$@</target>
+        <target state="translated">Syötetyn glukoosiarvon on oltava välillä %1$@ – %2$@</target>
         <note>Alert message for a manual glucose entry out of range error</note>
       </trans-unit>
       <trans-unit id="A model based on the published absorption of Fiasp insulin." xml:space="preserve">
@@ -526,7 +526,7 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="A pump must be configured before a bolus can be delivered." xml:space="preserve">
         <source>A pump must be configured before a bolus can be delivered.</source>
-        <target state="needs-translation">A pump must be configured before a bolus can be delivered.</target>
+        <target state="translated">Pumppu on määritettävä, ennen kuin bolus voidaan annostella.</target>
         <note>Alert message for a missing pump error</note>
       </trans-unit>
       <trans-unit id="API Key" xml:space="preserve">
@@ -551,7 +551,7 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Accounts" xml:space="preserve">
         <source>Accounts</source>
-        <target state="needs-translation">Accounts</target>
+        <target state="translated">Tilit</target>
         <note>The title of the accounts section in settings</note>
       </trans-unit>
       <trans-unit id="Active Carbohydrates" xml:space="preserve">
@@ -566,7 +566,7 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Active Carbs" xml:space="preserve">
         <source>Active Carbs</source>
-        <target state="needs-translation">Active Carbs</target>
+        <target state="translated">Aktiivinen hiilihydraatti</target>
         <note>Title describing quantity of still-absorbing carbohydrates</note>
       </trans-unit>
       <trans-unit id="Active Insulin" xml:space="preserve">
@@ -581,7 +581,7 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Add Account" xml:space="preserve">
         <source>Add Account</source>
-        <target state="needs-translation">Add Account</target>
+        <target state="translated">Lisää tili</target>
         <note>The title of the add account action sheet in settings
    The title of the add account button in settings</note>
       </trans-unit>
@@ -609,7 +609,7 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Add Service" xml:space="preserve">
         <source>Add Service</source>
-        <target state="needs-translation">Add Service</target>
+        <target state="translated">Lisää palvelu</target>
         <note>Title text for button to set up a service</note>
       </trans-unit>
       <trans-unit id="Alert Permissions" xml:space="preserve">
@@ -877,12 +877,12 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Delete Testing Pump Data" xml:space="preserve">
         <source>Delete Testing Pump Data</source>
-        <target state="needs-translation">Delete Testing Pump Data</target>
+        <target state="translated">Poista testipumpun tiedot</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Deliver" xml:space="preserve">
         <source>Deliver</source>
-        <target state="needs-translation">Deliver</target>
+        <target state="translated">Annostele</target>
         <note>Button text to deliver a bolus</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
@@ -892,7 +892,7 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Diabetes Treatment" xml:space="preserve">
         <source>Diabetes Treatment</source>
-        <target state="needs-translation">Diabetes Treatment</target>
+        <target state="translated">Diabeteshoito</target>
         <note>Descriptive text for Therapy Settings</note>
       </trans-unit>
       <trans-unit id="Disables" xml:space="preserve">
@@ -902,17 +902,17 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
         <source>Dismiss</source>
-        <target state="needs-translation">Dismiss</target>
+        <target state="translated">Hylkää</target>
         <note>Default alert dismissal</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target state="needs-translation">Done</target>
+        <target state="translated">Valmis</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Enable Bluetooth" xml:space="preserve">
         <source>Enable Bluetooth</source>
-        <target state="needs-translation">Enable Bluetooth</target>
+        <target state="translated">Ota Bluetooth käyttöön</target>
         <note>Message to the user to enable bluetooth</note>
       </trans-unit>
       <trans-unit id="Enables" xml:space="preserve">
@@ -922,17 +922,17 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Enter Bolus" xml:space="preserve">
         <source>Enter Bolus</source>
-        <target state="needs-translation">Enter Bolus</target>
+        <target state="translated">Anna bolus</target>
         <note>Button text to begin entering a bolus</note>
       </trans-unit>
       <trans-unit id="Enter Manual BG" xml:space="preserve">
         <source>Enter Manual BG</source>
-        <target state="needs-translation">Enter Manual BG</target>
+        <target state="translated">Syötä glukoosiarvo</target>
         <note>Button text prompting manual glucose entry on bolus screen</note>
       </trans-unit>
       <trans-unit id="Enter a manual glucose for a recommended bolus amount." xml:space="preserve">
         <source>Enter a manual glucose for a recommended bolus amount.</source>
-        <target state="needs-translation">Enter a manual glucose for a recommended bolus amount.</target>
+        <target state="translated">Syötä glukoosiarvo suositeltua bolusta varten.</target>
         <note>Caption for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
       <trans-unit id="Enter suspend threshold" xml:space="preserve">
@@ -962,12 +962,12 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Failed to Resume Insulin Delivery" xml:space="preserve">
         <source>Failed to Resume Insulin Delivery</source>
-        <target state="needs-translation">Failed to Resume Insulin Delivery</target>
+        <target state="translated">Insuliiniannostelun jatkaminen epäonnistui</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
       <trans-unit id="Fiasp" xml:space="preserve">
         <source>Fiasp</source>
-        <target state="needs-translation">Fiasp</target>
+        <target state="translated">Fiasp</target>
         <note>Title of insulin model preset</note>
       </trans-unit>
       <trans-unit id="For %1$@" xml:space="preserve">
@@ -977,12 +977,12 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Get help with Notification &amp; Critical Alert Permissions" xml:space="preserve">
         <source>Get help with Notification &amp; Critical Alert Permissions</source>
-        <target state="needs-translation">Get help with Notification &amp; Critical Alert Permissions</target>
+        <target state="translated">Apua ilmoitusten &amp; tärkeiden hälytysten käyttöoikeuksien kanssa</target>
         <note>Get help with Notification &amp; Critical Alert Permissions support button text</note>
       </trans-unit>
       <trans-unit id="Get help with Notification &amp; Critical Alert Permissions screen" xml:space="preserve">
         <source>Get help with Notification &amp; Critical Alert Permissions screen</source>
-        <target state="needs-translation">Get help with Notification &amp; Critical Alert Permissions screen</target>
+        <target state="translated">Apua ilmoitusten &amp; tärkeiden hälytysten käyttöoikeuksien kanssa -näyttö</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Glucose" xml:space="preserve">
@@ -992,12 +992,12 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Glucose Data Now Available" xml:space="preserve">
         <source>Glucose Data Now Available</source>
-        <target state="needs-translation">Glucose Data Now Available</target>
+        <target state="translated">Glukoositiedot nyt saatavilla</target>
         <note>Alert title when glucose data returns while on bolus screen</note>
       </trans-unit>
       <trans-unit id="Glucose Entry Out of Range" xml:space="preserve">
         <source>Glucose Entry Out of Range</source>
-        <target state="needs-translation">Glucose Entry Out of Range</target>
+        <target state="translated">Glukoosiarvo alueen ulkopuolella</target>
         <note>Alert title for a manual glucose entry out of range error</note>
       </trans-unit>
       <trans-unit id="Glucose Momentum" xml:space="preserve">
@@ -1043,7 +1043,7 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Insulin Pump" xml:space="preserve">
         <source>Insulin Pump</source>
-        <target state="needs-translation">Insulin Pump</target>
+        <target state="translated">Insuliinipumppu</target>
         <note>Descriptive text for Insulin Pump</note>
       </trans-unit>
       <trans-unit id="Insulin Sensitivities" xml:space="preserve">
@@ -1054,7 +1054,7 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Insulin Suspended" xml:space="preserve">
         <source>Insulin Suspended</source>
-        <target state="needs-translation">Insulin Suspended</target>
+        <target state="translated">Insuliini pysäytetty</target>
         <note>The title of the cell indicating the pump is suspended</note>
       </trans-unit>
       <trans-unit id="Insulin effects" xml:space="preserve">
@@ -1079,7 +1079,7 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Learn More" xml:space="preserve">
         <source>Learn More</source>
-        <target state="needs-translation">Learn More</target>
+        <target state="translated">Lue lisää</target>
         <note>OK button title for alert shown when delivery status is uncertain</note>
       </trans-unit>
       <trans-unit id="Loading..." xml:space="preserve">
@@ -1094,7 +1094,7 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Loop has detected an issue with your Bluetooth settings, and will not work successfully until Bluetooth is enabled. You will not receive glucose readings, or be able to bolus." xml:space="preserve">
         <source>Loop has detected an issue with your Bluetooth settings, and will not work successfully until Bluetooth is enabled. You will not receive glucose readings, or be able to bolus.</source>
-        <target state="needs-translation">Loop has detected an issue with your Bluetooth settings, and will not work successfully until Bluetooth is enabled. You will not receive glucose readings, or be able to bolus.</target>
+        <target state="translated">Loop on havainnut Bluetooth-asetuksissa ongelman, eikä se toimi oikein ennen kuin Bluetooth on otettu käyttöön. Et saa glukoosilukemia, etkä voi antaa bolusta.</target>
         <note>Bluetooth unavailable alert body.</note>
       </trans-unit>
       <trans-unit id="Loop has not completed successfully in %@" xml:space="preserve">
@@ -1104,22 +1104,22 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus." xml:space="preserve">
         <source>Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus.</source>
-        <target state="needs-translation">Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus.</target>
+        <target state="translated">Loop ei toimi oikein ennen kuin Bluetooth on otettu käyttöön. Et saa glukoosilukemia, etkä voi antaa bolusta.</target>
         <note>Bluetooth off background alert body.</note>
       </trans-unit>
       <trans-unit id="Manage Critical Alerts in Settings" xml:space="preserve">
         <source>Manage Critical Alerts in Settings</source>
-        <target state="needs-translation">Manage Critical Alerts in Settings</target>
+        <target state="translated">Tärkeiden hälytysten hallinta asetuksissa</target>
         <note>Manage Critical Alerts in Settings button text</note>
       </trans-unit>
       <trans-unit id="Manage Notifications in Settings" xml:space="preserve">
         <source>Manage Notifications in Settings</source>
-        <target state="needs-translation">Manage Notifications in Settings</target>
+        <target state="translated">Ilmoitusten hallinta asetuksissa</target>
         <note>Manage Notifications in Settings button text</note>
       </trans-unit>
       <trans-unit id="Manual BG Entry" xml:space="preserve">
         <source>Manual BG Entry</source>
-        <target state="needs-translation">Manual BG Entry</target>
+        <target state="translated">Syötetty glukoosiarvo</target>
         <note>Label for manual glucose entry row on bolus screen</note>
       </trans-unit>
       <trans-unit id="Meal Bolus" xml:space="preserve">
