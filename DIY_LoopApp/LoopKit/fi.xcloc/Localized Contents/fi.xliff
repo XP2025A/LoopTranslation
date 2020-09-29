@@ -161,12 +161,12 @@
       </trans-unit>
       <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="translated">Antamasi arvo on suurempi kuin useimmille ihmisille yleensä suositeltu arvo.</target>
+        <target state="translated">Antamasi arvo on suurempi kuin useimmille ihmisille tyypillisesti suositellaan.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="A value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="translated">Antamasi arvo on pienempi kuin useimmille ihmisille tyypillisesti suositeltava arvo.</target>
+        <target state="translated">Antamasi arvo on pienempi kuin useimmille ihmisille tyypillisesti suositellaan.</target>
         <note>Descriptive text for guardrail low value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Authorization Denied" xml:space="preserve">
@@ -356,42 +356,42 @@
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end." xml:space="preserve">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end.</source>
-        <target state="needs-translation">Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end.</target>
+        <target state="translated">Laske glukoositavoitetta väliaikaisesti ennen ateriaa vaikuttaaksesi aterian jälkeiseen glukoosinousuun. Tämä alue voidaan asettaa mihin tahansa pysäytysrajan ja korjausalueen yläarvon välille.</target>
         <note>Description of pre-meal mode</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</source>
-        <target state="needs-translation">Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</target>
+        <target state="translated">Nosta glukoositavoitetta väliaikaisesti ennen liikuntaa, sen aikana tai sen jälkeen, jotta matalan glukoosin riski pienenee.</target>
         <note>Descriptive text for workout correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." xml:space="preserve">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end.</source>
-        <target state="needs-translation">Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end.</target>
+        <target state="translated">Nosta glukoositavoitetta tilapäisesti ennen liikuntaa, sen aikana tai sen jälkeen, jotta matalan glukoosin riski pienenee. Tämä alue voidaan asettaa mihin tahansa korjausalueen yläarvon ja 180 mg/dL (10 mmol/L) välille.</target>
         <note>Description of workout mode</note>
       </trans-unit>
       <trans-unit id="The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</source>
-        <target state="needs-translation">The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</target>
+        <target state="translated">Sovellus olettaa, että insuliini vaikuttaa aktiivisesti 6 tuntia. Voit valita eri malleista, miten sovellus mittaa insuliinin vaikutushuipun.</target>
         <note>Descriptive text for insulin model</note>
       </trans-unit>
       <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
         <source>The value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="needs-translation">The value you have entered is higher than what is typically recommended for most people.</target>
+        <target state="translated">Antamasi arvo on suurempi kuin useimmille ihmisille yleensä suositellaan.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
       <trans-unit id="The value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
         <source>The value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="needs-translation">The value you have entered is lower than what is typically recommended for most people.</target>
+        <target state="translated">Antamasi arvo on pienempi kuin useimmille ihmisille tyypillisesti suositellaan.</target>
         <note>Descriptive text for guardrail low value warning</note>
       </trans-unit>
       <trans-unit id="The values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>The values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="needs-translation">The values you have entered are outside of what is typically recommended for most people.</target>
+        <target state="translated">Antamasi arvot ovat useimmille ihmisille tyypillisesti suositeltujen arvojen ulkopuolella.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
         <source>U</source>
-        <target state="needs-translation">U</target>
+        <target state="translated">U</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
       <trans-unit id="U/hr" xml:space="preserve">
@@ -401,7 +401,7 @@
       </trans-unit>
       <trans-unit id="Uncertain Delivery" xml:space="preserve">
         <source>Uncertain Delivery</source>
-        <target state="needs-translation">Uncertain Delivery</target>
+        <target state="translated">Epävarma annostelu</target>
         <note>Error description for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Unit" xml:space="preserve">
@@ -426,27 +426,27 @@
       </trans-unit>
       <trans-unit id="When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus." xml:space="preserve">
         <source>When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus.</source>
-        <target state="needs-translation">When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus.</target>
+        <target state="translated">Kun glukoosin ennustetaan alittavan tämän arvon, sovellus suosittelee basaalitasoa 0 U/h, eikä suosittele bolusta.</target>
         <note>Descriptive text for suspend threshold</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
         <source>Workout</source>
-        <target state="needs-translation">Workout</target>
+        <target state="translated">Liikunta</target>
         <note>Title for workout mode</note>
       </trans-unit>
       <trans-unit id="Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
         <source>Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="needs-translation">Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</target>
+        <target state="translated">Basaalitaso on insuliinin yksikkömäärä tunnissa, jota haluat käyttää perusinsuliinitarpeen kattamiseen.</target>
         <note>Descriptive text for basal rate</note>
       </trans-unit>
       <trans-unit id="Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." xml:space="preserve">
         <source>Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin.</source>
-        <target state="needs-translation">Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin.</target>
+        <target state="translated">Hiilihydraattisuhde on hiilihydraattien grammamäärä, jonka yksi yksikkö insuliinia kattaa.</target>
         <note>Descriptive text for carb ratio</note>
       </trans-unit>
       <trans-unit id="Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin." xml:space="preserve">
         <source>Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin.</source>
-        <target state="needs-translation">Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin.</target>
+        <target state="translated">Insuliiniherkkyys on glukoosin lasku, jonka yksi yksikkö insuliinia odotetaan aiheuttavan.</target>
         <note>Descriptive text for insulin sensitivity</note>
       </trans-unit>
       <trans-unit id="com.loudnate.CarbKit.deleteCarbEntryUnownedErrorDescription" xml:space="preserve">
@@ -461,32 +461,32 @@
       </trans-unit>
       <trans-unit id="g/U" xml:space="preserve">
         <source>g/U</source>
-        <target state="needs-translation">g/U</target>
+        <target state="translated">g/U</target>
         <note>The short unit display string for grams per U</note>
       </trans-unit>
       <trans-unit id="mg/dL/U" xml:space="preserve">
         <source>mg/dL/U</source>
-        <target state="needs-translation">mg/dL/U</target>
+        <target state="translated">mg/dL/U</target>
         <note>The short unit display string for milligrams per deciliter per U</note>
       </trans-unit>
       <trans-unit id="mmol/L" xml:space="preserve">
         <source>mmol/L</source>
-        <target state="needs-translation">mmol/L</target>
+        <target state="translated">mmol/L</target>
         <note>The short unit display string for millimoles per liter</note>
       </trans-unit>
       <trans-unit id="mmol/L/U" xml:space="preserve">
         <source>mmol/L/U</source>
-        <target state="needs-translation">mmol/L/U</target>
+        <target state="translated">mmol/L/U</target>
         <note>The short unit display string for millimoles per liter per U</note>
       </trans-unit>
       <trans-unit id="quantity-and-unit-space" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit with a space. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="quantity-and-unit-tight" xml:space="preserve">
         <source>%1$@%2$@</source>
-        <target state="needs-translation">%1$@%2$@</target>
+        <target state="translated">%1$@%2$@</target>
         <note>Format string for combining localized numeric value and unit without spacing. (1: numeric value)(2: unit)</note>
       </trans-unit>
     </body>
@@ -498,102 +498,102 @@
     <body>
       <trans-unit id="7xi-Om-Y53.text" xml:space="preserve">
         <source>Authorize access to Health to continue</source>
-        <target state="needs-translation">Authorize access to Health to continue</target>
+        <target state="translated">Salli pääsy Terveys-sovellukseen jatkaaksesi</target>
         <note>Class = "UILabel"; text = "Authorize access to Health to continue"; ObjectID = "7xi-Om-Y53";</note>
       </trans-unit>
       <trans-unit id="8sx-XB-DRV.normalTitle" xml:space="preserve">
         <source>Authorize</source>
-        <target state="needs-translation">Authorize</target>
+        <target state="translated">Salli</target>
         <note>Class = "UIButton"; normalTitle = "Authorize"; ObjectID = "8sx-XB-DRV";</note>
       </trans-unit>
       <trans-unit id="D2S-2h-yH6.text" xml:space="preserve">
         <source>g</source>
-        <target state="needs-translation">g</target>
+        <target state="translated">g</target>
         <note>Class = "UILabel"; text = "g"; ObjectID = "D2S-2h-yH6";</note>
       </trans-unit>
       <trans-unit id="K0S-my-3qL.text" xml:space="preserve">
         <source>Amount Consumed</source>
-        <target state="needs-translation">Amount Consumed</target>
+        <target state="translated">Määrä</target>
         <note>Class = "UILabel"; text = "Amount Consumed"; ObjectID = "K0S-my-3qL";</note>
       </trans-unit>
       <trans-unit id="Mde-by-DTA.normalTitle" xml:space="preserve">
         <source>🍽</source>
-        <target state="needs-translation">🍽</target>
+        <target state="translated">🍽</target>
         <note>Class = "UIButton"; normalTitle = "🍽"; ObjectID = "Mde-by-DTA";</note>
       </trans-unit>
       <trans-unit id="Me5-3D-C34.normalTitle" xml:space="preserve">
         <source>🌮</source>
-        <target state="needs-translation">🌮</target>
+        <target state="translated">🌮</target>
         <note>Class = "UIButton"; normalTitle = "🌮"; ObjectID = "Me5-3D-C34";</note>
       </trans-unit>
       <trans-unit id="NRZ-dT-iqj.text" xml:space="preserve">
         <source>Food Type</source>
-        <target state="needs-translation">Food Type</target>
+        <target state="translated">Ruokatyyppi</target>
         <note>Class = "UILabel"; text = "Food Type"; ObjectID = "NRZ-dT-iqj";</note>
       </trans-unit>
       <trans-unit id="QZb-e1-xwb.text" xml:space="preserve">
         <source>g COB</source>
-        <target state="needs-translation">g COB</target>
+        <target state="translated">g COB</target>
         <note>Class = "UILabel"; text = "g COB"; ObjectID = "QZb-e1-xwb";</note>
       </trans-unit>
       <trans-unit id="Qgq-n1-hm4.title" xml:space="preserve">
         <source>Carbohydrates</source>
-        <target state="needs-translation">Carbohydrates</target>
+        <target state="translated">Hiilihydraatit</target>
         <note>Class = "UINavigationItem"; title = "Carbohydrates"; ObjectID = "Qgq-n1-hm4";</note>
       </trans-unit>
       <trans-unit id="WZV-l9-Ek1.text" xml:space="preserve">
         <source>...</source>
-        <target state="needs-translation">...</target>
+        <target state="translated">...</target>
         <note>Class = "UILabel"; text = "..."; ObjectID = "WZV-l9-Ek1";</note>
       </trans-unit>
       <trans-unit id="XaD-wV-oiS.normalTitle" xml:space="preserve">
         <source>🍭</source>
-        <target state="needs-translation">🍭</target>
+        <target state="translated">🍭</target>
         <note>Class = "UIButton"; normalTitle = "🍭"; ObjectID = "XaD-wV-oiS";</note>
       </trans-unit>
       <trans-unit id="bM2-yI-YmX.title" xml:space="preserve">
         <source>Add/Edit Carb Entry</source>
-        <target state="needs-translation">Add/Edit Carb Entry</target>
+        <target state="translated">Lisää/muokkaa hiilihydraatteja</target>
         <note>Class = "UINavigationItem"; title = "Add/Edit Carb Entry"; ObjectID = "bM2-yI-YmX";</note>
       </trans-unit>
       <trans-unit id="bdP-2A-DB8.text" xml:space="preserve">
         <source>Food Type</source>
-        <target state="needs-translation">Food Type</target>
+        <target state="translated">Ruokatyyppi</target>
         <note>Class = "UILabel"; text = "Food Type"; ObjectID = "bdP-2A-DB8";</note>
       </trans-unit>
       <trans-unit id="dyX-Zv-8wU.normalTitle" xml:space="preserve">
         <source>🍕</source>
-        <target state="needs-translation">🍕</target>
+        <target state="translated">🍕</target>
         <note>Class = "UIButton"; normalTitle = "🍕"; ObjectID = "dyX-Zv-8wU";</note>
       </trans-unit>
       <trans-unit id="lbE-wQ-pFK.text" xml:space="preserve">
         <source>...</source>
-        <target state="needs-translation">...</target>
+        <target state="translated">...</target>
         <note>Class = "UILabel"; text = "..."; ObjectID = "lbE-wQ-pFK";</note>
       </trans-unit>
       <trans-unit id="m95-PG-bTq.text" xml:space="preserve">
         <source>Detail</source>
-        <target state="needs-translation">Detail</target>
+        <target state="translated">Yksityiskohta</target>
         <note>Class = "UILabel"; text = "Detail"; ObjectID = "m95-PG-bTq";</note>
       </trans-unit>
       <trans-unit id="nXh-BM-MuC.text" xml:space="preserve">
         <source>HealthKit is not available on this device</source>
-        <target state="needs-translation">HealthKit is not available on this device</target>
+        <target state="translated">HealthKit ei ole käytettävissä tässä laitteessa</target>
         <note>Class = "UILabel"; text = "HealthKit is not available on this device"; ObjectID = "nXh-BM-MuC";</note>
       </trans-unit>
       <trans-unit id="pHI-f4-pJp.text" xml:space="preserve">
         <source>g Total</source>
-        <target state="needs-translation">g Total</target>
+        <target state="translated">g yhteensä</target>
         <note>Class = "UILabel"; text = "g Total"; ObjectID = "pHI-f4-pJp";</note>
       </trans-unit>
       <trans-unit id="qU9-hG-hMu.placeholder" xml:space="preserve">
         <source>0</source>
-        <target state="needs-translation">0</target>
+        <target state="translated">0</target>
         <note>Class = "UITextField"; placeholder = "0"; ObjectID = "qU9-hG-hMu";</note>
       </trans-unit>
       <trans-unit id="vM9-H7-t3C.text" xml:space="preserve">
         <source>Title</source>
-        <target state="needs-translation">Title</target>
+        <target state="translated">Otsikko</target>
         <note>Class = "UILabel"; text = "Title"; ObjectID = "vM9-H7-t3C";</note>
       </trans-unit>
     </body>
@@ -605,17 +605,17 @@
     <body>
       <trans-unit id="7Fi-wD-gf2.text" xml:space="preserve">
         <source>Title</source>
-        <target state="needs-translation">Title</target>
+        <target state="translated">Otsikko</target>
         <note>Class = "UILabel"; text = "Title"; ObjectID = "7Fi-wD-gf2";</note>
       </trans-unit>
       <trans-unit id="7Fy-gG-Zof.text" xml:space="preserve">
         <source>...</source>
-        <target state="needs-translation">...</target>
+        <target state="translated">...</target>
         <note>Class = "UILabel"; text = "..."; ObjectID = "7Fy-gG-Zof";</note>
       </trans-unit>
       <trans-unit id="9jm-X6-3QA.text" xml:space="preserve">
         <source>Detail</source>
-        <target state="needs-translation">Detail</target>
+        <target state="translated">Yksityiskohta</target>
         <note>Class = "UILabel"; text = "Detail"; ObjectID = "9jm-X6-3QA";</note>
       </trans-unit>
       <trans-unit id="PZQ-gO-084.text" xml:space="preserve">
