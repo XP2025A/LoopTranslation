@@ -131,47 +131,47 @@
     <body>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
         <source>Current glucose of %1$@ is below correction range.</source>
-        <target state="needs-translation">Current glucose of %1$@ is below correction range.</target>
+        <target state="translated">Glicemia curentă de %1$@ este sub intervalul țintă de corecție.</target>
         <note>Message when offering bolus recommendation even though bg is below range. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve">
         <source>Predicted glucose at %1$@ is %2$@.</source>
-        <target state="needs-translation">Predicted glucose at %1$@ is %2$@.</target>
+        <target state="translated">Glicemia estimată la %1$@ este %2$@.</target>
         <note>Message when offering bolus recommendation even though bg is below range and minBG is in future. (1: glucose time)(2: glucose number)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve">
         <source>Predicted glucose of %1$@ is below your suspend threshold setting.</source>
-        <target state="needs-translation">Predicted glucose of %1$@ is below your suspend threshold setting.</target>
+        <target state="translated">Glicemia estimată de %1$@ este sub limitai de suspendare.</target>
         <note>Notice message when recommending bolus when BG is below the suspend threshold. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
         <source>U</source>
-        <target state="needs-translation">U</target>
+        <target state="translated">U</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
       <trans-unit id="dB" xml:space="preserve">
         <source>dB</source>
-        <target state="needs-translation">dB</target>
+        <target state="translated">dB</target>
         <note>The short unit display string for decibles</note>
       </trans-unit>
       <trans-unit id="g" xml:space="preserve">
         <source>g</source>
-        <target state="needs-translation">g</target>
+        <target state="translated">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
       <trans-unit id="mg/dL" xml:space="preserve">
         <source>mg/dL</source>
-        <target state="needs-translation">mg/dL</target>
+        <target state="translated">mg/dL</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
       <trans-unit id="mmol/L" xml:space="preserve">
         <source>mmol/L</source>
-        <target state="needs-translation">mmol/L</target>
+        <target state="translated">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
@@ -183,7 +183,7 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>DoseMathTests</source>
-        <target state="needs-translation">DoseMathTests</target>
+        <target state="translated">DoseMathTests</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -195,7 +195,7 @@
     <body>
       <trans-unit id="8hF-Ij-B7m.title" xml:space="preserve">
         <source>Learn</source>
-        <target state="needs-translation">Learn</target>
+        <target state="translated">Learn</target>
         <note>Class = "UINavigationItem"; title = "Learn"; ObjectID = "8hF-Ij-B7m";</note>
       </trans-unit>
     </body>
@@ -207,12 +207,12 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Learn</source>
-        <target state="needs-translation">Learn</target>
+        <target state="translated">Learn</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to optimize delivery of Apple Watch complication updates during the time you are awake.</source>
-        <target state="needs-translation">Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to optimize delivery of Apple Watch complication updates during the time you are awake.</target>
+        <target state="translated">Datele mesei din baza de date din aplicațtia Sănătate sunt folosite pentru a determina efectele glicemice. Datele despre glicemie din baza de date Sănătate sunt folosite pentru construirea graficelor și calcularea influențelor glicemice. Datele de somn din baza de date Sănătate sunt folosite pentru a optimiza livrarea de actualizări de datele ale ceasului Apple pe perioada când sunteți treaz.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
     </body>
@@ -224,37 +224,37 @@
     <body>
       <trans-unit id="%1$@" xml:space="preserve">
         <source>%1$@</source>
-        <target state="needs-translation">%1$@</target>
+        <target state="translated">%1$@</target>
         <note>The subtitle format describing the grams of active carbs.  (1: localized carb value description)</note>
       </trans-unit>
       <trans-unit id="%1$@ U" xml:space="preserve">
         <source>%1$@ U</source>
-        <target state="needs-translation">%1$@ U</target>
+        <target state="translated">%1$@ U</target>
         <note>The subtitle format describing units of active insulin. (1: localized insulin value description)</note>
       </trans-unit>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
       <trans-unit id="? U" xml:space="preserve">
         <source>? U</source>
-        <target state="needs-translation">? U</target>
+        <target state="translated">? U</target>
         <note>Displayed in the widget when the amount of active insulin cannot be determined.</note>
       </trans-unit>
       <trans-unit id="? g" xml:space="preserve">
         <source>? g</source>
-        <target state="needs-translation">? g</target>
+        <target state="translated">? g</target>
         <note>Displayed in the widget when the amount of active carbs cannot be determined.</note>
       </trans-unit>
       <trans-unit id="Active Carbs" xml:space="preserve">
         <source>Active Carbs</source>
-        <target state="needs-translation">Active Carbs</target>
+        <target state="translated">Carbohidrați activi</target>
         <note>Widget label title describing the active carbs</note>
       </trans-unit>
       <trans-unit id="Active Insulin" xml:space="preserve">
         <source>Active Insulin</source>
-        <target state="needs-translation">Active Insulin</target>
+        <target state="translated">Insulină activă</target>
         <note>Widget label title describing the active insulin</note>
       </trans-unit>
       <trans-unit id="Eventually %1$@" xml:space="preserve">
