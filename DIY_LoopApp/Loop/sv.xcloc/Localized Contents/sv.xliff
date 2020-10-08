@@ -495,7 +495,7 @@ Du kan vänta flera minuter för att se om problemet löser sig eller klicka på
       </trans-unit>
       <trans-unit id="%@ remaining" xml:space="preserve">
         <source>%@ remaining</source>
-        <target state="needs-translation">%@ remaining</target>
+        <target state="translated">%@ återstår</target>
         <note>Estimated remaining duration with more than a minute</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
@@ -520,7 +520,7 @@ Du kan vänta flera minuter för att se om problemet löser sig eller klicka på
       </trans-unit>
       <trans-unit id="A few seconds remaining" xml:space="preserve">
         <source>A few seconds remaining</source>
-        <target state="needs-translation">A few seconds remaining</target>
+        <target state="translated">Några sekunder återstår</target>
         <note>Estimated remaining duration with a few seconds</note>
       </trans-unit>
       <trans-unit id="A manual glucose entry must be between %@ and %@" xml:space="preserve" approved="yes">
@@ -687,15 +687,13 @@ Du kan vänta flera minuter för att se om problemet löser sig eller klicka på
       <trans-unit id="Bluetooth&#10;Off" xml:space="preserve">
         <source>Bluetooth
 Off</source>
-        <target state="needs-translation">Bluetooth
-Off</target>
+        <target state="translated">Bluetooth Av</target>
         <note>Message to the user to that the bluetooth is off</note>
       </trans-unit>
       <trans-unit id="Bluetooth&#10;Unavailable" xml:space="preserve">
         <source>Bluetooth
 Unavailable</source>
-        <target state="needs-translation">Bluetooth
-Unavailable</target>
+        <target state="translated">Bluetooth är inte tillgängligt</target>
         <note>Message to the user that bluetooth is unavailable to the app</note>
       </trans-unit>
       <trans-unit id="Bluetooth Off Alert" xml:space="preserve">
@@ -829,17 +827,17 @@ Unavailable</target>
       </trans-unit>
       <trans-unit id="Critical Event Log Ready" xml:space="preserve">
         <source>Critical Event Log Ready</source>
-        <target state="needs-translation">Critical Event Log Ready</target>
+        <target state="translated">Kritisk händelselogg klar</target>
         <note>Critical event log ready text</note>
       </trans-unit>
       <trans-unit id="Critical Event Logs" xml:space="preserve">
         <source>Critical Event Logs</source>
-        <target state="needs-translation">Critical Event Logs</target>
+        <target state="translated">Kritiska händelseloggar</target>
         <note>Critical event log export title</note>
       </trans-unit>
       <trans-unit id="Critical Event Logs were not able to be exported." xml:space="preserve">
         <source>Critical Event Logs were not able to be exported.</source>
-        <target state="needs-translation">Critical Event Logs were not able to be exported.</target>
+        <target state="translated">Kritiska händelseloggar kunde inte exporteras.</target>
         <note>Critical event log export error alert message</note>
       </trans-unit>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
@@ -935,8 +933,7 @@ Unavailable</target>
       <trans-unit id="Enable&#10;Bluetooth" xml:space="preserve">
         <source>Enable
 Bluetooth</source>
-        <target state="needs-translation">Enable
-Bluetooth</target>
+        <target state="translated">Aktivera Bluetooth</target>
         <note>Message to the user to enable bluetooth</note>
       </trans-unit>
       <trans-unit id="Enables" xml:space="preserve" approved="yes">
@@ -951,12 +948,12 @@ Bluetooth</target>
       </trans-unit>
       <trans-unit id="Enter Fingerstick Glucose" xml:space="preserve">
         <source>Enter Fingerstick Glucose</source>
-        <target state="needs-translation">Enter Fingerstick Glucose</target>
+        <target state="translated">Ange kapillärt blodsocker</target>
         <note>Button text prompting manual glucose entry on bolus screen</note>
       </trans-unit>
       <trans-unit id="Enter a blood glucose from a meter for a recommended bolus amount." xml:space="preserve">
         <source>Enter a blood glucose from a meter for a recommended bolus amount.</source>
-        <target state="needs-translation">Enter a blood glucose from a meter for a recommended bolus amount.</target>
+        <target state="translated">Du behöver ange ett blodsockervärde för att få en rekommenderad bolus.</target>
         <note>Caption for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
       <trans-unit id="Enter suspend threshold" xml:space="preserve" approved="yes">
@@ -971,7 +968,7 @@ Bluetooth</target>
       </trans-unit>
       <trans-unit id="Error Exporting Logs" xml:space="preserve">
         <source>Error Exporting Logs</source>
-        <target state="needs-translation">Error Exporting Logs</target>
+        <target state="translated">Fel vid export av loggar</target>
         <note>Critical event log export error alert title</note>
       </trans-unit>
       <trans-unit id="Error Resuming" xml:space="preserve" approved="yes">
@@ -991,12 +988,12 @@ Bluetooth</target>
       </trans-unit>
       <trans-unit id="Export Critical Event Logs" xml:space="preserve">
         <source>Export Critical Event Logs</source>
-        <target state="needs-translation">Export Critical Event Logs</target>
+        <target state="translated">Exportera kritiska händelseloggar</target>
         <note>The title of the export critical event logs in support</note>
       </trans-unit>
       <trans-unit id="Export-%1$@" xml:space="preserve">
         <source>Export-%1$@</source>
-        <target state="needs-translation">Export-%1$@</target>
+        <target state="translated">Exportera-%1$@</target>
         <note>The export file name formatted string (1: timestamp)</note>
       </trans-unit>
       <trans-unit id="Failed to Resume Insulin Delivery" xml:space="preserve">
@@ -1011,7 +1008,7 @@ Bluetooth</target>
       </trans-unit>
       <trans-unit id="Fingerstick Glucose" xml:space="preserve">
         <source>Fingerstick Glucose</source>
-        <target state="needs-translation">Fingerstick Glucose</target>
+        <target state="translated">Kapillärt blodsocker</target>
         <note>Label for manual glucose entry row on bolus screen</note>
       </trans-unit>
       <trans-unit id="For %1$@" xml:space="preserve">
@@ -1128,7 +1125,7 @@ Bluetooth</target>
       </trans-unit>
       <trans-unit id="Less than a minute remaining" xml:space="preserve">
         <source>Less than a minute remaining</source>
-        <target state="needs-translation">Less than a minute remaining</target>
+        <target state="translated">Mindre än en minut återstår</target>
         <note>Estimated remaining duration with less than a minute</note>
       </trans-unit>
       <trans-unit id="Loading..." xml:space="preserve" approved="yes">
@@ -1255,7 +1252,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Preparing Critical Event Logs" xml:space="preserve">
         <source>Preparing Critical Event Logs</source>
-        <target state="needs-translation">Preparing Critical Event Logs</target>
+        <target state="translated">Förbereder kritiska händelseloggar</target>
         <note>Preparing critical event log text</note>
       </trans-unit>
       <trans-unit id="Pump" xml:space="preserve" approved="yes">
@@ -1398,7 +1395,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Tap here to set up a Service" xml:space="preserve">
         <source>Tap here to set up a Service</source>
-        <target state="needs-translation">Tap here to set up a Service</target>
+        <target state="translated">Tryck här för att konfigurera en tjänst</target>
         <note>The descriptive text of the add service button in settings</note>
       </trans-unit>
       <trans-unit id="Tap here to set up a pump" xml:space="preserve">
@@ -1413,7 +1410,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Tap to Stop" xml:space="preserve">
         <source>Tap to Stop</source>
-        <target state="needs-translation">Tap to Stop</target>
+        <target state="translated">Tryck för att stoppa</target>
         <note>Message presented in the status row instructing the user to tap this row to stop a bolus</note>
       </trans-unit>
       <trans-unit id="The bolus recommendation has updated. Please reconfirm the bolus amount." xml:space="preserve" approved="yes">
@@ -1448,7 +1445,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Try Again" xml:space="preserve">
         <source>Try Again</source>
-        <target state="needs-translation">Try Again</target>
+        <target state="translated">Försök igen</target>
         <note>Critical event log export error alert try again button</note>
       </trans-unit>
       <trans-unit id="Turn on Bluetooth to receive alerts, alarms or sensor glucose readings." xml:space="preserve">
@@ -1508,7 +1505,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating." xml:space="preserve">
         <source>Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating.</source>
-        <target state="needs-translation">Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating.</target>
+        <target state="translated">Din blodglukos stiger snabbt. Kontrollera att alla kolhydrater du ätit har loggats. Om du lagt in kolhydrater, kontrollera att tiden du angav stämmer överens med när du började äta.</target>
         <note>Warning to ensure the carb entry is accurate</note>
       </trans-unit>
       <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve">
