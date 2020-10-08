@@ -2,7 +2,7 @@
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="CGMBLEKit Example/Base.lproj/Main.storyboard" source-language="en" target-language="ro" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="3i8-2m-QFG.text" xml:space="preserve" approved="yes">
@@ -54,7 +54,7 @@
   </file>
   <file original="CGMBLEKit Example/en.lproj/InfoPlist.strings" source-language="en" target-language="ro" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
@@ -66,7 +66,7 @@
   </file>
   <file original="CGMBLEKit Example/en.lproj/Localizable.strings" source-language="en" target-language="ro" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="Backfill" xml:space="preserve" approved="yes">
@@ -88,7 +88,7 @@
   </file>
   <file original="CGMBLEKit/Base.lproj/Localizable.strings" source-language="en" target-language="ro" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="Dexcom G5" xml:space="preserve" approved="yes">
@@ -101,14 +101,14 @@
         <target state="final">Dexcom G6</target>
         <note>CGM display title</note>
       </trans-unit>
-      <trans-unit id="Glucose data is unavailable" xml:space="preserve">
+      <trans-unit id="Glucose data is unavailable" xml:space="preserve" approved="yes">
         <source>Glucose data is unavailable</source>
-        <target state="translated">Nu sunt disponibile date despre glicemie</target>
+        <target state="final">Nu sunt disponibile date despre glicemie</target>
         <note>Error description for unreliable state</note>
       </trans-unit>
       <trans-unit id="Low Battery" xml:space="preserve">
         <source>Low Battery</source>
-        <target state="translated">Bateria este scăzută</target>
+        <target state="translated">Baterie scăzută</target>
         <note>Describes a low battery</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve" approved="yes">
@@ -165,7 +165,7 @@
   </file>
   <file original="CGMBLEKit/en.lproj/InfoPlist.strings" source-language="en" target-language="ro" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
@@ -177,7 +177,7 @@
   </file>
   <file original="CGMBLEKitG5Plugin/en.lproj/InfoPlist.strings" source-language="en" target-language="ro" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
@@ -194,7 +194,7 @@
   </file>
   <file original="CGMBLEKitG6Plugin/en.lproj/InfoPlist.strings" source-language="en" target-language="ro" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
@@ -211,7 +211,7 @@
   </file>
   <file original="CGMBLEKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="ro" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="%@/min" xml:space="preserve" approved="yes">
@@ -250,9 +250,9 @@ Title text for the button to remove a CGM from Loop</note>
         <target state="final">Glicemie (ajustată)</target>
         <note>Describes a glucose value adjusted to reflect a recent calibration</note>
       </trans-unit>
-      <trans-unit id="Latest Calibration" xml:space="preserve">
+      <trans-unit id="Latest Calibration" xml:space="preserve" approved="yes">
         <source>Latest Calibration</source>
-        <target state="translated">Ultima calibrare</target>
+        <target state="final">Ultima calibrare</target>
         <note>Section title for latest glucose calibration</note>
       </trans-unit>
       <trans-unit id="Latest Connection" xml:space="preserve" approved="yes">
@@ -270,9 +270,9 @@ Title text for the button to remove a CGM from Loop</note>
         <target state="final">Deschide aplicația</target>
         <note>Button title to open CGM app</note>
       </trans-unit>
-      <trans-unit id="Remote Data Synchronization" xml:space="preserve">
+      <trans-unit id="Remote Data Synchronization" xml:space="preserve" approved="yes">
         <source>Remote Data Synchronization</source>
-        <target state="translated">Sincronizarea datelor</target>
+        <target state="final">Sincronizarea datelor</target>
         <note>Section title for remote data synchronization</note>
       </trans-unit>
       <trans-unit id="Session Age" xml:space="preserve" approved="yes">
@@ -309,12 +309,12 @@ Title text for the button to remove a CGM from Loop</note>
   </file>
   <file original="CGMBLEKitUI/Base.lproj/TransmitterManagerSetup.storyboard" source-language="en" target-language="ro" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="5oU-vK-JHQ.text" xml:space="preserve">
+      <trans-unit id="5oU-vK-JHQ.text" xml:space="preserve" approved="yes">
         <source>Credentials</source>
-        <target state="translated">Credențiale</target>
+        <target state="final">Credențiale</target>
         <note>Class = "UILabel"; text = "Credentials"; ObjectID = "5oU-vK-JHQ";</note>
       </trans-unit>
       <trans-unit id="Dds-49-o7G.title" xml:space="preserve" approved="yes">
@@ -322,14 +322,14 @@ Title text for the button to remove a CGM from Loop</note>
         <target state="final">Setare transmițător</target>
         <note>Class = "UITableViewController"; title = "Transmitter Setup"; ObjectID = "Dds-49-o7G";</note>
       </trans-unit>
-      <trans-unit id="GOT-KQ-cEh.text" xml:space="preserve">
+      <trans-unit id="GOT-KQ-cEh.text" xml:space="preserve" approved="yes">
         <source>Detail</source>
-        <target state="translated">Detaliu</target>
+        <target state="final">Detaliu</target>
         <note>Class = "UILabel"; text = "Detail"; ObjectID = "GOT-KQ-cEh";</note>
       </trans-unit>
-      <trans-unit id="Qub-6B-0aB.footerTitle" xml:space="preserve">
+      <trans-unit id="Qub-6B-0aB.footerTitle" xml:space="preserve" approved="yes">
         <source>The transmitter ID can be found printed on the back of the device, on the side of the box it came in, and from within the settings menus of the receiver and mobile app.</source>
-        <target state="translated">ID-ul transmițătorului poate fi găsit fie pe pe spatele dispozitivului sau pe cutia in care a venit sau poate fi văzut în meniul setări al receiver-ului sau a aplicației mobile.</target>
+        <target state="final">ID-ul transmițătorului poate fi găsit fie pe spatele dispozitivului sau pe cutia in care a venit sau poate fi văzut în meniul setări al receiver-ului sau a aplicației mobile.</target>
         <note>Class = "UITableViewSection"; footerTitle = "The transmitter ID can be found printed on the back of the device, on the side of the box it came in, and from within the settings menus of the receiver and mobile app."; ObjectID = "Qub-6B-0aB";</note>
       </trans-unit>
       <trans-unit id="Qub-6B-0aB.headerTitle" xml:space="preserve" approved="yes">
@@ -337,9 +337,9 @@ Title text for the button to remove a CGM from Loop</note>
         <target state="final">ID transmițător</target>
         <note>Class = "UITableViewSection"; headerTitle = "Transmitter ID"; ObjectID = "Qub-6B-0aB";</note>
       </trans-unit>
-      <trans-unit id="k1N-Rg-XDy.footerTitle" xml:space="preserve">
+      <trans-unit id="k1N-Rg-XDy.footerTitle" xml:space="preserve" approved="yes">
         <source>Data can be downloaded over the Internet from Share when the transmitter connection fails.</source>
-        <target state="translated">Datele pot fi descărcate prin Internet din Share atunci când conexiunea cu transmițătorul eșuează.</target>
+        <target state="final">Datele pot fi descărcate prin Internet din Share atunci când conexiunea cu transmițătorul eșuează.</target>
         <note>Class = "UITableViewSection"; footerTitle = "Data can be downloaded over the Internet from Share when the transmitter connection fails."; ObjectID = "k1N-Rg-XDy";</note>
       </trans-unit>
       <trans-unit id="k1N-Rg-XDy.headerTitle" xml:space="preserve" approved="yes">
@@ -347,16 +347,16 @@ Title text for the button to remove a CGM from Loop</note>
         <target state="final">Dexcom Share</target>
         <note>Class = "UITableViewSection"; headerTitle = "Dexcom Share"; ObjectID = "k1N-Rg-XDy";</note>
       </trans-unit>
-      <trans-unit id="nKX-TW-GhD.placeholder" xml:space="preserve">
+      <trans-unit id="nKX-TW-GhD.placeholder" xml:space="preserve" approved="yes">
         <source>Enter the 6-digit transmitter ID</source>
-        <target state="translated">Introduceți ID-ul format din 6 cifre al transmițătorului</target>
+        <target state="final">Introduceți ID-ul format din 6 cifre al transmițătorului</target>
         <note>Class = "UITextField"; placeholder = "Enter the 6-digit transmitter ID"; ObjectID = "nKX-TW-GhD";</note>
       </trans-unit>
     </body>
   </file>
   <file original="CGMBLEKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="ro" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
@@ -368,7 +368,7 @@ Title text for the button to remove a CGM from Loop</note>
   </file>
   <file original="ResetTransmitter/Base.lproj/Main.storyboard" source-language="en" target-language="ro" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="3SD-s3-7OM.title" xml:space="preserve" approved="yes">
@@ -421,7 +421,7 @@ A se utiliza pe proprie răspundere.</target>
   </file>
   <file original="ResetTransmitter/en.lproj/InfoPlist.strings" source-language="en" target-language="ro" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" approved="yes">
@@ -448,7 +448,7 @@ A se utiliza pe proprie răspundere.</target>
   </file>
   <file original="ResetTransmitter/en.lproj/Localizable.strings" source-language="en" target-language="ro" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="Are you sure you want to reset this transmitter?" xml:space="preserve" approved="yes">
