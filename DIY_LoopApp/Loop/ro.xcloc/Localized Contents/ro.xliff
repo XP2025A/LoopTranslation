@@ -129,24 +129,24 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
-      <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
+      <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve" approved="yes">
         <source>Current glucose of %1$@ is below correction range.</source>
-        <target state="translated">Glicemia curentă de %1$@ este sub intervalul țintă de corecție.</target>
+        <target state="final">Glicemia curentă de %1$@ este sub intervalul țintă de corecție.</target>
         <note>Message when offering bolus recommendation even though bg is below range. (1: glucose value)</note>
       </trans-unit>
-      <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve">
+      <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve" approved="yes">
         <source>Predicted glucose at %1$@ is %2$@.</source>
-        <target state="translated">Glicemia estimată la %1$@ este %2$@.</target>
+        <target state="final">Glicemia estimată la %1$@ este %2$@.</target>
         <note>Message when offering bolus recommendation even though bg is below range and minBG is in future. (1: glucose time)(2: glucose number)</note>
       </trans-unit>
-      <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve">
+      <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve" approved="yes">
         <source>Predicted glucose of %1$@ is below your suspend threshold setting.</source>
-        <target state="translated">Glicemia estimată de %1$@ este sub limitai de suspendare.</target>
+        <target state="final">Glicemia estimată de %1$@ este sub limita de suspendare.</target>
         <note>Notice message when recommending bolus when BG is below the suspend threshold. (1: glucose value)</note>
       </trans-unit>
-      <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
+      <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve" approved="yes">
         <source>%1$@ %2$@</source>
-        <target state="translated">%1$@ %2$@</target>
+        <target state="final">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve" approved="yes">
@@ -210,9 +210,9 @@
         <target state="translated">Learn</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
+      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve" approved="yes">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to optimize delivery of Apple Watch complication updates during the time you are awake.</source>
-        <target state="translated">Datele mesei din baza de date din aplicațtia Sănătate sunt folosite pentru a determina efectele glicemice. Datele despre glicemie din baza de date Sănătate sunt folosite pentru construirea graficelor și calcularea influențelor glicemice. Datele de somn din baza de date Sănătate sunt folosite pentru a optimiza livrarea de actualizări de datele ale ceasului Apple pe perioada când sunteți treaz.</target>
+        <target state="final">Datele mesei din baza de date din aplicația Sănătate sunt folosite pentru a determina efectele glicemice. Datele despre glicemie din baza de date Sănătate sunt folosite pentru construirea graficelor și calcularea influențelor glicemice. Datele de somn din baza de date Sănătate sunt folosite pentru a optimiza livrarea de actualizări de datele ale ceasului Apple pe perioada când sunteți treaz.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
     </body>
@@ -304,24 +304,24 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
-      <trans-unit id="9iF-xY-Bh4.text" xml:space="preserve">
+      <trans-unit id="9iF-xY-Bh4.text" xml:space="preserve" approved="yes">
         <source>Active Carbs</source>
-        <target state="translated">Eventually 92 mg/dL</target>
+        <target state="final">Carbohidrați activi</target>
         <note>Class = "UILabel"; text = "Active Carbs"; ObjectID = "9iF-xY-Bh4";</note>
       </trans-unit>
-      <trans-unit id="UPi-dG-yYD.text" xml:space="preserve">
+      <trans-unit id="UPi-dG-yYD.text" xml:space="preserve" approved="yes">
         <source>Active Insulin</source>
-        <target state="translated">IOB 1.0 U</target>
+        <target state="final">Insulină activă</target>
         <note>Class = "UILabel"; text = "Active Insulin"; ObjectID = "UPi-dG-yYD";</note>
       </trans-unit>
-      <trans-unit id="Vgf-p1-2QP.text" xml:space="preserve">
+      <trans-unit id="Vgf-p1-2QP.text" xml:space="preserve" approved="yes">
         <source>0 U</source>
-        <target state="translated">0 U</target>
+        <target state="final">0 U</target>
         <note>Class = "UILabel"; text = "0 U"; ObjectID = "Vgf-p1-2QP";</note>
       </trans-unit>
-      <trans-unit id="dPp-lJ-5sh.text" xml:space="preserve">
+      <trans-unit id="dPp-lJ-5sh.text" xml:space="preserve" approved="yes">
         <source>0 g</source>
-        <target state="translated">0 g</target>
+        <target state="final">0 g</target>
         <note>Class = "UILabel"; text = "0 g"; ObjectID = "dPp-lJ-5sh";</note>
       </trans-unit>
     </body>
@@ -331,14 +331,14 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve" approved="yes">
         <source>Loop</source>
-        <target state="translated">Loop</target>
+        <target state="final">Loop</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>Loop Status Extension</source>
-        <target state="translated">Extensie stare Loop</target>
+        <target state="final">Extensie stare Loop</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -348,14 +348,14 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve" approved="yes">
         <source>Loop</source>
-        <target state="translated">Loop</target>
+        <target state="final">Loop</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>$(PRODUCT_NAME)</source>
-        <target state="translated">$(PRODUCT_NAME)</target>
+        <target state="final">$(PRODUCT_NAME)</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">
@@ -368,14 +368,14 @@
         <target state="translated">Bluetooth este folosit pentru a comunica cu pompa de insulină, precum și cu dispozitivele de monitorizare glicemică continuă.</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve" approved="yes">
         <source>Camera is used to scan barcodes of devices</source>
-        <target state="translated">Camera foto este folosită pentru a scana codurile de bare ale dispozitivelor</target>
+        <target state="final">Camera foto este folosită pentru a scana codurile de bare ale dispozitivelor</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>Face ID is used to authenticate insulin bolus and to save changes to therapy settings.</source>
-        <target state="translated">Face ID este utilizat pentru autentificarea la bolus și pentru salvarea modificărilor setărilor terapiei.</target>
+        <target state="translated">Face ID este utilizat pentru autentificarea la bolus și pentru salvarea modificărilor din setările terapiei.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
@@ -422,81 +422,81 @@
         <target state="translated"> (urmează a fi administrate: %@)</target>
         <note>The string format appended to active insulin that describes pending insulin. (1: pending insulin)</note>
       </trans-unit>
-      <trans-unit id="%1$@ %2$@" xml:space="preserve">
+      <trans-unit id="%1$@ %2$@" xml:space="preserve" approved="yes">
         <source>%1$@ %2$@</source>
-        <target state="translated">%1$@ %2$@</target>
+        <target state="final">%1$@ %2$@</target>
         <note>Format string combining carb entry quantity and absorption time emoji</note>
       </trans-unit>
-      <trans-unit id="%1$@ %2$@/U" xml:space="preserve">
+      <trans-unit id="%1$@ %2$@/U" xml:space="preserve" approved="yes">
         <source>%1$@ %2$@/U</source>
-        <target state="translated">%1$@ %2$@/U</target>
+        <target state="final">%1$@ %2$@/U</target>
         <note>Format string for carb ratio average. (1: value)(2: carb unit)</note>
       </trans-unit>
-      <trans-unit id="%1$@ + %2$@" xml:space="preserve">
+      <trans-unit id="%1$@ + %2$@" xml:space="preserve" approved="yes">
         <source>%1$@ + %2$@</source>
-        <target state="translated">%1$@ + %2$@</target>
+        <target state="final">%1$@ + %2$@</target>
         <note>Formats (1: carb start time) and (2: carb absorption duration)</note>
       </trans-unit>
-      <trans-unit id="%1$@ U left" xml:space="preserve">
+      <trans-unit id="%1$@ U left" xml:space="preserve" approved="yes">
         <source>%1$@ U left</source>
-        <target state="translated">%1$@ U rămase</target>
+        <target state="final">%1$@ U rămase</target>
         <note>Low reservoir alert format string. (1: Number of units remaining)</note>
       </trans-unit>
-      <trans-unit id="%1$@ U left: %2$@" xml:space="preserve">
+      <trans-unit id="%1$@ U left: %2$@" xml:space="preserve" approved="yes">
         <source>%1$@ U left: %2$@</source>
-        <target state="translated">%1$@ U rămase: %2$@</target>
+        <target state="final">%1$@ U rămase: %2$@</target>
         <note>Low reservoir alert with time remaining format string. (1: Number of units remaining)(2: approximate time remaining)</note>
       </trans-unit>
-      <trans-unit id="%1$@ U/hour @ %2$@" xml:space="preserve">
+      <trans-unit id="%1$@ U/hour @ %2$@" xml:space="preserve" approved="yes">
         <source>%1$@ U/hour @ %2$@</source>
-        <target state="translated">%1$@ U/oră @ %2$@</target>
+        <target state="final">%1$@ U/oră @ %2$@</target>
         <note>The format for recommended temp basal rate and time. (1: localized rate number)(2: localized time)</note>
       </trans-unit>
-      <trans-unit id="%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.&#10;You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options." xml:space="preserve">
+      <trans-unit id="%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.&#10;You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options." xml:space="preserve" approved="yes">
         <source>%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.
 You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options.</source>
-        <target state="translated">%1$@ nu poate comunica cu pompa de insulină. Aplicația va continua să încerce să comunice cu pompa, dar informațiile despre administrarea insulinei nu pot fi actualizate și automatizarea nu poate continua.
+        <target state="final">%1$@ nu poate comunica cu pompa de insulină. Aplicația va continua să încerce să comunice cu pompa, dar informațiile despre administrarea insulinei nu pot fi actualizate și automatizarea nu poate continua.
 Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau apăsați butonul de mai jos pentru a afla mai multe despre alte opțiuni.</target>
         <note>Message for alert shown when delivery status is uncertain. (1: app name)</note>
       </trans-unit>
-      <trans-unit id="%1$@ v%2$@" xml:space="preserve">
+      <trans-unit id="%1$@ v%2$@" xml:space="preserve" approved="yes">
         <source>%1$@ v%2$@</source>
-        <target state="translated">%1$@ v%2$@</target>
+        <target state="final">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
-      <trans-unit id="%1$@ – %2$@ %3$@" xml:space="preserve">
+      <trans-unit id="%1$@ – %2$@ %3$@" xml:space="preserve" approved="yes">
         <source>%1$@ – %2$@ %3$@</source>
-        <target state="translated">%1$@ – %2$@ %3$@</target>
+        <target state="final">%1$@ – %2$@ %3$@</target>
         <note>Format string for glucose target range. (1: Min target)(2: Max target)(3: glucose unit)</note>
       </trans-unit>
-      <trans-unit id="%1$@: %2$@" xml:space="preserve">
+      <trans-unit id="%1$@: %2$@" xml:space="preserve" approved="yes">
         <source>%1$@: %2$@</source>
-        <target state="translated">%1$@: %2$@</target>
+        <target state="final">%1$@: %2$@</target>
         <note>Formats (1: carb value) and (2: food type)</note>
       </trans-unit>
-      <trans-unit id="%@ %@" xml:space="preserve">
+      <trans-unit id="%@ %@" xml:space="preserve" approved="yes">
         <source>%1$@ %2$@</source>
-        <target state="translated">%1$@ %2$@</target>
+        <target state="final">%1$@ %2$@</target>
         <note>The format for an active override preset. (1: preset symbol)(2: preset name)</note>
       </trans-unit>
-      <trans-unit id="%@ U Total" xml:space="preserve">
+      <trans-unit id="%@ U Total" xml:space="preserve" approved="yes">
         <source>%@ U Total</source>
-        <target state="translated">%@ U total</target>
+        <target state="final">%@ U total</target>
         <note>The subtitle format describing total insulin. (1: localized insulin total)</note>
       </trans-unit>
-      <trans-unit id="%@ absorbed" xml:space="preserve">
+      <trans-unit id="%@ absorbed" xml:space="preserve" approved="yes">
         <source>%@ absorbed</source>
-        <target state="translated">%@ absorbiți</target>
+        <target state="final">%@ absorbiți</target>
         <note>Formats absorbed carb value</note>
       </trans-unit>
-      <trans-unit id="%@." xml:space="preserve">
+      <trans-unit id="%@." xml:space="preserve" approved="yes">
         <source>%@.</source>
-        <target state="translated">%@.</target>
+        <target state="final">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
-      <trans-unit id="--" xml:space="preserve">
+      <trans-unit id="--" xml:space="preserve" approved="yes">
         <source>--</source>
-        <target state="translated">--</target>
+        <target state="final">--</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="15 min glucose regression coefficient (b₁), continued with decay over 30 min" xml:space="preserve">
@@ -529,14 +529,14 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="translated">O pompă trebuie configurată înainte ca un bolus să poată fi livrat.</target>
         <note>Alert message for a missing pump error</note>
       </trans-unit>
-      <trans-unit id="API Key" xml:space="preserve">
+      <trans-unit id="API Key" xml:space="preserve" approved="yes">
         <source>API Key</source>
-        <target state="translated">Cheie API</target>
+        <target state="final">Cheie API</target>
         <note>The title of the amplitude API key credential</note>
       </trans-unit>
-      <trans-unit id="API Secret" xml:space="preserve">
+      <trans-unit id="API Secret" xml:space="preserve" approved="yes">
         <source>API Secret</source>
-        <target state="translated">Secret API</target>
+        <target state="final">Secret API</target>
         <note>The title of the nightscout API secret credential</note>
       </trans-unit>
       <trans-unit id="Absorption Time" xml:space="preserve" approved="yes">
@@ -701,15 +701,15 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="final">Alertă Bluetooth indisponibil</target>
         <note>Bluetooth unavailable alert title</note>
       </trans-unit>
-      <trans-unit id="Bolus" xml:space="preserve">
+      <trans-unit id="Bolus" xml:space="preserve" approved="yes">
         <source>Bolus</source>
-        <target state="translated">Bolus</target>
+        <target state="final">Bolus</target>
         <note>The label of the bolus entry button
    The notification title for a bolus failure</note>
       </trans-unit>
-      <trans-unit id="Bolus Recommendation Updated" xml:space="preserve">
+      <trans-unit id="Bolus Recommendation Updated" xml:space="preserve" approved="yes">
         <source>Bolus Recommendation Updated</source>
-        <target state="translated">Recomandare actualizată pentru bolus</target>
+        <target state="final">Recomandare actualizată pentru bolus</target>
         <note>Alert title for an updated bolus recommendation</note>
       </trans-unit>
       <trans-unit id="Bolus Summary" xml:space="preserve">
@@ -719,17 +719,17 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
       </trans-unit>
       <trans-unit id="Bolused %1$@ of %2$@" xml:space="preserve">
         <source>Bolused %1$@ of %2$@</source>
-        <target state="translated">Bolus administrat %1$@ of %2$@</target>
+        <target state="translated">Bolus administrat %1$@ din %2$@</target>
         <note>The format string for bolus progress. (1: delivered volume)(2: total volume)</note>
       </trans-unit>
-      <trans-unit id="Bolusing %1$@" xml:space="preserve">
+      <trans-unit id="Bolusing %1$@" xml:space="preserve" approved="yes">
         <source>Bolusing %1$@</source>
-        <target state="translated">Bolus în administrare %1$@</target>
+        <target state="final">Bolus în administrare %1$@</target>
         <note>The format string for bolus in progress showing total volume. (1: total volume)</note>
       </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
+      <trans-unit id="Cancel" xml:space="preserve" approved="yes">
         <source>Cancel</source>
-        <target state="translated">Renunță</target>
+        <target state="final">Renunță</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
       <trans-unit id="Canceling Bolus" xml:space="preserve">
@@ -754,9 +754,9 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="translated">Efecte carbohidrați</target>
         <note>Details for missing data error when carb effects are missing</note>
       </trans-unit>
-      <trans-unit id="Carbohydrates" xml:space="preserve">
+      <trans-unit id="Carbohydrates" xml:space="preserve" approved="yes">
         <source>Carbohydrates</source>
-        <target state="translated">Carbohidrați</target>
+        <target state="final">Carbohidrați</target>
         <note>Title of the prediction input effect for carbohydrates</note>
       </trans-unit>
       <trans-unit id="Carbs Absorbed (g) ÷ Carb Ratio (g/U) × Insulin Sensitivity (%1$@/U)" xml:space="preserve">
@@ -764,29 +764,29 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="translated">Carbohidrați absorbiți (g) ÷ Raport carbohidrați (g/U) × Factor de sensibilitate la insulină (%1$@/U)</target>
         <note>Description of the prediction input effect for carbohydrates. (1: The glucose unit string)</note>
       </trans-unit>
-      <trans-unit id="Change the pump battery immediately" xml:space="preserve">
+      <trans-unit id="Change the pump battery immediately" xml:space="preserve" approved="yes">
         <source>Change the pump battery immediately</source>
-        <target state="translated">Schimbați bateria pompei imediat</target>
+        <target state="final">Schimbați bateria pompei imediat</target>
         <note>The notification alert describing a low pump battery</note>
       </trans-unit>
       <trans-unit id="Change the pump reservoir now" xml:space="preserve">
         <source>Change the pump reservoir now</source>
-        <target state="translated">Schimbați bateria pompei acum</target>
+        <target state="translated">Schimbați rezervorul pompei acum</target>
         <note>The notification alert describing an empty pump reservoir</note>
       </trans-unit>
-      <trans-unit id="Check settings" xml:space="preserve">
+      <trans-unit id="Check settings" xml:space="preserve" approved="yes">
         <source>Check settings</source>
-        <target state="translated">Verificați setările</target>
+        <target state="final">Verificați setările</target>
         <note>Details for configuration error when one or more loop settings are missing</note>
       </trans-unit>
       <trans-unit id="Check that your pump is in range" xml:space="preserve">
         <source>Check that your pump is in range</source>
-        <target state="translated">Verificați că pompa este în apropriere</target>
+        <target state="translated">Verificați că pompa este în aria de acoperire</target>
         <note>Recovery suggestion when reservoir data is missing</note>
       </trans-unit>
-      <trans-unit id="Check your CGM data source" xml:space="preserve">
+      <trans-unit id="Check your CGM data source" xml:space="preserve" approved="yes">
         <source>Check your CGM data source</source>
-        <target state="translated">Verificați sursa de date CGM</target>
+        <target state="final">Verificați sursa de date CGM</target>
         <note>Recovery suggestion when glucose data is missing</note>
       </trans-unit>
       <trans-unit id="Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." xml:space="preserve">
@@ -799,9 +799,9 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="translated">Loop automat</target>
         <note>The title text for the looping enabled switch cell</note>
       </trans-unit>
-      <trans-unit id="Configuration" xml:space="preserve">
+      <trans-unit id="Configuration" xml:space="preserve" approved="yes">
         <source>Configuration</source>
-        <target state="translated">Configurare</target>
+        <target state="final">Configurare</target>
         <note>The title of the configuration section in settings</note>
       </trans-unit>
       <trans-unit id="Configuration Error: %1$@" xml:space="preserve" approved="yes">
@@ -811,18 +811,18 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
       </trans-unit>
       <trans-unit id="Continuous Glucose Monitor" xml:space="preserve">
         <source>Continuous Glucose Monitor</source>
-        <target state="translated">Monitorizare glicemică continuă</target>
+        <target state="translated">Monitorizare continuă a glicemiei</target>
         <note>The title of the continuous glucose monitor section in settings</note>
       </trans-unit>
-      <trans-unit id="Correction Range" xml:space="preserve">
+      <trans-unit id="Correction Range" xml:space="preserve" approved="yes">
         <source>Correction Range</source>
-        <target state="translated">Interval țintă pentru corecție</target>
+        <target state="final">Interval țintă pentru corecție</target>
         <note>The title of the glucose target range schedule screen
    The title text for the glucose target range schedule</note>
       </trans-unit>
-      <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
+      <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve" approved="yes">
         <source>Current glucose of %1$@ is below correction range.</source>
-        <target state="translated"> Glicemia curentă de %1$@ se situează sub intervalul țintă de corecție.</target>
+        <target state="final">Glicemia curentă de %1$@ se situează sub intervalul țintă de corecție.</target>
         <note>Message when offering bolus recommendation even though bg is below range. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Custom Override" xml:space="preserve">
@@ -830,9 +830,9 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="translated">Înlocuire</target>
         <note>The title of the cell indicating a generic temporary override is enabled</note>
       </trans-unit>
-      <trans-unit id="Custom Preset" xml:space="preserve">
+      <trans-unit id="Custom Preset" xml:space="preserve" approved="yes">
         <source>Custom Preset</source>
-        <target state="translated">Presetare particularizată</target>
+        <target state="final">Presetare particularizată</target>
         <note>The title of the cell indicating a generic custom preset is enabled</note>
       </trans-unit>
       <trans-unit id="Customer Token" xml:space="preserve">
@@ -895,9 +895,9 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="translated">Tratament diabet</target>
         <note>Descriptive text for Therapy Settings</note>
       </trans-unit>
-      <trans-unit id="Disables" xml:space="preserve">
+      <trans-unit id="Disables" xml:space="preserve" approved="yes">
         <source>Disables</source>
-        <target state="translated">Dezactivează</target>
+        <target state="final">Dezactivează</target>
         <note>The action hint of the workout mode toggle button when enabled</note>
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
@@ -915,9 +915,9 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="translated">Activează Bluetooth</target>
         <note>Message to the user to enable bluetooth</note>
       </trans-unit>
-      <trans-unit id="Enables" xml:space="preserve">
+      <trans-unit id="Enables" xml:space="preserve" approved="yes">
         <source>Enables</source>
-        <target state="translated">Activează</target>
+        <target state="final">Activează</target>
         <note>The action hint of the workout mode toggle button when disabled</note>
       </trans-unit>
       <trans-unit id="Enter Bolus" xml:space="preserve">
@@ -940,9 +940,9 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="translated">Introduceți limita pentru suspendare</target>
         <note>The placeholder text instructing users to enter a suspend treshold</note>
       </trans-unit>
-      <trans-unit id="Error Canceling Bolus" xml:space="preserve">
+      <trans-unit id="Error Canceling Bolus" xml:space="preserve" approved="yes">
         <source>Error Canceling Bolus</source>
-        <target state="translated">Eroare la anularea bolusului</target>
+        <target state="final">Eroare la anularea bolusului</target>
         <note>The alert title for an error while canceling a bolus</note>
       </trans-unit>
       <trans-unit id="Error Resuming" xml:space="preserve" approved="yes">
@@ -960,14 +960,14 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="final">Depășește bolusul maxim</target>
         <note>The title of the alert describing a maximum bolus validation error</note>
       </trans-unit>
-      <trans-unit id="Failed to Resume Insulin Delivery" xml:space="preserve">
+      <trans-unit id="Failed to Resume Insulin Delivery" xml:space="preserve" approved="yes">
         <source>Failed to Resume Insulin Delivery</source>
-        <target state="translated">Nu s-a reușit reluarea livrării insulinei</target>
+        <target state="final">Nu s-a reușit reluarea livrării insulinei</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
-      <trans-unit id="Fiasp" xml:space="preserve">
+      <trans-unit id="Fiasp" xml:space="preserve" approved="yes">
         <source>Fiasp</source>
-        <target state="translated">Fiasp</target>
+        <target state="final">Fiasp</target>
         <note>Title of insulin model preset</note>
       </trans-unit>
       <trans-unit id="For %1$@" xml:space="preserve" approved="yes">
@@ -977,12 +977,12 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
       </trans-unit>
       <trans-unit id="Get help with Notification &amp; Critical Alert Permissions" xml:space="preserve">
         <source>Get help with Notification &amp; Critical Alert Permissions</source>
-        <target state="translated">Obțineți ajutor cu Notificări; Permisiuni pentru avertizări foarte importante</target>
+        <target state="translated">Obțineți ajutor cu Notificări &amp; Permisiuni pentru alerte critice</target>
         <note>Get help with Notification &amp; Critical Alert Permissions support button text</note>
       </trans-unit>
       <trans-unit id="Get help with Notification &amp; Critical Alert Permissions screen" xml:space="preserve">
         <source>Get help with Notification &amp; Critical Alert Permissions screen</source>
-        <target state="translated">Obțineți ajutor cu Notificări; Ecranul Permisiuni pentru avertizări foarte importante</target>
+        <target state="translated">Obțineți ajutor cu Notificări &amp; Permisiuni ecran pentru alerte critice</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Glucose" xml:space="preserve" approved="yes">
@@ -992,12 +992,12 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
       </trans-unit>
       <trans-unit id="Glucose Data Now Available" xml:space="preserve">
         <source>Glucose Data Now Available</source>
-        <target state="translated">Datele cu valorile glicemice sunt disponibile</target>
+        <target state="translated">Valorile glicemiei sunt disponibile</target>
         <note>Alert title when glucose data returns while on bolus screen</note>
       </trans-unit>
-      <trans-unit id="Glucose Entry Out of Range" xml:space="preserve">
+      <trans-unit id="Glucose Entry Out of Range" xml:space="preserve" approved="yes">
         <source>Glucose Entry Out of Range</source>
-        <target state="translated">Valoarea glicemică introdusă este în afara intervalului</target>
+        <target state="final">Valoarea glicemică introdusă este în afara intervalului</target>
         <note>Alert title for a manual glucose entry out of range error</note>
       </trans-unit>
       <trans-unit id="Glucose Momentum" xml:space="preserve">
@@ -1041,9 +1041,9 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <note>Details for configuration error when insulin model is missing
    The title text for the insulin model setting row</note>
       </trans-unit>
-      <trans-unit id="Insulin Pump" xml:space="preserve">
+      <trans-unit id="Insulin Pump" xml:space="preserve" approved="yes">
         <source>Insulin Pump</source>
-        <target state="translated">Pompa de insulină</target>
+        <target state="final">Pompa de insulină</target>
         <note>Descriptive text for Insulin Pump</note>
       </trans-unit>
       <trans-unit id="Insulin Sensitivities" xml:space="preserve">
@@ -1054,7 +1054,7 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
       </trans-unit>
       <trans-unit id="Insulin Suspended" xml:space="preserve">
         <source>Insulin Suspended</source>
-        <target state="translated">Infuzarea insulinei suspendată</target>
+        <target state="translated">Livrarea insulinei suspendată</target>
         <note>The title of the cell indicating the pump is suspended</note>
       </trans-unit>
       <trans-unit id="Insulin effects" xml:space="preserve" approved="yes">
@@ -1077,9 +1077,9 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="final">Lansează aplicația CGM</target>
         <note>Glucose HUD accessibility hint</note>
       </trans-unit>
-      <trans-unit id="Learn More" xml:space="preserve">
+      <trans-unit id="Learn More" xml:space="preserve" approved="yes">
         <source>Learn More</source>
-        <target state="translated">Aflați mai multe</target>
+        <target state="final">Aflați mai multe</target>
         <note>OK button title for alert shown when delivery status is uncertain</note>
       </trans-unit>
       <trans-unit id="Loading..." xml:space="preserve" approved="yes">
@@ -1092,39 +1092,39 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="final">Eșec Loop</target>
         <note>The notification title for a loop failure</note>
       </trans-unit>
-      <trans-unit id="Loop has detected an issue with your Bluetooth settings, and will not work successfully until Bluetooth is enabled. You will not receive glucose readings, or be able to bolus." xml:space="preserve">
+      <trans-unit id="Loop has detected an issue with your Bluetooth settings, and will not work successfully until Bluetooth is enabled. You will not receive glucose readings, or be able to bolus." xml:space="preserve" approved="yes">
         <source>Loop has detected an issue with your Bluetooth settings, and will not work successfully until Bluetooth is enabled. You will not receive glucose readings, or be able to bolus.</source>
-        <target state="translated">Loop a detectat o problemă cu setările Bluetooth și nu va funcționa cu succes până când Bluetooth nu este activat. Nu veţi primi valori ale glicemiei sau nu veţi putea face bolus.</target>
+        <target state="final">Loop a detectat o problemă cu setările Bluetooth și nu va funcționa cu succes până când Bluetooth nu este activat. Nu veţi primi valori ale glicemiei sau nu veţi putea face bolus.</target>
         <note>Bluetooth unavailable alert body.</note>
       </trans-unit>
-      <trans-unit id="Loop has not completed successfully in %@" xml:space="preserve">
+      <trans-unit id="Loop has not completed successfully in %@" xml:space="preserve" approved="yes">
         <source>Loop has not completed successfully in %@</source>
-        <target state="translated">Loop nu a rulat cu succes timp de %@</target>
+        <target state="final">Loop nu a rulat cu succes timp de %@</target>
         <note>The notification alert describing a long-lasting loop failure. The substitution parameter is the time interval since the last loop</note>
       </trans-unit>
-      <trans-unit id="Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus." xml:space="preserve">
+      <trans-unit id="Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus." xml:space="preserve" approved="yes">
         <source>Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus.</source>
-        <target state="translated">Loop nu va funcționa cu succes până când Bluetooth nu este activat. Nu veţi primi valori ale glicemiei sau nu veţi putea face bolus.</target>
+        <target state="final">Loop nu va funcționa cu succes până când Bluetooth nu este activat. Nu veţi primi valori ale glicemiei sau nu veţi putea face bolus.</target>
         <note>Bluetooth off background alert body.</note>
       </trans-unit>
       <trans-unit id="Manage Critical Alerts in Settings" xml:space="preserve">
         <source>Manage Critical Alerts in Settings</source>
-        <target state="translated">Gestionează avertizările foarte importante în Setări</target>
+        <target state="translated">Gestionează Alertele critice în Setări</target>
         <note>Manage Critical Alerts in Settings button text</note>
       </trans-unit>
       <trans-unit id="Manage Notifications in Settings" xml:space="preserve">
         <source>Manage Notifications in Settings</source>
-        <target state="translated">Gestionează Notificări în meniul Setări</target>
+        <target state="translated">Gestionează Notificările în meniul Setări</target>
         <note>Manage Notifications in Settings button text</note>
       </trans-unit>
       <trans-unit id="Manual BG Entry" xml:space="preserve">
         <source>Manual BG Entry</source>
-        <target state="translated">Introducere manuală valoare glicemică</target>
+        <target state="translated">Valoare glicemică manuala</target>
         <note>Label for manual glucose entry row on bolus screen</note>
       </trans-unit>
       <trans-unit id="Meal Bolus" xml:space="preserve">
         <source>Meal Bolus</source>
-        <target state="translated">Bolus prandial (la masă)</target>
+        <target state="translated">Bolus prandial</target>
         <note>Title for bolus entry screen when also entering carbs</note>
       </trans-unit>
       <trans-unit id="Missing data: %1$@" xml:space="preserve" approved="yes">
@@ -1139,32 +1139,32 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
       </trans-unit>
       <trans-unit id="Needs Attention" xml:space="preserve">
         <source>Needs Attention</source>
-        <target state="translated">Atenția este necesară</target>
+        <target state="translated">Necesită atenție</target>
         <note>Sensor state description for the non-valid state</note>
       </trans-unit>
-      <trans-unit id="Nightscout" xml:space="preserve">
+      <trans-unit id="Nightscout" xml:space="preserve" approved="yes">
         <source>Nightscout</source>
-        <target state="translated">Nightscout</target>
+        <target state="final">Nightscout</target>
         <note>The title of the Nightscout service</note>
       </trans-unit>
       <trans-unit id="No Bolus Recommended" xml:space="preserve">
         <source>No Bolus Recommended</source>
-        <target state="translated">Nu se recomandă bolus</target>
+        <target state="translated">Niciun bolus recomandat</target>
         <note>Title for bolus screen notice when no bolus is recommended</note>
       </trans-unit>
       <trans-unit id="No Maximum Bolus Configured" xml:space="preserve">
         <source>No Maximum Bolus Configured</source>
-        <target state="translated">Bolus Maxim nu este setat</target>
+        <target state="translated">Bolusul Maxim nu este setat</target>
         <note>Alert title for a missing maximum bolus setting error</note>
       </trans-unit>
-      <trans-unit id="No Pump Configured" xml:space="preserve">
+      <trans-unit id="No Pump Configured" xml:space="preserve" approved="yes">
         <source>No Pump Configured</source>
-        <target state="translated">Nicio pompă configurată</target>
+        <target state="final">Nicio pompă configurată</target>
         <note>Alert title for a missing pump error</note>
       </trans-unit>
-      <trans-unit id="No Recent Glucose Data" xml:space="preserve">
+      <trans-unit id="No Recent Glucose Data" xml:space="preserve" approved="yes">
         <source>No Recent Glucose Data</source>
-        <target state="translated">Nu există date recente despre glicemie</target>
+        <target state="final">Nu există date recente despre glicemie</target>
         <note>Title for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
       <trans-unit id="No Recent Pump Data" xml:space="preserve">
@@ -1342,29 +1342,29 @@ Actuală: %2$@ (%3$@)</target>
         <target state="translated">Limită suspendare</target>
         <note>The title text in settings</note>
       </trans-unit>
-      <trans-unit id="Tap here to set up a Account" xml:space="preserve">
+      <trans-unit id="Tap here to set up a Account" xml:space="preserve" approved="yes">
         <source>Tap here to set up a Account</source>
-        <target state="translated">Atinge aici pentru a configura un cont</target>
+        <target state="final">Apăsați aici pentru a configura un cont</target>
         <note>The descriptive text of the add account button in settings</note>
       </trans-unit>
-      <trans-unit id="Tap here to set up a CGM" xml:space="preserve">
+      <trans-unit id="Tap here to set up a CGM" xml:space="preserve" approved="yes">
         <source>Tap here to set up a CGM</source>
-        <target state="translated">Apăsați aici pentru a configura un CGM</target>
+        <target state="final">Apăsați aici pentru a configura un CGM</target>
         <note>Descriptive text for button to add CGM device</note>
       </trans-unit>
-      <trans-unit id="Tap here to set up a pump" xml:space="preserve">
+      <trans-unit id="Tap here to set up a pump" xml:space="preserve" approved="yes">
         <source>Tap here to set up a pump</source>
-        <target state="translated">Apăsați aici pentru a configura o pompă in insulină</target>
+        <target state="final">Apăsați aici pentru a configura o pompă de insulină</target>
         <note>Descriptive text for button to add pump device</note>
       </trans-unit>
-      <trans-unit id="Tap to Resume" xml:space="preserve">
+      <trans-unit id="Tap to Resume" xml:space="preserve" approved="yes">
         <source>Tap to Resume</source>
-        <target state="translated">Apăsați pentru a relua</target>
+        <target state="final">Apăsați pentru a relua</target>
         <note>The subtitle of the cell displaying an action to resume insulin delivery</note>
       </trans-unit>
-      <trans-unit id="The bolus recommendation has updated. Please reconfirm the bolus amount." xml:space="preserve">
+      <trans-unit id="The bolus recommendation has updated. Please reconfirm the bolus amount." xml:space="preserve" approved="yes">
         <source>The bolus recommendation has updated. Please reconfirm the bolus amount.</source>
-        <target state="translated">Recomandarea pentru bolus a fost actualizată. Vă rugăm să reconfirmaţi valoarea bolusului.</target>
+        <target state="final">Recomandarea pentru bolus a fost actualizată. Vă rugăm să reconfirmaţi valoarea bolusului.</target>
         <note>Alert message for an updated bolus recommendation</note>
       </trans-unit>
       <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve">
@@ -1609,9 +1609,9 @@ Actuală: %2$@ (%3$@)</target>
         <target state="needs-translation">Add/Edit Carb Entry</target>
         <note>Class = "UINavigationItem"; title = "Add/Edit Carb Entry"; ObjectID = "Tz7-80-bJ7";</note>
       </trans-unit>
-      <trans-unit id="Vpi-5b-bY5.title" xml:space="preserve">
+      <trans-unit id="Vpi-5b-bY5.title" xml:space="preserve" approved="yes">
         <source>Carbohydrates</source>
-        <target state="translated">Carbohidrați</target>
+        <target state="final">Carbohidrați</target>
         <note>Class = "UINavigationItem"; title = "Carbohydrates"; ObjectID = "Vpi-5b-bY5";</note>
       </trans-unit>
       <trans-unit id="Wx8-Tf-FnG.text" xml:space="preserve">
@@ -1624,9 +1624,9 @@ Actuală: %2$@ (%3$@)</target>
         <target state="needs-translation">0</target>
         <note>Class = "UITextField"; placeholder = "0"; ObjectID = "Yf6-fw-Gex";</note>
       </trans-unit>
-      <trans-unit id="aCb-Qs-bpu.text" xml:space="preserve">
+      <trans-unit id="aCb-Qs-bpu.text" xml:space="preserve" approved="yes">
         <source>Detail</source>
-        <target state="translated">Detaliu</target>
+        <target state="final">Detaliu</target>
         <note>Class = "UILabel"; text = "Detail"; ObjectID = "aCb-Qs-bpu";</note>
       </trans-unit>
       <trans-unit id="ap1-M6-naG.text" xml:space="preserve">
@@ -1634,9 +1634,9 @@ Actuală: %2$@ (%3$@)</target>
         <target state="needs-translation">Food Type</target>
         <note>Class = "UILabel"; text = "Food Type"; ObjectID = "ap1-M6-naG";</note>
       </trans-unit>
-      <trans-unit id="bIL-Ub-qYp.text" xml:space="preserve">
+      <trans-unit id="bIL-Ub-qYp.text" xml:space="preserve" approved="yes">
         <source>Label</source>
-        <target state="translated">Etichetă</target>
+        <target state="final">Etichetă</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "bIL-Ub-qYp";</note>
       </trans-unit>
       <trans-unit id="bq4-98-cQU.text" xml:space="preserve">
@@ -1644,14 +1644,14 @@ Actuală: %2$@ (%3$@)</target>
         <target state="needs-translation">Glucose Change</target>
         <note>Class = "UILabel"; text = "Glucose Change"; ObjectID = "bq4-98-cQU";</note>
       </trans-unit>
-      <trans-unit id="d3X-AN-tA5.text" xml:space="preserve">
+      <trans-unit id="d3X-AN-tA5.text" xml:space="preserve" approved="yes">
         <source>g Total</source>
-        <target state="translated">g în total</target>
+        <target state="final">g în total</target>
         <note>Class = "UILabel"; text = "g Total"; ObjectID = "d3X-AN-tA5";</note>
       </trans-unit>
-      <trans-unit id="d6m-qV-wWi.text" xml:space="preserve">
+      <trans-unit id="d6m-qV-wWi.text" xml:space="preserve" approved="yes">
         <source>Label</source>
-        <target state="translated">Etichetă</target>
+        <target state="final">Etichetă</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "d6m-qV-wWi";</note>
       </trans-unit>
       <trans-unit id="hZZ-2S-lrd.title" xml:space="preserve">
@@ -1661,7 +1661,7 @@ Actuală: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="k3F-Na-7mn.text" xml:space="preserve">
         <source>Recommended Basal</source>
-        <target state="translated">Bazal recomandat</target>
+        <target state="translated">Rata bazala recomandata</target>
         <note>Class = "UILabel"; text = "Recommended Basal"; ObjectID = "k3F-Na-7mn";</note>
       </trans-unit>
       <trans-unit id="qPH-vU-xlu.text" xml:space="preserve">
@@ -1669,14 +1669,14 @@ Actuală: %2$@ (%3$@)</target>
         <target state="needs-translation">Food Type</target>
         <note>Class = "UILabel"; text = "Food Type"; ObjectID = "qPH-vU-xlu";</note>
       </trans-unit>
-      <trans-unit id="tuw-av-A3x.text" xml:space="preserve">
+      <trans-unit id="tuw-av-A3x.text" xml:space="preserve" approved="yes">
         <source>Glucose</source>
-        <target state="translated">Glicemie</target>
+        <target state="final">Glicemie</target>
         <note>Class = "UILabel"; text = "Glucose"; ObjectID = "tuw-av-A3x";</note>
       </trans-unit>
-      <trans-unit id="ufi-Kj-33k.text" xml:space="preserve">
+      <trans-unit id="ufi-Kj-33k.text" xml:space="preserve" approved="yes">
         <source>Label</source>
-        <target state="translated">Eticheă</target>
+        <target state="final">Eticheă</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "ufi-Kj-33k";</note>
       </trans-unit>
       <trans-unit id="xl9-Wc-Pdu.normalTitle" xml:space="preserve">
