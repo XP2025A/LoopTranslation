@@ -24,7 +24,7 @@
       </trans-unit>
       <trans-unit id="Activation time exceeded" xml:space="preserve">
         <source>Activation time exceeded</source>
-        <target state="needs-translation">Activation time exceeded</target>
+        <target state="translated">Aktiveringstid överskriden</target>
         <note>Pod state when activation not completed in the time allowed</note>
       </trans-unit>
       <trans-unit id="Auto-off alarm" xml:space="preserve" approved="yes">
@@ -34,7 +34,7 @@
       </trans-unit>
       <trans-unit id="Basal initialized" xml:space="preserve">
         <source>Basal initialized</source>
-        <target state="needs-translation">Basal initialized</target>
+        <target state="translated">Basal initierad</target>
         <note>Pod state when basal initialized</note>
       </trans-unit>
       <trans-unit id="Bolusing" xml:space="preserve" approved="yes">
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="Fault event occurred" xml:space="preserve">
         <source>Fault event occurred</source>
-        <target state="needs-translation">Fault event occurred</target>
+        <target state="translated">Felhändelse inträffade</target>
         <note>Pod state when fault event has occurred</note>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve" approved="yes">
@@ -79,7 +79,7 @@
       </trans-unit>
       <trans-unit id="Inserting cannula" xml:space="preserve">
         <source>Inserting cannula</source>
-        <target state="needs-translation">Inserting cannula</target>
+        <target state="translated">För in kanyl</target>
         <note>Pod state when inserting cannula</note>
       </trans-unit>
       <trans-unit id="Internal pod fault %1$03d" xml:space="preserve" approved="yes">
@@ -94,12 +94,12 @@
       </trans-unit>
       <trans-unit id="Invalid address: (%1$@)" xml:space="preserve">
         <source>Invalid address: (%1$@)</source>
-        <target state="needs-translation">Invalid address: (%1$@)</target>
+        <target state="translated">Ogiltig adress: (%1$@)</target>
         <note>Description for MessageError invalidSequence</note>
       </trans-unit>
       <trans-unit id="Low reservoir" xml:space="preserve">
         <source>Low reservoir</source>
-        <target state="needs-translation">Low reservoir</target>
+        <target state="translated">Låg reservoarvolym</target>
         <note>Pod state when running with fifty or less units</note>
       </trans-unit>
       <trans-unit id="Low reservoir advisory alarm" xml:space="preserve" approved="yes">
@@ -109,7 +109,7 @@
       </trans-unit>
       <trans-unit id="Memory initialized" xml:space="preserve">
         <source>Memory initialized</source>
-        <target state="needs-translation">Memory initialized</target>
+        <target state="translated">Minne initierat</target>
         <note>Pod memory initialized</note>
       </trans-unit>
       <trans-unit id="No alerts" xml:space="preserve" approved="yes">
@@ -119,7 +119,7 @@
       </trans-unit>
       <trans-unit id="No faults" xml:space="preserve">
         <source>No faults</source>
-        <target state="needs-translation">No faults</target>
+        <target state="translated">Inga fel</target>
         <note>Description for Fault Event Code .noFaults</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve" approved="yes">
@@ -139,7 +139,7 @@
       </trans-unit>
       <trans-unit id="Paired completed" xml:space="preserve">
         <source>Paired completed</source>
-        <target state="needs-translation">Paired completed</target>
+        <target state="translated">Parkoppling lyckades</target>
         <note>Pod status when pairing completed</note>
       </trans-unit>
       <trans-unit id="Parsing Error: " xml:space="preserve">
@@ -165,17 +165,17 @@
       </trans-unit>
       <trans-unit id="Priming completed" xml:space="preserve">
         <source>Priming completed</source>
-        <target state="needs-translation">Priming completed</target>
+        <target state="translated">Infusionskateter har förfyllts</target>
         <note>Pod state when priming completed</note>
       </trans-unit>
       <trans-unit id="Reminder initialized" xml:space="preserve">
         <source>Reminder initialized</source>
-        <target state="needs-translation">Reminder initialized</target>
+        <target state="translated">Påminnelse initierad</target>
         <note>Pod pairing reminder initialized</note>
       </trans-unit>
       <trans-unit id="Scheduled basal" xml:space="preserve">
         <source>Scheduled basal</source>
-        <target state="needs-translation">Scheduled basal</target>
+        <target state="translated">Schemalagd basal</target>
         <note>Delivery status when scheduled basal is running</note>
       </trans-unit>
       <trans-unit id="Shutdown imminent alarm" xml:space="preserve" approved="yes">
@@ -220,17 +220,17 @@
       </trans-unit>
       <trans-unit id="oneNotUsed" xml:space="preserve">
         <source>oneNotUsed</source>
-        <target state="needs-translation">oneNotUsed</target>
+        <target state="translated">oneNotUsed</target>
         <note>Pod state oneNotUsed</note>
       </trans-unit>
       <trans-unit id="threeNotUsed" xml:space="preserve">
         <source>threeNotUsed</source>
-        <target state="needs-translation">threeNotUsed</target>
+        <target state="translated">threeNotUsed</target>
         <note>Pod state threeNotUsed</note>
       </trans-unit>
       <trans-unit id="twoNotUsed" xml:space="preserve">
         <source>twoNotUsed</source>
-        <target state="needs-translation">twoNotUsed</target>
+        <target state="translated">twoNotUsed</target>
         <note>Pod state twoNotUsed</note>
       </trans-unit>
     </body>
@@ -312,7 +312,7 @@
       </trans-unit>
       <trans-unit id="Glucose page failed crc check" xml:space="preserve">
         <source>Glucose page failed crc check</source>
-        <target state="needs-translation">Glucose page failed crc check</target>
+        <target state="translated">Glukossida misslyckades med crc-kontroll</target>
         <note>Error description for glucose page failing crc check</note>
       </trans-unit>
       <trans-unit id="History page does not exist" xml:space="preserve" approved="yes">
@@ -322,7 +322,7 @@
       </trans-unit>
       <trans-unit id="History page failed crc check" xml:space="preserve">
         <source>History page failed crc check</source>
-        <target state="needs-translation">History page failed crc check</target>
+        <target state="translated">Historiksidan misslyckades med kontroll av Crc</target>
         <note>Error description for history page failing crc check</note>
       </trans-unit>
       <trans-unit id="Invalid response during %1$@: %2$@" xml:space="preserve" approved="yes">
@@ -422,12 +422,12 @@
       </trans-unit>
       <trans-unit id="Unknown glucose record type: %$1@" xml:space="preserve">
         <source>Unknown glucose record type: %$1@</source>
-        <target state="needs-translation">Unknown glucose record type: %$1@</target>
+        <target state="translated">Okänd glukosposttyp: %$1 @</target>
         <note>Format string for error description for an unknown record type in a glucose page. (1: event type number)</note>
       </trans-unit>
       <trans-unit id="Unknown history record type: %$1@" xml:space="preserve">
         <source>Unknown history record type: %$1@</source>
-        <target state="needs-translation">Unknown history record type: %$1@</target>
+        <target state="translated">Okänd histori posttyp: %$1@</target>
         <note>Format string for error description for an unknown record type in a history page. (1: event type number)</note>
       </trans-unit>
       <trans-unit id="Unknown pump error code: %1$@" xml:space="preserve">
@@ -1035,7 +1035,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Activation time exceeded" xml:space="preserve">
         <source>Activation time exceeded</source>
-        <target state="needs-translation">Activation time exceeded</target>
+        <target state="translated">Aktiveringstid överskriden</target>
         <note>Format string for activation time exceeded
    Pod state when activation not completed in the time allowed</note>
       </trans-unit>
@@ -1046,7 +1046,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Basal initialized" xml:space="preserve">
         <source>Basal initialized</source>
-        <target state="needs-translation">Basal initialized</target>
+        <target state="translated">Basal initierad</target>
         <note>Pod state when basal initialized</note>
       </trans-unit>
       <trans-unit id="Below 50 units" xml:space="preserve">
@@ -1086,7 +1086,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Command error %1$u" xml:space="preserve">
         <source>Command error %1$u</source>
-        <target state="needs-translation">Command error %1$u</target>
+        <target state="translated">Kommandofel %1$u</target>
         <note>Format string for invalid message error code (1: error code number)</note>
       </trans-unit>
       <trans-unit id="Crosstalk possible. Please move to a new location and try again" xml:space="preserve">
@@ -1121,7 +1121,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Fault event occurred" xml:space="preserve">
         <source>Fault event occurred</source>
-        <target state="needs-translation">Fault event occurred</target>
+        <target state="translated">Felhändelse inträffade</target>
         <note>Pod state when fault event has occurred</note>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve">
@@ -1136,7 +1136,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Inserting cannula" xml:space="preserve">
         <source>Inserting cannula</source>
-        <target state="needs-translation">Inserting cannula</target>
+        <target state="translated">För in kanyl</target>
         <note>Pod state when inserting cannula</note>
       </trans-unit>
       <trans-unit id="Insulin Suspended" xml:space="preserve">
@@ -1166,12 +1166,12 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Invalid address: (%1$@)" xml:space="preserve">
         <source>Invalid address: (%1$@)</source>
-        <target state="needs-translation">Invalid address: (%1$@)</target>
+        <target state="translated">Ogiltig adress: (%1$@)</target>
         <note>Description for MessageError invalidSequence</note>
       </trans-unit>
       <trans-unit id="Low reservoir" xml:space="preserve">
         <source>Low reservoir</source>
-        <target state="needs-translation">Low reservoir</target>
+        <target state="translated">Låg reservoarvolym</target>
         <note>Pod state when running with fifty or less units</note>
       </trans-unit>
       <trans-unit id="Low reservoir advisory alarm" xml:space="preserve">
@@ -1186,7 +1186,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Memory initialized" xml:space="preserve">
         <source>Memory initialized</source>
-        <target state="needs-translation">Memory initialized</target>
+        <target state="translated">Minne initierat</target>
         <note>Pod memory initialized</note>
       </trans-unit>
       <trans-unit id="No Insulin" xml:space="preserve">
@@ -1211,7 +1211,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="No faults" xml:space="preserve">
         <source>No faults</source>
-        <target state="needs-translation">No faults</target>
+        <target state="translated">Inga fel</target>
         <note>Description for Fault Event Code .noFaults</note>
       </trans-unit>
       <trans-unit id="No pod paired" xml:space="preserve">
@@ -1252,7 +1252,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Paired completed" xml:space="preserve">
         <source>Paired completed</source>
-        <target state="needs-translation">Paired completed</target>
+        <target state="translated">Parkoppling lyckades</target>
         <note>Pod status when pairing completed</note>
       </trans-unit>
       <trans-unit id="Parsing Error: " xml:space="preserve">
@@ -1262,7 +1262,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Please bring only original pod in range or deactivate original pod" xml:space="preserve">
         <source>Please bring only original pod in range or deactivate original pod</source>
-        <target state="needs-translation">Please bring only original pod in range or deactivate original pod</target>
+        <target state="translated">Ha bara din ursprungliga podd inom räckvidd eller inaktivera ursprunglig podd</target>
         <note>Recovery suggestion on unexpected pod change</note>
       </trans-unit>
       <trans-unit id="Please bring your pod closer to the RileyLink and try again" xml:space="preserve">
@@ -1277,12 +1277,12 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Please reposition the RileyLink further from the pod" xml:space="preserve">
         <source>Please reposition the RileyLink further from the pod</source>
-        <target state="needs-translation">Please reposition the RileyLink further from the pod</target>
+        <target state="translated">Flytta din RileyLink längre från podden</target>
         <note>Recovery suggestion when pairing signal strength is too high</note>
       </trans-unit>
       <trans-unit id="Please reposition the RileyLink relative to the pod" xml:space="preserve">
         <source>Please reposition the RileyLink relative to the pod</source>
-        <target state="needs-translation">Please reposition the RileyLink relative to the pod</target>
+        <target state="translated">Flytta din RileyLink i förhållande till podden</target>
         <note>Recovery suggestion when pairing signal strength is too low</note>
       </trans-unit>
       <trans-unit id="Please try repositioning the pod or the RileyLink and try again" xml:space="preserve" approved="yes">
@@ -1352,7 +1352,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Poor signal strength" xml:space="preserve">
         <source>Poor signal strength</source>
-        <target state="needs-translation">Poor signal strength</target>
+        <target state="translated">Dålig signalstyrka</target>
         <note>Format string for poor pod signal strength</note>
       </trans-unit>
       <trans-unit id="Priming" xml:space="preserve">
@@ -1363,7 +1363,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Priming completed" xml:space="preserve">
         <source>Priming completed</source>
-        <target state="needs-translation">Priming completed</target>
+        <target state="translated">Infusionskateter har förfyllts</target>
         <note>Pod state when priming completed</note>
       </trans-unit>
       <trans-unit id="Ready for basal programming" xml:space="preserve">
@@ -1378,7 +1378,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Reminder initialized" xml:space="preserve">
         <source>Reminder initialized</source>
-        <target state="needs-translation">Reminder initialized</target>
+        <target state="translated">Påminnelse initierad</target>
         <note>Pod pairing reminder initialized</note>
       </trans-unit>
       <trans-unit id="Resume: %1$@ %2$@" xml:space="preserve" approved="yes">
@@ -1393,7 +1393,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Scheduled basal" xml:space="preserve">
         <source>Scheduled basal</source>
-        <target state="needs-translation">Scheduled basal</target>
+        <target state="translated">Schemalagd basal</target>
         <note>Delivery status when scheduled basal is running</note>
       </trans-unit>
       <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
@@ -1403,7 +1403,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Signal strength too high" xml:space="preserve">
         <source>Signal strength too high</source>
-        <target state="needs-translation">Signal strength too high</target>
+        <target state="translated">Signalstyrka för hög</target>
         <note>Format string for pod signal strength too high</note>
       </trans-unit>
       <trans-unit id="Suspend: %1$@ %2$@" xml:space="preserve">
@@ -1463,7 +1463,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Unexpected pod change" xml:space="preserve">
         <source>Unexpected pod change</source>
-        <target state="needs-translation">Unexpected pod change</target>
+        <target state="translated">Oväntat poddbyte</target>
         <note>Format string for unexpected pod change</note>
       </trans-unit>
       <trans-unit id="Unexpected response from pod" xml:space="preserve">
@@ -1503,17 +1503,17 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="oneNotUsed" xml:space="preserve">
         <source>oneNotUsed</source>
-        <target state="needs-translation">oneNotUsed</target>
+        <target state="translated">oneNotUsed</target>
         <note>Pod state oneNotUsed</note>
       </trans-unit>
       <trans-unit id="threeNotUsed" xml:space="preserve">
         <source>threeNotUsed</source>
-        <target state="needs-translation">threeNotUsed</target>
+        <target state="translated">threeNotUsed</target>
         <note>Pod state threeNotUsed</note>
       </trans-unit>
       <trans-unit id="twoNotUsed" xml:space="preserve">
         <source>twoNotUsed</source>
-        <target state="needs-translation">twoNotUsed</target>
+        <target state="translated">twoNotUsed</target>
         <note>Pod state twoNotUsed</note>
       </trans-unit>
     </body>
@@ -1661,7 +1661,7 @@ Hitta enhet</target>
     <body>
       <trans-unit id="%1$@ minutes" xml:space="preserve">
         <source>%1$@ minutes</source>
-        <target state="needs-translation">%1$@ minutes</target>
+        <target state="translated">%1$@ minuter</target>
         <note>The format string for minutes (1: number of minutes string)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
@@ -1727,7 +1727,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Activation time exceeded. The pod must be deactivated before pairing with a new one. Please deactivate and discard pod." xml:space="preserve">
         <source>Activation time exceeded. The pod must be deactivated before pairing with a new one. Please deactivate and discard pod.</source>
-        <target state="needs-translation">Activation time exceeded. The pod must be deactivated before pairing with a new one. Please deactivate and discard pod.</target>
+        <target state="translated">Aktiveringstid överskriden. Ofullständigt inställd podd måste inaktiveras före parkoppling av ny podd. Inaktivera och kasta den gamla podden.</target>
         <note>Instructions when deactivating pod that didn't complete activation in time.</note>
       </trans-unit>
       <trans-unit id="Active Time" xml:space="preserve">
@@ -1743,7 +1743,7 @@ Hitta enhet</target>
       <trans-unit id="Alerts: %1$@&#10;" xml:space="preserve">
         <source>Alerts: %1$@
 </source>
-        <target state="needs-translation">Alerts: %1$@
+        <target state="translated">Varningar: %1$@
 </target>
         <note>The format string for Alerts: (1: the alerts string)</note>
       </trans-unit>
@@ -1826,7 +1826,7 @@ Hitta enhet</target>
       <trans-unit id="Delivery Status: %1$@&#10;" xml:space="preserve">
         <source>Delivery Status: %1$@
 </source>
-        <target state="needs-translation">Delivery Status: %1$@
+        <target state="translated">Status på insulintillförsel: %1$@
 </target>
         <note>The format string for Delivery Status: (1: delivery status string)</note>
       </trans-unit>
@@ -1837,7 +1837,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Diagnostics" xml:space="preserve">
         <source>Diagnostics</source>
-        <target state="needs-translation">Diagnostics</target>
+        <target state="translated">Diagnostik</target>
         <note>The title of the configuration section in settings</note>
       </trans-unit>
       <trans-unit id="Disable Bolus Beeps" xml:space="preserve">
@@ -1918,14 +1918,14 @@ Hitta enhet</target>
       <trans-unit id="Fault time: %1$@&#10;" xml:space="preserve">
         <source>Fault time: %1$@
 </source>
-        <target state="needs-translation">Fault time: %1$@
+        <target state="translated">Feltid: %1$@
 </target>
         <note>The format string for fault time: (1: fault time string)</note>
       </trans-unit>
       <trans-unit id="Fault: %1$@&#10;" xml:space="preserve">
         <source>Fault: %1$@
 </source>
-        <target state="needs-translation">Fault: %1$@
+        <target state="translated">Fel: %1$@
 </target>
         <note>The format string for a fault: (1: The fault description)</note>
       </trans-unit>
@@ -1941,7 +1941,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="If the problem persists, move to a new area and try again" xml:space="preserve">
         <source>If the problem persists, move to a new area and try again</source>
-        <target state="needs-translation">If the problem persists, move to a new area and try again</target>
+        <target state="translated">Om problemet kvarstår, flytta dig till ny plats och försök igen</target>
         <note>Additional pairing recovery suggestion on multiple pairing failures</note>
       </trans-unit>
       <trans-unit id="Incompletely set up pod must be deactivated before pairing with a new one. Please deactivate and discard pod." xml:space="preserve">
@@ -1972,7 +1972,7 @@ Hitta enhet</target>
       <trans-unit id="Last Bolus Not Delivered: %1$@ U&#10;" xml:space="preserve">
         <source>Last Bolus Not Delivered: %1$@ U
 </source>
-        <target state="needs-translation">Last Bolus Not Delivered: %1$@ U
+        <target state="translated">Sista bolus ej given: %1$@ E
 </target>
         <note>The format string for Last Bolus Not Delivered: (1: bolus not delivered string)</note>
       </trans-unit>
@@ -2025,15 +2025,15 @@ Hitta enhet</target>
         <source>Play test beeps command sent successfully.
 
 If you did not hear any beeps from your pod, it's likely that the piezo speaker in your pod is broken.</source>
-        <target state="needs-translation">Play test beeps command sent successfully.
+        <target state="translated">Kommandot för uppspelning av testljud skickades.
 
-If you did not hear any beeps from your pod, it's likely that the piezo speaker in your pod is broken.</target>
+Om du inte hörde några pip från din podd, är det troligt att piezohögtalaren i din podd är sönder.</target>
         <note>Success message for play test beeps.</note>
       </trans-unit>
       <trans-unit id="Pod Active: %1$@&#10;" xml:space="preserve">
         <source>Pod Active: %1$@
 </source>
-        <target state="needs-translation">Pod Active: %1$@
+        <target state="translated">Podd aktiv: %1$@
 </target>
         <note>The format string for Pod Active: (1: Pod active time string)</note>
       </trans-unit>
@@ -2044,7 +2044,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       </trans-unit>
       <trans-unit id="Pod Details" xml:space="preserve">
         <source>Pod Details</source>
-        <target state="needs-translation">Pod Details</target>
+        <target state="translated">Podd-detaljer</target>
         <note>The title of the device information section in settings</note>
       </trans-unit>
       <trans-unit id="Pod Settings" xml:space="preserve">
@@ -2055,7 +2055,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       <trans-unit id="Previous pod progress: %1$@&#10;" xml:space="preserve">
         <source>Previous pod progress: %1$@
 </source>
-        <target state="needs-translation">Previous pod progress: %1$@
+        <target state="translated">Föregående poddprogress: %1$@
 </target>
         <note>The format string for previous pod progress: (1: previous pod progress string)</note>
       </trans-unit>
@@ -2072,14 +2072,14 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       <trans-unit id="Pulses (incl. prime &amp; insert): %1$@ U&#10;" xml:space="preserve">
         <source>Pulses (incl. prime &amp; insert): %1$@ U
 </source>
-        <target state="needs-translation">Pulses (incl. prime &amp; insert): %1$@ U
+        <target state="translated">Pulser (incl. prime &amp; insert): %1$@ E
 </target>
         <note>The format string for total insulin pulses (1: total pulses in units)</note>
       </trans-unit>
       <trans-unit id="RSSI: %1$@&#10;" xml:space="preserve">
         <source>RSSI: %1$@
 </source>
-        <target state="needs-translation">RSSI: %1$@
+        <target state="translated">RSSI: %1$@
 </target>
         <note>The format string for RSSI: (1: RSSI value)</note>
       </trans-unit>
@@ -2106,7 +2106,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       <trans-unit id="Receiver Low Gain: %1$@&#10;" xml:space="preserve">
         <source>Receiver Low Gain: %1$@
 </source>
-        <target state="needs-translation">Receiver Low Gain: %1$@
+        <target state="translated">Mottagare Low Gain: %1$@
 </target>
         <note>The format string for receiverLowGain: (1: receiverLowGain)</note>
       </trans-unit>
@@ -2134,7 +2134,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       <trans-unit id="Reservoir Level: %1$@ U&#10;" xml:space="preserve">
         <source>Reservoir Level: %1$@ U
 </source>
-        <target state="needs-translation">Reservoir Level: %1$@ U
+        <target state="translated">Insulinreservoarnivå: %1$@ E
 </target>
         <note>The format string for Reservoir Level: (1: reservoir level string)</note>
       </trans-unit>
