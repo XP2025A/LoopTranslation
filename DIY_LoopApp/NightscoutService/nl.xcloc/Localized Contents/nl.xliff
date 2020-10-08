@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="NightscoutServiceKit/Base.lproj/Localizable.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="Nightscout" xml:space="preserve">
@@ -24,7 +24,7 @@
   </file>
   <file original="NightscoutServiceKit/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -36,7 +36,7 @@
   </file>
   <file original="NightscoutServiceKitPlugin/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -48,7 +48,7 @@
   </file>
   <file original="NightscoutServiceKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="API Secret" xml:space="preserve">
@@ -56,30 +56,97 @@
         <target>API Secret</target>
         <note>The title of the Nightscout API secret</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete this service?" xml:space="preserve">
-        <source>Are you sure you want to delete this service?</source>
-        <target>Bent u zeker dat u deze service wilt verwijderen?</target>
-        <note>Confirmation message for deleting a service</note>
+      <trans-unit id="Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are ultimately what Loop uses to determine how much insulin to deliver. If you are new to Loop, work with your diabetes support team to come up with a plan for finding out what settings will work best for you." xml:space="preserve">
+        <source>Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are ultimately what Loop uses to determine how much insulin to deliver. If you are new to Loop, work with your diabetes support team to come up with a plan for finding out what settings will work best for you.</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>Annuleer</target>
-        <note>The title of the cancel action in an action sheet</note>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Checking..." xml:space="preserve">
+        <source>Checking...</source>
+        <note>Description of ServiceStatus of checking</note>
       </trans-unit>
       <trans-unit id="Delete Service" xml:space="preserve">
         <source>Delete Service</source>
         <target>Service verwijderen</target>
         <note>Button title to delete a service</note>
       </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="I'm Ready!" xml:space="preserve">
+        <source>I'm Ready!</source>
+        <note>Button title for starting setup</note>
+      </trans-unit>
+      <trans-unit id="Login" xml:space="preserve">
+        <source>Login</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Logout" xml:space="preserve">
+        <source>Logout</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." xml:space="preserve">
+        <source>Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Nightscout" xml:space="preserve">
+        <source>Nightscout</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Nightscout Login" xml:space="preserve">
+        <source>Nightscout Login</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not Available" xml:space="preserve">
+        <source>Not Available</source>
+        <note>Error when nightscout service url is not set</note>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <note>Description of ServiceStatus of checking</note>
+      </trans-unit>
       <trans-unit id="Required" xml:space="preserve">
         <source>Required</source>
         <target>Vereist</target>
         <note>The default placeholder for required text</note>
       </trans-unit>
+      <trans-unit id="Save Settings" xml:space="preserve">
+        <source>Save Settings</source>
+        <note>Therapy settings save button title</note>
+      </trans-unit>
+      <trans-unit id="Setup Loop without Nightscout" xml:space="preserve">
+        <source>Setup Loop without Nightscout</source>
+        <note>Button title for choosing onboarding without nightscout</note>
+      </trans-unit>
       <trans-unit id="Site URL" xml:space="preserve">
         <source>Site URL</source>
         <target>Webpagina URL</target>
         <note>The title of the Nightscout site URL</note>
+      </trans-unit>
+      <trans-unit id="Status" xml:space="preserve">
+        <source>Status</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Therapy Settings" xml:space="preserve">
+        <source>Therapy Settings</source>
+        <note>Navigation view title</note>
+      </trans-unit>
+      <trans-unit id="URL" xml:space="preserve">
+        <source>URL</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use Nightscout with Loop" xml:space="preserve">
+        <source>Use Nightscout with Loop</source>
+        <note>Button title for choosing onboarding with nightscout</note>
+      </trans-unit>
+      <trans-unit id="Welcome to Loop" xml:space="preserve">
+        <source>Welcome to Loop</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="https://mysite.herokuapp.com" xml:space="preserve">
         <source>https://mysite.herokuapp.com</source>
@@ -90,7 +157,7 @@
   </file>
   <file original="NightscoutServiceKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">

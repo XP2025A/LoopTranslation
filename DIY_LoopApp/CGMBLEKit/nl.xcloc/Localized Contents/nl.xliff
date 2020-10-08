@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="CGMBLEKit Example/Base.lproj/Main.storyboard" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="3i8-2m-QFG.text" xml:space="preserve">
@@ -54,7 +54,7 @@
   </file>
   <file original="CGMBLEKit Example/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -66,7 +66,7 @@
   </file>
   <file original="CGMBLEKit Example/en.lproj/Localizable.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="Backfill" xml:space="preserve">
@@ -88,7 +88,7 @@
   </file>
   <file original="CGMBLEKit/Base.lproj/Localizable.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="Dexcom G5" xml:space="preserve">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="Low Battery" xml:space="preserve">
         <source>Low Battery</source>
-        <target>Lage batterij</target>
+        <target>Batterij laag</target>
         <note>Describes a low battery</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="Sensor calibration is OK" xml:space="preserve">
         <source>Sensor calibration is OK</source>
-        <target>Sensor callibratie is geslaagd</target>
+        <target>Sensorkalibratie is OK</target>
         <note>The description of sensor calibration state when sensor calibration is ok.</note>
       </trans-unit>
       <trans-unit id="Sensor is in unknown state %1$d" xml:space="preserve">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="Sensor needs calibration" xml:space="preserve">
         <source>Sensor needs calibration</source>
-        <target>Sensor heeft callibratie nodig</target>
+        <target>Sensor moet worden gekalibreerd</target>
         <note>The description of sensor calibration state when sensor needs calibration.</note>
       </trans-unit>
       <trans-unit id="Unknown characteristic" xml:space="preserve">
@@ -165,7 +165,7 @@
   </file>
   <file original="CGMBLEKit/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -177,7 +177,7 @@
   </file>
   <file original="CGMBLEKitG5Plugin/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -194,7 +194,7 @@
   </file>
   <file original="CGMBLEKitG6Plugin/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -211,7 +211,7 @@
   </file>
   <file original="CGMBLEKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="%@/min" xml:space="preserve">
@@ -267,7 +267,7 @@ Title text for the button to remove a CGM from Loop</note>
       </trans-unit>
       <trans-unit id="Open App" xml:space="preserve">
         <source>Open App</source>
-        <target>Open app</target>
+        <target>Open App</target>
         <note>Button title to open CGM app</note>
       </trans-unit>
       <trans-unit id="Remote Data Synchronization" xml:space="preserve">
@@ -309,7 +309,7 @@ Title text for the button to remove a CGM from Loop</note>
   </file>
   <file original="CGMBLEKitUI/Base.lproj/TransmitterManagerSetup.storyboard" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="5oU-vK-JHQ.text" xml:space="preserve">
@@ -356,7 +356,7 @@ Title text for the button to remove a CGM from Loop</note>
   </file>
   <file original="CGMBLEKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -368,7 +368,7 @@ Title text for the button to remove a CGM from Loop</note>
   </file>
   <file original="ResetTransmitter/Base.lproj/Main.storyboard" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="3SD-s3-7OM.title" xml:space="preserve">
@@ -421,7 +421,7 @@ Gebruik op eigen risico</target>
   </file>
   <file original="ResetTransmitter/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -448,12 +448,12 @@ Gebruik op eigen risico</target>
   </file>
   <file original="ResetTransmitter/en.lproj/Localizable.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="Are you sure you want to reset this transmitter?" xml:space="preserve">
         <source>Are you sure you want to reset this transmitter?</source>
-        <target>Weet je zeker dat je de transmitter wilt resetten</target>
+        <target>Weet je zeker dat je de transmitter wilt resetten?</target>
         <note>Title of the reset confirmation sheet</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -463,7 +463,7 @@ Gebruik op eigen risico</target>
       </trans-unit>
       <trans-unit id="It will take up to 10 minutes to complete." xml:space="preserve">
         <source>It will take up to 10 minutes to complete.</source>
-        <target>Dit kan 10 minuten duren om te voltooien</target>
+        <target>Dit kan 10 minuten duren om te voltooien.</target>
         <note>Message of the reset confirmation sheet</note>
       </trans-unit>
       <trans-unit id="Reset" xml:space="preserve">

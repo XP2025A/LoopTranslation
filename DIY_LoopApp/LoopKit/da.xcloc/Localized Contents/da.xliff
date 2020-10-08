@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="LoopKit Example/Base.lproj/Main.storyboard" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="7bK-jq-Zjz.title" xml:space="preserve">
@@ -24,7 +24,7 @@
   </file>
   <file original="LoopKit Example/en.lproj/InfoPlist.strings" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -46,7 +46,7 @@
   </file>
   <file original="LoopKit Example/en.lproj/Localizable.strings" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="Basal Rates" xml:space="preserve">
@@ -119,7 +119,7 @@
   </file>
   <file original="LoopKit/en.lproj/InfoPlist.strings" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -141,7 +141,7 @@
   </file>
   <file original="LoopKit/en.lproj/Localizable.strings" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="%1$@ U bolus failed" xml:space="preserve">
@@ -156,14 +156,17 @@
       </trans-unit>
       <trans-unit id="%@ Range" xml:space="preserve">
         <source>%@ Range</source>
+        <target>%@ område</target>
         <note>Format for correction range override therapy setting card</note>
       </trans-unit>
       <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is higher than what is typically recommended for most people.</source>
+        <target>En værdi, du har angivet, er højere end den, der typisk anbefales til de fleste.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="A value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is lower than what is typically recommended for most people.</source>
+        <target>En værdi, du har angivet, er lavere end den, der typisk anbefales til de fleste.</target>
         <note>Descriptive text for guardrail low value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Authorization Denied" xml:space="preserve">
@@ -173,6 +176,7 @@
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
+        <target>Basalrater</target>
         <note>Title text for basal rates</note>
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve">
@@ -192,6 +196,7 @@
       </trans-unit>
       <trans-unit id="Communications interrupted during insulin delivery command." xml:space="preserve">
         <source>Communications interrupted during insulin delivery command.</source>
+        <target>Kommunikation afbrudt under insulinafgivelse (kommando).</target>
         <note>Failure reason for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Connection Failure" xml:space="preserve">
@@ -266,6 +271,7 @@
       </trans-unit>
       <trans-unit id="Make sure your pump is within communication range of your phone." xml:space="preserve">
         <source>Make sure your pump is within communication range of your phone.</source>
+        <target>Sørg for, at din pumpe er tæt på din telefon.</target>
         <note>Recovery suggestion for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate" xml:space="preserve">
@@ -305,6 +311,7 @@
       </trans-unit>
       <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve">
         <source>One or more of the values you have entered is outside of what is typically recommended for most people.</source>
+        <target>En eller flere af de værdier, du har indtastet, er udenfor hvad der generelt anbefales.</target>
         <note>Descriptive text for saving settings outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Please re-enable sharing in Health" xml:space="preserve">
@@ -334,6 +341,7 @@
       </trans-unit>
       <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
+        <target>Nogle af de værdier, du har angivet, ligger uden for det, der typisk anbefales til de fleste.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Suspend Threshold" xml:space="preserve">
@@ -343,6 +351,7 @@
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</source>
+        <target>Sænker midlertidigt dit blodsukker mål før et måltid for at modvirke stigning i blodsukker efter måltidet.</target>
         <note>Descriptive text for pre-meal correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end." xml:space="preserve">
@@ -352,6 +361,7 @@
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</source>
+        <target>Hæver midlertidigt dit blodsukkermål før, under eller efter fysisk aktivitet for at reducere risikoen for lavt blodsukker.</target>
         <note>Descriptive text for workout correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." xml:space="preserve">
@@ -366,14 +376,17 @@
       </trans-unit>
       <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
         <source>The value you have entered is higher than what is typically recommended for most people.</source>
+        <target>En værdi, du har angivet, er højere end den, der typisk anbefales til de fleste.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
       <trans-unit id="The value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
         <source>The value you have entered is lower than what is typically recommended for most people.</source>
+        <target>En værdi, du har angivet, er lavere end den, der typisk anbefales til de fleste.</target>
         <note>Descriptive text for guardrail low value warning</note>
       </trans-unit>
       <trans-unit id="The values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>The values you have entered are outside of what is typically recommended for most people.</source>
+        <target>Nogle af de værdier, du har angivet, ligger uden for det, der typisk anbefales til de fleste.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
@@ -388,6 +401,7 @@
       </trans-unit>
       <trans-unit id="Uncertain Delivery" xml:space="preserve">
         <source>Uncertain Delivery</source>
+        <target>Usikker afgivelse</target>
         <note>Error description for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Unit" xml:space="preserve">
@@ -479,7 +493,7 @@
   </file>
   <file original="LoopKitUI/Base.lproj/CarbKit.storyboard" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="7xi-Om-Y53.text" xml:space="preserve">
@@ -499,7 +513,7 @@
       </trans-unit>
       <trans-unit id="K0S-my-3qL.text" xml:space="preserve">
         <source>Amount Consumed</source>
-        <target>Forbrugt mængde</target>
+        <target>Antal kulhydrater</target>
         <note>Class = "UILabel"; text = "Amount Consumed"; ObjectID = "K0S-my-3qL";</note>
       </trans-unit>
       <trans-unit id="Mde-by-DTA.normalTitle" xml:space="preserve">
@@ -586,7 +600,7 @@
   </file>
   <file original="LoopKitUI/Base.lproj/InsulinKit.storyboard" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="7Fi-wD-gf2.text" xml:space="preserve">
@@ -643,7 +657,7 @@
   </file>
   <file original="LoopKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id=" higher " xml:space="preserve">
@@ -804,6 +818,7 @@
       </trans-unit>
       <trans-unit id="Authenticate to save therapy setting" xml:space="preserve">
         <source>Authenticate to save therapy setting</source>
+        <target>Godkend for at gemme behandlingsindstilling</target>
         <note>Authentication hint string for therapy settings</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
@@ -818,7 +833,7 @@
       </trans-unit>
       <trans-unit id="Basal, bolus, and correction insulin dose amounts are increased by %@%%." xml:space="preserve">
         <source>Basal, bolus, and correction insulin dose amounts are increased by %@%%.</source>
-        <target>Basal-, bolus- og korrektionsinsulindoser er forøget med %@%%.</target>
+        <target>Basal-, bolus- og korrektions-insulindoser er forøget med %@%%.</target>
         <note>Describes a percentage increase in overall insulin needs</note>
       </trans-unit>
       <trans-unit id="Basal, bolus, and correction insulin dose amounts are unaffected." xml:space="preserve">
@@ -919,12 +934,12 @@
       </trans-unit>
       <trans-unit id="Custom Override" xml:space="preserve">
         <source>Custom Override</source>
-        <target>Brugerdefineret override</target>
+        <target>Override</target>
         <note>The title for the custom override entry screen</note>
       </trans-unit>
       <trans-unit id="Custom Preset" xml:space="preserve">
         <source>Custom Preset</source>
-        <target>Brugerdefineret forudindstilling</target>
+        <target>Preset</target>
         <note>The title for the custom preset entry screen
    The title for the custom preset selection screen</note>
       </trans-unit>
@@ -960,7 +975,7 @@
       </trans-unit>
       <trans-unit id="Disable Preset" xml:space="preserve">
         <source>Disable Preset</source>
-        <target>Deaktiver forudindstilling</target>
+        <target>Deaktiver preset</target>
         <note>The text for the custom preset disable button</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
@@ -1105,6 +1120,7 @@
       </trans-unit>
       <trans-unit id="If these settings look good to you, tap Save Settings to continue." xml:space="preserve">
         <source>If these settings look good to you, tap Save Settings to continue.</source>
+        <target>Hvis indstillingerne er korrekte, skal du trykke på "Gem indstillinger" for at fortsætte.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." xml:space="preserve">
@@ -1310,10 +1326,12 @@
       </trans-unit>
       <trans-unit id="Review and Save Settings" xml:space="preserve">
         <source>Review and Save Settings</source>
+        <target>Gennemse og gem indstillinger</target>
         <note>title for summary description section</note>
       </trans-unit>
       <trans-unit id="Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." xml:space="preserve">
         <source>Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen.</source>
+        <target>Gennemgå dine behandlingsindstillinger nedenfor. Hvis du vil redigere en af disse indstillinger, skal du trykke på "Tilbage" for at gå tilbage til den skærm.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="Running" xml:space="preserve">
@@ -1377,8 +1395,8 @@
         <target>Langsom</target>
         <note>Section title for slow absorbing food</note>
       </trans-unit>
-      <trans-unit id="Some of the values you have entered are outside of what Tidepool typically recommends for most people." xml:space="preserve">
-        <source>Some of the values you have entered are outside of what Tidepool typically recommends for most people.</source>
+      <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
+        <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." xml:space="preserve">
@@ -1428,7 +1446,7 @@
       </trans-unit>
       <trans-unit id="Tap '+' to create a new custom preset." xml:space="preserve">
         <source>Tap '+' to create a new custom preset.</source>
-        <target>Tryk på '+' for at oprette en ny brugerdefineret preset.</target>
+        <target>Tryk på '+' for at oprette en ny preset.</target>
         <note>Text directing the user to configure their first custom preset</note>
       </trans-unit>
       <trans-unit id="Tap to set" xml:space="preserve">
@@ -1448,7 +1466,7 @@
       </trans-unit>
       <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve">
         <source>The legacy model used by Loop, allowing customization of action duration.</source>
-        <target>Den ældre model, der bruges af Loop, og som gør det muligt at tilpasse handlingens varighed.</target>
+        <target>Ældre model, der bruges af Loop, og som gør det muligt at tilpasse handlingens varighed.</target>
         <note>Subtitle description of Walsh insulin model setting</note>
       </trans-unit>
       <trans-unit id="The maximum absorption time is %@" xml:space="preserve">
@@ -1458,7 +1476,7 @@
       </trans-unit>
       <trans-unit id="The maximum allowed amount is %@ grams" xml:space="preserve">
         <source>The maximum allowed amount is %@ grams</source>
-        <target>Den maksimalt tilladte dosis er %@ grams</target>
+        <target>Den maksimalt tilladte mængde er %@ grams</target>
         <note>Alert body displayed for quantity greater than max (1: maximum quantity in grams)</note>
       </trans-unit>
       <trans-unit id="The rapid-acting adult model assumes peak activity at 75 minutes." xml:space="preserve">
@@ -1478,12 +1496,12 @@
       </trans-unit>
       <trans-unit id="Therapy Settings" xml:space="preserve">
         <source>Therapy Settings</source>
-        <target>Indstillinger for behandling</target>
+        <target>Indstillinger</target>
         <note>Therapy Settings screen title</note>
       </trans-unit>
       <trans-unit id="Therapy Settings Support Placeholder" xml:space="preserve">
         <source>Therapy Settings Support Placeholder</source>
-        <target>Behandlingsindstillinger Support</target>
+        <target>Indstillinger - Support</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This model assumes peak insulin activity at 55 minutes." xml:space="preserve">
@@ -1539,7 +1557,7 @@
       </trans-unit>
       <trans-unit id="Unable to Save" xml:space="preserve">
         <source>Unable to Save</source>
-        <target>Kan ikke gemmes</target>
+        <target>Kunne ikke gemme</target>
         <note>Alert title when error occurs while saving a schedule</note>
       </trans-unit>
       <trans-unit id="Units" xml:space="preserve">
@@ -1560,7 +1578,7 @@
       </trans-unit>
       <trans-unit id="Verifying" xml:space="preserve">
         <source>Verifying</source>
-        <target>Validerer</target>
+        <target>Verificerer</target>
         <note>Label indicating validation is occurring</note>
       </trans-unit>
       <trans-unit id="Walsh" xml:space="preserve">
@@ -1590,7 +1608,7 @@
       </trans-unit>
       <trans-unit id="Workout temp adjust range" xml:space="preserve">
         <source>Workout temp adjust range</source>
-        <target>Midlertidig trænings interval justering</target>
+        <target>Midlertidigt område ved træning</target>
         <note>Title for workout range information section</note>
       </trans-unit>
       <trans-unit id="You can add different carb ratios for different times of day by using the ➕." xml:space="preserve">
@@ -1600,7 +1618,7 @@
       </trans-unit>
       <trans-unit id="You can add different insulin sensitivities for different times of day by using the ➕." xml:space="preserve">
         <source>You can add different insulin sensitivities for different times of day by using the ➕.</source>
-        <target>Du kan tilføje forskellige insulinfølsomheder til forskellige tidspunkter af dagen ved at bruge ➕.</target>
+        <target>Du kan tilføje forskellige insulinfølsomheder for forskellige tidspunkter af dagen ved at bruge ➕.</target>
         <note>Description of how to add a ratio</note>
       </trans-unit>
       <trans-unit id="You can add different ranges for different times of day by using the ➕." xml:space="preserve">
@@ -1610,7 +1628,7 @@
       </trans-unit>
       <trans-unit id="You can add entries for different times of day by using the ➕." xml:space="preserve">
         <source>You can add entries for different times of day by using the ➕.</source>
-        <target>Du kan tilføje forskellige intervaller for forskellige tidspunkter af dagen ved at bruge ➕.</target>
+        <target>Du kan tilføje forskellige poster for forskellige tidspunkter af dagen ved at bruge ➕.</target>
         <note>Description of how to add a range</note>
       </trans-unit>
       <trans-unit id="You can choose how %@ measures the insulin's peak activity according to one of these two insulin models." xml:space="preserve">
@@ -1625,7 +1643,7 @@
       </trans-unit>
       <trans-unit id="You can edit a setting by tapping into any line item." xml:space="preserve">
         <source>You can edit a setting by tapping into any line item.</source>
-        <target>Du kan redigere en indstilling ved at trykke på hvilken som helst linje.</target>
+        <target>Du kan redigere en indstilling ved at trykke på en linje.</target>
         <note>Description of how to edit setting</note>
       </trans-unit>
       <trans-unit id="You can edit the setting by tapping into the line item." xml:space="preserve">
@@ -1635,7 +1653,7 @@
       </trans-unit>
       <trans-unit id="Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
         <source>Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target>Din basalrate insulin, er det antal af enheder i timen, som du skal bruge for at dække dit basale insulinbehov.</target>
+        <target>Din basalrate, er det antal af insulinenheder i timen, som du skal bruge for at dække dit basale insulinbehov.</target>
         <note>Information about basal rates</note>
       </trans-unit>
       <trans-unit id="Your healthcare provider can help you choose a correction range that's right for you." xml:space="preserve">
@@ -1655,6 +1673,7 @@
       </trans-unit>
       <trans-unit id="authentication-button-delete" xml:space="preserve">
         <source>authentication-button-delete</source>
+        <target>autentificering-knap-slet</target>
         <note>The title of the button to remove the credentials for a service</note>
       </trans-unit>
       <trans-unit id="com.loudnate.CarbKit.COBDateLabel" xml:space="preserve">
@@ -1737,7 +1756,7 @@
   </file>
   <file original="LoopKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1749,7 +1768,7 @@
   </file>
   <file original="LoopTestingKit/en.lproj/InfoPlist.strings" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1761,11 +1780,12 @@
   </file>
   <file original="LoopTestingKit/en.lproj/Localizable.strings" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="Comms Issue" xml:space="preserve">
         <source>Comms Issue</source>
+        <target>Kommunikationsfejl</target>
         <note>Status highlight that delivery is uncertain.</note>
       </trans-unit>
       <trans-unit id="Insulin Suspended" xml:space="preserve">
@@ -1792,7 +1812,7 @@
   </file>
   <file original="MockKit/en.lproj/InfoPlist.strings" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1804,13 +1824,16 @@
   </file>
   <file original="MockKit/en.lproj/Localizable.strings" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="%@ has been unable to communicate with the Simulator Pump since %@.&#10;&#10;Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered." xml:space="preserve">
         <source>%1$@ has been unable to communicate with the Simulator Pump since %2$@.
 
 Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered.</source>
+        <target>%1$@ har ikke været i stand til at kommunikere med simulator pumpen siden %2$@.
+
+Uden kommunikation kan appen ikke fortsætte med at sende kommandoer til afgivelse af insulin eller vise nøjagtig og opdateret information om dit aktive insulin eller det insulin du får.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
@@ -1825,10 +1848,12 @@ Without communication, the app cannot continue to send commands for insulin deli
       </trans-unit>
       <trans-unit id="Back" xml:space="preserve">
         <source>Back</source>
+        <target>Tilbage</target>
         <note>Back button text on DeliveryUncertaintyRecoveryView</note>
       </trans-unit>
       <trans-unit id="CGM Settings" xml:space="preserve">
         <source>CGM Settings</source>
+        <target>Indstillinger for CGM</target>
         <note>Title for CGM simulator settings</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -1838,6 +1863,7 @@ Without communication, the app cannot continue to send commands for insulin deli
       </trans-unit>
       <trans-unit id="Comms Recovery" xml:space="preserve">
         <source>Comms Recovery</source>
+        <target>Kommunikation genoprettelse</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Service" xml:space="preserve">
@@ -1847,12 +1873,12 @@ Without communication, the app cannot continue to send commands for insulin deli
       </trans-unit>
       <trans-unit id="Error Resuming" xml:space="preserve">
         <source>Error Resuming</source>
-        <target>Fejl ved fortsættelse</target>
+        <target>Fejl ved genoptagelse</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
       <trans-unit id="Error Suspending" xml:space="preserve">
         <source>Error Suspending</source>
-        <target>Fejl ved udsættelse</target>
+        <target>Fejl ved suspendering</target>
         <note>The alert title for a suspend error</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -1862,10 +1888,12 @@ Without communication, the app cannot continue to send commands for insulin deli
       </trans-unit>
       <trans-unit id="Pump Settings" xml:space="preserve">
         <source>Pump Settings</source>
+        <target>Pumpe indstillinger</target>
         <note>Title for Pump simulator settings</note>
       </trans-unit>
       <trans-unit id="Recover Simulator" xml:space="preserve">
         <source>Recover Simulator</source>
+        <target>Gendan simulator</target>
         <note>Button title recovering comms</note>
       </trans-unit>
       <trans-unit id="quantity-and-unit-space" xml:space="preserve">
@@ -1882,7 +1910,7 @@ Without communication, the app cannot continue to send commands for insulin deli
   </file>
   <file original="MockKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.6" build-num="11E708"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
