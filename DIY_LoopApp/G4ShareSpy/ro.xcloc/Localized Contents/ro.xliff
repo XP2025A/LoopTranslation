@@ -10,9 +10,9 @@
         <target state="final">Sigur doriți să ștergeți acest CGM?</target>
         <note>Confirmation message for deleting a CGM</note>
       </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
+      <trans-unit id="Cancel" xml:space="preserve" approved="yes">
         <source>Cancel</source>
-        <target state="translated">Anulează</target>
+        <target state="final">Renunță</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve" approved="yes">
@@ -31,14 +31,14 @@
         <target state="final">Dexcom G4</target>
         <note>CGM display title</note>
       </trans-unit>
-      <trans-unit id="Glucose" xml:space="preserve">
+      <trans-unit id="Glucose" xml:space="preserve" approved="yes">
         <source>Glucose</source>
-        <target state="translated">Glicemie</target>
+        <target state="final">Glicemie</target>
         <note>Title describing glucose value</note>
       </trans-unit>
-      <trans-unit id="Glucose (Adjusted)" xml:space="preserve">
+      <trans-unit id="Glucose (Adjusted)" xml:space="preserve" approved="yes">
         <source>Glucose (Adjusted)</source>
-        <target state="translated">Glicemie (ajustată)</target>
+        <target state="final">Glicemie (ajustată)</target>
         <note>Describes a glucose value adjusted to reflect a recent calibration</note>
       </trans-unit>
       <trans-unit id="Latest Reading" xml:space="preserve" approved="yes">
