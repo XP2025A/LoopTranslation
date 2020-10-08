@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="Glucose data is unavailable" xml:space="preserve">
         <source>Glucose data is unavailable</source>
-        <target state="translated">Datele cu valorile glicemiei nu sunt disponibile</target>
+        <target state="translated">Nu sunt disponibile date despre glicemie</target>
         <note>Error description for unreliable state</note>
       </trans-unit>
       <trans-unit id="Low Battery" xml:space="preserve">
@@ -116,19 +116,19 @@
         <target state="final">OK</target>
         <note>Describes a functioning transmitter</note>
       </trans-unit>
-      <trans-unit id="Peripheral command was invalid" xml:space="preserve" approved="yes">
+      <trans-unit id="Peripheral command was invalid" xml:space="preserve">
         <source>Peripheral command was invalid</source>
-        <target state="final">Comanda dispozitivului este nevalidă</target>
+        <target state="translated">Comanda periferică nu a fost validă</target>
         <note>invlid config error description</note>
       </trans-unit>
       <trans-unit id="Peripheral did not respond in time" xml:space="preserve">
         <source>Peripheral did not respond in time</source>
-        <target state="translated">Perifericul nu a răspuns la timp</target>
+        <target state="translated">Dispozitivul periferic nu a răspuns în timp util</target>
         <note>Timeout error description</note>
       </trans-unit>
       <trans-unit id="Peripheral isnʼt connected" xml:space="preserve">
         <source>Peripheral isnʼt connected</source>
-        <target state="translated">Perifericul nu este conectat</target>
+        <target state="translated">Dispozitivul periferic nu este conectat</target>
         <note>Not ready error description</note>
       </trans-unit>
       <trans-unit id="Sensor calibration is OK" xml:space="preserve" approved="yes">
@@ -242,17 +242,17 @@ Title text for the button to remove a CGM from Loop</note>
       </trans-unit>
       <trans-unit id="Glucose" xml:space="preserve" approved="yes">
         <source>Glucose</source>
-        <target state="final">Glucoză</target>
+        <target state="final">Glicemie</target>
         <note>Title describing glucose value</note>
       </trans-unit>
       <trans-unit id="Glucose (Adjusted)" xml:space="preserve" approved="yes">
         <source>Glucose (Adjusted)</source>
-        <target state="final">Glucoză (ajustată)</target>
+        <target state="final">Glicemie (ajustată)</target>
         <note>Describes a glucose value adjusted to reflect a recent calibration</note>
       </trans-unit>
       <trans-unit id="Latest Calibration" xml:space="preserve">
         <source>Latest Calibration</source>
-        <target state="translated">Cea mai recentă calibrare</target>
+        <target state="translated">Ultima calibrare</target>
         <note>Section title for latest glucose calibration</note>
       </trans-unit>
       <trans-unit id="Latest Connection" xml:space="preserve" approved="yes">
@@ -272,7 +272,7 @@ Title text for the button to remove a CGM from Loop</note>
       </trans-unit>
       <trans-unit id="Remote Data Synchronization" xml:space="preserve">
         <source>Remote Data Synchronization</source>
-        <target state="translated">Sincronizarea datelor la distanta</target>
+        <target state="translated">Sincronizarea datelor</target>
         <note>Section title for remote data synchronization</note>
       </trans-unit>
       <trans-unit id="Session Age" xml:space="preserve" approved="yes">
@@ -458,7 +458,7 @@ A se utiliza pe proprie răspundere.</target>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target state="translated">Anulare</target>
+        <target state="translated">Renunță</target>
         <note>Title of button to cancel reset</note>
       </trans-unit>
       <trans-unit id="It will take up to 10 minutes to complete." xml:space="preserve" approved="yes">
