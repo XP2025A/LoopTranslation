@@ -373,9 +373,9 @@
         <target state="translated">Kamera används för att skanna streckkoder</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
+      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve" approved="yes">
         <source>Face ID is used to authenticate insulin bolus and to save changes to therapy settings.</source>
-        <target state="translated">Face ID används för att autentisera insulinbolus och för att spara ändringar i behandlingsinställningar.</target>
+        <target state="final">Face ID används för att autentisera insulinbolus och för att spara nya behandlingsinställningar.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve" approved="yes">
@@ -518,9 +518,9 @@ Du kan vänta flera minuter för att se om problemet löser sig eller klicka på
         <target state="final">30 min jämförelse av glukosprediktion och faktiskt värde, fortsatt med 60 minuters avklingande</target>
         <note>Description of the prediction input effect for retrospective correction</note>
       </trans-unit>
-      <trans-unit id="A few seconds remaining" xml:space="preserve">
+      <trans-unit id="A few seconds remaining" xml:space="preserve" approved="yes">
         <source>A few seconds remaining</source>
-        <target state="translated">Några sekunder återstår</target>
+        <target state="final">Några sekunder återstår</target>
         <note>Estimated remaining duration with a few seconds</note>
       </trans-unit>
       <trans-unit id="A manual glucose entry must be between %@ and %@" xml:space="preserve" approved="yes">
@@ -690,10 +690,10 @@ Off</source>
         <target state="translated">Bluetooth Av</target>
         <note>Message to the user to that the bluetooth is off</note>
       </trans-unit>
-      <trans-unit id="Bluetooth&#10;Unavailable" xml:space="preserve">
+      <trans-unit id="Bluetooth&#10;Unavailable" xml:space="preserve" approved="yes">
         <source>Bluetooth
 Unavailable</source>
-        <target state="translated">Bluetooth är inte tillgängligt</target>
+        <target state="final">Bluetooth är inte tillgängligt</target>
         <note>Message to the user that bluetooth is unavailable to the app</note>
       </trans-unit>
       <trans-unit id="Bluetooth Off Alert" xml:space="preserve">
@@ -1011,14 +1011,14 @@ Bluetooth</source>
         <target state="final">Kapillärt blodsocker</target>
         <note>Label for manual glucose entry row on bolus screen</note>
       </trans-unit>
-      <trans-unit id="For %1$@" xml:space="preserve">
+      <trans-unit id="For %1$@" xml:space="preserve" approved="yes">
         <source>For %1$@</source>
-        <target state="translated">I %1$@</target>
+        <target state="final">I %1$@</target>
         <note>The format string used to describe a finite workout targets duration</note>
       </trans-unit>
-      <trans-unit id="Get help with Notification &amp; Critical Alert Permissions" xml:space="preserve">
+      <trans-unit id="Get help with Notification &amp; Critical Alert Permissions" xml:space="preserve" approved="yes">
         <source>Get help with Notification &amp; Critical Alert Permissions</source>
-        <target state="translated">Få hjälp med notiser &amp; Behörigheter för kritiska varningar</target>
+        <target state="final">Få hjälp med notiser &amp; Behörigheter för kritiska varningar</target>
         <note>Get help with Notification &amp; Critical Alert Permissions support button text</note>
       </trans-unit>
       <trans-unit id="Get help with Notification &amp; Critical Alert Permissions screen" xml:space="preserve">
@@ -1026,34 +1026,34 @@ Bluetooth</source>
         <target state="translated">Få hjälp med notiser &amp; Fönster för behörigheter för kritiska varningar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Glucose" xml:space="preserve">
+      <trans-unit id="Glucose" xml:space="preserve" approved="yes">
         <source>Glucose</source>
-        <target state="translated">Glukos</target>
+        <target state="final">Blodglukos</target>
         <note>The title of the glucose and prediction graph</note>
       </trans-unit>
-      <trans-unit id="Glucose Data Now Available" xml:space="preserve">
+      <trans-unit id="Glucose Data Now Available" xml:space="preserve" approved="yes">
         <source>Glucose Data Now Available</source>
-        <target state="translated">Glukosvärde finns nu tillgängligt</target>
+        <target state="final">Blodglukosvärde finns nu tillgängligt</target>
         <note>Alert title when glucose data returns while on bolus screen</note>
       </trans-unit>
-      <trans-unit id="Glucose Entry Out of Range" xml:space="preserve">
+      <trans-unit id="Glucose Entry Out of Range" xml:space="preserve" approved="yes">
         <source>Glucose Entry Out of Range</source>
-        <target state="translated">Det manuellt inmatade blodsockervärdet utanför gränsvärden</target>
+        <target state="final">Det manuellt inmatade blodsockervärdet utanför gränsvärden</target>
         <note>Alert title for a manual glucose entry out of range error</note>
       </trans-unit>
-      <trans-unit id="Glucose Momentum" xml:space="preserve">
+      <trans-unit id="Glucose Momentum" xml:space="preserve" approved="yes">
         <source>Glucose Momentum</source>
-        <target state="translated">Glukosförändring</target>
+        <target state="final">Blodglukosförändring</target>
         <note>Title of the prediction input effect for glucose momentum</note>
       </trans-unit>
-      <trans-unit id="Glucose data is %1$@ old" xml:space="preserve">
+      <trans-unit id="Glucose data is %1$@ old" xml:space="preserve" approved="yes">
         <source>Glucose data is %1$@ old</source>
-        <target state="translated">Glukosvärde är %1$@ gammalt</target>
+        <target state="final">Blodglukosvärde är %1$@ gammalt</target>
         <note>The error message when glucose data is too old to be used. (1: glucose data age in minutes)</note>
       </trans-unit>
-      <trans-unit id="Glucose data not available" xml:space="preserve">
+      <trans-unit id="Glucose data not available" xml:space="preserve" approved="yes">
         <source>Glucose data not available</source>
-        <target state="translated">Glukosvärde saknas</target>
+        <target state="final">Blodglukosvärde saknas</target>
         <note>Description of error when glucose data is missing</note>
       </trans-unit>
       <trans-unit id="Indefinitely" xml:space="preserve" approved="yes">
@@ -1118,14 +1118,14 @@ Bluetooth</source>
         <target state="final">Startar CGM-app</target>
         <note>Glucose HUD accessibility hint</note>
       </trans-unit>
-      <trans-unit id="Learn More" xml:space="preserve">
+      <trans-unit id="Learn More" xml:space="preserve" approved="yes">
         <source>Learn More</source>
-        <target state="translated">Lär dig mer</target>
+        <target state="final">Lär dig mer</target>
         <note>OK button title for alert shown when delivery status is uncertain</note>
       </trans-unit>
-      <trans-unit id="Less than a minute remaining" xml:space="preserve">
+      <trans-unit id="Less than a minute remaining" xml:space="preserve" approved="yes">
         <source>Less than a minute remaining</source>
-        <target state="translated">Mindre än en minut återstår</target>
+        <target state="final">Mindre än en minut återstår</target>
         <note>Estimated remaining duration with less than a minute</note>
       </trans-unit>
       <trans-unit id="Loading..." xml:space="preserve" approved="yes">
@@ -1327,12 +1327,12 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Reservoir" xml:space="preserve">
         <source>Reservoir</source>
-        <target state="translated">Reservoar</target>
+        <target state="translated">Insulinreservoar</target>
         <note>Details for missing data error when reservoir data is missing</note>
       </trans-unit>
-      <trans-unit id="Retrospective Correction" xml:space="preserve">
+      <trans-unit id="Retrospective Correction" xml:space="preserve" approved="yes">
         <source>Retrospective Correction</source>
-        <target state="translated">Retrospektiv korrigering</target>
+        <target state="final">Retrospektiv korrigering</target>
         <note>Title of the prediction input effect for retrospective correction</note>
       </trans-unit>
       <trans-unit id="Retry" xml:space="preserve" approved="yes">
@@ -1443,9 +1443,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="final">Behandlingsinställningar</target>
         <note>Title text for button to Therapy Settings</note>
       </trans-unit>
-      <trans-unit id="Try Again" xml:space="preserve">
+      <trans-unit id="Try Again" xml:space="preserve" approved="yes">
         <source>Try Again</source>
-        <target state="translated">Försök igen</target>
+        <target state="final">Försök igen</target>
         <note>Critical event log export error alert try again button</note>
       </trans-unit>
       <trans-unit id="Turn on Bluetooth to receive alerts, alarms or sensor glucose readings." xml:space="preserve">
@@ -1453,64 +1453,64 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">Aktivera Bluetooth för att ta emot varningar, larm eller blodglukosavläsningar.</target>
         <note>Bluetooth off foreground alert body</note>
       </trans-unit>
-      <trans-unit id="U" xml:space="preserve">
+      <trans-unit id="U" xml:space="preserve" approved="yes">
         <source>U</source>
-        <target state="translated">E</target>
+        <target state="final">E</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
-      <trans-unit id="Unable To Reach Pump" xml:space="preserve">
+      <trans-unit id="Unable To Reach Pump" xml:space="preserve" approved="yes">
         <source>Unable To Reach Pump</source>
-        <target state="translated">Det går inte att nå pump</target>
+        <target state="final">Det går inte att nå pump</target>
         <note>Title for alert shown when delivery status is uncertain</note>
       </trans-unit>
-      <trans-unit id="Unable to Save Carb Entry" xml:space="preserve">
+      <trans-unit id="Unable to Save Carb Entry" xml:space="preserve" approved="yes">
         <source>Unable to Save Carb Entry</source>
-        <target state="translated">Det går inte att spara kolhydrater</target>
+        <target state="final">Det går inte att spara kolhydrater</target>
         <note>Alert title for a carb entry persistence error</note>
       </trans-unit>
-      <trans-unit id="Unable to Save Manual Glucose Entry" xml:space="preserve">
+      <trans-unit id="Unable to Save Manual Glucose Entry" xml:space="preserve" approved="yes">
         <source>Unable to Save Manual Glucose Entry</source>
-        <target state="translated">Det går inte att spara manuellt inmatat blodsockervärde</target>
+        <target state="final">Det går inte att spara manuellt inmatat blodsockervärde</target>
         <note>Alert title for a manual glucose entry persistence error</note>
       </trans-unit>
-      <trans-unit id="Unable to stop the bolus in progress. Move your iPhone closer to the pump and try again. Check your insulin delivery history for details, and monitor your glucose closely." xml:space="preserve">
+      <trans-unit id="Unable to stop the bolus in progress. Move your iPhone closer to the pump and try again. Check your insulin delivery history for details, and monitor your glucose closely." xml:space="preserve" approved="yes">
         <source>Unable to stop the bolus in progress. Move your iPhone closer to the pump and try again. Check your insulin delivery history for details, and monitor your glucose closely.</source>
-        <target state="translated">Det går inte att stoppa pågående bolus. Flytta din iPhone närmare din pump och försök igen. Kontrollera händelsehistorik för insulin för mer detaljerad information och följ ditt blodsocker noga.</target>
+        <target state="final">Det går inte att stoppa pågående bolus. Flytta din iPhone närmare din pump och försök igen. Kontrollera händelsehistorik för insulin för mer detaljerad information och var vaksam på sjunkande blodsocker.</target>
         <note>The alert body for an error while canceling a bolus</note>
       </trans-unit>
-      <trans-unit id="Use Workout Glucose Targets" xml:space="preserve">
+      <trans-unit id="Use Workout Glucose Targets" xml:space="preserve" approved="yes">
         <source>Use Workout Glucose Targets</source>
-        <target state="translated">Använd målvärden för träning</target>
+        <target state="final">Använd målvärden för träning</target>
         <note>The title of the alert controller used to select a duration for workout targets</note>
       </trans-unit>
-      <trans-unit id="Walsh" xml:space="preserve">
+      <trans-unit id="Walsh" xml:space="preserve" approved="yes">
         <source>Walsh</source>
-        <target state="translated">Walsh</target>
+        <target state="final">Walsh</target>
         <note>Title of insulin model setting</note>
       </trans-unit>
-      <trans-unit id="When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
+      <trans-unit id="When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve" approved="yes">
         <source>When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</source>
-        <target state="translated">När nuvarande eller förväntat framtida blodglukosvärde är under tröskelvärdet kommer Loop inte att rekommendera en bolus, och dessutom alltid att föreslå en temporär basal på 0 enheter per timme.</target>
+        <target state="final">När nuvarande eller förväntat framtida blodglukosvärde är under tröskelvärde kommer Loop inte att rekommendera en bolus, och dessutom alltid att föreslå en temporär basal på 0 enheter per timme.</target>
         <note>Explanation of suspend threshold</note>
       </trans-unit>
-      <trans-unit id="Workout Targets" xml:space="preserve">
+      <trans-unit id="Workout Targets" xml:space="preserve" approved="yes">
         <source>Workout Targets</source>
-        <target state="translated">Målvärden för träning</target>
+        <target state="final">Målvärden för träning</target>
         <note>The label of the workout mode toggle button</note>
       </trans-unit>
-      <trans-unit id="Your glucose is below or predicted to go below your suspend threshold, %@." xml:space="preserve">
+      <trans-unit id="Your glucose is below or predicted to go below your suspend threshold, %@." xml:space="preserve" approved="yes">
         <source>Your glucose is below or predicted to go below your suspend threshold, %@.</source>
-        <target state="translated">Ditt blodsocker är lägre än eller förväntas bli lägre än ditt inställda tröskelvärde, %@.</target>
+        <target state="final">Ditt blodsocker är lägre än eller förväntas bli lägre än ditt inställda tröskelvärde, %@.</target>
         <note>Caption for bolus screen notice when no bolus is recommended due to prediction dropping below suspend threshold</note>
       </trans-unit>
-      <trans-unit id="Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating." xml:space="preserve">
+      <trans-unit id="Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating." xml:space="preserve" approved="yes">
         <source>Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating.</source>
-        <target state="translated">Din blodglukos stiger snabbt. Kontrollera att alla kolhydrater du ätit har loggats. Om du lagt in kolhydrater, kontrollera att tiden du angav stämmer överens med när du började äta.</target>
+        <target state="final">Din blodglukos stiger snabbt. Kontrollera att alla kolhydrater du ätit har loggats. Om du lagt in kolhydrater, kontrollera att tiden du angav stämmer överens med när du faktiskt började äta.</target>
         <note>Warning to ensure the carb entry is accurate</note>
       </trans-unit>
       <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve">
         <source>Your pump data is stale. Loop cannot recommend a bolus amount.</source>
-        <target state="translated">Dina pumpdata är inaktuella. Loop kan inte rekommendera en bolusmängd.</target>
+        <target state="translated">Dina pumpvärden är inaktuella. Loop kan inte rekommendera en bolusmängd.</target>
         <note>Caption for bolus screen notice when pump data is missing or stale</note>
       </trans-unit>
       <trans-unit id="at %@" xml:space="preserve">
@@ -1518,14 +1518,14 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">kl. %@</target>
         <note>Format fragment for a specific time</note>
       </trans-unit>
-      <trans-unit id="carb-entry-title-add" xml:space="preserve">
+      <trans-unit id="carb-entry-title-add" xml:space="preserve" approved="yes">
         <source>Add Carb Entry</source>
-        <target state="translated">Lägg till kolhydrater</target>
+        <target state="final">Lägg till kolhydrater</target>
         <note>The title of the view controller to create a new carb entry</note>
       </trans-unit>
-      <trans-unit id="carb-entry-title-edit" xml:space="preserve">
+      <trans-unit id="carb-entry-title-edit" xml:space="preserve" approved="yes">
         <source>Edit Carb Entry</source>
-        <target state="translated">Editera kolhydrater</target>
+        <target state="final">Ändra kolhydrater</target>
         <note>The title of the view controller to edit an existing carb entry</note>
       </trans-unit>
       <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve">
@@ -1543,9 +1543,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
-      <trans-unit id="mg/dL" xml:space="preserve">
+      <trans-unit id="mg/dL" xml:space="preserve" approved="yes">
         <source>mg/dL</source>
-        <target state="translated">mg/dl</target>
+        <target state="final">mg/dl</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
       <trans-unit id="mmol/L" xml:space="preserve" approved="yes">
@@ -1622,7 +1622,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="IxU-As-glo.text" xml:space="preserve">
         <source>Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption.</source>
-        <target state="translated">Observerad glukosförändring, med borttagen förändring modellerad från insulindoser, kan användas för att uppskatta kolhydratabsorptionen.</target>
+        <target state="translated">Observerad blodglukosförändring, minus förändring modellerad från insulindoser, kan användas för en uppskattning av kolhydratabsorptionen.</target>
         <note>Class = "UILabel"; text = "Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption."; ObjectID = "IxU-As-glo";</note>
       </trans-unit>
       <trans-unit id="J7x-W5-gwo.text" xml:space="preserve">
