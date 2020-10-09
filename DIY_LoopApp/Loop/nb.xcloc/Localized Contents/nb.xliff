@@ -419,6 +419,7 @@
       </trans-unit>
       <trans-unit id=" " xml:space="preserve">
         <source> </source>
+        <target> </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id=" (pending: %@)" xml:space="preserve">
@@ -495,6 +496,7 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="%@ remaining" xml:space="preserve">
         <source>%@ remaining</source>
+        <target>%@ remaining</target>
         <note>Estimated remaining duration with more than a minute</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
@@ -519,6 +521,7 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="A few seconds remaining" xml:space="preserve">
         <source>A few seconds remaining</source>
+        <target>A few seconds remaining</target>
         <note>Estimated remaining duration with a few seconds</note>
       </trans-unit>
       <trans-unit id="A manual glucose entry must be between %@ and %@" xml:space="preserve">
@@ -685,11 +688,15 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       <trans-unit id="Bluetooth&#10;Off" xml:space="preserve">
         <source>Bluetooth
 Off</source>
+        <target>Bluetooth
+Off</target>
         <note>Message to the user to that the bluetooth is off</note>
       </trans-unit>
       <trans-unit id="Bluetooth&#10;Unavailable" xml:space="preserve">
         <source>Bluetooth
 Unavailable</source>
+        <target>Bluetooth
+Unavailable</target>
         <note>Message to the user that bluetooth is unavailable to the app</note>
       </trans-unit>
       <trans-unit id="Bluetooth Off Alert" xml:space="preserve">
@@ -823,14 +830,17 @@ Unavailable</source>
       </trans-unit>
       <trans-unit id="Critical Event Log Ready" xml:space="preserve">
         <source>Critical Event Log Ready</source>
+        <target>Critical Event Log Ready</target>
         <note>Critical event log ready text</note>
       </trans-unit>
       <trans-unit id="Critical Event Logs" xml:space="preserve">
         <source>Critical Event Logs</source>
+        <target>Critical Event Logs</target>
         <note>Critical event log export title</note>
       </trans-unit>
       <trans-unit id="Critical Event Logs were not able to be exported." xml:space="preserve">
         <source>Critical Event Logs were not able to be exported.</source>
+        <target>Critical Event Logs were not able to be exported.</target>
         <note>Critical event log export error alert message</note>
       </trans-unit>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
@@ -926,6 +936,8 @@ Unavailable</source>
       <trans-unit id="Enable&#10;Bluetooth" xml:space="preserve">
         <source>Enable
 Bluetooth</source>
+        <target>Enable
+Bluetooth</target>
         <note>Message to the user to enable bluetooth</note>
       </trans-unit>
       <trans-unit id="Enables" xml:space="preserve">
@@ -940,10 +952,12 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Enter Fingerstick Glucose" xml:space="preserve">
         <source>Enter Fingerstick Glucose</source>
+        <target>Enter Fingerstick Glucose</target>
         <note>Button text prompting manual glucose entry on bolus screen</note>
       </trans-unit>
       <trans-unit id="Enter a blood glucose from a meter for a recommended bolus amount." xml:space="preserve">
         <source>Enter a blood glucose from a meter for a recommended bolus amount.</source>
+        <target>Enter a blood glucose from a meter for a recommended bolus amount.</target>
         <note>Caption for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
       <trans-unit id="Enter suspend threshold" xml:space="preserve">
@@ -958,6 +972,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Error Exporting Logs" xml:space="preserve">
         <source>Error Exporting Logs</source>
+        <target>Error Exporting Logs</target>
         <note>Critical event log export error alert title</note>
       </trans-unit>
       <trans-unit id="Error Resuming" xml:space="preserve">
@@ -977,10 +992,12 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Export Critical Event Logs" xml:space="preserve">
         <source>Export Critical Event Logs</source>
+        <target>Export Critical Event Logs</target>
         <note>The title of the export critical event logs in support</note>
       </trans-unit>
       <trans-unit id="Export-%1$@" xml:space="preserve">
         <source>Export-%1$@</source>
+        <target>Export-%1$@</target>
         <note>The export file name formatted string (1: timestamp)</note>
       </trans-unit>
       <trans-unit id="Failed to Resume Insulin Delivery" xml:space="preserve">
@@ -995,6 +1012,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Fingerstick Glucose" xml:space="preserve">
         <source>Fingerstick Glucose</source>
+        <target>Fingerstick Glucose</target>
         <note>Label for manual glucose entry row on bolus screen</note>
       </trans-unit>
       <trans-unit id="For %1$@" xml:space="preserve">
@@ -1111,6 +1129,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Less than a minute remaining" xml:space="preserve">
         <source>Less than a minute remaining</source>
+        <target>Less than a minute remaining</target>
         <note>Estimated remaining duration with less than a minute</note>
       </trans-unit>
       <trans-unit id="Loading..." xml:space="preserve">
@@ -1237,6 +1256,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Preparing Critical Event Logs" xml:space="preserve">
         <source>Preparing Critical Event Logs</source>
+        <target>Preparing Critical Event Logs</target>
         <note>Preparing critical event log text</note>
       </trans-unit>
       <trans-unit id="Pump" xml:space="preserve">
@@ -1379,6 +1399,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Tap here to set up a Service" xml:space="preserve">
         <source>Tap here to set up a Service</source>
+        <target>Tap here to set up a Service</target>
         <note>The descriptive text of the add service button in settings</note>
       </trans-unit>
       <trans-unit id="Tap here to set up a pump" xml:space="preserve">
@@ -1393,6 +1414,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Tap to Stop" xml:space="preserve">
         <source>Tap to Stop</source>
+        <target>Tap to Stop</target>
         <note>Message presented in the status row instructing the user to tap this row to stop a bolus</note>
       </trans-unit>
       <trans-unit id="The bolus recommendation has updated. Please reconfirm the bolus amount." xml:space="preserve">
@@ -1427,6 +1449,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Try Again" xml:space="preserve">
         <source>Try Again</source>
+        <target>Try Again</target>
         <note>Critical event log export error alert try again button</note>
       </trans-unit>
       <trans-unit id="Turn on Bluetooth to receive alerts, alarms or sensor glucose readings." xml:space="preserve">
@@ -1486,6 +1509,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating." xml:space="preserve">
         <source>Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating.</source>
+        <target>Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating.</target>
         <note>Warning to ensure the carb entry is accurate</note>
       </trans-unit>
       <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve">

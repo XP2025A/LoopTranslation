@@ -393,7 +393,7 @@ Title text for the button to remove a CGM from Loop</note>
       </trans-unit>
       <trans-unit id="MbK-kj-ejl.text" xml:space="preserve">
         <source>The transmitter has been successfully reset. Connect it to the app to begin a new sensor session.</source>
-        <target>Sändaren har blivit återställd. Anslut den till appen för att börja en ny session.</target>
+        <target>Sändaren har blivit återställd. Anslut den till appen för att påbörja en ny session.</target>
         <note>Class = "UITextView"; text = "The transmitter has been successfully reset. Connect it to the app to begin a new sensor session."; ObjectID = "MbK-kj-ejl";</note>
       </trans-unit>
       <trans-unit id="cJ3-Gc-pnc.text" xml:space="preserve">
@@ -401,12 +401,12 @@ Title text for the button to remove a CGM from Loop</note>
 This may have unintended consequences for data services, such as Clarity and Share, especially when using a reset transmitter with the same account.
 Resetting cannot be undone.
 Use at your own risk.</source>
-        <target>Med detta verktyg kan du återställa klockan på en sändare som har nått sitt utgångsdatum, för att därigenom tillåta start av ny sensor. Detta kan få oväntade följder för tjänster som hanterar dina blodglukosvärden, t. ex. Clarity och Share, speciellt när man använder en återställd sändare med samma konto. Återställning kan inte ångras.</target>
+        <target>Med detta verktyg kan du återställa klockan på en sändare som har passerat sitt utgångsdatum, för att därigenom tillåta start av ny sensor. Detta kan dock få oväntade följder för tjänster som hanterar dina blodglukosvärden, t. ex. Clarity och Share, speciellt när man använder en återställd sändare med samma konto. Återställning kan inte ångras.</target>
         <note>Class = "UITextView"; text = "This tool can reset the clock on a transmitter that has reached its expiration date, allowing new sensor sessions to again be started.\nThis may have unintended consequences for data services, such as Clarity and Share, especially when using a reset transmitter with the same account.\nResetting cannot be undone.\nUse at your own risk."; ObjectID = "cJ3-Gc-pnc";</note>
       </trans-unit>
       <trans-unit id="gYy-Zz-y12.text" xml:space="preserve">
         <source>[Error goes here. And it can get very long and that's OK]</source>
-        <target>[Här står felen. Och det kan bli väldigt långt, vilket är OK]</target>
+        <target>[Här står felen, vilka kan vara många, men det är OK]</target>
         <note>Class = "UILabel"; text = "[Error goes here. And it can get very long and that's OK]"; ObjectID = "gYy-Zz-y12";</note>
       </trans-unit>
       <trans-unit id="vNG-r7-RbP.headerTitle" xml:space="preserve">
