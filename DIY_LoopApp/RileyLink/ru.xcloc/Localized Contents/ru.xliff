@@ -2069,12 +2069,12 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
         <target state="needs-translation">Priming…</target>
         <note>The text of the loading label when priming</note>
       </trans-unit>
-      <trans-unit id="Pulses (incl. prime &amp; insert): %1$@ U&#10;" xml:space="preserve">
-        <source>Pulses (incl. prime &amp; insert): %1$@ U
+      <trans-unit id="Pulse Count: %1$d&#10;" xml:space="preserve">
+        <source>Pulse Count: %1$d
 </source>
-        <target state="needs-translation">Pulses (incl. prime &amp; insert): %1$@ U
+        <target state="needs-translation">Pulse Count: %1$d
 </target>
-        <note>The format string for total insulin pulses (1: total pulses in units)</note>
+        <note>The format string for Pulse Count (1: pulse count)</note>
       </trans-unit>
       <trans-unit id="RSSI: %1$@&#10;" xml:space="preserve">
         <source>RSSI: %1$@
