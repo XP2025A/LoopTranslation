@@ -22,9 +22,9 @@
         <target state="final"> (inaktiv)</target>
         <note>Description for an inactive alert modifier</note>
       </trans-unit>
-      <trans-unit id="Activation time exceeded" xml:space="preserve">
+      <trans-unit id="Activation time exceeded" xml:space="preserve" approved="yes">
         <source>Activation time exceeded</source>
-        <target state="translated">Aktiveringstid overskredet</target>
+        <target state="final">Aktiveringstid overskredet</target>
         <note>Pod state when activation not completed in the time allowed</note>
       </trans-unit>
       <trans-unit id="Auto-off alarm" xml:space="preserve" approved="yes">
@@ -32,9 +32,9 @@
         <target state="final">Auto-sluk alarm</target>
         <note>Description for auto-off alarm</note>
       </trans-unit>
-      <trans-unit id="Basal initialized" xml:space="preserve">
+      <trans-unit id="Basal initialized" xml:space="preserve" approved="yes">
         <source>Basal initialized</source>
-        <target state="translated">Basal initialiseret</target>
+        <target state="final">Basal initialiseret</target>
         <note>Pod state when basal initialized</note>
       </trans-unit>
       <trans-unit id="Bolusing" xml:space="preserve" approved="yes">
@@ -62,9 +62,9 @@
         <target state="final">Udløbs advarsel</target>
         <note>Description for expiration alert</note>
       </trans-unit>
-      <trans-unit id="Fault event occurred" xml:space="preserve">
+      <trans-unit id="Fault event occurred" xml:space="preserve" approved="yes">
         <source>Fault event occurred</source>
-        <target state="translated">Der opstod en fejlhændelse</target>
+        <target state="final">Der opstod en fejlhændelse</target>
         <note>Pod state when fault event has occurred</note>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve" approved="yes">
@@ -77,9 +77,9 @@
         <target state="final">Initialiseret</target>
         <note>Pod initialized</note>
       </trans-unit>
-      <trans-unit id="Inserting cannula" xml:space="preserve">
+      <trans-unit id="Inserting cannula" xml:space="preserve" approved="yes">
         <source>Inserting cannula</source>
-        <target state="translated">Indsætter kanyle</target>
+        <target state="final">Indsætter kanyle</target>
         <note>Pod state when inserting cannula</note>
       </trans-unit>
       <trans-unit id="Internal pod fault %1$03d" xml:space="preserve" approved="yes">
@@ -92,14 +92,14 @@
         <target state="final">Ugyldig CRC</target>
         <note>Description for MessageError invalidCrc</note>
       </trans-unit>
-      <trans-unit id="Invalid address: (%1$@)" xml:space="preserve">
+      <trans-unit id="Invalid address: (%1$@)" xml:space="preserve" approved="yes">
         <source>Invalid address: (%1$@)</source>
-        <target state="translated">Ugyldig adresse: (%1$@)</target>
+        <target state="final">Ugyldig adresse: (%1$@)</target>
         <note>Description for MessageError invalidSequence</note>
       </trans-unit>
-      <trans-unit id="Low reservoir" xml:space="preserve">
+      <trans-unit id="Low reservoir" xml:space="preserve" approved="yes">
         <source>Low reservoir</source>
-        <target state="translated">Lavt reservoir</target>
+        <target state="final">Lavt reservoir</target>
         <note>Pod state when running with fifty or less units</note>
       </trans-unit>
       <trans-unit id="Low reservoir advisory alarm" xml:space="preserve" approved="yes">
@@ -107,9 +107,9 @@
         <target state="final">Lav reservoir alarm</target>
         <note>Description for low reservoir alarm</note>
       </trans-unit>
-      <trans-unit id="Memory initialized" xml:space="preserve">
+      <trans-unit id="Memory initialized" xml:space="preserve" approved="yes">
         <source>Memory initialized</source>
-        <target state="translated">Hukommelse initialiseret</target>
+        <target state="final">Hukommelse initialiseret</target>
         <note>Pod memory initialized</note>
       </trans-unit>
       <trans-unit id="No alerts" xml:space="preserve" approved="yes">
@@ -117,9 +117,9 @@
         <target state="final">Ingen alarmer</target>
         <note>Pod alert state when no alerts are active</note>
       </trans-unit>
-      <trans-unit id="No faults" xml:space="preserve">
+      <trans-unit id="No faults" xml:space="preserve" approved="yes">
         <source>No faults</source>
-        <target state="translated">Ingen fejl</target>
+        <target state="final">Ingen fejl</target>
         <note>Description for Fault Event Code .noFaults</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve" approved="yes">
@@ -2070,7 +2070,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       <trans-unit id="Pulse Count: %1$d&#10;" xml:space="preserve">
         <source>Pulse Count: %1$d
 </source>
-        <target state="needs-translation">Pulse Count: %1$d
+        <target state="translated">Pulse Count: %1$d
 </target>
         <note>The format string for Pulse Count (1: pulse count)</note>
       </trans-unit>
