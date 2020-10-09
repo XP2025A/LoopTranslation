@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve" approved="yes">
         <source>Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</source>
-        <target state="final">Kulhydrat måltid data indtastet i appen gemmes i Health databasen. Blodsukker data lagres sikkert i HealthKit.</target>
+        <target state="final">Kulhydrater indtastet i Loop gemmes i Health databasen. Blodsukker lagres sikkert i HealthKit.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -134,7 +134,7 @@
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve" approved="yes">
         <source>Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</source>
-        <target state="final">Kulhydrat måltid data indtastet i appen gemmes i Health databasen. Blodsukker data lagres sikkert i HealthKit.</target>
+        <target state="final">Kulhydrater indtastet i Loop gemmes i Health databasen. Blodsukker lagres sikkert i HealthKit.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -281,17 +281,17 @@
       </trans-unit>
       <trans-unit id="Maximum Bolus" xml:space="preserve" approved="yes">
         <source>Maximum Bolus</source>
-        <target state="final">Maksimum bolus</target>
+        <target state="final">Maksimal bolus</target>
         <note>Title text for maximum bolus configuration</note>
       </trans-unit>
       <trans-unit id="Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically." xml:space="preserve" approved="yes">
         <source>Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically.</source>
-        <target state="final">Maksimum basalrate, er den højeste midlertidige basalrate Loop er tilladt at indstille automatisk.</target>
+        <target state="final">Maksimal basalrate, er den højeste midlertidige basalrate, som er tilladt at Loop indstiller automatisk.</target>
         <note>Descriptive text for maximum basal rate</note>
       </trans-unit>
       <trans-unit id="Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." xml:space="preserve" approved="yes">
         <source>Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</source>
-        <target state="final">Maksimum bolus er den højeste bolus mængde du kan levere på én gang, som dækker dine kulhydrater eller bringer højt blodsukker ned.</target>
+        <target state="final">Maksimal bolus er den højeste bolus mængde du kan afgive på én gang, i forbindelse med indtastning af kulhydrater eller en korrektionsbolus.</target>
         <note>Descriptive text for maximum bolus</note>
       </trans-unit>
       <trans-unit id="Needs Attention" xml:space="preserve" approved="yes">
@@ -371,7 +371,7 @@
       </trans-unit>
       <trans-unit id="The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." xml:space="preserve" approved="yes">
         <source>The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</source>
-        <target state="final">Appen antager, at insulinen arbejder aktivt i 6 timer. Du kan vælge mellem forskellige modeller for, hvordan app'en måler insulinets maksimale aktivitet.</target>
+        <target state="final">Loop antager, at insulinen arbejder aktivt i 6 timer. Du kan vælge mellem forskellige modeller for, hvordan Loop måler insulinets maksimale aktivitet.</target>
         <note>Descriptive text for insulin model</note>
       </trans-unit>
       <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve" approved="yes">
@@ -436,17 +436,17 @@
       </trans-unit>
       <trans-unit id="Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve" approved="yes">
         <source>Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="final">Din basalrate insulin, er det antal af enheder i timen, som du skal bruge for at dække dit basale insulinbehov.</target>
+        <target state="final">En basalrate, er det antal af enheder i timen, som du skal bruge for at dække dit basale insulinbehov.</target>
         <note>Descriptive text for basal rate</note>
       </trans-unit>
       <trans-unit id="Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." xml:space="preserve" approved="yes">
         <source>Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin.</source>
-        <target state="final">Dit kulhydratforhold er antallet af gram kulhydrat dækket af én enhed insulin.</target>
+        <target state="final">Kulhydratforhold er antallet af gram kulhydrat, der dækkes af én enhed insulin.</target>
         <note>Descriptive text for carb ratio</note>
       </trans-unit>
       <trans-unit id="Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin." xml:space="preserve" approved="yes">
         <source>Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin.</source>
-        <target state="final">Din insulinfølsomhed henviser til det fald i blodsukker, der forventes fra én insulinenhed.</target>
+        <target state="final">Insulinfølsomhed henviser til det fald i blodsukker, der forventes fra én insulinenhed.</target>
         <note>Descriptive text for insulin sensitivity</note>
       </trans-unit>
       <trans-unit id="com.loudnate.CarbKit.deleteCarbEntryUnownedErrorDescription" xml:space="preserve" approved="yes">
@@ -698,7 +698,7 @@
       </trans-unit>
       <trans-unit id="%@ assumes insulin is actively working for 6 hours. You can choose from %@ different models for how the app measures the insulin’s peak activity." xml:space="preserve" approved="yes">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
-        <target state="final">%1$@ antager at insulin virker aktivt i 6 timer. Du kan vælge mellem %2$@ forskellige modeller for, hvordan appen måler insulinets maksimale aktivitet.</target>
+        <target state="final">%1$@ antager at insulin virker aktivt i 6 timer. Du kan vælge mellem %2$@ forskellige modeller for, hvordan Loop måler insulinets maksimale aktivitet.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve" approved="yes">
@@ -1075,7 +1075,7 @@
       </trans-unit>
       <trans-unit id="Get help with Therapy Settings" xml:space="preserve" approved="yes">
         <source>Get help with Therapy Settings</source>
-        <target state="final">Få hjælp til behandlingsindstillinger</target>
+        <target state="final">Få hjælp til indstillinger</target>
         <note>Support button for Therapy Settings</note>
       </trans-unit>
       <trans-unit id="Go Back" xml:space="preserve" approved="yes">
@@ -1110,7 +1110,7 @@
       </trans-unit>
       <trans-unit id="High Maximum Bolus" xml:space="preserve" approved="yes">
         <source>High Maximum Bolus</source>
-        <target state="final">Maksimum bolus</target>
+        <target state="final">Maksimal bolus</target>
         <note>Title text for high maximum bolus warning</note>
       </trans-unit>
       <trans-unit id="High Suspend Threshold" xml:space="preserve" approved="yes">
@@ -1170,7 +1170,7 @@
       </trans-unit>
       <trans-unit id="Low Maximum Bolus" xml:space="preserve" approved="yes">
         <source>Low Maximum Bolus</source>
-        <target state="final">Lav maksimum bolus</target>
+        <target state="final">Lav maksimal bolus</target>
         <note>Title text for low maximum bolus warning</note>
       </trans-unit>
       <trans-unit id="Low Suspend Threshold" xml:space="preserve" approved="yes">
@@ -1301,12 +1301,12 @@
       </trans-unit>
       <trans-unit id="Rapid-Acting – Adults" xml:space="preserve" approved="yes">
         <source>Rapid-Acting – Adults</source>
-        <target state="final">Hurtigt-Virkende – Voksne</target>
+        <target state="final">Hurtigt-virkende (Rapid) – Voksne</target>
         <note>Title of insulin model preset - rapid acting adult</note>
       </trans-unit>
       <trans-unit id="Rapid-Acting – Children" xml:space="preserve" approved="yes">
         <source>Rapid-Acting – Children</source>
-        <target state="final">Hurtigt-Virkende – Børn</target>
+        <target state="final">Hurtigt-virkende (Rapid) – Børn</target>
         <note>Title of insulin model preset - rapid acting children</note>
       </trans-unit>
       <trans-unit id="Required" xml:space="preserve" approved="yes">
@@ -1467,7 +1467,7 @@
       </trans-unit>
       <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve" approved="yes">
         <source>The legacy model used by Loop, allowing customization of action duration.</source>
-        <target state="final">Ældre model, der bruges af Loop, og som gør det muligt at tilpasse handlingens varighed.</target>
+        <target state="final">Ældre model, der bruges af Loop, og som gør det muligt at tilpasse insulinens varighed.</target>
         <note>Subtitle description of Walsh insulin model setting</note>
       </trans-unit>
       <trans-unit id="The maximum absorption time is %@" xml:space="preserve" approved="yes">
@@ -1654,7 +1654,7 @@
       </trans-unit>
       <trans-unit id="Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve" approved="yes">
         <source>Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="final">Din basalrate, er det antal af insulinenheder i timen, som du skal bruge for at dække dit basale insulinbehov.</target>
+        <target state="final">En basalrate, er det antal af insulinenheder i timen, som du skal bruge for at dække dit basale insulinbehov.</target>
         <note>Information about basal rates</note>
       </trans-unit>
       <trans-unit id="Your healthcare provider can help you choose a correction range that's right for you." xml:space="preserve" approved="yes">
@@ -1664,7 +1664,7 @@
       </trans-unit>
       <trans-unit id="Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." xml:space="preserve" approved="yes">
         <source>Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin.</source>
-        <target state="final">Din insulinfølsomhed (ISF) henviser til det fald i blodsukkeret, der forventes fra én insulinenhed.</target>
+        <target state="final">Insulinfølsomhed (ISF) henviser til det fald i blodsukkeret, der forventes fra én insulinenhed.</target>
         <note>Description of insulin sensitivity factor</note>
       </trans-unit>
       <trans-unit id="Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." xml:space="preserve" approved="yes">
@@ -1834,7 +1834,7 @@
 Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered.</source>
         <target state="final">%1$@ har ikke været i stand til at kommunikere med simulator pumpen siden %2$@.
 
-Uden kommunikation kan appen ikke fortsætte med at sende kommandoer til afgivelse af insulin eller vise nøjagtig og opdateret information om dit aktive insulin eller det insulin du får.</target>
+Uden kommunikation kan Loop ikke fortsætte med at sende kommandoer til afgivelse af insulin eller vise nøjagtig og opdateret information om dit aktive insulin eller den insulin du får.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve" approved="yes">
