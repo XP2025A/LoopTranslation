@@ -868,7 +868,7 @@
       </trans-unit>
       <trans-unit id="Canceling Temp Basal" xml:space="preserve">
         <source>Canceling Temp Basal</source>
-        <target state="translated">Kumotaan tilapäinen basaali</target>
+        <target state="translated">Kumotaan tilapäinen perusinsuliini</target>
         <note>Title text for suspend resume button when temp basal canceling</note>
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve">
@@ -1070,7 +1070,7 @@
       </trans-unit>
       <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
         <source>For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target state="translated">Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä basaali-insuliinin määrää.</target>
+        <target state="translated">Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä perusinsuliinin määrää.</target>
         <note>Information about correction range</note>
       </trans-unit>
       <trans-unit id="Get help with Therapy Settings" xml:space="preserve">
@@ -1085,7 +1085,7 @@
       </trans-unit>
       <trans-unit id="High Basal Rate" xml:space="preserve">
         <source>High Basal Rate</source>
-        <target state="translated">Korkea basaalitaso</target>
+        <target state="translated">Korkea perusinsuliinitaso</target>
         <note>Title text for the high basal rate warning</note>
       </trans-unit>
       <trans-unit id="High Carb Ratio" xml:space="preserve">
@@ -1105,7 +1105,7 @@
       </trans-unit>
       <trans-unit id="High Maximum Basal Rate" xml:space="preserve">
         <source>High Maximum Basal Rate</source>
-        <target state="translated">Korkea suurin sallittu basaalitaso</target>
+        <target state="translated">Korkea suurin sallittu perusinsuliinitaso</target>
         <note>Title text for high maximum basal rate warning</note>
       </trans-unit>
       <trans-unit id="High Maximum Bolus" xml:space="preserve">
@@ -1135,17 +1135,17 @@
       </trans-unit>
       <trans-unit id="Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." xml:space="preserve">
         <source>Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose.</source>
-        <target state="translated">Insuliiniherkkyys kuvaa sitä, kuinka paljon verensokerisi laskee yhdellä insuliiniyksiköllä. Liian pienet arvot voivat johtaa vaarallisen matalaan verensokeriin.</target>
+        <target state="translated">Insuliiniherkkyys kuvaa sitä, kuinka paljon glukoosi laskee yhdellä insuliiniyksiköllä. Liian pienet arvot voivat johtaa vaarallisen matalaan verensokeriin.</target>
         <note>The description shown on the insulin sensitivity schedule interface.</note>
       </trans-unit>
       <trans-unit id="Loop supports 1 to 48 rates per day." xml:space="preserve">
         <source>Loop supports 1 to 48 rates per day.</source>
-        <target state="translated">Loop tukee 1–48 basaalitasoa päivässä.</target>
+        <target state="translated">Loop tukee 1–48 perusinsuliinitasoa päivässä.</target>
         <note>Information about max number of basal rates</note>
       </trans-unit>
       <trans-unit id="Low Basal Rate" xml:space="preserve">
         <source>Low Basal Rate</source>
-        <target state="translated">Matala basaalitaso</target>
+        <target state="translated">Matala perusinsuliinitaso</target>
         <note>Title text for the low basal rate warning</note>
       </trans-unit>
       <trans-unit id="Low Carb Ratio" xml:space="preserve">
@@ -1160,27 +1160,27 @@
       </trans-unit>
       <trans-unit id="Low Insulin Sensitivity" xml:space="preserve">
         <source>Low Insulin Sensitivity</source>
-        <target state="needs-translation">Low Insulin Sensitivity</target>
+        <target state="translated">Matala insuliiniherkkyys</target>
         <note>Title text for the low insulin sensitivity warning</note>
       </trans-unit>
       <trans-unit id="Low Maximum Basal Rate" xml:space="preserve">
         <source>Low Maximum Basal Rate</source>
-        <target state="needs-translation">Low Maximum Basal Rate</target>
+        <target state="translated">Matala suurin sallittu perusinsuliinitaso</target>
         <note>Title text for low maximum basal rate warning</note>
       </trans-unit>
       <trans-unit id="Low Maximum Bolus" xml:space="preserve">
         <source>Low Maximum Bolus</source>
-        <target state="needs-translation">Low Maximum Bolus</target>
+        <target state="translated">Matala suurin sallittu bolus</target>
         <note>Title text for low maximum bolus warning</note>
       </trans-unit>
       <trans-unit id="Low Suspend Threshold" xml:space="preserve">
         <source>Low Suspend Threshold</source>
-        <target state="needs-translation">Low Suspend Threshold</target>
+        <target state="translated">Matala pysäytysraja</target>
         <note>Title text for the low suspend threshold warning</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate" xml:space="preserve">
         <source>Maximum Basal Rate</source>
-        <target state="translated">Suurin sallittu basaalitaso</target>
+        <target state="translated">Suurin sallittu perusinsuliinitaso</target>
         <note>The title text for the maximum basal rate value</note>
       </trans-unit>
       <trans-unit id="Maximum Bolus" xml:space="preserve">
@@ -1190,22 +1190,22 @@
       </trans-unit>
       <trans-unit id="Maximum basal rate" xml:space="preserve">
         <source>Maximum basal rate</source>
-        <target state="needs-translation">Maximum basal rate</target>
+        <target state="translated">Suurin sallittu perusinsuliinitaso</target>
         <note>Maximum basal rate title</note>
       </trans-unit>
       <trans-unit id="Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range." xml:space="preserve">
         <source>Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range.</source>
-        <target state="needs-translation">Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range.</target>
+        <target state="translated">Suurin sallittu perusinsuliinitaso on korkein säädetty perusinsuliinitaso, jonka Loop saa asettaa automaattisesti tavoitellessaan korjausaluetta.</target>
         <note>Information about maximum basal rate</note>
       </trans-unit>
       <trans-unit id="Maximum bolus" xml:space="preserve">
         <source>Maximum bolus</source>
-        <target state="needs-translation">Maximum bolus</target>
+        <target state="translated">Suurin sallittu bolus</target>
         <note>Maximum bolus title</note>
       </trans-unit>
       <trans-unit id="Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose." xml:space="preserve">
         <source>Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose.</source>
-        <target state="needs-translation">Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose.</target>
+        <target state="translated">Suurin sallittu bolus on suurin insuliiniannos, jonka Loop voi antaa yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.</target>
         <note>Information about maximum bolus</note>
       </trans-unit>
       <trans-unit id="Medium" xml:space="preserve">
@@ -1215,7 +1215,7 @@
       </trans-unit>
       <trans-unit id="Middle" xml:space="preserve">
         <source>Middle</source>
-        <target state="needs-translation">Middle</target>
+        <target state="translated">Keskellä</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="More Info" xml:space="preserve">
@@ -1230,7 +1230,7 @@
       </trans-unit>
       <trans-unit id="New Entry" xml:space="preserve">
         <source>New Entry</source>
-        <target state="needs-translation">New Entry</target>
+        <target state="translated">Uusi merkintä</target>
         <note>Title for mini-modal to add a new schedule entry</note>
       </trans-unit>
       <trans-unit id="New Preset" xml:space="preserve">
@@ -1240,7 +1240,7 @@
       </trans-unit>
       <trans-unit id="No Basal Insulin" xml:space="preserve">
         <source>No Basal Insulin</source>
-        <target state="needs-translation">No Basal Insulin</target>
+        <target state="translated">Ei perusinsuliinia</target>
         <note>Title text for the zero basal rate warning</note>
       </trans-unit>
       <trans-unit id="Other" xml:space="preserve">
@@ -1281,17 +1281,17 @@
       </trans-unit>
       <trans-unit id="Pre-meal temp adjust range" xml:space="preserve">
         <source>Pre-meal temp adjust range</source>
-        <target state="needs-translation">Pre-meal temp adjust range</target>
+        <target state="translated">Ennen ateriaa -alue</target>
         <note>Title for pre-meal range information section</note>
       </trans-unit>
       <trans-unit id="Prescription" xml:space="preserve">
         <source>Prescription</source>
-        <target state="needs-translation">Prescription</target>
+        <target state="translated">Resepti</target>
         <note>title for prescription section</note>
       </trans-unit>
       <trans-unit id="Progressing." xml:space="preserve">
         <source>Progressing.</source>
-        <target state="needs-translation">Progressing.</target>
+        <target state="translated">Edistyminen.</target>
         <note>Accessibility label for ProgressIndicatorView when showIndeterminantProgress</note>
       </trans-unit>
       <trans-unit id="Pump Event" xml:space="preserve">
@@ -1301,7 +1301,7 @@
       </trans-unit>
       <trans-unit id="Rapid-Acting – Adults" xml:space="preserve">
         <source>Rapid-Acting – Adults</source>
-        <target state="needs-translation">Rapid-Acting – Adults</target>
+        <target state="translated">Nopeavaikutteinen – aikuiset</target>
         <note>Title of insulin model preset - rapid acting adult</note>
       </trans-unit>
       <trans-unit id="Rapid-Acting – Children" xml:space="preserve">
@@ -1412,7 +1412,7 @@
       </trans-unit>
       <trans-unit id="Starting Temp Basal" xml:space="preserve">
         <source>Starting Temp Basal</source>
-        <target state="translated">Aloitetaan tilapäinen basaali</target>
+        <target state="translated">Aloitetaan tilapäinen perusinsuliini</target>
         <note>Title text for suspend resume button when temp basal starting</note>
       </trans-unit>
       <trans-unit id="Submitted by %1$@, %2$@" xml:space="preserve">
@@ -1492,7 +1492,7 @@
       </trans-unit>
       <trans-unit id="The schedule starts at midnight and cannot contain a rate of 0 U/hr." xml:space="preserve">
         <source>The schedule starts at midnight and cannot contain a rate of 0 U/hr.</source>
-        <target state="needs-translation">The schedule starts at midnight and cannot contain a rate of 0 U/hr.</target>
+        <target state="translated">Aikataulu alkaa keskiyöstä, eikä se voi sisältää 0 U/h tasoa.</target>
         <note>Information about basal rate scheduling</note>
       </trans-unit>
       <trans-unit id="Therapy Settings" xml:space="preserve">
