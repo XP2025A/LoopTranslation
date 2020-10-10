@@ -1953,7 +1953,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
         <source>Continue</source>
-        <target state="needs-translation">Continue</target>
+        <target state="translated">Jatka</target>
         <note>Button text to continue from carb entry to bolus entry on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
@@ -1970,7 +1970,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Make sure your iPhone is nearby and try again." xml:space="preserve">
         <source>Make sure your iPhone is nearby and try again.</source>
-        <target state="needs-translation">Make sure your iPhone is nearby and try again.</target>
+        <target state="translated">Varmista, että iPhone on riittävän lähellä ja yritä uudelleen.</target>
         <note>The recovery message displayed after a bolus attempt fails
    The recovery message displayed after a potential carb entry send attempt fails</note>
       </trans-unit>
@@ -1981,17 +1981,17 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target state="translated">OK</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Off" xml:space="preserve">
         <source>Off</source>
-        <target state="needs-translation">Off</target>
+        <target state="translated">Pois päältä</target>
         <note>Label for off button</note>
       </trans-unit>
       <trans-unit id="On" xml:space="preserve">
         <source>On</source>
-        <target state="needs-translation">On</target>
+        <target state="translated">Päällä</target>
         <note>Label for on button</note>
       </trans-unit>
       <trans-unit id="Override" xml:space="preserve">
@@ -2001,32 +2001,32 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Please reconfirm the bolus amount." xml:space="preserve">
         <source>Please reconfirm the bolus amount.</source>
-        <target state="needs-translation">Please reconfirm the bolus amount.</target>
+        <target state="translated">Vahvista bolusmäärä uudelleen.</target>
         <note>Alert message for updated bolus recommendation on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Pre-Meal" xml:space="preserve">
         <source>Pre-Meal</source>
-        <target state="needs-translation">Pre-Meal</target>
+        <target state="translated">E. ateriaa</target>
         <note>Title for sheet to enable/disable pre-meal on watch</note>
       </trans-unit>
       <trans-unit id="Preset" xml:space="preserve">
         <source>Preset</source>
-        <target state="needs-translation">Preset</target>
+        <target state="translated">Esiasetus</target>
         <note>The text for the Watch button for enabling a custom preset</note>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="REC: %@ U" xml:space="preserve">
         <source>REC: %@ U</source>
-        <target state="needs-translation">REC: %@ U</target>
+        <target state="translated">SUOSIT.: %@ U</target>
         <note>Recommended bolus amount label on Apple Watch</note>
       </trans-unit>
       <trans-unit id="REC: Calculating..." xml:space="preserve">
         <source>REC: Calculating...</source>
-        <target state="needs-translation">REC: Calculating...</target>
+        <target state="translated">SUOSIT.: Lasketaan...</target>
         <note>Indicator that recommended bolus computation is in progress on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Rec: %@ U" xml:space="preserve">
@@ -2041,12 +2041,12 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Tallenna</target>
         <note>Button text to confirm carb entry without bolusing on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Save &amp; Bolus" xml:space="preserve">
         <source>Save &amp; Bolus</source>
-        <target state="needs-translation">Save &amp; Bolus</target>
+        <target state="translated">Tallenna &amp; Bolus</target>
         <note>Button text to confirm carb entry and bolus on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Send Failed" xml:space="preserve">
@@ -2058,13 +2058,12 @@ Todellinen: %2$@ (%3$@)</target>
       <trans-unit id="Turn Digital Crown&#10;to bolus" xml:space="preserve">
         <source>Turn Digital Crown
 to bolus</source>
-        <target state="needs-translation">Turn Digital Crown
-to bolus</target>
+        <target state="translated">Vahvista bolus pyörittämällä Digital Crownia</target>
         <note>Help text for bolus confirmation on Apple Watch</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
         <source>U</source>
-        <target state="needs-translation">U</target>
+        <target state="translated">U</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
       <trans-unit id="U/hr" xml:space="preserve">
@@ -2074,7 +2073,7 @@ to bolus</target>
       </trans-unit>
       <trans-unit id="Unable to Reach iPhone" xml:space="preserve">
         <source>Unable to Reach iPhone</source>
-        <target state="needs-translation">Unable to Reach iPhone</target>
+        <target state="translated">iPhoneen ei saada yhteyttä</target>
         <note>The title of the alert controller displayed after a potential carb entry send attempt fails</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
@@ -2084,23 +2083,23 @@ to bolus</target>
       </trans-unit>
       <trans-unit id="dB" xml:space="preserve">
         <source>dB</source>
-        <target state="needs-translation">dB</target>
+        <target state="translated">dB</target>
         <note>The short unit display string for decibles</note>
       </trans-unit>
       <trans-unit id="g" xml:space="preserve">
         <source>g</source>
-        <target state="needs-translation">g</target>
+        <target state="translated">g</target>
         <note>Short unit label for gram measurement
    The short unit display string for grams</note>
       </trans-unit>
       <trans-unit id="mg/dL" xml:space="preserve">
         <source>mg/dL</source>
-        <target state="needs-translation">mg/dL</target>
+        <target state="translated">mg/dL</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
       <trans-unit id="mmol/L" xml:space="preserve">
         <source>mmol/L</source>
-        <target state="needs-translation">mmol/L</target>
+        <target state="translated">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
