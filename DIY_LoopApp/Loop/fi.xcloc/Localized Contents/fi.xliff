@@ -828,17 +828,17 @@ Unavailable</source>
       </trans-unit>
       <trans-unit id="Critical Event Log Ready" xml:space="preserve">
         <source>Critical Event Log Ready</source>
-        <target state="needs-translation">Critical Event Log Ready</target>
+        <target state="translated">Kriittisten tapahtumien loki valmis</target>
         <note>Critical event log ready text</note>
       </trans-unit>
       <trans-unit id="Critical Event Logs" xml:space="preserve">
         <source>Critical Event Logs</source>
-        <target state="needs-translation">Critical Event Logs</target>
+        <target state="translated">Kriittisten tapahtumien loki</target>
         <note>Critical event log export title</note>
       </trans-unit>
       <trans-unit id="Critical Event Logs were not able to be exported." xml:space="preserve">
         <source>Critical Event Logs were not able to be exported.</source>
-        <target state="needs-translation">Critical Event Logs were not able to be exported.</target>
+        <target state="translated">Kriittisten tapahtumien lokia ei voitu luoda.</target>
         <note>Critical event log export error alert message</note>
       </trans-unit>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
@@ -934,8 +934,7 @@ Unavailable</source>
       <trans-unit id="Enable&#10;Bluetooth" xml:space="preserve">
         <source>Enable
 Bluetooth</source>
-        <target state="needs-translation">Enable
-Bluetooth</target>
+        <target state="translated">Ota Bluetooth käyttöön</target>
         <note>Message to the user to enable bluetooth</note>
       </trans-unit>
       <trans-unit id="Enables" xml:space="preserve">
@@ -950,12 +949,12 @@ Bluetooth</target>
       </trans-unit>
       <trans-unit id="Enter Fingerstick Glucose" xml:space="preserve">
         <source>Enter Fingerstick Glucose</source>
-        <target state="needs-translation">Enter Fingerstick Glucose</target>
+        <target state="translated">Syötä mitattu glukoosiarvo</target>
         <note>Button text prompting manual glucose entry on bolus screen</note>
       </trans-unit>
       <trans-unit id="Enter a blood glucose from a meter for a recommended bolus amount." xml:space="preserve">
         <source>Enter a blood glucose from a meter for a recommended bolus amount.</source>
-        <target state="needs-translation">Enter a blood glucose from a meter for a recommended bolus amount.</target>
+        <target state="translated">Syötä sormenpäästä mitattu glukoosiarvo saadaksesi suositellun bolusmäärän.</target>
         <note>Caption for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
       <trans-unit id="Enter suspend threshold" xml:space="preserve">
@@ -970,7 +969,7 @@ Bluetooth</target>
       </trans-unit>
       <trans-unit id="Error Exporting Logs" xml:space="preserve">
         <source>Error Exporting Logs</source>
-        <target state="needs-translation">Error Exporting Logs</target>
+        <target state="translated">Virhe lokin viennissä</target>
         <note>Critical event log export error alert title</note>
       </trans-unit>
       <trans-unit id="Error Resuming" xml:space="preserve">
@@ -990,12 +989,12 @@ Bluetooth</target>
       </trans-unit>
       <trans-unit id="Export Critical Event Logs" xml:space="preserve">
         <source>Export Critical Event Logs</source>
-        <target state="needs-translation">Export Critical Event Logs</target>
+        <target state="translated">Vie kriittisten tapahtumien loki</target>
         <note>The title of the export critical event logs in support</note>
       </trans-unit>
       <trans-unit id="Export-%1$@" xml:space="preserve">
         <source>Export-%1$@</source>
-        <target state="needs-translation">Export-%1$@</target>
+        <target state="translated">Vienti-%1$@</target>
         <note>The export file name formatted string (1: timestamp)</note>
       </trans-unit>
       <trans-unit id="Failed to Resume Insulin Delivery" xml:space="preserve">
@@ -1010,7 +1009,7 @@ Bluetooth</target>
       </trans-unit>
       <trans-unit id="Fingerstick Glucose" xml:space="preserve">
         <source>Fingerstick Glucose</source>
-        <target state="needs-translation">Fingerstick Glucose</target>
+        <target state="translated">Mitattu glukoosiarvo</target>
         <note>Label for manual glucose entry row on bolus screen</note>
       </trans-unit>
       <trans-unit id="For %1$@" xml:space="preserve">
@@ -1127,7 +1126,7 @@ Bluetooth</target>
       </trans-unit>
       <trans-unit id="Less than a minute remaining" xml:space="preserve">
         <source>Less than a minute remaining</source>
-        <target state="needs-translation">Less than a minute remaining</target>
+        <target state="translated">Alle minuutti jäljellä</target>
         <note>Estimated remaining duration with less than a minute</note>
       </trans-unit>
       <trans-unit id="Loading..." xml:space="preserve">
@@ -1254,7 +1253,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Preparing Critical Event Logs" xml:space="preserve">
         <source>Preparing Critical Event Logs</source>
-        <target state="needs-translation">Preparing Critical Event Logs</target>
+        <target state="translated">Valmistellaan kriittisten tapahtumien lokia</target>
         <note>Preparing critical event log text</note>
       </trans-unit>
       <trans-unit id="Pump" xml:space="preserve">
@@ -1397,7 +1396,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Tap here to set up a Service" xml:space="preserve">
         <source>Tap here to set up a Service</source>
-        <target state="needs-translation">Tap here to set up a Service</target>
+        <target state="translated">Määritä palvelu napauttamalla tästä</target>
         <note>The descriptive text of the add service button in settings</note>
       </trans-unit>
       <trans-unit id="Tap here to set up a pump" xml:space="preserve">
@@ -1412,7 +1411,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Tap to Stop" xml:space="preserve">
         <source>Tap to Stop</source>
-        <target state="needs-translation">Tap to Stop</target>
+        <target state="translated">Pysäytä napauttamalla</target>
         <note>Message presented in the status row instructing the user to tap this row to stop a bolus</note>
       </trans-unit>
       <trans-unit id="The bolus recommendation has updated. Please reconfirm the bolus amount." xml:space="preserve">
@@ -1447,7 +1446,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Try Again" xml:space="preserve">
         <source>Try Again</source>
-        <target state="needs-translation">Try Again</target>
+        <target state="translated">Yritä uudelleen</target>
         <note>Critical event log export error alert try again button</note>
       </trans-unit>
       <trans-unit id="Turn on Bluetooth to receive alerts, alarms or sensor glucose readings." xml:space="preserve">
@@ -1507,7 +1506,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating." xml:space="preserve">
         <source>Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating.</source>
-        <target state="needs-translation">Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating.</target>
+        <target state="translated">Glukoosi nousee nopeasti. Tarkista, että kaikki syömäsi hiilihydraatit on kirjattu. Jos olet kirjannut hiilihydraatteja, tarkista, että syöttämäsi aika vastaa ruokailun aloitusaikaa.</target>
         <note>Warning to ensure the carb entry is accurate</note>
       </trans-unit>
       <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve">
@@ -1547,17 +1546,17 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="mg/dL" xml:space="preserve">
         <source>mg/dL</source>
-        <target state="needs-translation">mg/dL</target>
+        <target state="translated">mg/dL</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
       <trans-unit id="mmol/L" xml:space="preserve">
         <source>mmol/L</source>
-        <target state="needs-translation">mmol/L</target>
+        <target state="translated">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
       <trans-unit id="prediction-description-retrospective-correction" xml:space="preserve">
         <source>prediction-description-retrospective-correction</source>
-        <target state="needs-translation">prediction-description-retrospective-correction</target>
+        <target state="translated">ennuste-kuvaus-retrospektiivinen-korjaus</target>
         <note>Format string describing retrospective glucose prediction comparison. (1: Predicted glucose)(2: Actual glucose)(3: difference)</note>
       </trans-unit>
       <trans-unit id="since %@" xml:space="preserve">
@@ -1584,7 +1583,7 @@ Todellinen: %2$@ (%3$@)</target>
     <body>
       <trans-unit id="0RV-d5-muE.text" xml:space="preserve">
         <source>g</source>
-        <target state="needs-translation">g</target>
+        <target state="translated">g</target>
         <note>Class = "UILabel"; text = "g"; ObjectID = "0RV-d5-muE";</note>
       </trans-unit>
       <trans-unit id="3kU-n2-fha.title" xml:space="preserve">
@@ -1619,7 +1618,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Fal-Vf-lfh.normalTitle" xml:space="preserve">
         <source>🍭</source>
-        <target state="needs-translation">🍭</target>
+        <target state="translated">🍭</target>
         <note>Class = "UIButton"; normalTitle = "🍭"; ObjectID = "Fal-Vf-lfh";</note>
       </trans-unit>
       <trans-unit id="IxU-As-glo.text" xml:space="preserve">
@@ -1649,12 +1648,12 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Qe9-uc-vPR.normalTitle" xml:space="preserve">
         <source>🍽</source>
-        <target state="needs-translation">🍽</target>
+        <target state="translated">🍽</target>
         <note>Class = "UIButton"; normalTitle = "🍽"; ObjectID = "Qe9-uc-vPR";</note>
       </trans-unit>
       <trans-unit id="QhO-Yi-AqQ.normalTitle" xml:space="preserve">
         <source>🌮</source>
-        <target state="needs-translation">🌮</target>
+        <target state="translated">🌮</target>
         <note>Class = "UIButton"; normalTitle = "🌮"; ObjectID = "QhO-Yi-AqQ";</note>
       </trans-unit>
       <trans-unit id="Rse-x8-amW.text" xml:space="preserve">
@@ -1664,7 +1663,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="SQx-au-ZcM.text" xml:space="preserve">
         <source>g Active Carbs</source>
-        <target state="needs-translation">g Active Carbs</target>
+        <target state="translated">g aktiivinen hiilihydraatti</target>
         <note>Class = "UILabel"; text = "g Active Carbs"; ObjectID = "SQx-au-ZcM";</note>
       </trans-unit>
       <trans-unit id="Tz7-80-bJ7.title" xml:space="preserve">
@@ -1684,7 +1683,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Yf6-fw-Gex.placeholder" xml:space="preserve">
         <source>0</source>
-        <target state="needs-translation">0</target>
+        <target state="translated">0</target>
         <note>Class = "UITextField"; placeholder = "0"; ObjectID = "Yf6-fw-Gex";</note>
       </trans-unit>
       <trans-unit id="aCb-Qs-bpu.text" xml:space="preserve">
@@ -1744,12 +1743,12 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="xl9-Wc-Pdu.normalTitle" xml:space="preserve">
         <source>🍕</source>
-        <target state="needs-translation">🍕</target>
+        <target state="translated">🍕</target>
         <note>Class = "UIButton"; normalTitle = "🍕"; ObjectID = "xl9-Wc-Pdu";</note>
       </trans-unit>
       <trans-unit id="yn7-2M-jZz.text" xml:space="preserve">
         <source>0</source>
-        <target state="needs-translation">0</target>
+        <target state="translated">0</target>
         <note>Class = "UILabel"; text = "0"; ObjectID = "yn7-2M-jZz";</note>
       </trans-unit>
       <trans-unit id="zbc-87-wxZ.text" xml:space="preserve">
@@ -1759,7 +1758,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="zvZ-uf-zMX.text" xml:space="preserve">
         <source>0</source>
-        <target state="needs-translation">0</target>
+        <target state="translated">0</target>
         <note>Class = "UILabel"; text = "0"; ObjectID = "zvZ-uf-zMX";</note>
       </trans-unit>
     </body>
@@ -1771,7 +1770,7 @@ Todellinen: %2$@ (%3$@)</target>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>LoopCore</source>
-        <target state="needs-translation">LoopCore</target>
+        <target state="translated">LoopCore</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1783,7 +1782,7 @@ Todellinen: %2$@ (%3$@)</target>
     <body>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
     </body>
@@ -1795,12 +1794,12 @@ Todellinen: %2$@ (%3$@)</target>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>LoopUI</source>
-        <target state="needs-translation">LoopUI</target>
+        <target state="translated">LoopUI</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>$(PRODUCT_NAME)</source>
-        <target state="needs-translation">$(PRODUCT_NAME)</target>
+        <target state="translated">$(PRODUCT_NAME)</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1822,12 +1821,12 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="%1$@/min" xml:space="preserve">
         <source>%1$@/min</source>
-        <target state="needs-translation">%1$@/min</target>
+        <target state="translated">%1$@/min</target>
         <note>Format string describing glucose units per minute (1: glucose unit string)</note>
       </trans-unit>
       <trans-unit id="%@ U" xml:space="preserve">
         <source>%@ U</source>
-        <target state="needs-translation">%@ U</target>
+        <target state="translated">%@ U</target>
         <note>The format string describing the basal rate.</note>
       </trans-unit>
       <trans-unit id="%@ ago" xml:space="preserve">
@@ -1842,12 +1841,12 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="HIGH" xml:space="preserve">
         <source>HIGH</source>
-        <target state="needs-translation">HIGH</target>
+        <target state="translated">KORKEA</target>
         <note>String displayed instead of a glucose value above the CGM range</note>
       </trans-unit>
       <trans-unit id="LOW" xml:space="preserve">
         <source>LOW</source>
-        <target state="needs-translation">LOW</target>
+        <target state="translated">MATALA</target>
         <note>String displayed instead of a glucose value below the CGM range</note>
       </trans-unit>
       <trans-unit id="Loop ran %@ ago" xml:space="preserve">
@@ -1867,12 +1866,12 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
         <source>U</source>
-        <target state="needs-translation">U</target>
+        <target state="translated">U</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
@@ -1887,22 +1886,22 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="dB" xml:space="preserve">
         <source>dB</source>
-        <target state="needs-translation">dB</target>
+        <target state="translated">dB</target>
         <note>The short unit display string for decibles</note>
       </trans-unit>
       <trans-unit id="g" xml:space="preserve">
         <source>g</source>
-        <target state="needs-translation">g</target>
+        <target state="translated">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
       <trans-unit id="mg/dL" xml:space="preserve">
         <source>mg/dL</source>
-        <target state="needs-translation">mg/dL</target>
+        <target state="translated">mg/dL</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
       <trans-unit id="mmol/L" xml:space="preserve">
         <source>mmol/L</source>
-        <target state="needs-translation">mmol/L</target>
+        <target state="translated">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
@@ -1914,12 +1913,12 @@ Todellinen: %2$@ (%3$@)</target>
     <body>
       <trans-unit id="%1$@ – %2$@ %3$@" xml:space="preserve">
         <source>%1$@ – %2$@ %3$@</source>
-        <target state="needs-translation">%1$@ – %2$@ %3$@</target>
+        <target state="translated">%1$@ – %2$@ %3$@</target>
         <note>Format string for glucose range (1: lower bound)(2: upper bound)(3: unit)</note>
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
-        <target state="needs-translation">%@</target>
+        <target state="translated">%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Active Carbs" xml:space="preserve">
@@ -1939,7 +1938,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Bolus" xml:space="preserve">
         <source>Bolus</source>
-        <target state="needs-translation">Bolus</target>
+        <target state="translated">Bolus</target>
         <note>Button text to confirm manual bolus on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Bolus Failed" xml:space="preserve">
@@ -1949,7 +1948,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Bolus Recommendation Updated" xml:space="preserve">
         <source>Bolus Recommendation Updated</source>
-        <target state="needs-translation">Bolus Recommendation Updated</target>
+        <target state="translated">Bolussuositus päivitetty</target>
         <note>Alert title for updated bolus recommendation on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
