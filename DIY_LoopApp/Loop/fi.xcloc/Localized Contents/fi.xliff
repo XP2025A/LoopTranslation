@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="Computes the percentage of glucose measurements within a specified range" xml:space="preserve">
         <source>Computes the percentage of glucose measurements within a specified range</source>
-        <target state="translated">Laskee glukoosimittausten prosenttimäärän määritellyllä alueella</target>
+        <target state="translated">Laskee glukoosimittausten prosenttiosuuden tietyllä alueella</target>
         <note>Lesson subtitle</note>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to optimize delivery of Apple Watch complication updates during the time you are awake.</source>
-        <target state="translated">Terveys-sovelluksen ateriatietoja käytetään glukoosivaikutusten määrittämiseen. Terveys-sovelluksen glukoositietoja käytetään graafeissa ja laskelmissa. Unitietoja käytetään Apple Watch -komplikaation toiminnan optimointiin hereillä olon aikana.</target>
+        <target state="translated">Terveystietokannasta peräisin olevan aterian tietoja käytetään glukoosivaikutusten määrittämiseen. Terveys-tietokannan glukoositietoja käytetään graafeissa ja momentum-laskelmiin. Terveystietokannan unitietoja käytetään Apple Watchin komplikaatiopäivitysten optimointiin silloin, kun olet hereillä.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
     </body>
@@ -311,7 +311,7 @@
       </trans-unit>
       <trans-unit id="UPi-dG-yYD.text" xml:space="preserve">
         <source>Active Insulin</source>
-        <target state="translated">IOB 1.0 U</target>
+        <target state="translated">Aktiivinen insuliini</target>
         <note>Class = "UILabel"; text = "Active Insulin"; ObjectID = "UPi-dG-yYD";</note>
       </trans-unit>
       <trans-unit id="Vgf-p1-2QP.text" xml:space="preserve">
@@ -380,7 +380,7 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to improve the Apple Watch complication.</source>
-        <target state="translated">Terveys-sovelluksen ateriatietoja käytetään glukoosivaikutusten määrittämiseen. Terveys-sovelluksen glukoositietoja käytetään graafeissa ja laskelmissa. Unitietoja käytetään Apple Watch -komplikaation toiminnan optimointiin hereillä olon aikana.</target>
+        <target state="translated">Terveystietokannasta peräisin olevan aterian tietoja käytetään glukoosivaikutusten määrittämiseen. Terveys-tietokannan glukoositietoja käytetään graafeihin ja momentum-laskentaan. Terveys-tietokannan unitietoja käytetään Apple Watchin komplikaatioiden toiminnan optimointiin.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
@@ -424,7 +424,7 @@
       </trans-unit>
       <trans-unit id=" (pending: %@)" xml:space="preserve">
         <source> (pending: %@)</source>
-        <target state="translated">(odot.: %@)</target>
+        <target state="translated"> (odot.: %@)</target>
         <note>The string format appended to active insulin that describes pending insulin. (1: pending insulin)</note>
       </trans-unit>
       <trans-unit id="%1$@ %2$@" xml:space="preserve">
@@ -454,13 +454,13 @@
       </trans-unit>
       <trans-unit id="%1$@ U/hour @ %2$@" xml:space="preserve">
         <source>%1$@ U/hour @ %2$@</source>
-        <target state="translated">%1$@ U/h klo %2$@</target>
+        <target state="translated">%1$@ U/t klo %2$@</target>
         <note>The format for recommended temp basal rate and time. (1: localized rate number)(2: localized time)</note>
       </trans-unit>
       <trans-unit id="%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.&#10;You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options." xml:space="preserve">
         <source>%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.
 You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options.</source>
-        <target state="translated">%1$@ ei pysty kommunikoimaan insuliinipumpun kanssa. Sovellus yrittää edelleen yhdistää pumppuun, mutta insuliininannostelun tietot eivät päivity, eikä automatiikka ole päällä.
+        <target state="translated">%1$@ ei pysty kommunikoimaan insuliinipumpun kanssa. Sovellus yrittää edelleen yhdistää pumppuun, mutta insuliininannostelun tiedot eivät päivity, eikä automatiikka ole päällä.
 Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napauttaa alla olevaa painiketta saadaksesi lisätietoja muista vaihtoehdoista.</target>
         <note>Message for alert shown when delivery status is uncertain. (1: app name)</note>
       </trans-unit>
@@ -676,7 +676,7 @@ Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napautta
       </trans-unit>
       <trans-unit id="Basal Rate Schedule" xml:space="preserve">
         <source>Basal Rate Schedule</source>
-        <target state="translated">Basaaliohjelma</target>
+        <target state="translated">Perusinsuliiniohjelma</target>
         <note>Details for configuration error when basal rate schedule is missing</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
@@ -767,7 +767,7 @@ Unavailable</source>
       </trans-unit>
       <trans-unit id="Carbs Absorbed (g) ÷ Carb Ratio (g/U) × Insulin Sensitivity (%1$@/U)" xml:space="preserve">
         <source>Carbs Absorbed (g) ÷ Carb Ratio (g/U) × Insulin Sensitivity (%1$@/U)</source>
-        <target state="translated">Imeytyneet hiilihydraatit (g) ÷ Hiilihydraattisuhde (g/U) × Insuliiniherkkyys (%1$@/U)</target>
+        <target state="translated">Imeytyvät hiilihydraatit (g) ÷ Hiilihydraattisuhde (g/U) × Insuliiniherkkyys (%1$@/U)</target>
         <note>Description of the prediction input effect for carbohydrates. (1: The glucose unit string)</note>
       </trans-unit>
       <trans-unit id="Change the pump battery immediately" xml:space="preserve">
@@ -838,7 +838,7 @@ Unavailable</source>
       </trans-unit>
       <trans-unit id="Critical Event Logs were not able to be exported." xml:space="preserve">
         <source>Critical Event Logs were not able to be exported.</source>
-        <target state="translated">Kriittisten tapahtumien lokia ei voitu luoda.</target>
+        <target state="translated">Kriittisten tapahtumien lokia ei voitu viedä.</target>
         <note>Critical event log export error alert message</note>
       </trans-unit>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
@@ -923,7 +923,7 @@ Unavailable</source>
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
         <source>Dismiss</source>
-        <target state="translated">Hylkää</target>
+        <target state="translated">Ohita</target>
         <note>Default alert dismissal</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
@@ -999,7 +999,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Failed to Resume Insulin Delivery" xml:space="preserve">
         <source>Failed to Resume Insulin Delivery</source>
-        <target state="translated">Insuliiniannostelun jatkaminen epäonnistui</target>
+        <target state="translated">Annostelun jatkaminen epäonnistui</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
       <trans-unit id="Fiasp" xml:space="preserve">
