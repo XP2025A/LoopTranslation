@@ -496,7 +496,7 @@ Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napautta
       </trans-unit>
       <trans-unit id="%@ remaining" xml:space="preserve">
         <source>%@ remaining</source>
-        <target state="needs-translation">%@ remaining</target>
+        <target state="translated">%@ jäljellä</target>
         <note>Estimated remaining duration with more than a minute</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
@@ -521,7 +521,7 @@ Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napautta
       </trans-unit>
       <trans-unit id="A few seconds remaining" xml:space="preserve">
         <source>A few seconds remaining</source>
-        <target state="needs-translation">A few seconds remaining</target>
+        <target state="translated">Muutama sekunti jäljellä</target>
         <note>Estimated remaining duration with a few seconds</note>
       </trans-unit>
       <trans-unit id="A manual glucose entry must be between %@ and %@" xml:space="preserve">
@@ -688,15 +688,13 @@ Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napautta
       <trans-unit id="Bluetooth&#10;Off" xml:space="preserve">
         <source>Bluetooth
 Off</source>
-        <target state="needs-translation">Bluetooth
-Off</target>
+        <target state="translated">Bluetooth ei ole käytössä</target>
         <note>Message to the user to that the bluetooth is off</note>
       </trans-unit>
       <trans-unit id="Bluetooth&#10;Unavailable" xml:space="preserve">
         <source>Bluetooth
 Unavailable</source>
-        <target state="needs-translation">Bluetooth
-Unavailable</target>
+        <target state="translated">Bluetooth ei ole käytettävissä</target>
         <note>Message to the user that bluetooth is unavailable to the app</note>
       </trans-unit>
       <trans-unit id="Bluetooth Off Alert" xml:space="preserve">
