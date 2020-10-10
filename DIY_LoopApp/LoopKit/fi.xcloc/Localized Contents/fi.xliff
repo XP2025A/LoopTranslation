@@ -34,12 +34,12 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation.</source>
-        <target state="translated">Terveys-sovelluksen ateriatietoja käytetään glukoosivaikutusten määrittämiseen. Terveys-sovelluksen glukoositietoja käytetään graafeissa ja laskelmissa.</target>
+        <target state="translated">Terveystietokannasta peräisin olevan aterian tietoja käytetään glukoosivaikutusten määrittämiseen. Terveys-tietokannan glukoositietoja käytetään graafeihin ja momentum-laskentaan.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</source>
-        <target state="translated">Sovelluksen kautta tallennetut hiilihydraattitiedot tallennetaan Terveys-tietokantaan. Glukoositieto  tallennetaan turvallisesti HealthKitiin.</target>
+        <target state="translated">Sovellukseen syötetyt hiilihydraattiaterian tiedot tallennetaan Terveys-tietokantaan. Glukoositiedot tallennetaan turvallisesti HealthKitiin.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -51,7 +51,7 @@
     <body>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target state="translated">Basaalitasot</target>
+        <target state="translated">Perusinsuliinitasot</target>
         <note>The title text for the basal rate schedule</note>
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve">
@@ -129,12 +129,12 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data is retrieved from HealthKit for graphing and analysis.</source>
-        <target state="translated">Terveys-tietokannan ateriatietoja käytetään glukoosivaikutusten määrittämiseen. Glukoositiedot haetaan HealthKitistä graafeja ja analysointia varten.</target>
+        <target state="translated">Terveystietokannan ateriatietoja käytetään glukoosivaikutusten määrittämiseen. Glukoositiedot haetaan HealthKitistä graafeja ja analysointia varten.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</source>
-        <target state="translated">Sovelluksen ja kellon kautta tallennetut hiilihydraattitiedot tallennetaan Terveys-tietokantaan. Glukoositiedot tallennetaan turvallisesti HealthKitiin.</target>
+        <target state="translated">Sovellukseen syötetyt hiilihydraattiaterian tiedot tallennetaan Terveys-tietokantaan. Glukoositiedot tallennetaan turvallisesti HealthKitiin.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -161,12 +161,12 @@
       </trans-unit>
       <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="translated">Antamasi arvo on suurempi kuin useimmille ihmisille tyypillisesti suositellaan.</target>
+        <target state="translated">Antamasi arvo on suurempi kuin useimmille ihmisille yleensä suositeltu arvo.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="A value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="translated">Antamasi arvo on pienempi kuin useimmille ihmisille tyypillisesti suositellaan.</target>
+        <target state="translated">Antamasi arvo on pienempi kuin useimmille ihmisille tyypillisesti suositeltava arvo.</target>
         <note>Descriptive text for guardrail low value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Authorization Denied" xml:space="preserve">
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target state="translated">Basaalitasot</target>
+        <target state="translated">Perusinsuliinitasot</target>
         <note>Title text for basal rates</note>
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve">
@@ -191,7 +191,7 @@
       </trans-unit>
       <trans-unit id="Communication Failure" xml:space="preserve">
         <source>Communication Failure</source>
-        <target state="translated">Kommunikaatiovirhe</target>
+        <target state="translated">Yhteysvirhe</target>
         <note>Generic pump error description</note>
       </trans-unit>
       <trans-unit id="Communications interrupted during insulin delivery command." xml:space="preserve">
@@ -211,7 +211,7 @@
       </trans-unit>
       <trans-unit id="Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
         <source>Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target state="translated">Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä basaali-insuliinin määrää.</target>
+        <target state="translated">Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä perusinsuliinin määrää.</target>
         <note>Descriptive text for glucose target range</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
@@ -276,7 +276,7 @@
       </trans-unit>
       <trans-unit id="Maximum Basal Rate" xml:space="preserve">
         <source>Maximum Basal Rate</source>
-        <target state="translated">Suurin sallittu basaalitaso</target>
+        <target state="translated">Suurin sallittu perusinsuliinitaso</target>
         <note>Title text for maximum basal rate configuration</note>
       </trans-unit>
       <trans-unit id="Maximum Bolus" xml:space="preserve">
@@ -286,7 +286,7 @@
       </trans-unit>
       <trans-unit id="Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically." xml:space="preserve">
         <source>Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically.</source>
-        <target state="translated">Suurin sallittu basaalitaso on korkein väliaikainen basaalitaso, jonka Loop saa asettaa automaattisesti.</target>
+        <target state="translated">Suurin sallittu perusinsuliinitaso on korkein väliaikainen perusinsuliinitaso, jonka Loop saa asettaa automaattisesti.</target>
         <note>Descriptive text for maximum basal rate</note>
       </trans-unit>
       <trans-unit id="Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." xml:space="preserve">
@@ -396,7 +396,7 @@
       </trans-unit>
       <trans-unit id="U/hr" xml:space="preserve">
         <source>U/hr</source>
-        <target state="translated">U/h</target>
+        <target state="translated">U/t</target>
         <note>The short unit display string for international units of insulin per hour</note>
       </trans-unit>
       <trans-unit id="Uncertain Delivery" xml:space="preserve">
@@ -426,7 +426,7 @@
       </trans-unit>
       <trans-unit id="When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus." xml:space="preserve">
         <source>When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus.</source>
-        <target state="translated">Kun glukoosin ennustetaan alittavan tämän arvon, sovellus suosittelee basaalitasoa 0 U/h, eikä suosittele bolusta.</target>
+        <target state="translated">Kun glukoosin ennustetaan alittavan tämän arvon, sovellus suosittelee perusinsuliinitasoa 0 U/t, eikä suosittele bolusta.</target>
         <note>Descriptive text for suspend threshold</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
@@ -436,7 +436,7 @@
       </trans-unit>
       <trans-unit id="Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
         <source>Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="translated">Basaalitaso on insuliinin yksikkömäärä tunnissa, jota haluat käyttää perusinsuliinitarpeen kattamiseen.</target>
+        <target state="translated">Perusinsuliinitaso on insuliinin yksikkömäärä tunnissa, jota haluat käyttää insuliinin perustarpeen kattamiseen.</target>
         <note>Descriptive text for basal rate</note>
       </trans-unit>
       <trans-unit id="Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." xml:space="preserve">
@@ -753,7 +753,7 @@
       </trans-unit>
       <trans-unit id="A setting of 0 U/hr means Loop will not automatically administer insulin." xml:space="preserve">
         <source>A setting of 0 U/hr means Loop will not automatically administer insulin.</source>
-        <target state="translated">Asetus 0 U/t tarkoittaa, että Loop ei säädä basaalitasoja automaattisesti.</target>
+        <target state="translated">Asetus 0 U/t tarkoittaa, että Loop ei säädä perusinsuliinitasoja automaattisesti.</target>
         <note>Caption text for low maximum basal rate warning</note>
       </trans-unit>
       <trans-unit id="A simple card" xml:space="preserve">
@@ -823,22 +823,22 @@
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target state="translated">Basaalitasot</target>
+        <target state="translated">Perusinsuliinitasot</target>
         <note>Title text for multi-value basal rate warning</note>
       </trans-unit>
       <trans-unit id="Basal, bolus, and correction insulin dose amounts are decreased by %@%%." xml:space="preserve">
         <source>Basal, bolus, and correction insulin dose amounts are decreased by %@%%.</source>
-        <target state="translated">Basaalin, boluksen ja korjaavan insuliiniannoksen määriä vähennetään %@%%.</target>
+        <target state="translated">Perusinsuliinin, boluksen ja korjaavan insuliiniannoksen määriä vähennetään %@%%.</target>
         <note>Describes a percentage decrease in overall insulin needs</note>
       </trans-unit>
       <trans-unit id="Basal, bolus, and correction insulin dose amounts are increased by %@%%." xml:space="preserve">
         <source>Basal, bolus, and correction insulin dose amounts are increased by %@%%.</source>
-        <target state="translated">Basaalin, boluksen ja korjaavan insuliiniannoksen määriä lisätään %@%%.</target>
+        <target state="translated">Perusinsuliinin, boluksen ja korjaavan insuliiniannoksen määriä lisätään %@%%.</target>
         <note>Describes a percentage increase in overall insulin needs</note>
       </trans-unit>
       <trans-unit id="Basal, bolus, and correction insulin dose amounts are unaffected." xml:space="preserve">
         <source>Basal, bolus, and correction insulin dose amounts are unaffected.</source>
-        <target state="translated">Basaalin, boluksen ja korjaavan insuliiniannoksen määrät pysyvät ennallaan.</target>
+        <target state="translated">Perusinsuliinin, boluksen ja korjaavan insuliiniannoksen määrät pysyvät ennallaan.</target>
         <note>Describes a lack of change in overall insulin needs</note>
       </trans-unit>
       <trans-unit id="Below dynamic data" xml:space="preserve">
