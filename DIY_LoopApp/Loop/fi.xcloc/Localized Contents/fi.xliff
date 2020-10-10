@@ -1313,7 +1313,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Recommended Basal" xml:space="preserve">
         <source>Recommended Basal</source>
-        <target state="translated">Suositeltu basaali</target>
+        <target state="translated">Suositeltu perusinsuliini</target>
         <note>The title of the cell displaying a recommended temp basal value</note>
       </trans-unit>
       <trans-unit id="Recommended Bolus" xml:space="preserve">
@@ -1491,7 +1491,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
         <source>When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</source>
-        <target state="translated">Kun nykyinen tai ennustettu glukoosi on pysäytysrajan alapuolella, Loop ei suosittele bolusta ja suosittelee aina tilapäiseksi basaaliksi 0 yksikköä tunnissa.</target>
+        <target state="translated">Kun nykyinen tai ennustettu glukoosi on pysäytysrajan alapuolella, Loop ei suosittele bolusta ja suosittelee aina tilapäiseksi perusinsuliinimääräksi 0 yksikköä tunnissa.</target>
         <note>Explanation of suspend threshold</note>
       </trans-unit>
       <trans-unit id="Workout Targets" xml:space="preserve">
@@ -1506,7 +1506,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating." xml:space="preserve">
         <source>Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating.</source>
-        <target state="translated">Glukoosi nousee nopeasti. Tarkista, että kaikki syömäsi hiilihydraatit on kirjattu. Jos olet kirjannut hiilihydraatteja, tarkista, että syöttämäsi aika vastaa ruokailun aloitusaikaa.</target>
+        <target state="translated">Glukoosi nousee nopeasti. Tarkista, että kaikki syömäsi hiilihydraatit on kirjattu. Jos olet kirjannut hiilihydraatteja, tarkista, että antamasi aika vastaa ruokailun aloitusaikaa.</target>
         <note>Warning to ensure the carb entry is accurate</note>
       </trans-unit>
       <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve">
@@ -1593,7 +1593,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="5gz-kZ-iF1.text" xml:space="preserve">
         <source>3.5 U/hour @ 12:12 PM</source>
-        <target state="translated">3.5 U/h @ 12:12</target>
+        <target state="translated">3.5 U/t @ 12:12</target>
         <note>Class = "UILabel"; text = "3.5 U/hour @ 12:12 PM"; ObjectID = "5gz-kZ-iF1";</note>
       </trans-unit>
       <trans-unit id="87H-N1-0vJ.text" xml:space="preserve">
@@ -1623,7 +1623,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="IxU-As-glo.text" xml:space="preserve">
         <source>Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption.</source>
-        <target state="translated">Havaittua glukoosin muutosta, josta on vähennetty insuliinin mallinnettu vaikutus, voidaan käyttää hiilihydraattien imeytymisen arviointiin.</target>
+        <target state="translated">Havaittua glukoosin muutosta voidaan käyttää hiilihydraattien imeytymisen arviointiin sen jälkeen, kun siitä on vähennetty insuliinin mallinnettu vaikutus.</target>
         <note>Class = "UILabel"; text = "Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption."; ObjectID = "IxU-As-glo";</note>
       </trans-unit>
       <trans-unit id="J7x-W5-gwo.text" xml:space="preserve">
@@ -1723,7 +1723,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="k3F-Na-7mn.text" xml:space="preserve">
         <source>Recommended Basal</source>
-        <target state="translated">Suositeltu basaali</target>
+        <target state="translated">Suositeltu perusinsuliini</target>
         <note>Class = "UILabel"; text = "Recommended Basal"; ObjectID = "k3F-Na-7mn";</note>
       </trans-unit>
       <trans-unit id="qPH-vU-xlu.text" xml:space="preserve">
@@ -1958,7 +1958,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
         <source>Dismiss</source>
-        <target state="translated">Hylkää</target>
+        <target state="translated">Ohita</target>
         <note>The action button title to dismiss an error message</note>
       </trans-unit>
       <trans-unit id="Make sure your iPhone is nearby and try again" xml:space="preserve">
@@ -1976,7 +1976,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Net Basal Rate" xml:space="preserve">
         <source>Net Basal Rate</source>
-        <target state="translated">Basaali netto</target>
+        <target state="translated">Perusinsuliini netto</target>
         <note>HUD row title for Net Basal Rate</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -2001,7 +2001,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Please reconfirm the bolus amount." xml:space="preserve">
         <source>Please reconfirm the bolus amount.</source>
-        <target state="translated">Vahvista bolusmäärä uudelleen.</target>
+        <target state="translated">Vahvista bolus uudelleen.</target>
         <note>Alert message for updated bolus recommendation on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Pre-Meal" xml:space="preserve">
@@ -2021,12 +2021,12 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="REC: %@ U" xml:space="preserve">
         <source>REC: %@ U</source>
-        <target state="translated">SUOSIT.: %@ U</target>
+        <target state="translated">SUOSIT: %@ U</target>
         <note>Recommended bolus amount label on Apple Watch</note>
       </trans-unit>
       <trans-unit id="REC: Calculating..." xml:space="preserve">
         <source>REC: Calculating...</source>
-        <target state="translated">SUOSIT.: Lasketaan...</target>
+        <target state="translated">SUOSIT: Lasketaan...</target>
         <note>Indicator that recommended bolus computation is in progress on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Rec: %@ U" xml:space="preserve">
@@ -2068,7 +2068,7 @@ to bolus</source>
       </trans-unit>
       <trans-unit id="U/hr" xml:space="preserve">
         <source>U/hr</source>
-        <target state="translated">U/h</target>
+        <target state="translated">U/t</target>
         <note>The short unit display string for international units of insulin delivery per hour</note>
       </trans-unit>
       <trans-unit id="Unable to Reach iPhone" xml:space="preserve">
