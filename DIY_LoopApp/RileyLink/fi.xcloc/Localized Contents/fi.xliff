@@ -121,6 +121,14 @@
         <source>Parsing Error: </source>
         <note>Description for MessageError parsingError</note>
       </trans-unit>
+      <trans-unit id="Pod Expired" xml:space="preserve">
+        <source>Pod Expired</source>
+        <note>Highlight string for pod expired (80hrs).</note>
+      </trans-unit>
+      <trans-unit id="Pod Fault" xml:space="preserve">
+        <source>Pod Fault</source>
+        <note>Highlight string for pod faults.</note>
+      </trans-unit>
       <trans-unit id="Pod expiration advisory alarm" xml:space="preserve">
         <source>Pod expiration advisory alarm</source>
         <note>Description for expiration advisory alarm</note>
@@ -224,7 +232,7 @@
       </trans-unit>
       <trans-unit id="Bolus in Progress" xml:space="preserve">
         <source>Bolus in Progress</source>
-        <target>Bolus in Progress</target>
+        <target>Bolus käynnissä</target>
         <note>Error description when failure due to bolus in progress</note>
       </trans-unit>
       <trans-unit id="Bolus in progress" xml:space="preserve">
@@ -269,7 +277,7 @@
       </trans-unit>
       <trans-unit id="Glucose page failed crc check" xml:space="preserve">
         <source>Glucose page failed crc check</source>
-        <target>Glucose page failed crc check</target>
+        <target>Glukoosisivun CRC-tarkistus epäonnistui</target>
         <note>Error description for glucose page failing crc check</note>
       </trans-unit>
       <trans-unit id="History page does not exist" xml:space="preserve">
@@ -279,7 +287,7 @@
       </trans-unit>
       <trans-unit id="History page failed crc check" xml:space="preserve">
         <source>History page failed crc check</source>
-        <target>History page failed crc check</target>
+        <target>Historiasivun CRC-tarkistus epäonnistui</target>
         <note>Error description for history page failing crc check</note>
       </trans-unit>
       <trans-unit id="Invalid response during %1$@: %2$@" xml:space="preserve">
@@ -314,7 +322,7 @@
       </trans-unit>
       <trans-unit id="No RileyLink Connected" xml:space="preserve">
         <source>No RileyLink Connected</source>
-        <target>No RileyLink Connected</target>
+        <target>RileyLink ei ole yhdistetty</target>
         <note>Error description when no rileylink connected</note>
       </trans-unit>
       <trans-unit id="North America" xml:space="preserve">
@@ -359,7 +367,7 @@
       </trans-unit>
       <trans-unit id="Temporary Basal: %1$.3f U/hour" xml:space="preserve">
         <source>Temporary Basal: %1$.3f U/hour</source>
-        <target>Tilapäinen basaali: %1$.3f U/h</target>
+        <target>Tilapäinen basaali: %1$.3f U/t</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in minutes)</note>
       </trans-unit>
       <trans-unit id="Temporary Basal: %1$d min" xml:space="preserve">
@@ -374,17 +382,17 @@
       </trans-unit>
       <trans-unit id="Unable to store pump data" xml:space="preserve">
         <source>Unable to store pump data</source>
-        <target>Unable to store pump data</target>
+        <target>Pumpun tietoja ei voitu tallentaa</target>
         <note>Error description when storage fails</note>
       </trans-unit>
       <trans-unit id="Unknown glucose record type: %$1@" xml:space="preserve">
         <source>Unknown glucose record type: %$1@</source>
-        <target>Unknown glucose record type: %$1@</target>
+        <target>Tuntematon glukoositietuetyyppi: %$1 @</target>
         <note>Format string for error description for an unknown record type in a glucose page. (1: event type number)</note>
       </trans-unit>
       <trans-unit id="Unknown history record type: %$1@" xml:space="preserve">
         <source>Unknown history record type: %$1@</source>
-        <target>Unknown history record type: %$1@</target>
+        <target>Tuntematon historiatietuetyyppi: %$1 @</target>
         <note>Format string for error description for an unknown record type in a history page. (1: event type number)</note>
       </trans-unit>
       <trans-unit id="Unknown pump error code: %1$@" xml:space="preserve">
@@ -469,7 +477,7 @@
       </trans-unit>
       <trans-unit id="Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure." xml:space="preserve">
         <source>Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure.</source>
-        <target>Alkali- ja litiumparistot tyhjenevät eri nopeudella. Alkaliparistojen varaus vähenee yleensä lineaarisesti ajan kuluessa, kun taas litiumparistot ylläpitävät yleensä varaustaan korkeana kunnes käyttöaika on noin puolessa välissä. Normaalilla käytöllä Minimed (x22/x15) insuliinipumppu toimii Loop-käytössä alkaliparistolla noin 4–5 päivää. Litiumparistot kestävät 1–2 viikkoa. Tämä valinta näyttää pariston varauksen vähenemisnopeuden sen perusteella kumpi paristotyyppi on valittu ja varoittaa käyttäjää, kun pariston käyttöaika on loppumassa noin 8–10 tunnin kuluessa</target>
+        <target>Alkali- ja litiumparistot tyhjenevät eri nopeudella. Alkaliparistojen varaus vähenee yleensä lineaarisesti ajan kuluessa, kun taas litiumparistot ylläpitävät yleensä varaustaan korkeana kunnes käyttöaika on noin puolessa välissä. Normaalilla käytöllä Minimed (x22/x15) insuliinipumppu toimii Loop-käytössä alkaliparistolla noin 4–5 päivää. Litiumparistot kestävät 1–2 viikkoa. Tämä valinta näyttää pariston varauksen vähenemisnopeuden sen perusteella kumpi paristotyyppi on valittu ja varoittaa käyttäjää, kun pariston käyttöaika on loppumassa noin 8–10 tunnin kuluessa.</target>
         <note>Instructions on selecting battery chemistry type</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete this pump?" xml:space="preserve">
@@ -484,7 +492,7 @@
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target>Basaalimäärät</target>
+        <target>Basaalitasot</target>
         <note>The title text for the basal rate schedule</note>
       </trans-unit>
       <trans-unit id="Battery: %1$@ volts&#10;" xml:space="preserve">
@@ -654,7 +662,7 @@
       </trans-unit>
       <trans-unit id="MySentry Pair" xml:space="preserve">
         <source>MySentry Pair</source>
-        <target>MySentry-paritus</target>
+        <target>MySentry-pari</target>
         <note>The title of the command to pair with mysentry</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
@@ -992,7 +1000,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Activation time exceeded" xml:space="preserve">
         <source>Activation time exceeded</source>
-        <target>Activation time exceeded</target>
+        <target>Aktivointiaika ylitetty</target>
         <note>Format string for activation time exceeded
    Pod state when activation not completed in the time allowed</note>
       </trans-unit>
@@ -1003,7 +1011,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Basal initialized" xml:space="preserve">
         <source>Basal initialized</source>
-        <target>Basal initialized</target>
+        <target>Basaali alustettu</target>
         <note>Pod state when basal initialized</note>
       </trans-unit>
       <trans-unit id="Below 50 units" xml:space="preserve">
@@ -1043,12 +1051,12 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Command error %1$u" xml:space="preserve">
         <source>Command error %1$u</source>
-        <target>Command error %1$u</target>
+        <target>Komentovirhe %1$u</target>
         <note>Format string for invalid message error code (1: error code number)</note>
       </trans-unit>
       <trans-unit id="Crosstalk possible. Please move to a new location and try again" xml:space="preserve">
         <source>Crosstalk possible. Please move to a new location and try again</source>
-        <target>Crosstalk possible. Please move to a new location and try again</target>
+        <target>Ylikuuluminen mahdollista. Siirry uuteen paikkaan ja yritä uudelleen</target>
         <note>Recovery suggestion when unexpected address received</note>
       </trans-unit>
       <trans-unit id="Deactivated" xml:space="preserve">
@@ -1078,7 +1086,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Fault event occurred" xml:space="preserve">
         <source>Fault event occurred</source>
-        <target>Fault event occurred</target>
+        <target>Virhetapahtuma</target>
         <note>Pod state when fault event has occurred</note>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve">
@@ -1088,17 +1096,17 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Initialized" xml:space="preserve">
         <source>Initialized</source>
-        <target>Aloitettu</target>
+        <target>Alustettu</target>
         <note>Pod inititialized</note>
       </trans-unit>
       <trans-unit id="Inserting cannula" xml:space="preserve">
         <source>Inserting cannula</source>
-        <target>Inserting cannula</target>
+        <target>Asetetaan kanyyli</target>
         <note>Pod state when inserting cannula</note>
       </trans-unit>
       <trans-unit id="Insulin Suspended" xml:space="preserve">
         <source>Insulin Suspended</source>
-        <target>Insulin Suspended</target>
+        <target>Insuliini pysäytetty</target>
         <note>Status highlight that insulin delivery was suspended.</note>
       </trans-unit>
       <trans-unit id="Internal pod fault %1$03d" xml:space="preserve">
@@ -1113,22 +1121,22 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Invalid CRC" xml:space="preserve">
         <source>Invalid CRC</source>
-        <target>Invalid CRC</target>
+        <target>Virheellinen CRC</target>
         <note>Description for MessageError invalidCrc</note>
       </trans-unit>
       <trans-unit id="Invalid address 0x%x. Expected 0x%x" xml:space="preserve">
         <source>Invalid address 0x%1$x. Expected 0x%2$x</source>
-        <target>Invalid address 0x%1$x. Expected 0x%2$x</target>
+        <target>Virheellinen osoite 0x%1$x. Odotettu 0x%2$x</target>
         <note>Error message for when unexpected address is received (1: received address) (2: expected address)</note>
       </trans-unit>
       <trans-unit id="Invalid address: (%1$@)" xml:space="preserve">
         <source>Invalid address: (%1$@)</source>
-        <target>Invalid address: (%1$@)</target>
+        <target>Virheellinen osoite: (%1$@)</target>
         <note>Description for MessageError invalidSequence</note>
       </trans-unit>
       <trans-unit id="Low reservoir" xml:space="preserve">
         <source>Low reservoir</source>
-        <target>Low reservoir</target>
+        <target>Säiliö vähissä</target>
         <note>Pod state when running with fifty or less units</note>
       </trans-unit>
       <trans-unit id="Low reservoir advisory alarm" xml:space="preserve">
@@ -1143,22 +1151,22 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Memory initialized" xml:space="preserve">
         <source>Memory initialized</source>
-        <target>Memory initialized</target>
+        <target>Muisti alustettu</target>
         <note>Pod memory initialized</note>
       </trans-unit>
       <trans-unit id="No Insulin" xml:space="preserve">
         <source>No Insulin</source>
-        <target>No Insulin</target>
+        <target>Ei insuliinia</target>
         <note>Status highlight that a pump is out of insulin.</note>
       </trans-unit>
       <trans-unit id="No Pod" xml:space="preserve">
         <source>No Pod</source>
-        <target>No Pod</target>
+        <target>Ei pumppua</target>
         <note>Status highlight that when no pod is paired.</note>
       </trans-unit>
       <trans-unit id="No RileyLink available" xml:space="preserve">
         <source>No RileyLink available</source>
-        <target>Ei RileyLinkiä lähistöllä</target>
+        <target>RileyLink ei käytettävissä</target>
         <note>Error message shown when no response from pod was received</note>
       </trans-unit>
       <trans-unit id="No alerts" xml:space="preserve">
@@ -1168,7 +1176,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="No faults" xml:space="preserve">
         <source>No faults</source>
-        <target>No faults</target>
+        <target>Ei vikoja</target>
         <note>Description for Fault Event Code .noFaults</note>
       </trans-unit>
       <trans-unit id="No pod paired" xml:space="preserve">
@@ -1178,7 +1186,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="No response from pod" xml:space="preserve">
         <source>No response from pod</source>
-        <target>Ei vastausta pumpusta</target>
+        <target>Ei vastausta pumpulta</target>
         <note>Error message shown when no response from pod was received</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
@@ -1189,7 +1197,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Not enough data" xml:space="preserve">
         <source>Not enough data</source>
-        <target>Not enough data</target>
+        <target>Tietoja ei ole tarpeeksi</target>
         <note>Description for MessageError notEnoughData</note>
       </trans-unit>
       <trans-unit id="Occlusion detected" xml:space="preserve">
@@ -1209,17 +1217,17 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Paired completed" xml:space="preserve">
         <source>Paired completed</source>
-        <target>Paired completed</target>
+        <target>Yhdistäminen valmis</target>
         <note>Pod status when pairing completed</note>
       </trans-unit>
       <trans-unit id="Parsing Error: " xml:space="preserve">
         <source>Parsing Error: </source>
-        <target>Parsing Error: </target>
+        <target>Jäsennysvirhe: </target>
         <note>Description for MessageError parsingError</note>
       </trans-unit>
       <trans-unit id="Please bring only original pod in range or deactivate original pod" xml:space="preserve">
         <source>Please bring only original pod in range or deactivate original pod</source>
-        <target>Please bring only original pod in range or deactivate original pod</target>
+        <target>Tuo vain alkuperäinen pumppu kantaman sisälle tai poista alkuperäinen pumppu käytöstä</target>
         <note>Recovery suggestion on unexpected pod change</note>
       </trans-unit>
       <trans-unit id="Please bring your pod closer to the RileyLink and try again" xml:space="preserve">
@@ -1234,17 +1242,17 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Please reposition the RileyLink further from the pod" xml:space="preserve">
         <source>Please reposition the RileyLink further from the pod</source>
-        <target>Please reposition the RileyLink further from the pod</target>
+        <target>Siirrä RileyLink kauemmas pumpusta</target>
         <note>Recovery suggestion when pairing signal strength is too high</note>
       </trans-unit>
       <trans-unit id="Please reposition the RileyLink relative to the pod" xml:space="preserve">
         <source>Please reposition the RileyLink relative to the pod</source>
-        <target>Please reposition the RileyLink relative to the pod</target>
+        <target>Muuta RileyLinkin paikkaa suhteessa pumppuun</target>
         <note>Recovery suggestion when pairing signal strength is too low</note>
       </trans-unit>
       <trans-unit id="Please try repositioning the pod or the RileyLink and try again" xml:space="preserve">
         <source>Please try repositioning the pod or the RileyLink and try again</source>
-        <target>Please try repositioning the pod or the RileyLink and try again</target>
+        <target>Yritä siirtää pumppua tai RileyLinkiä ja yritä uudelleen</target>
         <note>Recovery suggestion when no response is received from pod</note>
       </trans-unit>
       <trans-unit id="Pod Expiration Notice" xml:space="preserve">
@@ -1252,10 +1260,14 @@ Etsi laite</target>
         <target>Pumppu vanhenemassa -ilmoitus</target>
         <note>The title for pod expiration notification</note>
       </trans-unit>
+      <trans-unit id="Pod Expired" xml:space="preserve">
+        <source>Pod Expired</source>
+        <note>Highlight string for pod expired (80hrs).</note>
+      </trans-unit>
       <trans-unit id="Pod Fault" xml:space="preserve">
         <source>Pod Fault</source>
-        <target>Pod Fault</target>
-        <note>Inform the user that there is a pod fault.</note>
+        <target>Pumppuvirhe</target>
+        <note>Highlight string for pod faults.</note>
       </trans-unit>
       <trans-unit id="Pod Fault: %1$@" xml:space="preserve">
         <source>Pod Fault: %1$@</source>
@@ -1299,7 +1311,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Pod sent ack instead of response" xml:space="preserve">
         <source>Pod sent ack instead of response</source>
-        <target>Pod sent ack instead of response</target>
+        <target>Pumppu lähetti kuittauksen vastauksen sijaan</target>
         <note>Error message shown when pod sends ack instead of response</note>
       </trans-unit>
       <trans-unit id="Pod setup window expired" xml:space="preserve">
@@ -1309,7 +1321,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Poor signal strength" xml:space="preserve">
         <source>Poor signal strength</source>
-        <target>Poor signal strength</target>
+        <target>Heikko signaali</target>
         <note>Format string for poor pod signal strength</note>
       </trans-unit>
       <trans-unit id="Priming" xml:space="preserve">
@@ -1320,7 +1332,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Priming completed" xml:space="preserve">
         <source>Priming completed</source>
-        <target>Priming completed</target>
+        <target>Alustus valmis</target>
         <note>Pod state when priming completed</note>
       </trans-unit>
       <trans-unit id="Ready for basal programming" xml:space="preserve">
@@ -1335,7 +1347,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Reminder initialized" xml:space="preserve">
         <source>Reminder initialized</source>
-        <target>Reminder initialized</target>
+        <target>Muistutus alustettu</target>
         <note>Pod pairing reminder initialized</note>
       </trans-unit>
       <trans-unit id="Resume: %1$@ %2$@" xml:space="preserve">
@@ -1350,7 +1362,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Scheduled basal" xml:space="preserve">
         <source>Scheduled basal</source>
-        <target>Scheduled basal</target>
+        <target>Ohjelmoitu basaali</target>
         <note>Delivery status when scheduled basal is running</note>
       </trans-unit>
       <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
@@ -1360,7 +1372,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Signal strength too high" xml:space="preserve">
         <source>Signal strength too high</source>
-        <target>Signal strength too high</target>
+        <target>Signaali liian voimakas</target>
         <note>Format string for pod signal strength too high</note>
       </trans-unit>
       <trans-unit id="Suspend: %1$@ %2$@" xml:space="preserve">
@@ -1395,7 +1407,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@" xml:space="preserve">
         <source>TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@</source>
-        <target>TilapBasaali: %1$@ U/h %2$@ %3$@ %4$@ U %5$@</target>
+        <target>TilapBasaali: %1$@ U/t %2$@ %3$@ %4$@ U %5$@</target>
         <note>The format string describing a temp basal. (1: The rate)(2: Start time)(3: duration)(4: volume)(5: scheduled certainty</note>
       </trans-unit>
       <trans-unit id="Time to replace your pod! Your pod will expire in %1$@" xml:space="preserve">
@@ -1405,7 +1417,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Try again" xml:space="preserve">
         <source>Try again</source>
-        <target>Try again</target>
+        <target>Yritä uudelleen</target>
         <note>Recovery suggestion when ack received instead of response</note>
       </trans-unit>
       <trans-unit id="Uncertain" xml:space="preserve">
@@ -1415,22 +1427,22 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Unexpected message sequence number" xml:space="preserve">
         <source>Unexpected message sequence number</source>
-        <target>Unexpected message sequence number</target>
+        <target>Odottamaton viestin järjestysnumero</target>
         <note>Description for MessageError invalidSequence</note>
       </trans-unit>
       <trans-unit id="Unexpected pod change" xml:space="preserve">
         <source>Unexpected pod change</source>
-        <target>Unexpected pod change</target>
+        <target>Odottamaton pumpun vaihto</target>
         <note>Format string for unexpected pod change</note>
       </trans-unit>
       <trans-unit id="Unexpected response from pod" xml:space="preserve">
         <source>Unexpected response from pod</source>
-        <target>Odottamaton vastaus pumpusta</target>
+        <target>Odottamaton vastaus pumpulta</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
       <trans-unit id="Unknown Value (%1$@) for type %2$@" xml:space="preserve">
         <source>Unknown Value (%1$@) for type %2$@</source>
-        <target>Unknown Value (%1$@) for type %2$@</target>
+        <target>Tuntematon arvo (%1$@) tyypille %2$@</target>
         <note>Format string for description of MessageError unknownValue. (1: value) (2: Type)</note>
       </trans-unit>
       <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve">
@@ -1440,7 +1452,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Validation failed: %1$@" xml:space="preserve">
         <source>Validation failed: %1$@</source>
-        <target>Validation failed: %1$@</target>
+        <target>Vahvistus epäonnistui: %1$@</target>
         <note>Format string for description of MessageError validationFailed. (1: description of validation failure)</note>
       </trans-unit>
       <trans-unit id="Wait for existing bolus to finish, or cancel bolus" xml:space="preserve">
@@ -1618,7 +1630,7 @@ Etsi laite</target>
     <body>
       <trans-unit id="%1$@ minutes" xml:space="preserve">
         <source>%1$@ minutes</source>
-        <target>%1$@ minutes</target>
+        <target>%1$@ minuuttia</target>
         <note>The format string for minutes (1: number of minutes string)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
@@ -1649,7 +1661,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="%@ U of %@ U (%@)" xml:space="preserve">
         <source>%1$@ U of %2$@ U (%3$@)</source>
-        <target>%1$@ U of %2$@ U (%3$@)</target>
+        <target>%1$@ U / %2$@ U (%3$@)</target>
         <note>Format string for bolus progress. (1: The delivered amount) (2: The programmed amount) (3: the percent progress)</note>
       </trans-unit>
       <trans-unit id="%@ U/hour" xml:space="preserve">
@@ -1679,12 +1691,12 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="%@U" xml:space="preserve">
         <source>%@U</source>
-        <target>%@U</target>
+        <target>%@ U</target>
         <note>Format string for reservoir volume. (1: The localized volume)</note>
       </trans-unit>
       <trans-unit id="Activation time exceeded. The pod must be deactivated before pairing with a new one. Please deactivate and discard pod." xml:space="preserve">
         <source>Activation time exceeded. The pod must be deactivated before pairing with a new one. Please deactivate and discard pod.</source>
-        <target>Activation time exceeded. The pod must be deactivated before pairing with a new one. Please deactivate and discard pod.</target>
+        <target>Aktivointiaika ylittyi. Pumppu on poistettava käytöstä ennen uuden yhdistämistä. Poista pumppu käytöstä ja hävitä se.</target>
         <note>Instructions when deactivating pod that didn't complete activation in time.</note>
       </trans-unit>
       <trans-unit id="Active Time" xml:space="preserve">
@@ -1700,7 +1712,7 @@ Etsi laite</target>
       <trans-unit id="Alerts: %1$@&#10;" xml:space="preserve">
         <source>Alerts: %1$@
 </source>
-        <target>Alerts: %1$@
+        <target>Hälytykset: %1$@
 </target>
         <note>The format string for Alerts: (1: the alerts string)</note>
       </trans-unit>
@@ -1783,7 +1795,7 @@ Etsi laite</target>
       <trans-unit id="Delivery Status: %1$@&#10;" xml:space="preserve">
         <source>Delivery Status: %1$@
 </source>
-        <target>Delivery Status: %1$@
+        <target>Annostelun tila: %1$@
 </target>
         <note>The format string for Delivery Status: (1: delivery status string)</note>
       </trans-unit>
@@ -1794,7 +1806,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Diagnostics" xml:space="preserve">
         <source>Diagnostics</source>
-        <target>Diagnostics</target>
+        <target>Diagnostiikka</target>
         <note>The title of the configuration section in settings</note>
       </trans-unit>
       <trans-unit id="Disable Bolus Beeps" xml:space="preserve">
@@ -1875,14 +1887,14 @@ Etsi laite</target>
       <trans-unit id="Fault time: %1$@&#10;" xml:space="preserve">
         <source>Fault time: %1$@
 </source>
-        <target>Fault time: %1$@
+        <target>Vian aika: %1$@
 </target>
         <note>The format string for fault time: (1: fault time string)</note>
       </trans-unit>
       <trans-unit id="Fault: %1$@&#10;" xml:space="preserve">
         <source>Fault: %1$@
 </source>
-        <target>Fault: %1$@
+        <target>Vika: %1$@
 </target>
         <note>The format string for a fault: (1: The fault description)</note>
       </trans-unit>
@@ -1898,7 +1910,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="If the problem persists, move to a new area and try again" xml:space="preserve">
         <source>If the problem persists, move to a new area and try again</source>
-        <target>If the problem persists, move to a new area and try again</target>
+        <target>Jos ongelma toistuu, siirry uuteen paikkaa ja yritä uudelleen</target>
         <note>Additional pairing recovery suggestion on multiple pairing failures</note>
       </trans-unit>
       <trans-unit id="Incompletely set up pod must be deactivated before pairing with a new one. Please deactivate and discard pod." xml:space="preserve">
@@ -1929,7 +1941,7 @@ Etsi laite</target>
       <trans-unit id="Last Bolus Not Delivered: %1$@ U&#10;" xml:space="preserve">
         <source>Last Bolus Not Delivered: %1$@ U
 </source>
-        <target>Last Bolus Not Delivered: %1$@ U
+        <target>Viim. bolusta ei annosteltu: %1$@ U
 </target>
         <note>The format string for Last Bolus Not Delivered: (1: bolus not delivered string)</note>
       </trans-unit>
@@ -1982,15 +1994,15 @@ Etsi laite</target>
         <source>Play test beeps command sent successfully.
 
 If you did not hear any beeps from your pod, it's likely that the piezo speaker in your pod is broken.</source>
-        <target>Play test beeps command sent successfully.
+        <target>Soita testiäänet -komento onnistui.
 
-If you did not hear any beeps from your pod, it's likely that the piezo speaker in your pod is broken.</target>
+Jos et kuullut pumpun piippauksia, on todennäköistä, että pumpun kaiutin on rikki.</target>
         <note>Success message for play test beeps.</note>
       </trans-unit>
       <trans-unit id="Pod Active: %1$@&#10;" xml:space="preserve">
         <source>Pod Active: %1$@
 </source>
-        <target>Pod Active: %1$@
+        <target>Pumppu aktiivinen: %1$@
 </target>
         <note>The format string for Pod Active: (1: Pod active time string)</note>
       </trans-unit>
@@ -2001,7 +2013,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       </trans-unit>
       <trans-unit id="Pod Details" xml:space="preserve">
         <source>Pod Details</source>
-        <target>Pod Details</target>
+        <target>Pumpun tiedot</target>
         <note>The title of the device information section in settings</note>
       </trans-unit>
       <trans-unit id="Pod Settings" xml:space="preserve">
@@ -2012,7 +2024,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       <trans-unit id="Previous pod progress: %1$@&#10;" xml:space="preserve">
         <source>Previous pod progress: %1$@
 </source>
-        <target>Previous pod progress: %1$@
+        <target>Edellinen pumpun edistyminen: %1$@
 </target>
         <note>The format string for previous pod progress: (1: previous pod progress string)</note>
       </trans-unit>
@@ -2029,6 +2041,8 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       <trans-unit id="Pulse Count: %1$d&#10;" xml:space="preserve">
         <source>Pulse Count: %1$d
 </source>
+        <target>Pulssin määrä: %1$d
+</target>
         <note>The format string for Pulse Count (1: pulse count)</note>
       </trans-unit>
       <trans-unit id="RSSI: %1$@&#10;" xml:space="preserve">
@@ -2061,7 +2075,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       <trans-unit id="Receiver Low Gain: %1$@&#10;" xml:space="preserve">
         <source>Receiver Low Gain: %1$@
 </source>
-        <target>Receiver Low Gain: %1$@
+        <target>Vastaanottimen matala vahvistus: %1$@
 </target>
         <note>The format string for receiverLowGain: (1: receiverLowGain)</note>
       </trans-unit>
@@ -2089,7 +2103,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       <trans-unit id="Reservoir Level: %1$@ U&#10;" xml:space="preserve">
         <source>Reservoir Level: %1$@ U
 </source>
-        <target>Reservoir Level: %1$@ U
+        <target>Säiliön määrä: %1$@ U
 </target>
         <note>The format string for Reservoir Level: (1: reservoir level string)</note>
       </trans-unit>
@@ -2151,7 +2165,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       </trans-unit>
       <trans-unit id="Too many entries" xml:space="preserve">
         <source>Too many entries</source>
-        <target>Liian monta basaalitasoa määritetty</target>
+        <target>Liian monta basaalitasoa</target>
         <note>The error message shown when Loop's basal schedule has more entries than the pod can support</note>
       </trans-unit>
       <trans-unit id="Unable to deactivate pod. Please continue and pair a new one." xml:space="preserve">
@@ -2178,7 +2192,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       </trans-unit>
       <trans-unit id="API Secret" xml:space="preserve">
         <source>API Secret</source>
-        <target>API-salasana</target>
+        <target>API-salausavain</target>
         <note>The title of the nightscout API secret credential</note>
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">

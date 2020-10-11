@@ -676,6 +676,10 @@
         <note>The format for an override preset cell. (1: symbol)(2: name)
    The format for an override symbol and name (1: symbol)(2: name)</note>
       </trans-unit>
+      <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
+        <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
+        <note>Insulin model setting description (1: app name) (2: number of models)</note>
+      </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
         <source>%1$@ units remaining at %2$@</source>
         <target>%1$@ units remaining at %2$@</target>
@@ -695,11 +699,6 @@
         <source>%@</source>
         <target>%@</target>
         <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="%@ assumes insulin is actively working for 6 hours. You can choose from %@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
-        <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
-        <target>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</target>
-        <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve">
         <source>%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</source>
@@ -951,7 +950,7 @@
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
         <target>Delete</target>
-        <note>No comment provided by engineer.</note>
+        <note>Test for table cell delete button</note>
       </trans-unit>
       <trans-unit id="Delete Account" xml:space="preserve">
         <source>Delete Account</source>
@@ -966,7 +965,7 @@
       <trans-unit id="Delivery Limits" xml:space="preserve">
         <source>Delivery Limits</source>
         <target>Delivery Limits</target>
-        <note>No comment provided by engineer.</note>
+        <note>Title text for crossed thresholds guardrail warning</note>
       </trans-unit>
       <trans-unit id="Delivery limits are safety guardrails for your insulin delivery." xml:space="preserve">
         <source>Delivery limits are safety guardrails for your insulin delivery.</source>
@@ -981,7 +980,8 @@
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
         <target>Done</target>
-        <note>No comment provided by engineer.</note>
+        <note>Text for dismiss button
+   Text for done button</note>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
         <source>Duration</source>
@@ -1001,7 +1001,8 @@
       <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
         <target>Edit</target>
-        <note>The title for the enabled custom preset editing screen</note>
+        <note>Text for edit button
+   The title for the enabled custom preset editing screen</note>
       </trans-unit>
       <trans-unit id="Edit Carb Entry" xml:space="preserve">
         <source>Edit Carb Entry</source>
@@ -1038,6 +1039,10 @@
         <target>Abilitato</target>
         <note>The detail text describing an enabled setting</note>
       </trans-unit>
+      <trans-unit id="Enter %1$@ value" xml:space="preserve">
+        <source>Enter %1$@ value</source>
+        <note>Format string for accessibility label for value entry. (1: value label)</note>
+      </trans-unit>
       <trans-unit id="Enter a number of units" xml:space="preserve">
         <source>Enter a number of units</source>
         <target>Inserire un numero di unità</target>
@@ -1047,11 +1052,6 @@
         <source>Enter a rate in units per hour</source>
         <target>Inserire un tasso di unità per ora</target>
         <note>The placeholder text instructing users how to enter a maximum basal rate</note>
-      </trans-unit>
-      <trans-unit id="Enter value" xml:space="preserve">
-        <source>Enter value</source>
-        <target>Enter value</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Example" xml:space="preserve">
         <source>Example</source>
@@ -1081,7 +1081,8 @@
       <trans-unit id="Go Back" xml:space="preserve">
         <source>Go Back</source>
         <target>Go Back</target>
-        <note>Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range</note>
+        <note>Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range
+   Text for go back action on confirmation alert</note>
       </trans-unit>
       <trans-unit id="High Basal Rate" xml:space="preserve">
         <source>High Basal Rate</source>
@@ -1398,7 +1399,7 @@
       <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
         <target>Some of the values you have entered are outside of what is typically recommended for most people.</target>
-        <note>No comment provided by engineer.</note>
+        <note>Caption for guardrail warning when more than one threshold is crossed</note>
       </trans-unit>
       <trans-unit id="Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." xml:space="preserve">
         <source>Some users choose a value 2, 3, or 4 times their highest scheduled basal rate.</source>
@@ -1529,7 +1530,7 @@
       <trans-unit id="Time" xml:space="preserve">
         <source>Time</source>
         <target>Time</target>
-        <note>No comment provided by engineer.</note>
+        <note>Label for offset from midnight picker</note>
       </trans-unit>
       <trans-unit id="Times in %1$@%2$@%3$@" xml:space="preserve">
         <source>Times in %1$@%2$@%3$@</source>

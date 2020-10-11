@@ -121,6 +121,14 @@
         <source>Parsing Error: </source>
         <note>Description for MessageError parsingError</note>
       </trans-unit>
+      <trans-unit id="Pod Expired" xml:space="preserve">
+        <source>Pod Expired</source>
+        <note>Highlight string for pod expired (80hrs).</note>
+      </trans-unit>
+      <trans-unit id="Pod Fault" xml:space="preserve">
+        <source>Pod Fault</source>
+        <note>Highlight string for pod faults.</note>
+      </trans-unit>
       <trans-unit id="Pod expiration advisory alarm" xml:space="preserve">
         <source>Pod expiration advisory alarm</source>
         <note>Description for expiration advisory alarm</note>
@@ -1252,10 +1260,14 @@ Find Device</target>
         <target>Hinweis zum Ablaufen des Pods</target>
         <note>The title for pod expiration notification</note>
       </trans-unit>
+      <trans-unit id="Pod Expired" xml:space="preserve">
+        <source>Pod Expired</source>
+        <note>Highlight string for pod expired (80hrs).</note>
+      </trans-unit>
       <trans-unit id="Pod Fault" xml:space="preserve">
         <source>Pod Fault</source>
         <target>Pod Fault</target>
-        <note>Inform the user that there is a pod fault.</note>
+        <note>Highlight string for pod faults.</note>
       </trans-unit>
       <trans-unit id="Pod Fault: %1$@" xml:space="preserve">
         <source>Pod Fault: %1$@</source>
@@ -2029,6 +2041,8 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       <trans-unit id="Pulse Count: %1$d&#10;" xml:space="preserve">
         <source>Pulse Count: %1$d
 </source>
+        <target>Pulse Count: %1$d
+</target>
         <note>The format string for Pulse Count (1: pulse count)</note>
       </trans-unit>
       <trans-unit id="RSSI: %1$@&#10;" xml:space="preserve">

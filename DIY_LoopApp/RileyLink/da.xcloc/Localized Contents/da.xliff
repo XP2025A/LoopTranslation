@@ -12,186 +12,6 @@
       </trans-unit>
     </body>
   </file>
-  <file original="en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="da">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
-    </header>
-    <body>
-      <trans-unit id=" (inactive)" xml:space="preserve">
-        <source> (inactive)</source>
-        <note>Description for an inactive alert modifier</note>
-      </trans-unit>
-      <trans-unit id="Activation time exceeded" xml:space="preserve">
-        <source>Activation time exceeded</source>
-        <note>Pod state when activation not completed in the time allowed</note>
-      </trans-unit>
-      <trans-unit id="Auto-off alarm" xml:space="preserve">
-        <source>Auto-off alarm</source>
-        <note>Description for auto-off alarm</note>
-      </trans-unit>
-      <trans-unit id="Basal initialized" xml:space="preserve">
-        <source>Basal initialized</source>
-        <note>Pod state when basal initialized</note>
-      </trans-unit>
-      <trans-unit id="Bolusing" xml:space="preserve">
-        <source>Bolusing</source>
-        <note>Delivery status when bolusing</note>
-      </trans-unit>
-      <trans-unit id="Bolusing with temp basal" xml:space="preserve">
-        <source>Bolusing with temp basal</source>
-        <note>Delivery status when bolusing and temp basal is running</note>
-      </trans-unit>
-      <trans-unit id="Deactivated" xml:space="preserve">
-        <source>Deactivated</source>
-        <note>Pod state when deactivated</note>
-      </trans-unit>
-      <trans-unit id="Empty reservoir" xml:space="preserve">
-        <source>Empty reservoir</source>
-        <note>Description for Empty reservoir pod fault</note>
-      </trans-unit>
-      <trans-unit id="Expiration alert" xml:space="preserve">
-        <source>Expiration alert</source>
-        <note>Description for expiration alert</note>
-      </trans-unit>
-      <trans-unit id="Fault event occurred" xml:space="preserve">
-        <source>Fault event occurred</source>
-        <note>Pod state when fault event has occurred</note>
-      </trans-unit>
-      <trans-unit id="Finish setup " xml:space="preserve">
-        <source>Finish setup </source>
-        <note>Description for finish setup</note>
-      </trans-unit>
-      <trans-unit id="Initialized" xml:space="preserve">
-        <source>Initialized</source>
-        <note>Pod initialized</note>
-      </trans-unit>
-      <trans-unit id="Inserting cannula" xml:space="preserve">
-        <source>Inserting cannula</source>
-        <note>Pod state when inserting cannula</note>
-      </trans-unit>
-      <trans-unit id="Internal pod fault %1$03d" xml:space="preserve">
-        <source>Internal pod fault %1$03d</source>
-        <note>The format string for Internal pod fault (1: The fault code value)</note>
-      </trans-unit>
-      <trans-unit id="Invalid CRC" xml:space="preserve">
-        <source>Invalid CRC</source>
-        <note>Description for MessageError invalidCrc</note>
-      </trans-unit>
-      <trans-unit id="Invalid address: (%1$@)" xml:space="preserve">
-        <source>Invalid address: (%1$@)</source>
-        <note>Description for MessageError invalidSequence</note>
-      </trans-unit>
-      <trans-unit id="Low reservoir" xml:space="preserve">
-        <source>Low reservoir</source>
-        <note>Pod state when running with fifty or less units</note>
-      </trans-unit>
-      <trans-unit id="Low reservoir advisory alarm" xml:space="preserve">
-        <source>Low reservoir advisory alarm</source>
-        <note>Description for low reservoir alarm</note>
-      </trans-unit>
-      <trans-unit id="Memory initialized" xml:space="preserve">
-        <source>Memory initialized</source>
-        <note>Pod memory initialized</note>
-      </trans-unit>
-      <trans-unit id="No alerts" xml:space="preserve">
-        <source>No alerts</source>
-        <note>Pod alert state when no alerts are active</note>
-      </trans-unit>
-      <trans-unit id="No faults" xml:space="preserve">
-        <source>No faults</source>
-        <note>Description for Fault Event Code .noFaults</note>
-      </trans-unit>
-      <trans-unit id="Normal" xml:space="preserve">
-        <source>Normal</source>
-        <note>Pod state when running above fifty units</note>
-      </trans-unit>
-      <trans-unit id="Not enough data" xml:space="preserve">
-        <source>Not enough data</source>
-        <note>Description for MessageError notEnoughData</note>
-      </trans-unit>
-      <trans-unit id="Occlusion detected" xml:space="preserve">
-        <source>Occlusion detected</source>
-        <note>Description for Occlusion detected pod fault</note>
-      </trans-unit>
-      <trans-unit id="Paired completed" xml:space="preserve">
-        <source>Paired completed</source>
-        <note>Pod status when pairing completed</note>
-      </trans-unit>
-      <trans-unit id="Parsing Error: " xml:space="preserve">
-        <source>Parsing Error: </source>
-        <note>Description for MessageError parsingError</note>
-      </trans-unit>
-      <trans-unit id="Pod expiration advisory alarm" xml:space="preserve">
-        <source>Pod expiration advisory alarm</source>
-        <note>Description for expiration advisory alarm</note>
-      </trans-unit>
-      <trans-unit id="Pod expired" xml:space="preserve">
-        <source>Pod expired</source>
-        <note>Description for Pod expired pod fault</note>
-      </trans-unit>
-      <trans-unit id="Priming" xml:space="preserve">
-        <source>Priming</source>
-        <note>Delivery status when pod is priming
-   Pod status when priming</note>
-      </trans-unit>
-      <trans-unit id="Priming completed" xml:space="preserve">
-        <source>Priming completed</source>
-        <note>Pod state when priming completed</note>
-      </trans-unit>
-      <trans-unit id="Reminder initialized" xml:space="preserve">
-        <source>Reminder initialized</source>
-        <note>Pod pairing reminder initialized</note>
-      </trans-unit>
-      <trans-unit id="Scheduled basal" xml:space="preserve">
-        <source>Scheduled basal</source>
-        <note>Delivery status when scheduled basal is running</note>
-      </trans-unit>
-      <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
-        <source>Shutdown imminent alarm</source>
-        <note>Description for shutdown imminent alarm</note>
-      </trans-unit>
-      <trans-unit id="Suspended" xml:space="preserve">
-        <source>Suspended</source>
-        <note>Delivery status when insulin delivery is suspended</note>
-      </trans-unit>
-      <trans-unit id="Temp basal running" xml:space="preserve">
-        <source>Temp basal running</source>
-        <note>Delivery status when temp basal is running</note>
-      </trans-unit>
-      <trans-unit id="Unexpected message sequence number" xml:space="preserve">
-        <source>Unexpected message sequence number</source>
-        <note>Description for MessageError invalidSequence</note>
-      </trans-unit>
-      <trans-unit id="Unknown Value (%1$@) for type %2$@" xml:space="preserve">
-        <source>Unknown Value (%1$@) for type %2$@</source>
-        <note>Format string for description of MessageError unknownValue. (1: value) (2: Type)</note>
-      </trans-unit>
-      <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve">
-        <source>Unknown pod fault %1$03d</source>
-        <note>The format string for Unknown pod fault (1: The fault code value)</note>
-      </trans-unit>
-      <trans-unit id="Validation failed: %1$@" xml:space="preserve">
-        <source>Validation failed: %1$@</source>
-        <note>Format string for description of MessageError validationFailed. (1: description of validation failure)</note>
-      </trans-unit>
-      <trans-unit id="Waiting for pairing reminder" xml:space="preserve">
-        <source>Waiting for pairing reminder</source>
-        <note>Description waiting for pairing reminder</note>
-      </trans-unit>
-      <trans-unit id="oneNotUsed" xml:space="preserve">
-        <source>oneNotUsed</source>
-        <note>Pod state oneNotUsed</note>
-      </trans-unit>
-      <trans-unit id="threeNotUsed" xml:space="preserve">
-        <source>threeNotUsed</source>
-        <note>Pod state threeNotUsed</note>
-      </trans-unit>
-      <trans-unit id="twoNotUsed" xml:space="preserve">
-        <source>twoNotUsed</source>
-        <note>Pod state twoNotUsed</note>
-      </trans-unit>
-    </body>
-  </file>
   <file original="MinimedKit/Base.lproj/Localizable.strings" source-language="en" target-language="da" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
@@ -754,7 +574,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="RileyLink Statistics" xml:space="preserve">
         <source>RileyLink Statistics</source>
-        <target>RileyLink Statistik</target>
+        <target>RileyLink statistik</target>
         <note>The title of the command to fetch RileyLink statistics</note>
       </trans-unit>
       <trans-unit id="Save to Pump…" xml:space="preserve">
@@ -765,7 +585,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Send Button Press" xml:space="preserve">
         <source>Send Button Press</source>
-        <target>Send knappe tryk</target>
+        <target>Send "knap tryk"</target>
         <note>The title of the command to send a button press</note>
       </trans-unit>
       <trans-unit id="Sending button press…" xml:space="preserve">
@@ -780,7 +600,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Succeeded" xml:space="preserve">
         <source>Succeeded</source>
-        <target>Lykkedes</target>
+        <target>Gennemført</target>
         <note>A message indicating a command succeeded</note>
       </trans-unit>
       <trans-unit id="Suspended: %1$@&#10;" xml:space="preserve">
@@ -824,7 +644,7 @@ Find enhed</target>
     <body>
       <trans-unit id="0MV-2k-Dty.title" xml:space="preserve">
         <source>RileyLink Setup</source>
-        <target>RileyLink Indstilling</target>
+        <target>RileyLink indstilling</target>
         <note>Class = "UITableViewController"; title = "RileyLink Setup"; ObjectID = "0MV-2k-Dty";</note>
       </trans-unit>
       <trans-unit id="1fp-45-qWK.text" xml:space="preserve">
@@ -839,7 +659,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Bdb-j4-WcR.text" xml:space="preserve">
         <source>Do not change the time using your pumpʼs menu.</source>
-        <target>Juster ikke uret i pumpens menu.</target>
+        <target>Juster ikke uret via pumpens menu.</target>
         <note>Class = "UILabel"; text = "Do not change the time using your pumpʼs menu."; ObjectID = "Bdb-j4-WcR";</note>
       </trans-unit>
       <trans-unit id="Fps-h3-V4K.title" xml:space="preserve">
@@ -854,7 +674,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="HuY-fE-vM8.text" xml:space="preserve">
         <source>If you travel to a different time zone for an extended period of time, you can change the pumpʼs time zone at any time in Loopʼs Settings screen.</source>
-        <target>Hvis du rejser til en anden tidszone i længere tid, kan du ændre pumpens tidszone i Loop’s Indstillinger.</target>
+        <target>Hvis du rejser til en anden tidszone i længere tid, kan du ændre pumpens tidszone i Loop’s indstillinger.</target>
         <note>Class = "UILabel"; text = "If you travel to a different time zone for an extended period of time, you can change the pumpʼs time zone at any time in Loopʼs Settings screen."; ObjectID = "HuY-fE-vM8";</note>
       </trans-unit>
       <trans-unit id="IQ5-53-x9s.text" xml:space="preserve">
@@ -864,7 +684,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Nwf-TJ-KmJ.title" xml:space="preserve">
         <source>Setup Complete</source>
-        <target>Indstilling komplet</target>
+        <target>Indstilling gennemført</target>
         <note>Class = "UITableViewController"; title = "Setup Complete"; ObjectID = "Nwf-TJ-KmJ";</note>
       </trans-unit>
       <trans-unit id="OZk-Db-KCs.title" xml:space="preserve">
@@ -904,12 +724,12 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="g1m-3k-XI3.text" xml:space="preserve">
         <source>Your pump is ready for use.</source>
-        <target>Pumpen er klar til brug.</target>
+        <target>Din pumpe er klar til brug.</target>
         <note>Class = "UILabel"; text = "Your pump is ready for use."; ObjectID = "g1m-3k-XI3";</note>
       </trans-unit>
       <trans-unit id="lGI-LD-xR7.footerTitle" xml:space="preserve">
         <source>The pump region and color are denoted as the last 3 letters of the the model number (labeled as REF).</source>
-        <target>Pumpe region og farve er angivet som de sidste 3 bogstaver i modelnummeret (mærket REF).</target>
+        <target>Pumpe region og farve er angivet som de sidste 3 bogstaver i modelnummeret (mærket som REF).</target>
         <note>Class = "UITableViewSection"; footerTitle = "The pump region and color are denoted as the last 3 letters of the the model number (labeled as REF)."; ObjectID = "lGI-LD-xR7";</note>
       </trans-unit>
       <trans-unit id="lGI-LD-xR7.headerTitle" xml:space="preserve">
@@ -934,7 +754,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="yLn-Ya-p1R.text" xml:space="preserve">
         <source>Loop will listen for status messages sent by your pump. Follow the steps below on your pump to enable these messages:</source>
-        <target>Loop vil lytte efter status beskeder fra pumpen. Følg nedenstående skridt på pumpen, for at aktivere disse beskeder:</target>
+        <target>Loop vil lytte efter status beskeder fra pumpen. Følg nedenstående trin på pumpen, for at aktivere disse beskeder:</target>
         <note>Class = "UILabel"; text = "Loop will listen for status messages sent by your pump. Follow the steps below on your pump to enable these messages:"; ObjectID = "yLn-Ya-p1R";</note>
       </trans-unit>
     </body>
@@ -1023,12 +843,12 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Bolusing" xml:space="preserve">
         <source>Bolusing</source>
-        <target>Indgiver bolus</target>
+        <target>Afgiver bolus</target>
         <note>Delivery status when bolusing</note>
       </trans-unit>
       <trans-unit id="Bolusing with temp basal" xml:space="preserve">
         <source>Bolusing with temp basal</source>
-        <target>Indgiver bolus med midlertidig basal</target>
+        <target>Afgiver bolus med midlertidig basal</target>
         <note>Delivery status when bolusing and temp basal is running</note>
       </trans-unit>
       <trans-unit id="Cannula inserting" xml:space="preserve">
@@ -1063,7 +883,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Empty response from pod" xml:space="preserve">
         <source>Empty response from pod</source>
-        <target>Ingen svar fra pod</target>
+        <target>Svaret fra pod'en er tom</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
       <trans-unit id="Error event logged, shutting down" xml:space="preserve">
@@ -1252,10 +1072,14 @@ Find enhed</target>
         <target>Pod udløbs påmindelse</target>
         <note>The title for pod expiration notification</note>
       </trans-unit>
+      <trans-unit id="Pod Expired" xml:space="preserve">
+        <source>Pod Expired</source>
+        <note>Highlight string for pod expired (80hrs).</note>
+      </trans-unit>
       <trans-unit id="Pod Fault" xml:space="preserve">
         <source>Pod Fault</source>
         <target>Pod fejl</target>
-        <note>Inform the user that there is a pod fault.</note>
+        <note>Highlight string for pod faults.</note>
       </trans-unit>
       <trans-unit id="Pod Fault: %1$@" xml:space="preserve">
         <source>Pod Fault: %1$@</source>
@@ -1365,7 +1189,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Suspend: %1$@ %2$@" xml:space="preserve">
         <source>Suspend: %1$@ %2$@</source>
-        <target>Pause: %1$@ %2$@</target>
+        <target>Suspender: %1$@ %2$@</target>
         <note>The format string describing a suspend. (1: Time)(2: Scheduled certainty</note>
       </trans-unit>
       <trans-unit id="Suspended" xml:space="preserve">
@@ -1375,7 +1199,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Tank fill completed" xml:space="preserve">
         <source>Tank fill completed</source>
-        <target>Reservoir påfyldning komplet</target>
+        <target>Reservoir påfyldning udført</target>
         <note>Pod tank fill completed</note>
       </trans-unit>
       <trans-unit id="Tank power activated" xml:space="preserve">
@@ -2027,6 +1851,8 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       <trans-unit id="Pulse Count: %1$d&#10;" xml:space="preserve">
         <source>Pulse Count: %1$d
 </source>
+        <target>Pulse Count: %1$d
+</target>
         <note>The format string for Pulse Count (1: pulse count)</note>
       </trans-unit>
       <trans-unit id="RSSI: %1$@&#10;" xml:space="preserve">
