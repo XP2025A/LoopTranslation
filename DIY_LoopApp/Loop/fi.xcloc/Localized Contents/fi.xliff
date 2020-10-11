@@ -676,7 +676,7 @@ Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napautta
       </trans-unit>
       <trans-unit id="Basal Rate Schedule" xml:space="preserve">
         <source>Basal Rate Schedule</source>
-        <target state="translated">Perusinsuliiniohjelma</target>
+        <target state="translated">Basaaliohjelma</target>
         <note>Details for configuration error when basal rate schedule is missing</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
@@ -1313,7 +1313,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Recommended Basal" xml:space="preserve">
         <source>Recommended Basal</source>
-        <target state="translated">Suositeltu perusinsuliini</target>
+        <target state="translated">Suositeltu basaali</target>
         <note>The title of the cell displaying a recommended temp basal value</note>
       </trans-unit>
       <trans-unit id="Recommended Bolus" xml:space="preserve">
@@ -1491,7 +1491,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
         <source>When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</source>
-        <target state="translated">Kun nykyinen tai ennustettu glukoosi on pysäytysrajan alapuolella, Loop ei suosittele bolusta ja suosittelee aina tilapäiseksi perusinsuliinimääräksi 0 yksikköä tunnissa.</target>
+        <target state="translated">Kun nykyinen tai ennustettu glukoosi on pysäytysrajan alapuolella, Loop ei suosittele bolusta ja suosittelee aina tilapäiseksi basaaliksi 0 yksikköä tunnissa.</target>
         <note>Explanation of suspend threshold</note>
       </trans-unit>
       <trans-unit id="Workout Targets" xml:space="preserve">
@@ -1723,7 +1723,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="k3F-Na-7mn.text" xml:space="preserve">
         <source>Recommended Basal</source>
-        <target state="translated">Suositeltu perusinsuliini</target>
+        <target state="translated">Suositeltu basaali</target>
         <note>Class = "UILabel"; text = "Recommended Basal"; ObjectID = "k3F-Na-7mn";</note>
       </trans-unit>
       <trans-unit id="qPH-vU-xlu.text" xml:space="preserve">
@@ -1976,7 +1976,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Net Basal Rate" xml:space="preserve">
         <source>Net Basal Rate</source>
-        <target state="translated">Perusinsuliini netto</target>
+        <target state="translated">Basaali netto</target>
         <note>HUD row title for Net Basal Rate</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
