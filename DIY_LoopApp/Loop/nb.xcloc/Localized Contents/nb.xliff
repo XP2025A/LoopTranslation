@@ -655,8 +655,8 @@ Du kan vente for å se om problemet løser seg, eller trykk på knappen nedenfor
       <trans-unit id="Are you sure you want to delete all your %@ Data?&#10;(This action is not reversible)" xml:space="preserve">
         <source>Are you sure you want to delete all your %@ Data?
 (This action is not reversible)</source>
-        <target state="needs-translation">Are you sure you want to delete all your %@ Data?
-(This action is not reversible)</target>
+        <target state="translated">Er du sikker på at du vil slette alle %@ data?
+(Denne handlingen er ikke reversibel)</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete this CGM?" xml:space="preserve">
@@ -688,15 +688,15 @@ Du kan vente for å se om problemet løser seg, eller trykk på knappen nedenfor
       <trans-unit id="Bluetooth&#10;Off" xml:space="preserve">
         <source>Bluetooth
 Off</source>
-        <target state="needs-translation">Bluetooth
-Off</target>
+        <target state="translated">Blåtann
+av</target>
         <note>Message to the user to that the bluetooth is off</note>
       </trans-unit>
       <trans-unit id="Bluetooth&#10;Unavailable" xml:space="preserve">
         <source>Bluetooth
 Unavailable</source>
-        <target state="needs-translation">Bluetooth
-Unavailable</target>
+        <target state="translated">Blåtann er
+utilgjengelig</target>
         <note>Message to the user that bluetooth is unavailable to the app</note>
       </trans-unit>
       <trans-unit id="Bluetooth Off Alert" xml:space="preserve">
@@ -830,17 +830,17 @@ Unavailable</target>
       </trans-unit>
       <trans-unit id="Critical Event Log Ready" xml:space="preserve">
         <source>Critical Event Log Ready</source>
-        <target state="needs-translation">Critical Event Log Ready</target>
+        <target state="translated">Logg for kritisk hendelse er klar</target>
         <note>Critical event log ready text</note>
       </trans-unit>
       <trans-unit id="Critical Event Logs" xml:space="preserve">
         <source>Critical Event Logs</source>
-        <target state="needs-translation">Critical Event Logs</target>
+        <target state="translated">Logg for kritisk hendelse</target>
         <note>Critical event log export title</note>
       </trans-unit>
       <trans-unit id="Critical Event Logs were not able to be exported." xml:space="preserve">
         <source>Critical Event Logs were not able to be exported.</source>
-        <target state="needs-translation">Critical Event Logs were not able to be exported.</target>
+        <target state="translated">Logg for kritisk hendelse kunne ikke eksporteres.</target>
         <note>Critical event log export error alert message</note>
       </trans-unit>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
@@ -890,7 +890,7 @@ Unavailable</target>
       </trans-unit>
       <trans-unit id="Delete Testing CGM Data" xml:space="preserve">
         <source>Delete Testing CGM Data</source>
-        <target state="needs-translation">Delete Testing CGM Data</target>
+        <target state="translated">Slett CGM-testdata</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Testing Data" xml:space="preserve">
@@ -905,7 +905,7 @@ Unavailable</target>
       </trans-unit>
       <trans-unit id="Deliver" xml:space="preserve">
         <source>Deliver</source>
-        <target state="needs-translation">Deliver</target>
+        <target state="translated">Gi bolus</target>
         <note>Button text to deliver a bolus</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
@@ -936,8 +936,8 @@ Unavailable</target>
       <trans-unit id="Enable&#10;Bluetooth" xml:space="preserve">
         <source>Enable
 Bluetooth</source>
-        <target state="needs-translation">Enable
-Bluetooth</target>
+        <target state="translated">Aktiver
+blåtann</target>
         <note>Message to the user to enable bluetooth</note>
       </trans-unit>
       <trans-unit id="Enables" xml:space="preserve">
@@ -947,17 +947,17 @@ Bluetooth</target>
       </trans-unit>
       <trans-unit id="Enter Bolus" xml:space="preserve">
         <source>Enter Bolus</source>
-        <target state="needs-translation">Enter Bolus</target>
+        <target state="translated">Angi bolus</target>
         <note>Button text to begin entering a bolus</note>
       </trans-unit>
       <trans-unit id="Enter Fingerstick Glucose" xml:space="preserve">
         <source>Enter Fingerstick Glucose</source>
-        <target state="needs-translation">Enter Fingerstick Glucose</target>
+        <target state="translated">Angi manuelt blodsukker</target>
         <note>Button text prompting manual glucose entry on bolus screen</note>
       </trans-unit>
       <trans-unit id="Enter a blood glucose from a meter for a recommended bolus amount." xml:space="preserve">
         <source>Enter a blood glucose from a meter for a recommended bolus amount.</source>
-        <target state="needs-translation">Enter a blood glucose from a meter for a recommended bolus amount.</target>
+        <target state="translated">Angi blodsukker fra måleapparat for å få bolusanbefaling.</target>
         <note>Caption for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
       <trans-unit id="Enter suspend threshold" xml:space="preserve">
@@ -972,7 +972,7 @@ Bluetooth</target>
       </trans-unit>
       <trans-unit id="Error Exporting Logs" xml:space="preserve">
         <source>Error Exporting Logs</source>
-        <target state="needs-translation">Error Exporting Logs</target>
+        <target state="translated">Feil ved eksport av logger</target>
         <note>Critical event log export error alert title</note>
       </trans-unit>
       <trans-unit id="Error Resuming" xml:space="preserve">
@@ -992,12 +992,12 @@ Bluetooth</target>
       </trans-unit>
       <trans-unit id="Export Critical Event Logs" xml:space="preserve">
         <source>Export Critical Event Logs</source>
-        <target state="needs-translation">Export Critical Event Logs</target>
+        <target state="translated">Eksporter logg for kritisk hendelse</target>
         <note>The title of the export critical event logs in support</note>
       </trans-unit>
       <trans-unit id="Export-%1$@" xml:space="preserve">
         <source>Export-%1$@</source>
-        <target state="needs-translation">Export-%1$@</target>
+        <target state="translated">Eksporter-%1$@</target>
         <note>The export file name formatted string (1: timestamp)</note>
       </trans-unit>
       <trans-unit id="Failed to Resume Insulin Delivery" xml:space="preserve">
@@ -1346,7 +1346,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Save and Deliver" xml:space="preserve">
         <source>Save and Deliver</source>
-        <target state="translated">Lagre, og gi bolus</target>
+        <target state="translated">Lagre og gi bolus</target>
         <note>Button text to save carbs and/or manual glucose entry and deliver a bolus</note>
       </trans-unit>
       <trans-unit id="Save without Bolusing" xml:space="preserve">
