@@ -137,9 +137,9 @@
         <target state="final">Okklusion opdaget</target>
         <note>Description for Occlusion detected pod fault</note>
       </trans-unit>
-      <trans-unit id="Paired completed" xml:space="preserve">
+      <trans-unit id="Paired completed" xml:space="preserve" approved="yes">
         <source>Paired completed</source>
-        <target state="translated">'Paired' er fuldført</target>
+        <target state="final">'Paired' er fuldført</target>
         <note>Pod status when pairing completed</note>
       </trans-unit>
       <trans-unit id="Parsing Error: " xml:space="preserve" approved="yes">
@@ -147,14 +147,14 @@
         <target state="final">Fortolkningsfejl: </target>
         <note>Description for MessageError parsingError</note>
       </trans-unit>
-      <trans-unit id="Pod Expired" xml:space="preserve">
+      <trans-unit id="Pod Expired" xml:space="preserve" approved="yes">
         <source>Pod Expired</source>
-        <target state="needs-translation">Pod Expired</target>
+        <target state="final">Pod udløbet</target>
         <note>Highlight string for pod expired (80hrs).</note>
       </trans-unit>
-      <trans-unit id="Pod Fault" xml:space="preserve">
+      <trans-unit id="Pod Fault" xml:space="preserve" approved="yes">
         <source>Pod Fault</source>
-        <target state="needs-translation">Pod Fault</target>
+        <target state="final">Pod Fejl</target>
         <note>Highlight string for pod faults.</note>
       </trans-unit>
       <trans-unit id="Pod expiration advisory alarm" xml:space="preserve">
@@ -173,14 +173,14 @@
         <note>Delivery status when pod is priming
    Pod status when priming</note>
       </trans-unit>
-      <trans-unit id="Priming completed" xml:space="preserve">
+      <trans-unit id="Priming completed" xml:space="preserve" approved="yes">
         <source>Priming completed</source>
-        <target state="translated">Priming afsluttet</target>
+        <target state="final">Priming afsluttet</target>
         <note>Pod state when priming completed</note>
       </trans-unit>
-      <trans-unit id="Reminder initialized" xml:space="preserve">
+      <trans-unit id="Reminder initialized" xml:space="preserve" approved="yes">
         <source>Reminder initialized</source>
-        <target state="translated">Påmindelse initialiseret</target>
+        <target state="final">Påmindelse initialiseret</target>
         <note>Pod pairing reminder initialized</note>
       </trans-unit>
       <trans-unit id="Scheduled basal" xml:space="preserve">
@@ -228,19 +228,19 @@
         <target state="final">Venter på påmindelse om parring</target>
         <note>Description waiting for pairing reminder</note>
       </trans-unit>
-      <trans-unit id="oneNotUsed" xml:space="preserve">
+      <trans-unit id="oneNotUsed" xml:space="preserve" approved="yes">
         <source>oneNotUsed</source>
-        <target state="translated">oneNotUsed</target>
+        <target state="final">oneNotUsed</target>
         <note>Pod state oneNotUsed</note>
       </trans-unit>
-      <trans-unit id="threeNotUsed" xml:space="preserve">
+      <trans-unit id="threeNotUsed" xml:space="preserve" approved="yes">
         <source>threeNotUsed</source>
-        <target state="translated">threeNotUsed</target>
+        <target state="final">threeNotUsed</target>
         <note>Pod state threeNotUsed</note>
       </trans-unit>
-      <trans-unit id="twoNotUsed" xml:space="preserve">
+      <trans-unit id="twoNotUsed" xml:space="preserve" approved="yes">
         <source>twoNotUsed</source>
-        <target state="translated">twoNotUsed</target>
+        <target state="final">twoNotUsed</target>
         <note>Pod state twoNotUsed</note>
       </trans-unit>
     </body>
@@ -1307,7 +1307,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Pod Expired" xml:space="preserve">
         <source>Pod Expired</source>
-        <target state="needs-translation">Pod Expired</target>
+        <target state="translated">Pod udløbet</target>
         <note>Highlight string for pod expired (80hrs).</note>
       </trans-unit>
       <trans-unit id="Pod Fault" xml:space="preserve">
