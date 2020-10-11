@@ -676,6 +676,11 @@
         <note>The format for an override preset cell. (1: symbol)(2: name)
    The format for an override symbol and name (1: symbol)(2: name)</note>
       </trans-unit>
+      <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve" approved="yes">
+        <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
+        <target state="final">%1$@ antager, at insulin er aktivt i 6 timer. Du kan vælge mellem %2$@ forskellige modeller for, hvordan appen måler insulinets maksimale aktivitet.</target>
+        <note>Insulin model setting description (1: app name) (2: number of models)</note>
+      </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve" approved="yes">
         <source>%1$@ units remaining at %2$@</source>
         <target state="final">%1$@ enheder tilbage ved %2$@</target>
@@ -695,11 +700,6 @@
         <source>%@</source>
         <target state="final">%@</target>
         <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="%@ assumes insulin is actively working for 6 hours. You can choose from %@ different models for how the app measures the insulin’s peak activity." xml:space="preserve" approved="yes">
-        <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
-        <target state="final">%1$@ antager at insulin virker aktivt i 6 timer. Du kan vælge mellem %2$@ forskellige modeller for, hvordan Loop måler insulinets maksimale aktivitet.</target>
-        <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve" approved="yes">
         <source>%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</source>
@@ -951,7 +951,7 @@
       <trans-unit id="Delete" xml:space="preserve" approved="yes">
         <source>Delete</source>
         <target state="final">Slet</target>
-        <note>No comment provided by engineer.</note>
+        <note>Test for table cell delete button</note>
       </trans-unit>
       <trans-unit id="Delete Account" xml:space="preserve" approved="yes">
         <source>Delete Account</source>
@@ -966,7 +966,7 @@
       <trans-unit id="Delivery Limits" xml:space="preserve" approved="yes">
         <source>Delivery Limits</source>
         <target state="final">Insulin-grænser</target>
-        <note>No comment provided by engineer.</note>
+        <note>Title text for crossed thresholds guardrail warning</note>
       </trans-unit>
       <trans-unit id="Delivery limits are safety guardrails for your insulin delivery." xml:space="preserve" approved="yes">
         <source>Delivery limits are safety guardrails for your insulin delivery.</source>
@@ -981,7 +981,8 @@
       <trans-unit id="Done" xml:space="preserve" approved="yes">
         <source>Done</source>
         <target state="final">Udført</target>
-        <note>No comment provided by engineer.</note>
+        <note>Text for dismiss button
+   Text for done button</note>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve" approved="yes">
         <source>Duration</source>
@@ -1001,7 +1002,8 @@
       <trans-unit id="Edit" xml:space="preserve" approved="yes">
         <source>Edit</source>
         <target state="final">Rediger</target>
-        <note>The title for the enabled custom preset editing screen</note>
+        <note>Text for edit button
+   The title for the enabled custom preset editing screen</note>
       </trans-unit>
       <trans-unit id="Edit Carb Entry" xml:space="preserve" approved="yes">
         <source>Edit Carb Entry</source>
@@ -1038,6 +1040,11 @@
         <target state="final">Aktiveret</target>
         <note>The detail text describing an enabled setting</note>
       </trans-unit>
+      <trans-unit id="Enter %1$@ value" xml:space="preserve" approved="yes">
+        <source>Enter %1$@ value</source>
+        <target state="final">Angiv %1$@ værdi</target>
+        <note>Format string for accessibility label for value entry. (1: value label)</note>
+      </trans-unit>
       <trans-unit id="Enter a number of units" xml:space="preserve" approved="yes">
         <source>Enter a number of units</source>
         <target state="final">Indtast antal enheder</target>
@@ -1047,11 +1054,6 @@
         <source>Enter a rate in units per hour</source>
         <target state="final">Indtast en dosis i enheder pr time</target>
         <note>The placeholder text instructing users how to enter a maximum basal rate</note>
-      </trans-unit>
-      <trans-unit id="Enter value" xml:space="preserve" approved="yes">
-        <source>Enter value</source>
-        <target state="final">Indsæt værdi</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Example" xml:space="preserve" approved="yes">
         <source>Example</source>
@@ -1081,7 +1083,8 @@
       <trans-unit id="Go Back" xml:space="preserve" approved="yes">
         <source>Go Back</source>
         <target state="final">Gå tilbage</target>
-        <note>Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range</note>
+        <note>Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range
+   Text for go back action on confirmation alert</note>
       </trans-unit>
       <trans-unit id="High Basal Rate" xml:space="preserve" approved="yes">
         <source>High Basal Rate</source>
@@ -1398,7 +1401,7 @@
       <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
         <target state="final">Nogle af de værdier, du har angivet, ligger uden for det, der typisk anbefales til de fleste.</target>
-        <note>No comment provided by engineer.</note>
+        <note>Caption for guardrail warning when more than one threshold is crossed</note>
       </trans-unit>
       <trans-unit id="Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." xml:space="preserve" approved="yes">
         <source>Some users choose a value 2, 3, or 4 times their highest scheduled basal rate.</source>
@@ -1529,7 +1532,7 @@
       <trans-unit id="Time" xml:space="preserve" approved="yes">
         <source>Time</source>
         <target state="final">Tid</target>
-        <note>No comment provided by engineer.</note>
+        <note>Label for offset from midnight picker</note>
       </trans-unit>
       <trans-unit id="Times in %1$@%2$@%3$@" xml:space="preserve" approved="yes">
         <source>Times in %1$@%2$@%3$@</source>

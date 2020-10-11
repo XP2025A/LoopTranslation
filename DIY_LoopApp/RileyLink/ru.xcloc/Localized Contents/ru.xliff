@@ -147,6 +147,16 @@
         <target state="needs-translation">Parsing Error: </target>
         <note>Description for MessageError parsingError</note>
       </trans-unit>
+      <trans-unit id="Pod Expired" xml:space="preserve">
+        <source>Pod Expired</source>
+        <target state="needs-translation">Pod Expired</target>
+        <note>Highlight string for pod expired (80hrs).</note>
+      </trans-unit>
+      <trans-unit id="Pod Fault" xml:space="preserve">
+        <source>Pod Fault</source>
+        <target state="needs-translation">Pod Fault</target>
+        <note>Highlight string for pod faults.</note>
+      </trans-unit>
       <trans-unit id="Pod expiration advisory alarm" xml:space="preserve">
         <source>Pod expiration advisory alarm</source>
         <target state="needs-translation">Pod expiration advisory alarm</target>
@@ -1295,10 +1305,15 @@ Find Device</target>
         <target state="translated">Сообщение об окончании гарантийного срока Omnipod </target>
         <note>The title for pod expiration notification</note>
       </trans-unit>
+      <trans-unit id="Pod Expired" xml:space="preserve">
+        <source>Pod Expired</source>
+        <target state="needs-translation">Pod Expired</target>
+        <note>Highlight string for pod expired (80hrs).</note>
+      </trans-unit>
       <trans-unit id="Pod Fault" xml:space="preserve">
         <source>Pod Fault</source>
         <target state="needs-translation">Pod Fault</target>
-        <note>Inform the user that there is a pod fault.</note>
+        <note>Highlight string for pod faults.</note>
       </trans-unit>
       <trans-unit id="Pod Fault: %1$@" xml:space="preserve">
         <source>Pod Fault: %1$@</source>
