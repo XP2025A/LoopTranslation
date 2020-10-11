@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Crypto</source>
-        <target state="needs-translation">Crypto</target>
+        <target state="translated">Crypto</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -24,7 +24,7 @@
       </trans-unit>
       <trans-unit id="Activation time exceeded" xml:space="preserve">
         <source>Activation time exceeded</source>
-        <target state="needs-translation">Activation time exceeded</target>
+        <target state="translated">Aktivointiaika ylitetty</target>
         <note>Pod state when activation not completed in the time allowed</note>
       </trans-unit>
       <trans-unit id="Auto-off alarm" xml:space="preserve">
@@ -34,7 +34,7 @@
       </trans-unit>
       <trans-unit id="Basal initialized" xml:space="preserve">
         <source>Basal initialized</source>
-        <target state="needs-translation">Basal initialized</target>
+        <target state="translated">Basaali alustettu</target>
         <note>Pod state when basal initialized</note>
       </trans-unit>
       <trans-unit id="Bolusing" xml:space="preserve">
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="Bolusing with temp basal" xml:space="preserve">
         <source>Bolusing with temp basal</source>
-        <target state="translated">Annostellaan bolus ja tilap. perusinsuliini</target>
+        <target state="translated">Annostellaan bolus ja tilap. basaali</target>
         <note>Delivery status when bolusing and temp basal is running</note>
       </trans-unit>
       <trans-unit id="Deactivated" xml:space="preserve">
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="Fault event occurred" xml:space="preserve">
         <source>Fault event occurred</source>
-        <target state="needs-translation">Fault event occurred</target>
+        <target state="translated">Virhetapahtuma</target>
         <note>Pod state when fault event has occurred</note>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve">
@@ -79,7 +79,7 @@
       </trans-unit>
       <trans-unit id="Inserting cannula" xml:space="preserve">
         <source>Inserting cannula</source>
-        <target state="needs-translation">Inserting cannula</target>
+        <target state="translated">Asetetaan kanyyli</target>
         <note>Pod state when inserting cannula</note>
       </trans-unit>
       <trans-unit id="Internal pod fault %1$03d" xml:space="preserve">
@@ -89,17 +89,17 @@
       </trans-unit>
       <trans-unit id="Invalid CRC" xml:space="preserve">
         <source>Invalid CRC</source>
-        <target state="needs-translation">Invalid CRC</target>
+        <target state="translated">Virheellinen CRC</target>
         <note>Description for MessageError invalidCrc</note>
       </trans-unit>
       <trans-unit id="Invalid address: (%1$@)" xml:space="preserve">
         <source>Invalid address: (%1$@)</source>
-        <target state="needs-translation">Invalid address: (%1$@)</target>
+        <target state="translated">Virheellinen osoite: (%1$@)</target>
         <note>Description for MessageError invalidSequence</note>
       </trans-unit>
       <trans-unit id="Low reservoir" xml:space="preserve">
         <source>Low reservoir</source>
-        <target state="needs-translation">Low reservoir</target>
+        <target state="translated">Säiliö vähissä</target>
         <note>Pod state when running with fifty or less units</note>
       </trans-unit>
       <trans-unit id="Low reservoir advisory alarm" xml:space="preserve">
@@ -109,7 +109,7 @@
       </trans-unit>
       <trans-unit id="Memory initialized" xml:space="preserve">
         <source>Memory initialized</source>
-        <target state="needs-translation">Memory initialized</target>
+        <target state="translated">Muisti alustettu</target>
         <note>Pod memory initialized</note>
       </trans-unit>
       <trans-unit id="No alerts" xml:space="preserve">
@@ -119,7 +119,7 @@
       </trans-unit>
       <trans-unit id="No faults" xml:space="preserve">
         <source>No faults</source>
-        <target state="needs-translation">No faults</target>
+        <target state="translated">Ei vikoja</target>
         <note>Description for Fault Event Code .noFaults</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
@@ -129,7 +129,7 @@
       </trans-unit>
       <trans-unit id="Not enough data" xml:space="preserve">
         <source>Not enough data</source>
-        <target state="needs-translation">Not enough data</target>
+        <target state="translated">Tietoja ei ole tarpeeksi</target>
         <note>Description for MessageError notEnoughData</note>
       </trans-unit>
       <trans-unit id="Occlusion detected" xml:space="preserve">
@@ -139,12 +139,12 @@
       </trans-unit>
       <trans-unit id="Paired completed" xml:space="preserve">
         <source>Paired completed</source>
-        <target state="needs-translation">Paired completed</target>
+        <target state="translated">Yhdistäminen valmis</target>
         <note>Pod status when pairing completed</note>
       </trans-unit>
       <trans-unit id="Parsing Error: " xml:space="preserve">
         <source>Parsing Error: </source>
-        <target state="needs-translation">Parsing Error: </target>
+        <target state="translated">Jäsennysvirhe: </target>
         <note>Description for MessageError parsingError</note>
       </trans-unit>
       <trans-unit id="Pod expiration advisory alarm" xml:space="preserve">
@@ -165,17 +165,17 @@
       </trans-unit>
       <trans-unit id="Priming completed" xml:space="preserve">
         <source>Priming completed</source>
-        <target state="needs-translation">Priming completed</target>
+        <target state="translated">Alustus valmis</target>
         <note>Pod state when priming completed</note>
       </trans-unit>
       <trans-unit id="Reminder initialized" xml:space="preserve">
         <source>Reminder initialized</source>
-        <target state="needs-translation">Reminder initialized</target>
+        <target state="translated">Muistutus alustettu</target>
         <note>Pod pairing reminder initialized</note>
       </trans-unit>
       <trans-unit id="Scheduled basal" xml:space="preserve">
         <source>Scheduled basal</source>
-        <target state="needs-translation">Scheduled basal</target>
+        <target state="translated">Ohjelmoitu basaali</target>
         <note>Delivery status when scheduled basal is running</note>
       </trans-unit>
       <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
@@ -190,17 +190,17 @@
       </trans-unit>
       <trans-unit id="Temp basal running" xml:space="preserve">
         <source>Temp basal running</source>
-        <target state="translated">Tilapäinen perusinsuliini käytössä</target>
+        <target state="translated">Tilapäinen basaali käytössä</target>
         <note>Delivery status when temp basal is running</note>
       </trans-unit>
       <trans-unit id="Unexpected message sequence number" xml:space="preserve">
         <source>Unexpected message sequence number</source>
-        <target state="needs-translation">Unexpected message sequence number</target>
+        <target state="translated">Odottamaton viestin järjestysnumero</target>
         <note>Description for MessageError invalidSequence</note>
       </trans-unit>
       <trans-unit id="Unknown Value (%1$@) for type %2$@" xml:space="preserve">
         <source>Unknown Value (%1$@) for type %2$@</source>
-        <target state="needs-translation">Unknown Value (%1$@) for type %2$@</target>
+        <target state="translated">Tuntematon arvo (%1$@) tyypille %2$@</target>
         <note>Format string for description of MessageError unknownValue. (1: value) (2: Type)</note>
       </trans-unit>
       <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve">
@@ -210,7 +210,7 @@
       </trans-unit>
       <trans-unit id="Validation failed: %1$@" xml:space="preserve">
         <source>Validation failed: %1$@</source>
-        <target state="needs-translation">Validation failed: %1$@</target>
+        <target state="translated">Vahvistus epäonnistui: %1$@</target>
         <note>Format string for description of MessageError validationFailed. (1: description of validation failure)</note>
       </trans-unit>
       <trans-unit id="Waiting for pairing reminder" xml:space="preserve">
@@ -262,7 +262,7 @@
       </trans-unit>
       <trans-unit id="Basal Profile %1$@: %2$@ U/hour" xml:space="preserve">
         <source>Basal Profile %1$@: %2$@ U/hour</source>
-        <target state="translated">Perusinsuliiniprofiili %1$@: %2$@ U/t</target>
+        <target state="translated">Basaaliprofiili %1$@: %2$@ U/h</target>
         <note>The format string description of a BasalProfileStartPumpEvent. (1: The index of the profile)(2: The basal rate)</note>
       </trans-unit>
       <trans-unit id="Bolus in Progress" xml:space="preserve">
@@ -282,7 +282,7 @@
       </trans-unit>
       <trans-unit id="Check that the pump is not suspended or priming, or has a percent temp basal type" xml:space="preserve">
         <source>Check that the pump is not suspended or priming, or has a percent temp basal type</source>
-        <target state="translated">Tarkista, että pumppu ei ole pysäytetty, vakiotäytöllä tai perusinsuliinityypiksi ei ole valittu prosentteja</target>
+        <target state="translated">Tarkista, että pumppu ei ole pysäytetty, vakiotäytöllä tai basaalityypiksi ei ole valittu prosentteja</target>
         <note>Suggestions for diagnosing a command refused pump error</note>
       </trans-unit>
       <trans-unit id="Command refused" xml:space="preserve">
@@ -402,17 +402,17 @@
       </trans-unit>
       <trans-unit id="Temporary Basal: %1$.3f U/hour" xml:space="preserve">
         <source>Temporary Basal: %1$.3f U/hour</source>
-        <target state="translated">Tilapäinen perusinsuliini: %1$.3f U/t</target>
+        <target state="translated">Tilapäinen basaali: %1$.3f U/t</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in minutes)</note>
       </trans-unit>
       <trans-unit id="Temporary Basal: %1$d min" xml:space="preserve">
         <source>Temporary Basal: %1$d min</source>
-        <target state="translated">Tilapäinen perusinsuliini: %1$d min</target>
+        <target state="translated">Tilapäinen basaali: %1$d min</target>
         <note>The format string description of a TempBasalDurationPumpEvent. (1: The duration of the temp basal in minutes)</note>
       </trans-unit>
       <trans-unit id="Temporary Basal: %1$d%%" xml:space="preserve">
         <source>Temporary Basal: %1$d%%</source>
-        <target state="translated">Tilapäinen perusinsuliini: %1$d%%</target>
+        <target state="translated">Tilapäinen basaali: %1$d%%</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in percent)</note>
       </trans-unit>
       <trans-unit id="Unable to store pump data" xml:space="preserve">
@@ -496,7 +496,7 @@
       <trans-unit id="%1$@ basal schedule entries&#10;" xml:space="preserve">
         <source>%1$@ basal schedule entries
 </source>
-        <target state="translated">%1$@ perusinsuliiniohjelman kirjausta
+        <target state="translated">%1$@ basaaliohjelman kirjausta
 </target>
         <note>The format string describing number of basal schedule entries: (1: number of entries)</note>
       </trans-unit>
@@ -527,7 +527,7 @@
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target state="translated">Perusinsuliinimäärät</target>
+        <target state="translated">Basaalitasot</target>
         <note>The title text for the basal rate schedule</note>
       </trans-unit>
       <trans-unit id="Battery: %1$@ volts&#10;" xml:space="preserve">
@@ -767,7 +767,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Read Basal Schedule" xml:space="preserve">
         <source>Read Basal Schedule</source>
-        <target state="translated">Lue perusinsuliiniohjelma</target>
+        <target state="translated">Lue basaaliohjelma</target>
         <note>The title of the command to read basal schedule</note>
       </trans-unit>
       <trans-unit id="Read Pump Status" xml:space="preserve">
@@ -777,7 +777,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Reading basal schedule…" xml:space="preserve">
         <source>Reading basal schedule…</source>
-        <target state="translated">Luetaan perusinsuliiniohjelmaa…</target>
+        <target state="translated">Luetaan basaaliohjelmaa…</target>
         <note>Progress message for reading basal schedule</note>
       </trans-unit>
       <trans-unit id="Reading pump status…" xml:space="preserve">
@@ -1046,7 +1046,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Basal initialized" xml:space="preserve">
         <source>Basal initialized</source>
-        <target state="translated">Perusinsuliini alustettu</target>
+        <target state="translated">Basaali alustettu</target>
         <note>Pod state when basal initialized</note>
       </trans-unit>
       <trans-unit id="Below 50 units" xml:space="preserve">
@@ -1071,7 +1071,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Bolusing with temp basal" xml:space="preserve">
         <source>Bolusing with temp basal</source>
-        <target state="translated">Annostellaan bolus ja tilap. perusinsuliini</target>
+        <target state="translated">Annostellaan bolus ja tilap. basaali</target>
         <note>Delivery status when bolusing and temp basal is running</note>
       </trans-unit>
       <trans-unit id="Cannula inserting" xml:space="preserve">
@@ -1368,7 +1368,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Ready for basal programming" xml:space="preserve">
         <source>Ready for basal programming</source>
-        <target state="translated">Valmis perusinsuliinin ohjelmointiin</target>
+        <target state="translated">Valmis basaalin ohjelmointiin</target>
         <note>Pod state when ready for basal programming</note>
       </trans-unit>
       <trans-unit id="Ready to insert cannula" xml:space="preserve">
@@ -1388,12 +1388,12 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Scheduled Basal" xml:space="preserve">
         <source>Scheduled Basal</source>
-        <target state="translated">Ohjelmoitu perusinsuliini</target>
+        <target state="translated">Ohjelmoitu basaali</target>
         <note>Delivery status when basal is running</note>
       </trans-unit>
       <trans-unit id="Scheduled basal" xml:space="preserve">
         <source>Scheduled basal</source>
-        <target state="translated">Ohjelmoitu perusinsuliini</target>
+        <target state="translated">Ohjelmoitu basaali</target>
         <note>Delivery status when scheduled basal is running</note>
       </trans-unit>
       <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
@@ -1428,12 +1428,12 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Temp basal in progress" xml:space="preserve">
         <source>Temp basal in progress</source>
-        <target state="translated">Tilapäinen perusinsuliini meneillään</target>
+        <target state="translated">Tilapäinen basaali meneillään</target>
         <note>Error message shown when temp basal could not be set due to existing temp basal in progress</note>
       </trans-unit>
       <trans-unit id="Temp basal running" xml:space="preserve">
         <source>Temp basal running</source>
-        <target state="translated">Tilapäinen perusinsuliini käynnissä</target>
+        <target state="translated">Tilapäinen basaali käynnissä</target>
         <note>Delivery status when temp basal is running</note>
       </trans-unit>
       <trans-unit id="TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@" xml:space="preserve">
@@ -1493,7 +1493,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Wait for existing temp basal to finish, or suspend to cancel" xml:space="preserve">
         <source>Wait for existing temp basal to finish, or suspend to cancel</source>
-        <target state="translated">Odota, että meneillään oleva tilapäinen perusinsuliini päättyy tai pysäytä pumppu kumotaksesi</target>
+        <target state="translated">Odota, että meneillään oleva tilapäinen basaali päättyy tai pysäytä pumppu kumotaksesi</target>
         <note>Recovery suggestion when operation could not be completed due to existing temp basal in progress</note>
       </trans-unit>
       <trans-unit id="Waiting for pairing reminder" xml:space="preserve">
@@ -1764,12 +1764,12 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Basal Delivery" xml:space="preserve">
         <source>Basal Delivery</source>
-        <target state="translated">Perusinsuliini</target>
+        <target state="translated">Basaali</target>
         <note>The title of the cell showing pod basal status</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target state="translated">Perusinsuliinitasot</target>
+        <target state="translated">Basaalitasot</target>
         <note>The title text for the basal rate schedule</note>
       </trans-unit>
       <trans-unit id="Bolus Delivery" xml:space="preserve">
@@ -2196,7 +2196,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       </trans-unit>
       <trans-unit id="Too many entries" xml:space="preserve">
         <source>Too many entries</source>
-        <target state="translated">Liian monta perusinsuliinitasoa määritetty</target>
+        <target state="translated">Liian monta basaalitasoa</target>
         <note>The error message shown when Loop's basal schedule has more entries than the pod can support</note>
       </trans-unit>
       <trans-unit id="Unable to deactivate pod. Please continue and pair a new one." xml:space="preserve">
@@ -2223,7 +2223,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       </trans-unit>
       <trans-unit id="API Secret" xml:space="preserve">
         <source>API Secret</source>
-        <target state="translated">API-salasana</target>
+        <target state="translated">API-salausavain</target>
         <note>The title of the nightscout API secret credential</note>
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
