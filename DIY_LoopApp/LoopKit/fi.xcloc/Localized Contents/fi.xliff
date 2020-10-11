@@ -34,12 +34,12 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation.</source>
-        <target state="translated">Terveys-sovelluksen ateriatietoja käytetään glukoosivaikutusten määrittämiseen. Terveys-sovelluksen glukoositietoja käytetään graafeissa ja laskelmissa.</target>
+        <target state="translated">Terveystietokannasta peräisin olevan aterian tietoja käytetään glukoosivaikutusten määrittämiseen. Terveys-tietokannan glukoositietoja käytetään graafeihin ja momentum-laskentaan.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</source>
-        <target state="translated">Sovelluksen kautta tallennetut hiilihydraattitiedot tallennetaan Terveys-tietokantaan. Glukoositieto  tallennetaan turvallisesti HealthKitiin.</target>
+        <target state="translated">Sovellukseen syötetyt hiilihydraattiaterian tiedot tallennetaan Terveys-tietokantaan. Glukoositiedot tallennetaan turvallisesti HealthKitiin.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -129,12 +129,12 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data is retrieved from HealthKit for graphing and analysis.</source>
-        <target state="translated">Terveys-tietokannan ateriatietoja käytetään glukoosivaikutusten määrittämiseen. Glukoositiedot haetaan HealthKitistä graafeja ja analysointia varten.</target>
+        <target state="translated">Terveystietokannan ateriatietoja käytetään glukoosivaikutusten määrittämiseen. Glukoositiedot haetaan HealthKitistä graafeja ja analysointia varten.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</source>
-        <target state="translated">Sovelluksen ja kellon kautta tallennetut hiilihydraattitiedot tallennetaan Terveys-tietokantaan. Glukoositiedot tallennetaan turvallisesti HealthKitiin.</target>
+        <target state="translated">Sovellukseen syötetyt hiilihydraattiaterian tiedot tallennetaan Terveys-tietokantaan. Glukoositiedot tallennetaan turvallisesti HealthKitiin.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -161,12 +161,12 @@
       </trans-unit>
       <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="translated">Antamasi arvo on suurempi kuin useimmille ihmisille tyypillisesti suositellaan.</target>
+        <target state="translated">Antamasi arvo on suurempi kuin useimmille ihmisille yleensä suositeltu arvo.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="A value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="translated">Antamasi arvo on pienempi kuin useimmille ihmisille tyypillisesti suositellaan.</target>
+        <target state="translated">Antamasi arvo on pienempi kuin useimmille ihmisille tyypillisesti suositeltava arvo.</target>
         <note>Descriptive text for guardrail low value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Authorization Denied" xml:space="preserve">
@@ -191,7 +191,7 @@
       </trans-unit>
       <trans-unit id="Communication Failure" xml:space="preserve">
         <source>Communication Failure</source>
-        <target state="translated">Kommunikaatiovirhe</target>
+        <target state="translated">Yhteysvirhe</target>
         <note>Generic pump error description</note>
       </trans-unit>
       <trans-unit id="Communications interrupted during insulin delivery command." xml:space="preserve">
@@ -211,7 +211,7 @@
       </trans-unit>
       <trans-unit id="Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
         <source>Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target state="translated">Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä basaali-insuliinin määrää.</target>
+        <target state="translated">Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.</target>
         <note>Descriptive text for glucose target range</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
@@ -286,7 +286,7 @@
       </trans-unit>
       <trans-unit id="Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically." xml:space="preserve">
         <source>Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically.</source>
-        <target state="translated">Suurin sallittu basaalitaso on korkein väliaikainen basaalitaso, jonka Loop saa asettaa automaattisesti.</target>
+        <target state="translated">Suurin sallittu basaalitaso on korkein tilapäinen basaalitaso, jonka Loop saa asettaa automaattisesti.</target>
         <note>Descriptive text for maximum basal rate</note>
       </trans-unit>
       <trans-unit id="Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." xml:space="preserve">
@@ -396,7 +396,7 @@
       </trans-unit>
       <trans-unit id="U/hr" xml:space="preserve">
         <source>U/hr</source>
-        <target state="translated">U/h</target>
+        <target state="translated">U/t</target>
         <note>The short unit display string for international units of insulin per hour</note>
       </trans-unit>
       <trans-unit id="Uncertain Delivery" xml:space="preserve">
@@ -436,7 +436,7 @@
       </trans-unit>
       <trans-unit id="Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
         <source>Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="translated">Basaalitaso on insuliinin yksikkömäärä tunnissa, jota haluat käyttää perusinsuliinitarpeen kattamiseen.</target>
+        <target state="translated">Basaalitaso tarkoittaa sitä yksikkömäärää insuliinia tunnissa, jonka tarvitset insuliinin perustarpeen kattamiseen.</target>
         <note>Descriptive text for basal rate</note>
       </trans-unit>
       <trans-unit id="Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." xml:space="preserve">
@@ -620,37 +620,37 @@
       </trans-unit>
       <trans-unit id="PZQ-gO-084.text" xml:space="preserve">
         <source>...</source>
-        <target state="needs-translation">...</target>
+        <target state="translated">...</target>
         <note>Class = "UILabel"; text = "..."; ObjectID = "PZQ-gO-084";</note>
       </trans-unit>
       <trans-unit id="TyZ-xm-mVN.segmentTitles[0]" xml:space="preserve">
         <source>Reservoir</source>
-        <target state="needs-translation">Reservoir</target>
+        <target state="translated">Säiliö</target>
         <note>Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[0] = "Reservoir"; ObjectID = "TyZ-xm-mVN";</note>
       </trans-unit>
       <trans-unit id="TyZ-xm-mVN.segmentTitles[1]" xml:space="preserve">
         <source>Event History</source>
-        <target state="needs-translation">Event History</target>
+        <target state="translated">Tapahtumahistoria</target>
         <note>Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[1] = "Event History"; ObjectID = "TyZ-xm-mVN";</note>
       </trans-unit>
       <trans-unit id="dZi-Ta-IHm.text" xml:space="preserve">
         <source>U IOB</source>
-        <target state="needs-translation">U IOB</target>
+        <target state="translated">U IOB</target>
         <note>Class = "UILabel"; text = "U IOB"; ObjectID = "dZi-Ta-IHm";</note>
       </trans-unit>
       <trans-unit id="jSc-64-2tZ.text" xml:space="preserve">
         <source>No pump configured</source>
-        <target state="needs-translation">No pump configured</target>
+        <target state="translated">Pumppua ei ole määritetty</target>
         <note>Class = "UILabel"; text = "No pump configured"; ObjectID = "jSc-64-2tZ";</note>
       </trans-unit>
       <trans-unit id="kys-by-14s.text" xml:space="preserve">
         <source>U Total</source>
-        <target state="needs-translation">U Total</target>
+        <target state="translated">U yhteensä</target>
         <note>Class = "UILabel"; text = "U Total"; ObjectID = "kys-by-14s";</note>
       </trans-unit>
       <trans-unit id="vls-EW-uwI.title" xml:space="preserve">
         <source>Insulin Delivery</source>
-        <target state="needs-translation">Insulin Delivery</target>
+        <target state="translated">Insuliinin annostelu</target>
         <note>Class = "UINavigationItem"; title = "Insulin Delivery"; ObjectID = "vls-EW-uwI";</note>
       </trans-unit>
     </body>
@@ -662,17 +662,17 @@
     <body>
       <trans-unit id=" higher " xml:space="preserve">
         <source> higher </source>
-        <target state="needs-translation"> higher </target>
+        <target state="translated"> korkeampi </target>
         <note>Information about workout range relative to correction range</note>
       </trans-unit>
       <trans-unit id=" lower " xml:space="preserve">
         <source> lower </source>
-        <target state="needs-translation"> lower </target>
+        <target state="translated"> matalampi </target>
         <note>Information about pre-meal range relative to correction range</note>
       </trans-unit>
       <trans-unit id="%1$@ %2$@" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>The format for an override preset cell. (1: symbol)(2: name)
    The format for an override symbol and name (1: symbol)(2: name)</note>
       </trans-unit>
@@ -683,27 +683,27 @@
       </trans-unit>
       <trans-unit id="%1$@ – %2$@ %3$@" xml:space="preserve">
         <source>%1$@ – %2$@ %3$@</source>
-        <target state="needs-translation">%1$@ – %2$@ %3$@</target>
+        <target state="translated">%1$@ – %2$@ %3$@</target>
         <note>The format for a glucose target range. (1: min target)(2: max target)(3: glucose unit)</note>
       </trans-unit>
       <trans-unit id="%1$d percent complete." xml:space="preserve">
         <source>%1$d percent complete.</source>
-        <target state="needs-translation">%1$d percent complete.</target>
+        <target state="translated">%1$d prosenttia valmis.</target>
         <note>Format string for progress accessibility label (1: duration in seconds)</note>
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
-        <target state="needs-translation">%@</target>
+        <target state="translated">%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ assumes insulin is actively working for 6 hours. You can choose from %@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
-        <target state="needs-translation">%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</target>
+        <target state="translated">%1$@ olettaa, että insuliini vaikuttaa aktiivisesti 6 tuntia. Voit valita %2$@ eri mallista, miten sovellus mittaa insuliinin vaikutushuipun.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve">
         <source>%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</source>
-        <target state="needs-translation">%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</target>
+        <target state="translated">%@ olettaa, että annosteltu insuliini alentaa aktiivisesti glukoosia 6 tunnin ajan. Tätä asetusta ei voi muuttaa.</target>
         <note>Information about insulin action duration</note>
       </trans-unit>
       <trans-unit id="%@%% of normal insulin" xml:space="preserve">
@@ -713,67 +713,67 @@
       </trans-unit>
       <trans-unit id="%@, " xml:space="preserve">
         <source>%@, </source>
-        <target state="needs-translation">%@, </target>
+        <target state="translated">%@, </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
         <source>%@.</source>
-        <target state="needs-translation">%@.</target>
+        <target state="translated">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
       <trans-unit id="%@U" xml:space="preserve">
         <source>%@U</source>
-        <target state="needs-translation">%@U</target>
+        <target state="translated">%@ U</target>
         <note>Format string for reservoir volume. (1: The localized volume)</note>
       </trans-unit>
       <trans-unit id="(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve">
         <source>(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</source>
-        <target state="needs-translation">(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</target>
+        <target state="translated">(appName) olettaa, että annosteltu insuliini alentaa aktiivisesti glukoosia 6 tunnin ajan. Tätä asetusta ei voi muuttaa.</target>
         <note>Information about insulin action duration</note>
       </trans-unit>
       <trans-unit id="-" xml:space="preserve">
         <source>-</source>
-        <target state="needs-translation">-</target>
+        <target state="translated">-</target>
         <note>Separator between min and max glucose values</note>
       </trans-unit>
       <trans-unit id="A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do" xml:space="preserve">
         <source>A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do</source>
-        <target state="needs-translation">A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do</target>
+        <target state="translated">Kortti, jonka teksti rivittyy usealle riville, jos jatkan kirjoittamista riittävän kauan – tämän pituuden pitäisi riittää</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="A correction range is different. This will be a narrower range." xml:space="preserve">
         <source>A correction range is different. This will be a narrower range.</source>
-        <target state="needs-translation">A correction range is different. This will be a narrower range.</target>
+        <target state="translated">Korjausalue tarkoittaa eri asiaa. Se on kapeampi alue.</target>
         <note>Information about differences between target range and correction range</note>
       </trans-unit>
       <trans-unit id="A setting of 0 U means you will not be able to bolus." xml:space="preserve">
         <source>A setting of 0 U means you will not be able to bolus.</source>
-        <target state="needs-translation">A setting of 0 U means you will not be able to bolus.</target>
+        <target state="translated">Asetus 0 U tarkoittaa, että et voi antaa bolusta.</target>
         <note>Caption text for zero maximum bolus setting warning</note>
       </trans-unit>
       <trans-unit id="A setting of 0 U/hr means Loop will not automatically administer insulin." xml:space="preserve">
         <source>A setting of 0 U/hr means Loop will not automatically administer insulin.</source>
-        <target state="needs-translation">A setting of 0 U/hr means Loop will not automatically administer insulin.</target>
+        <target state="translated">Asetus 0 U/t tarkoittaa, että Loop ei säädä basaalitasoja automaattisesti.</target>
         <note>Caption text for low maximum basal rate warning</note>
       </trans-unit>
       <trans-unit id="A simple card" xml:space="preserve">
         <source>A simple card</source>
-        <target state="needs-translation">A simple card</target>
+        <target state="translated">Yksinkertainen kortti</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="A value of 0 U/hr means you will be scheduled to receive no basal insulin." xml:space="preserve">
         <source>A value of 0 U/hr means you will be scheduled to receive no basal insulin.</source>
-        <target state="needs-translation">A value of 0 U/hr means you will be scheduled to receive no basal insulin.</target>
+        <target state="translated">Arvo 0 U/t tarkoittaa, että et saa lainkaan basaali-insuliinia.</target>
         <note>Warning text for basal rate of 0 U/hr</note>
       </trans-unit>
       <trans-unit id="Above dynamic data" xml:space="preserve">
         <source>Above dynamic data</source>
-        <target state="needs-translation">Above dynamic data</target>
+        <target state="translated">Dynaamisten tietojen yläpuolella</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Above the save button" xml:space="preserve">
         <source>Above the save button</source>
-        <target state="needs-translation">Above the save button</target>
+        <target state="translated">Tallenna-painikkeen yläpuolella</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Absorption Time" xml:space="preserve">
@@ -783,7 +783,7 @@
       </trans-unit>
       <trans-unit id="Action Button" xml:space="preserve">
         <source>Action Button</source>
-        <target state="needs-translation">Action Button</target>
+        <target state="translated">Toimintopainike</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Activity" xml:space="preserve">
@@ -793,7 +793,7 @@
       </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Lisää</target>
         <note>Button text to confirm adding a new schedule item</note>
       </trans-unit>
       <trans-unit id="Add Account" xml:space="preserve">
@@ -818,12 +818,12 @@
       </trans-unit>
       <trans-unit id="Authenticate to save therapy setting" xml:space="preserve">
         <source>Authenticate to save therapy setting</source>
-        <target state="needs-translation">Authenticate to save therapy setting</target>
+        <target state="translated">Varmenna tallentaaksesi hoitoasetukset</target>
         <note>Authentication hint string for therapy settings</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target state="needs-translation">Basal Rates</target>
+        <target state="translated">Basaalitasot</target>
         <note>Title text for multi-value basal rate warning</note>
       </trans-unit>
       <trans-unit id="Basal, bolus, and correction insulin dose amounts are decreased by %@%%." xml:space="preserve">
@@ -843,17 +843,17 @@
       </trans-unit>
       <trans-unit id="Below dynamic data" xml:space="preserve">
         <source>Below dynamic data</source>
-        <target state="needs-translation">Below dynamic data</target>
+        <target state="translated">Dynaamisten tietojen alapuolella</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Bottom" xml:space="preserve">
         <source>Bottom</source>
-        <target state="needs-translation">Bottom</target>
+        <target state="translated">Alaosa</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Bottom component" xml:space="preserve">
         <source>Bottom component</source>
-        <target state="needs-translation">Bottom component</target>
+        <target state="translated">Alaosan komponentti</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -873,7 +873,7 @@
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve">
         <source>Carb Ratios</source>
-        <target state="needs-translation">Carb Ratios</target>
+        <target state="translated">Hiilihydraattisuhteet</target>
         <note>Title text for multi-value carb ratio warning</note>
       </trans-unit>
       <trans-unit id="Changes will only apply this time you enable the override. The default settings of %@ will not be affected." xml:space="preserve">
@@ -883,7 +883,7 @@
       </trans-unit>
       <trans-unit id="Changes will only apply this time you enable the preset. The default settings of %@ will not be affected." xml:space="preserve">
         <source>Changes will only apply this time you enable the preset. The default settings of %@ will not be affected.</source>
-        <target state="needs-translation">Changes will only apply this time you enable the preset. The default settings of %@ will not be affected.</target>
+        <target state="translated">Muutokset ovat voimassa vain tällä kertaa, kun esiasetus otetaan käyttöön. Tämä ei vaikuta alkuperäisiin %@ -asetuksiin.</target>
         <note>Footer text for customizing from a preset (1: preset name)</note>
       </trans-unit>
       <trans-unit id="Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." xml:space="preserve">
@@ -893,13 +893,13 @@
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
-        <target state="needs-translation">Close</target>
+        <target state="translated">Sulje</target>
         <note>Button text to close a modal
    Text to close informational page</note>
       </trans-unit>
       <trans-unit id="Completed." xml:space="preserve">
         <source>Completed.</source>
-        <target state="needs-translation">Completed.</target>
+        <target state="translated">Valmis.</target>
         <note>Accessibility label for ProgressIndicatorView when showIndeterminantProgress</note>
       </trans-unit>
       <trans-unit id="Condition" xml:space="preserve">
@@ -909,7 +909,7 @@
       </trans-unit>
       <trans-unit id="Confirm Setting" xml:space="preserve">
         <source>Confirm Setting</source>
-        <target state="needs-translation">Confirm Setting</target>
+        <target state="translated">Vahvista asetus</target>
         <note>The button text for confirming the setting</note>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
@@ -919,7 +919,7 @@
       </trans-unit>
       <trans-unit id="Correction Values" xml:space="preserve">
         <source>Correction Values</source>
-        <target state="needs-translation">Correction Values</target>
+        <target state="translated">Korjausarvot</target>
         <note>Title text for multi-value correction value warning</note>
       </trans-unit>
       <trans-unit id="Correction range is the blood glucose range that you would like Loop to correct to." xml:space="preserve">
@@ -939,7 +939,7 @@
       </trans-unit>
       <trans-unit id="Custom Preset" xml:space="preserve">
         <source>Custom Preset</source>
-        <target state="needs-translation">Custom Preset</target>
+        <target state="translated">Mukautettu esiasetus</target>
         <note>The title for the custom preset entry screen
    The title for the custom preset selection screen</note>
       </trans-unit>
@@ -950,7 +950,7 @@
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Poista</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Account" xml:space="preserve">
@@ -965,22 +965,22 @@
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
         <source>Delivery Limits</source>
-        <target state="needs-translation">Delivery Limits</target>
+        <target state="translated">Annostelurajat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delivery limits are safety guardrails for your insulin delivery." xml:space="preserve">
         <source>Delivery limits are safety guardrails for your insulin delivery.</source>
-        <target state="needs-translation">Delivery limits are safety guardrails for your insulin delivery.</target>
+        <target state="translated">Annostelurajoilla tarkoitetaan insuliiniannostelun turvarajoja.</target>
         <note>Information about delivery limits</note>
       </trans-unit>
       <trans-unit id="Disable Preset" xml:space="preserve">
         <source>Disable Preset</source>
-        <target state="needs-translation">Disable Preset</target>
+        <target state="translated">Poista esiasetus käytöstä</target>
         <note>The text for the custom preset disable button</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target state="needs-translation">Done</target>
+        <target state="translated">Valmis</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
@@ -990,17 +990,17 @@
       </trans-unit>
       <trans-unit id="Dynamic component #%@" xml:space="preserve">
         <source>Dynamic component #%@</source>
-        <target state="needs-translation">Dynamic component #%@</target>
+        <target state="translated">Dynaaminen komponentti #%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Dynamic data %@" xml:space="preserve">
         <source>Dynamic data %@</source>
-        <target state="needs-translation">Dynamic data %@</target>
+        <target state="translated">Dynaamiset tiedot %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Muokkaa</target>
         <note>The title for the enabled custom preset editing screen</note>
       </trans-unit>
       <trans-unit id="Edit Carb Entry" xml:space="preserve">
@@ -1020,7 +1020,7 @@
       </trans-unit>
       <trans-unit id="Edits persist only until the preset is disabled. The default settings of %@ will not be affected." xml:space="preserve">
         <source>Edits persist only until the preset is disabled. The default settings of %@ will not be affected.</source>
-        <target state="needs-translation">Edits persist only until the preset is disabled. The default settings of %@ will not be affected.</target>
+        <target state="translated">Muokkaukset säilyvät siihen asti, kun esiasetus poistetaan käytöstä. Tämä ei vaikuta alkuperäisiin %@ -asetuksiin.</target>
         <note>Footer text for editing an enabled custom preset (1: preset name)</note>
       </trans-unit>
       <trans-unit id="Enable" xml:space="preserve">
@@ -1045,17 +1045,17 @@
       </trans-unit>
       <trans-unit id="Enter a rate in units per hour" xml:space="preserve">
         <source>Enter a rate in units per hour</source>
-        <target state="translated">Syötä nopeus yksiköinä tunnissa</target>
+        <target state="translated">Syötä määrä yksiköinä tunnissa</target>
         <note>The placeholder text instructing users how to enter a maximum basal rate</note>
       </trans-unit>
       <trans-unit id="Enter value" xml:space="preserve">
         <source>Enter value</source>
-        <target state="needs-translation">Enter value</target>
+        <target state="translated">Syötä arvo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Example" xml:space="preserve">
         <source>Example</source>
-        <target state="needs-translation">Example</target>
+        <target state="translated">Esimerkki</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Fast" xml:space="preserve">
@@ -1065,117 +1065,117 @@
       </trans-unit>
       <trans-unit id="Fiasp" xml:space="preserve">
         <source>Fiasp</source>
-        <target state="needs-translation">Fiasp</target>
+        <target state="translated">Fiasp</target>
         <note>Title of insulin model preset - fiasp</note>
       </trans-unit>
       <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
         <source>For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target state="needs-translation">For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</target>
+        <target state="translated">Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.</target>
         <note>Information about correction range</note>
       </trans-unit>
       <trans-unit id="Get help with Therapy Settings" xml:space="preserve">
         <source>Get help with Therapy Settings</source>
-        <target state="needs-translation">Get help with Therapy Settings</target>
+        <target state="translated">Apua hoitoasetuksiin</target>
         <note>Support button for Therapy Settings</note>
       </trans-unit>
       <trans-unit id="Go Back" xml:space="preserve">
         <source>Go Back</source>
-        <target state="needs-translation">Go Back</target>
+        <target state="translated">Takaisin</target>
         <note>Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range</note>
       </trans-unit>
       <trans-unit id="High Basal Rate" xml:space="preserve">
         <source>High Basal Rate</source>
-        <target state="needs-translation">High Basal Rate</target>
+        <target state="translated">Korkea basaalitaso</target>
         <note>Title text for the high basal rate warning</note>
       </trans-unit>
       <trans-unit id="High Carb Ratio" xml:space="preserve">
         <source>High Carb Ratio</source>
-        <target state="needs-translation">High Carb Ratio</target>
+        <target state="translated">Korkea hiilihydraattisuhde</target>
         <note>Title text for the high carb ratio warning</note>
       </trans-unit>
       <trans-unit id="High Correction Value" xml:space="preserve">
         <source>High Correction Value</source>
-        <target state="needs-translation">High Correction Value</target>
+        <target state="translated">Korkea korjausarvo</target>
         <note>Title text for the high correction value warning</note>
       </trans-unit>
       <trans-unit id="High Insulin Sensitivity" xml:space="preserve">
         <source>High Insulin Sensitivity</source>
-        <target state="needs-translation">High Insulin Sensitivity</target>
+        <target state="translated">Korkea insuliiniherkkyys</target>
         <note>Title text for the high insulin sensitivity warning</note>
       </trans-unit>
       <trans-unit id="High Maximum Basal Rate" xml:space="preserve">
         <source>High Maximum Basal Rate</source>
-        <target state="needs-translation">High Maximum Basal Rate</target>
+        <target state="translated">Korkea suurin sallittu basaalitaso</target>
         <note>Title text for high maximum basal rate warning</note>
       </trans-unit>
       <trans-unit id="High Maximum Bolus" xml:space="preserve">
         <source>High Maximum Bolus</source>
-        <target state="needs-translation">High Maximum Bolus</target>
+        <target state="translated">Korkea suurin sallittu bolus</target>
         <note>Title text for high maximum bolus warning</note>
       </trans-unit>
       <trans-unit id="High Suspend Threshold" xml:space="preserve">
         <source>High Suspend Threshold</source>
-        <target state="needs-translation">High Suspend Threshold</target>
+        <target state="translated">Korkea pysäytysraja</target>
         <note>Title text for the high suspend threshold warning</note>
       </trans-unit>
       <trans-unit id="If these settings look good to you, tap Save Settings to continue." xml:space="preserve">
         <source>If these settings look good to you, tap Save Settings to continue.</source>
-        <target state="needs-translation">If these settings look good to you, tap Save Settings to continue.</target>
+        <target state="translated">Jos nämä asetukset näyttävät sopivilta, jatka napauttamalla Tallenna asetukset.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." xml:space="preserve">
         <source>If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL.</source>
-        <target state="needs-translation">If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL.</target>
+        <target state="translated">Jos olet käyttänyt jatkuvaa glukoosinseurantaa aiemmin, tavoitealue on todennäköisesti tuttu laajana glukoosiarvoalueena, jonka haluat hälytyksille, esimerkiksi 70–180 mg/dL tai 90–200 mg/dL.</target>
         <note>Information about target range</note>
       </trans-unit>
       <trans-unit id="Insulin Sensitivities" xml:space="preserve">
         <source>Insulin Sensitivities</source>
-        <target state="needs-translation">Insulin Sensitivities</target>
+        <target state="translated">Insuliiniherkkyydet</target>
         <note>Title text for multi-value insulin sensitivity warning</note>
       </trans-unit>
       <trans-unit id="Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." xml:space="preserve">
         <source>Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose.</source>
-        <target state="translated">Insuliiniherkkyys kuvaa sitä, kuinka paljon verensokerisi laskee yhdellä insuliiniyksiköllä. Liian pienet arvot voivat johtaa vaarallisen matalaan verensokeriin.</target>
+        <target state="translated">Insuliiniherkkyys kuvaa sitä, kuinka paljon glukoosi laskee yhdellä insuliiniyksiköllä. Liian pienet arvot voivat johtaa vaarallisen matalaan verensokeriin.</target>
         <note>The description shown on the insulin sensitivity schedule interface.</note>
       </trans-unit>
       <trans-unit id="Loop supports 1 to 48 rates per day." xml:space="preserve">
         <source>Loop supports 1 to 48 rates per day.</source>
-        <target state="needs-translation">Loop supports 1 to 48 rates per day.</target>
+        <target state="translated">Loop tukee 1–48 basaalitasoa päivässä.</target>
         <note>Information about max number of basal rates</note>
       </trans-unit>
       <trans-unit id="Low Basal Rate" xml:space="preserve">
         <source>Low Basal Rate</source>
-        <target state="needs-translation">Low Basal Rate</target>
+        <target state="translated">Matala basaalitaso</target>
         <note>Title text for the low basal rate warning</note>
       </trans-unit>
       <trans-unit id="Low Carb Ratio" xml:space="preserve">
         <source>Low Carb Ratio</source>
-        <target state="needs-translation">Low Carb Ratio</target>
+        <target state="translated">Matala hiilihydraattisuhde</target>
         <note>Title text for the low carb ratio warning</note>
       </trans-unit>
       <trans-unit id="Low Correction Value" xml:space="preserve">
         <source>Low Correction Value</source>
-        <target state="needs-translation">Low Correction Value</target>
+        <target state="translated">Matala korjausarvo</target>
         <note>Title text for the low correction value warning</note>
       </trans-unit>
       <trans-unit id="Low Insulin Sensitivity" xml:space="preserve">
         <source>Low Insulin Sensitivity</source>
-        <target state="needs-translation">Low Insulin Sensitivity</target>
+        <target state="translated">Matala insuliiniherkkyys</target>
         <note>Title text for the low insulin sensitivity warning</note>
       </trans-unit>
       <trans-unit id="Low Maximum Basal Rate" xml:space="preserve">
         <source>Low Maximum Basal Rate</source>
-        <target state="needs-translation">Low Maximum Basal Rate</target>
+        <target state="translated">Matala suurin sallittu basaalitaso</target>
         <note>Title text for low maximum basal rate warning</note>
       </trans-unit>
       <trans-unit id="Low Maximum Bolus" xml:space="preserve">
         <source>Low Maximum Bolus</source>
-        <target state="needs-translation">Low Maximum Bolus</target>
+        <target state="translated">Matala suurin sallittu bolus</target>
         <note>Title text for low maximum bolus warning</note>
       </trans-unit>
       <trans-unit id="Low Suspend Threshold" xml:space="preserve">
         <source>Low Suspend Threshold</source>
-        <target state="needs-translation">Low Suspend Threshold</target>
+        <target state="translated">Matala pysäytysraja</target>
         <note>Title text for the low suspend threshold warning</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate" xml:space="preserve">
@@ -1190,22 +1190,22 @@
       </trans-unit>
       <trans-unit id="Maximum basal rate" xml:space="preserve">
         <source>Maximum basal rate</source>
-        <target state="needs-translation">Maximum basal rate</target>
+        <target state="translated">Suurin sallittu basaalitaso</target>
         <note>Maximum basal rate title</note>
       </trans-unit>
       <trans-unit id="Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range." xml:space="preserve">
         <source>Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range.</source>
-        <target state="needs-translation">Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range.</target>
+        <target state="translated">Suurin sallittu basaalitaso on korkein määrä basaali-insuliinille, jonka Loop saa asettaa automaattisesti tavoitellessaan korjausaluetta.</target>
         <note>Information about maximum basal rate</note>
       </trans-unit>
       <trans-unit id="Maximum bolus" xml:space="preserve">
         <source>Maximum bolus</source>
-        <target state="needs-translation">Maximum bolus</target>
+        <target state="translated">Suurin sallittu bolus</target>
         <note>Maximum bolus title</note>
       </trans-unit>
       <trans-unit id="Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose." xml:space="preserve">
         <source>Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose.</source>
-        <target state="needs-translation">Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose.</target>
+        <target state="translated">Suurin sallittu bolus on suurin insuliiniannos, jonka Loop voi antaa yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.</target>
         <note>Information about maximum bolus</note>
       </trans-unit>
       <trans-unit id="Medium" xml:space="preserve">
@@ -1215,7 +1215,7 @@
       </trans-unit>
       <trans-unit id="Middle" xml:space="preserve">
         <source>Middle</source>
-        <target state="needs-translation">Middle</target>
+        <target state="translated">Keskellä</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="More Info" xml:space="preserve">
@@ -1230,7 +1230,7 @@
       </trans-unit>
       <trans-unit id="New Entry" xml:space="preserve">
         <source>New Entry</source>
-        <target state="needs-translation">New Entry</target>
+        <target state="translated">Uusi merkintä</target>
         <note>Title for mini-modal to add a new schedule entry</note>
       </trans-unit>
       <trans-unit id="New Preset" xml:space="preserve">
@@ -1240,7 +1240,7 @@
       </trans-unit>
       <trans-unit id="No Basal Insulin" xml:space="preserve">
         <source>No Basal Insulin</source>
-        <target state="needs-translation">No Basal Insulin</target>
+        <target state="translated">Ei basaali-insuliinia</target>
         <note>Title text for the zero basal rate warning</note>
       </trans-unit>
       <trans-unit id="Other" xml:space="preserve">
@@ -1281,17 +1281,17 @@
       </trans-unit>
       <trans-unit id="Pre-meal temp adjust range" xml:space="preserve">
         <source>Pre-meal temp adjust range</source>
-        <target state="needs-translation">Pre-meal temp adjust range</target>
+        <target state="translated">Ennen ateriaa -alue</target>
         <note>Title for pre-meal range information section</note>
       </trans-unit>
       <trans-unit id="Prescription" xml:space="preserve">
         <source>Prescription</source>
-        <target state="needs-translation">Prescription</target>
+        <target state="translated">Resepti</target>
         <note>title for prescription section</note>
       </trans-unit>
       <trans-unit id="Progressing." xml:space="preserve">
         <source>Progressing.</source>
-        <target state="needs-translation">Progressing.</target>
+        <target state="translated">Edistyminen.</target>
         <note>Accessibility label for ProgressIndicatorView when showIndeterminantProgress</note>
       </trans-unit>
       <trans-unit id="Pump Event" xml:space="preserve">
@@ -1301,12 +1301,12 @@
       </trans-unit>
       <trans-unit id="Rapid-Acting – Adults" xml:space="preserve">
         <source>Rapid-Acting – Adults</source>
-        <target state="needs-translation">Rapid-Acting – Adults</target>
+        <target state="translated">Nopeavaikutteinen – aikuiset</target>
         <note>Title of insulin model preset - rapid acting adult</note>
       </trans-unit>
       <trans-unit id="Rapid-Acting – Children" xml:space="preserve">
         <source>Rapid-Acting – Children</source>
-        <target state="needs-translation">Rapid-Acting – Children</target>
+        <target state="translated">Nopeavaikutteinen – lapset</target>
         <note>Title of insulin model preset - rapid acting children</note>
       </trans-unit>
       <trans-unit id="Required" xml:space="preserve">
@@ -1326,12 +1326,12 @@
       </trans-unit>
       <trans-unit id="Review and Save Settings" xml:space="preserve">
         <source>Review and Save Settings</source>
-        <target state="needs-translation">Review and Save Settings</target>
+        <target state="translated">Tarkista ja tallenna asetukset</target>
         <note>title for summary description section</note>
       </trans-unit>
       <trans-unit id="Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." xml:space="preserve">
         <source>Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen.</source>
-        <target state="needs-translation">Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen.</target>
+        <target state="translated">Tarkista alla olevat hoidon asetukset. Jos haluat muokata jotakin näistä asetuksista, napauta Takaisin.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="Running" xml:space="preserve">
@@ -1346,7 +1346,7 @@
       </trans-unit>
       <trans-unit id="SCHEDULED PRESET" xml:space="preserve">
         <source>SCHEDULED PRESET</source>
-        <target state="needs-translation">SCHEDULED PRESET</target>
+        <target state="translated">AJASTETTU ESIASETUS</target>
         <note>The section header text for a scheduled custom preset</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -1357,37 +1357,37 @@
       </trans-unit>
       <trans-unit id="Save Basal Rates?" xml:space="preserve">
         <source>Save Basal Rates?</source>
-        <target state="needs-translation">Save Basal Rates?</target>
+        <target state="translated">Tallenna basaalitasot?</target>
         <note>Alert title for confirming basal rates outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Save Carb Ratios?" xml:space="preserve">
         <source>Save Carb Ratios?</source>
-        <target state="needs-translation">Save Carb Ratios?</target>
+        <target state="translated">Tallenna hiilihydraattisuhteet?</target>
         <note>Alert title for confirming carb ratios outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Save Correction Range Overrides?" xml:space="preserve">
         <source>Save Correction Range Overrides?</source>
-        <target state="needs-translation">Save Correction Range Overrides?</target>
+        <target state="translated">Tallenna korjausalueen ohitukset?</target>
         <note>Alert title for confirming correction range overrides outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Save Correction Range(s)?" xml:space="preserve">
         <source>Save Correction Range(s)?</source>
-        <target state="needs-translation">Save Correction Range(s)?</target>
+        <target state="translated">Tallenna korjausalue(et)?</target>
         <note>Alert title for confirming correction ranges outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Save Delivery Limits?" xml:space="preserve">
         <source>Save Delivery Limits?</source>
-        <target state="needs-translation">Save Delivery Limits?</target>
+        <target state="translated">Tallenna annostelurajat?</target>
         <note>Alert title for confirming delivery limits outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Save Insulin Sensitivities?" xml:space="preserve">
         <source>Save Insulin Sensitivities?</source>
-        <target state="needs-translation">Save Insulin Sensitivities?</target>
+        <target state="translated">Tallenna insuliiniherkkyydet?</target>
         <note>Alert title for confirming insulin sensitivities outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Save Suspend Threshold?" xml:space="preserve">
         <source>Save Suspend Threshold?</source>
-        <target state="needs-translation">Save Suspend Threshold?</target>
+        <target state="translated">Tallenna pysäytysraja?</target>
         <note>Alert title for confirming a suspend threshold outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Slow" xml:space="preserve">
@@ -1397,12 +1397,12 @@
       </trans-unit>
       <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="needs-translation">Some of the values you have entered are outside of what is typically recommended for most people.</target>
+        <target state="translated">Jotkut antamistasi arvoista ovat useimmille ihmisille tyypillisesti suositeltavien arvojen ulkopuolella.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." xml:space="preserve">
         <source>Some users choose a value 2, 3, or 4 times their highest scheduled basal rate.</source>
-        <target state="needs-translation">Some users choose a value 2, 3, or 4 times their highest scheduled basal rate.</target>
+        <target state="translated">Jotkut käyttäjät valitsevat heidän korkeinta basaalitasoaan 2, 3 tai 4 kertaa suuremman arvon.</target>
         <note>Information about typical maximum basal rates</note>
       </trans-unit>
       <trans-unit id="Start Time" xml:space="preserve">
@@ -1417,12 +1417,12 @@
       </trans-unit>
       <trans-unit id="Submitted by %1$@, %2$@" xml:space="preserve">
         <source>Submitted by %1$@, %2$@</source>
-        <target state="needs-translation">Submitted by %1$@, %2$@</target>
+        <target state="translated">Lähettänyt %1$@, %2$@</target>
         <note>Format for prescription descriptive text (1: providerName, 2: datePrescribed)</note>
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
         <source>Support</source>
-        <target state="needs-translation">Support</target>
+        <target state="translated">Tuki</target>
         <note>Title for support section</note>
       </trans-unit>
       <trans-unit id="Suspend Delivery" xml:space="preserve">
@@ -1437,7 +1437,7 @@
       </trans-unit>
       <trans-unit id="Switch Preview State" xml:space="preserve">
         <source>Switch Preview State</source>
-        <target state="needs-translation">Switch Preview State</target>
+        <target state="translated">Vaihda esikatselutila</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Symbol" xml:space="preserve">
@@ -1447,7 +1447,7 @@
       </trans-unit>
       <trans-unit id="Tap '+' to create a new custom preset." xml:space="preserve">
         <source>Tap '+' to create a new custom preset.</source>
-        <target state="needs-translation">Tap '+' to create a new custom preset.</target>
+        <target state="translated">Luo uusi mukautettu esiasetus napauttamalla '+'.</target>
         <note>Text directing the user to configure their first custom preset</note>
       </trans-unit>
       <trans-unit id="Tap to set" xml:space="preserve">
@@ -1467,7 +1467,7 @@
       </trans-unit>
       <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve">
         <source>The legacy model used by Loop, allowing customization of action duration.</source>
-        <target state="needs-translation">The legacy model used by Loop, allowing customization of action duration.</target>
+        <target state="translated">Loopin vanha insuliinimalli, jossa voi muokata insuliinin vaikutusaikaa.</target>
         <note>Subtitle description of Walsh insulin model setting</note>
       </trans-unit>
       <trans-unit id="The maximum absorption time is %@" xml:space="preserve">
@@ -1482,53 +1482,53 @@
       </trans-unit>
       <trans-unit id="The rapid-acting adult model assumes peak activity at 75 minutes." xml:space="preserve">
         <source>The rapid-acting adult model assumes peak activity at 75 minutes.</source>
-        <target state="needs-translation">The rapid-acting adult model assumes peak activity at 75 minutes.</target>
+        <target state="translated">Nopeavaikutteinen aikuisten malli olettaa vaikutushuippua 75 minuutissa.</target>
         <note>Information about adult insulin model</note>
       </trans-unit>
       <trans-unit id="The rapid-acting child model assumes peak activity at 65 minutes." xml:space="preserve">
         <source>The rapid-acting child model assumes peak activity at 65 minutes.</source>
-        <target state="needs-translation">The rapid-acting child model assumes peak activity at 65 minutes.</target>
+        <target state="translated">Nopeavaikutteinen lasten malli olettaa vaikutushuippua 65 minuutissa.</target>
         <note>Information about child insulin model</note>
       </trans-unit>
       <trans-unit id="The schedule starts at midnight and cannot contain a rate of 0 U/hr." xml:space="preserve">
         <source>The schedule starts at midnight and cannot contain a rate of 0 U/hr.</source>
-        <target state="needs-translation">The schedule starts at midnight and cannot contain a rate of 0 U/hr.</target>
+        <target state="translated">Aikataulu alkaa keskiyöstä, eikä se voi sisältää 0 U/t basaalitasoa.</target>
         <note>Information about basal rate scheduling</note>
       </trans-unit>
       <trans-unit id="Therapy Settings" xml:space="preserve">
         <source>Therapy Settings</source>
-        <target state="needs-translation">Therapy Settings</target>
+        <target state="translated">Hoidon asetukset</target>
         <note>Therapy Settings screen title</note>
       </trans-unit>
       <trans-unit id="Therapy Settings Support Placeholder" xml:space="preserve">
         <source>Therapy Settings Support Placeholder</source>
-        <target state="needs-translation">Therapy Settings Support Placeholder</target>
+        <target state="translated">Terapia-asetusten tuen paikkamerkki</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This model assumes peak insulin activity at 55 minutes." xml:space="preserve">
         <source>This model assumes peak insulin activity at 55 minutes.</source>
-        <target state="needs-translation">This model assumes peak insulin activity at 55 minutes.</target>
+        <target state="translated">Tässä mallissa oletetaan, että insuliinin vaikutushuippu on 55 minuutissa.</target>
         <note>Subtitle of Fiasp preset</note>
       </trans-unit>
       <trans-unit id="This model assumes peak insulin activity at 65 minutes." xml:space="preserve">
         <source>This model assumes peak insulin activity at 65 minutes.</source>
-        <target state="needs-translation">This model assumes peak insulin activity at 65 minutes.</target>
+        <target state="translated">Tässä mallissa oletetaan, että insuliinin vaikutushuippu on 65 minuutissa.</target>
         <note>Subtitle of Rapid-Acting – Children preset</note>
       </trans-unit>
       <trans-unit id="This model assumes peak insulin activity at 75 minutes." xml:space="preserve">
         <source>This model assumes peak insulin activity at 75 minutes.</source>
-        <target state="needs-translation">This model assumes peak insulin activity at 75 minutes.</target>
+        <target state="translated">Tässä mallissa oletetaan, että insuliinin vaikutushuippu on 75 minuutissa.</target>
         <note>Subtitle of Rapid-Acting – Adult preset</note>
       </trans-unit>
       <trans-unit id="This will typically be" xml:space="preserve">
         <source>This will typically be</source>
-        <target state="needs-translation">This will typically be</target>
+        <target state="translated">Tämä on yleensä</target>
         <note>Information about pre-meal range relative to correction range
    Information about workout range relative to correction range</note>
       </trans-unit>
       <trans-unit id="Time" xml:space="preserve">
         <source>Time</source>
-        <target state="needs-translation">Time</target>
+        <target state="translated">Aika</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Times in %1$@%2$@%3$@" xml:space="preserve">
@@ -1538,17 +1538,17 @@
       </trans-unit>
       <trans-unit id="To be implemented" xml:space="preserve">
         <source>To be implemented</source>
-        <target state="needs-translation">To be implemented</target>
+        <target state="translated">Toteutettava</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Top" xml:space="preserve">
         <source>Top</source>
-        <target state="needs-translation">Top</target>
+        <target state="translated">Yläosa</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Top component" xml:space="preserve">
         <source>Top component</source>
-        <target state="needs-translation">Top component</target>
+        <target state="translated">Ylin komponentti</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="U/hour" xml:space="preserve">
@@ -1558,7 +1558,7 @@
       </trans-unit>
       <trans-unit id="Unable to Save" xml:space="preserve">
         <source>Unable to Save</source>
-        <target state="needs-translation">Unable to Save</target>
+        <target state="translated">Ei voitu tallentaa</target>
         <note>Alert title when error occurs while saving a schedule</note>
       </trans-unit>
       <trans-unit id="Units" xml:space="preserve">
@@ -1574,7 +1574,7 @@
       </trans-unit>
       <trans-unit id="Value" xml:space="preserve">
         <source>Value</source>
-        <target state="needs-translation">Value</target>
+        <target state="translated">Arvo</target>
         <note>Placeholder text until value is entered</note>
       </trans-unit>
       <trans-unit id="Verifying" xml:space="preserve">
@@ -1584,7 +1584,7 @@
       </trans-unit>
       <trans-unit id="Walsh" xml:space="preserve">
         <source>Walsh</source>
-        <target state="needs-translation">Walsh</target>
+        <target state="translated">Walsh</target>
         <note>Title of insulin model setting</note>
       </trans-unit>
       <trans-unit id="Warning" xml:space="preserve">
@@ -1594,7 +1594,7 @@
       </trans-unit>
       <trans-unit id="Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable." xml:space="preserve">
         <source>Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable.</source>
-        <target state="needs-translation">Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable.</target>
+        <target state="translated">Keskustele terveydenhuollon ammattilaisen kanssa valitaksesi arvon, joka on korkeampi kuin korkein ohjelmoitu basaalitasosi, mutta niin konservatiivinen tai aggressiivinen, että tunnet olosi mukavaksi.</target>
         <note>Disclaimer</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
@@ -1604,77 +1604,77 @@
       </trans-unit>
       <trans-unit id="Workout temp adjust is the glucose value or range of values you want Loop to target during activity." xml:space="preserve">
         <source>Workout temp adjust is the glucose value or range of values you want Loop to target during activity.</source>
-        <target state="needs-translation">Workout temp adjust is the glucose value or range of values you want Loop to target during activity.</target>
+        <target state="translated">Liikuntatila tarkoittaa glukoosiarvoa tai arvoaluetta, johon haluat Loopin tähtäävän liikunnan aikana.</target>
         <note>Information about workout range</note>
       </trans-unit>
       <trans-unit id="Workout temp adjust range" xml:space="preserve">
         <source>Workout temp adjust range</source>
-        <target state="needs-translation">Workout temp adjust range</target>
+        <target state="translated">Liikuntatilan alue</target>
         <note>Title for workout range information section</note>
       </trans-unit>
       <trans-unit id="You can add different carb ratios for different times of day by using the ➕." xml:space="preserve">
         <source>You can add different carb ratios for different times of day by using the ➕.</source>
-        <target state="needs-translation">You can add different carb ratios for different times of day by using the ➕.</target>
+        <target state="translated">Voit lisätä erilaisia hiilihydraattisuhteita eri aikoihin päivästä napauttamalla ➕.</target>
         <note>Description of how to add a ratio</note>
       </trans-unit>
       <trans-unit id="You can add different insulin sensitivities for different times of day by using the ➕." xml:space="preserve">
         <source>You can add different insulin sensitivities for different times of day by using the ➕.</source>
-        <target state="needs-translation">You can add different insulin sensitivities for different times of day by using the ➕.</target>
+        <target state="translated">Voit lisätä erilaisia insuliiniherkkyyksiä eri aikoihin päivästä napauttamalla ➕.</target>
         <note>Description of how to add a ratio</note>
       </trans-unit>
       <trans-unit id="You can add different ranges for different times of day by using the ➕." xml:space="preserve">
         <source>You can add different ranges for different times of day by using the ➕.</source>
-        <target state="needs-translation">You can add different ranges for different times of day by using the ➕.</target>
+        <target state="translated">Voit lisätä erilaisia korjausalueita eri aikoihin päivästä napauttamalla ➕.</target>
         <note>Description of how to add a configuration range</note>
       </trans-unit>
       <trans-unit id="You can add entries for different times of day by using the ➕." xml:space="preserve">
         <source>You can add entries for different times of day by using the ➕.</source>
-        <target state="needs-translation">You can add entries for different times of day by using the ➕.</target>
+        <target state="translated">Voit lisätä merkintöjä eri aikoihin päivästä napauttamalla ➕.</target>
         <note>Description of how to add a range</note>
       </trans-unit>
       <trans-unit id="You can choose how %@ measures the insulin's peak activity according to one of these two insulin models." xml:space="preserve">
         <source>You can choose how %@ measures the insulin's peak activity according to one of these two insulin models.</source>
-        <target state="needs-translation">You can choose how %@ measures the insulin's peak activity according to one of these two insulin models.</target>
+        <target state="translated">Voit valita, kuinka %@ mittaa insuliinin vaikutushuippua valitsemalla toisen näistä kahdesta insuliinimallista.</target>
         <note>Information about insulin model</note>
       </trans-unit>
       <trans-unit id="You can choose how (appName) measures the insulin's peak activity according to one of these two insulin models." xml:space="preserve">
         <source>You can choose how (appName) measures the insulin's peak activity according to one of these two insulin models.</source>
-        <target state="needs-translation">You can choose how (appName) measures the insulin's peak activity according to one of these two insulin models.</target>
+        <target state="translated">Voit valita, kuinka (appName) mittaa insuliinin vaikutushuippua valitsemalla toisen näistä kahdesta insuliinimallista.</target>
         <note>Information about insulin model</note>
       </trans-unit>
       <trans-unit id="You can edit a setting by tapping into any line item." xml:space="preserve">
         <source>You can edit a setting by tapping into any line item.</source>
-        <target state="needs-translation">You can edit a setting by tapping into any line item.</target>
+        <target state="translated">Voit muokata asetusta napauttamalla mitä tahansa riviä.</target>
         <note>Description of how to edit setting</note>
       </trans-unit>
       <trans-unit id="You can edit the setting by tapping into the line item." xml:space="preserve">
         <source>You can edit the setting by tapping into the line item.</source>
-        <target state="needs-translation">You can edit the setting by tapping into the line item.</target>
+        <target state="translated">Voit muokata asetusta napauttamalla riviä.</target>
         <note>Description of how to edit setting</note>
       </trans-unit>
       <trans-unit id="Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
         <source>Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="needs-translation">Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</target>
+        <target state="translated">Basaalitaso tarkoittaa sitä yksikkömäärää insuliinia tunnissa, jonka tarvitset insuliinin perustarpeen kattamiseen.</target>
         <note>Information about basal rates</note>
       </trans-unit>
       <trans-unit id="Your healthcare provider can help you choose a correction range that's right for you." xml:space="preserve">
         <source>Your healthcare provider can help you choose a correction range that's right for you.</source>
-        <target state="needs-translation">Your healthcare provider can help you choose a correction range that's right for you.</target>
+        <target state="translated">Terveydenhuollon ammattilainen voi auttaa sinua valitsemaan sinulle sopivan korjausalueen.</target>
         <note>Disclaimer</note>
       </trans-unit>
       <trans-unit id="Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." xml:space="preserve">
         <source>Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin.</source>
-        <target state="needs-translation">Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin.</target>
+        <target state="translated">Insuliiniherkkyysarvo (ISF) tarkoittaa glukoosin odotettua laskua, jonka yksi yksikkö insuliinia aiheuttaa.</target>
         <note>Description of insulin sensitivity factor</note>
       </trans-unit>
       <trans-unit id="Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." xml:space="preserve">
         <source>Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal.</source>
-        <target state="needs-translation">Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal.</target>
+        <target state="translated">Ennen ateriaa -tila tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin korjaavan aterian alkuun mennessä.</target>
         <note>Information about pre-meal range</note>
       </trans-unit>
       <trans-unit id="authentication-button-delete" xml:space="preserve">
         <source>authentication-button-delete</source>
-        <target state="needs-translation">authentication-button-delete</target>
+        <target state="translated">todennus-painike-poisto</target>
         <note>The title of the button to remove the credentials for a service</note>
       </trans-unit>
       <trans-unit id="com.loudnate.CarbKit.COBDateLabel" xml:space="preserve">
@@ -1699,12 +1699,12 @@
       </trans-unit>
       <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target state="translated">OK</target>
         <note>The title of the action used to dismiss an error alert</note>
       </trans-unit>
       <trans-unit id="content" xml:space="preserve">
         <source>content</source>
-        <target state="needs-translation">content</target>
+        <target state="translated">sisältö</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="max" xml:space="preserve">
@@ -1719,38 +1719,38 @@
       </trans-unit>
       <trans-unit id="more content" xml:space="preserve">
         <source>more content</source>
-        <target state="needs-translation">more content</target>
+        <target state="translated">lisää sisältöä</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="quantity-and-unit-space" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit with a space. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="quantity-and-unit-tight" xml:space="preserve">
         <source>%1$@%2$@</source>
-        <target state="needs-translation">%1$@%2$@</target>
+        <target state="translated">%1$@%2$@</target>
         <note>Format string for combining localized numeric value and unit without spacing. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="than your correction range" xml:space="preserve">
         <source>than your correction range</source>
-        <target state="needs-translation">than your correction range</target>
+        <target state="translated">kuin korjausalue</target>
         <note>Information about pre-meal range relative to correction range
    Information about workout range relative to correction range</note>
       </trans-unit>
       <trans-unit id="–" xml:space="preserve">
         <source>–</source>
-        <target state="needs-translation">–</target>
+        <target state="translated">–</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="—" xml:space="preserve">
         <source>—</source>
-        <target state="needs-translation">—</target>
+        <target state="translated">—</target>
         <note>The detail text representing no value</note>
       </trans-unit>
       <trans-unit id="－" xml:space="preserve">
         <source>－</source>
-        <target state="needs-translation">－</target>
+        <target state="translated">－</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -1762,7 +1762,7 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>LoopKitUI</source>
-        <target state="needs-translation">LoopKitUI</target>
+        <target state="translated">LoopKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1774,7 +1774,7 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>MockKit</source>
-        <target state="needs-translation">MockKit</target>
+        <target state="translated">MockKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1786,27 +1786,27 @@
     <body>
       <trans-unit id="Comms Issue" xml:space="preserve">
         <source>Comms Issue</source>
-        <target state="needs-translation">Comms Issue</target>
+        <target state="translated">Yhteysongelma</target>
         <note>Status highlight that delivery is uncertain.</note>
       </trans-unit>
       <trans-unit id="Insulin Suspended" xml:space="preserve">
         <source>Insulin Suspended</source>
-        <target state="needs-translation">Insulin Suspended</target>
+        <target state="translated">Insuliini pysäytetty</target>
         <note>Status highlight that insulin delivery was suspended.</note>
       </trans-unit>
       <trans-unit id="No Insulin" xml:space="preserve">
         <source>No Insulin</source>
-        <target state="needs-translation">No Insulin</target>
+        <target state="translated">Ei insuliinia</target>
         <note>Status highlight that a pump is out of insulin.</note>
       </trans-unit>
       <trans-unit id="Pump Error" xml:space="preserve">
         <source>Pump Error</source>
-        <target state="needs-translation">Pump Error</target>
+        <target state="translated">Pumppuvirhe</target>
         <note>Status highlight that a pump error occurred.</note>
       </trans-unit>
       <trans-unit id="Pump Occlusion" xml:space="preserve">
         <source>Pump Occlusion</source>
-        <target state="needs-translation">Pump Occlusion</target>
+        <target state="translated">Tukkeutunut pumppu</target>
         <note>Status highlight that an occlusion was detected.</note>
       </trans-unit>
     </body>
@@ -1818,7 +1818,7 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>MockKitUI</source>
-        <target state="needs-translation">MockKitUI</target>
+        <target state="translated">MockKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1832,44 +1832,44 @@
         <source>%1$@ has been unable to communicate with the Simulator Pump since %2$@.
 
 Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered.</source>
-        <target state="needs-translation">%1$@ has been unable to communicate with the Simulator Pump since %2$@.
+        <target state="translated">%1$@ ei ole pystynyt kommunikoimaan simulaattoripumpun kanssa %2$@ jälkeen.
 
-Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered.</target>
+Ilman yhteyttä sovellus ei voi jatkaa insuliinin annostelukomentojen lähettämistä tai näyttää uusimpia tarkkoja tietoja aktiivisesta insuliinista tai insuliiniannostelusta.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
         <source>%@.</source>
-        <target state="needs-translation">%@.</target>
+        <target state="translated">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete this service?" xml:space="preserve">
         <source>Are you sure you want to delete this service?</source>
-        <target state="needs-translation">Are you sure you want to delete this service?</target>
+        <target state="translated">Haluatko varmasti poistaa tämän palvelun?</target>
         <note>Confirmation message for deleting a service</note>
       </trans-unit>
       <trans-unit id="Back" xml:space="preserve">
         <source>Back</source>
-        <target state="needs-translation">Back</target>
+        <target state="translated">Takaisin</target>
         <note>Back button text on DeliveryUncertaintyRecoveryView</note>
       </trans-unit>
       <trans-unit id="CGM Settings" xml:space="preserve">
         <source>CGM Settings</source>
-        <target state="needs-translation">CGM Settings</target>
+        <target state="translated">CGM-asetukset</target>
         <note>Title for CGM simulator settings</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Kumoa</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
       <trans-unit id="Comms Recovery" xml:space="preserve">
         <source>Comms Recovery</source>
-        <target state="needs-translation">Comms Recovery</target>
+        <target state="translated">Yhteyksien palautus</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Service" xml:space="preserve">
         <source>Delete Service</source>
-        <target state="needs-translation">Delete Service</target>
+        <target state="translated">Poista palvelu</target>
         <note>Button title to delete a service</note>
       </trans-unit>
       <trans-unit id="Error Resuming" xml:space="preserve">
@@ -1884,27 +1884,27 @@ Without communication, the app cannot continue to send commands for insulin deli
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target state="translated">OK</target>
         <note>Button title to acknowledge error</note>
       </trans-unit>
       <trans-unit id="Pump Settings" xml:space="preserve">
         <source>Pump Settings</source>
-        <target state="needs-translation">Pump Settings</target>
+        <target state="translated">Pumpun asetukset</target>
         <note>Title for Pump simulator settings</note>
       </trans-unit>
       <trans-unit id="Recover Simulator" xml:space="preserve">
         <source>Recover Simulator</source>
-        <target state="needs-translation">Recover Simulator</target>
+        <target state="translated">Palauta simulaattori</target>
         <note>Button title recovering comms</note>
       </trans-unit>
       <trans-unit id="quantity-and-unit-space" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit with a space. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="quantity-and-unit-tight" xml:space="preserve">
         <source>%1$@%2$@</source>
-        <target state="needs-translation">%1$@%2$@</target>
+        <target state="translated">%1$@%2$@</target>
         <note>Format string for combining localized numeric value and unit without spacing. (1: numeric value)(2: unit)</note>
       </trans-unit>
     </body>
@@ -1916,7 +1916,7 @@ Without communication, the app cannot continue to send commands for insulin deli
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>LoopTestingKit</source>
-        <target state="needs-translation">LoopTestingKit</target>
+        <target state="translated">LoopTestingKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
