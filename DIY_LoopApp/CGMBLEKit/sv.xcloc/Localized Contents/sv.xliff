@@ -116,19 +116,19 @@
         <target state="final">OK</target>
         <note>Describes a functioning transmitter</note>
       </trans-unit>
-      <trans-unit id="Peripheral command was invalid" xml:space="preserve">
+      <trans-unit id="Peripheral command was invalid" xml:space="preserve" approved="yes">
         <source>Peripheral command was invalid</source>
-        <target state="translated">Perifert kommando var ogiltigt</target>
+        <target state="final">Perifert kommando var ogiltigt</target>
         <note>invlid config error description</note>
       </trans-unit>
-      <trans-unit id="Peripheral did not respond in time" xml:space="preserve">
+      <trans-unit id="Peripheral did not respond in time" xml:space="preserve" approved="yes">
         <source>Peripheral did not respond in time</source>
-        <target state="translated">Enheten svarade inte i tid</target>
+        <target state="final">Enheten svarade inte i tid</target>
         <note>Timeout error description</note>
       </trans-unit>
-      <trans-unit id="Peripheral isnʼt connected" xml:space="preserve">
+      <trans-unit id="Peripheral isnʼt connected" xml:space="preserve" approved="yes">
         <source>Peripheral isnʼt connected</source>
-        <target state="translated">Enheten är inte ansluten</target>
+        <target state="final">Enheten är inte ansluten</target>
         <note>Not ready error description</note>
       </trans-unit>
       <trans-unit id="Sensor calibration is OK" xml:space="preserve" approved="yes">
@@ -136,9 +136,9 @@
         <target state="final">Sensorkalibrering lyckades</target>
         <note>The description of sensor calibration state when sensor calibration is ok.</note>
       </trans-unit>
-      <trans-unit id="Sensor is in unknown state %1$d" xml:space="preserve">
+      <trans-unit id="Sensor is in unknown state %1$d" xml:space="preserve" approved="yes">
         <source>Sensor is in unknown state %1$d</source>
-        <target state="translated">Sensorns status är okänd %1$d</target>
+        <target state="final">Sensorns status är okänd %1$d</target>
         <note>The description of sensor calibration state when raw value is unknown. (1: missing data details)</note>
       </trans-unit>
       <trans-unit id="Sensor is stopped" xml:space="preserve" approved="yes">
@@ -156,9 +156,9 @@
         <target state="final">Sensorn behöver kalibreras</target>
         <note>The description of sensor calibration state when sensor needs calibration.</note>
       </trans-unit>
-      <trans-unit id="Unknown characteristic" xml:space="preserve">
+      <trans-unit id="Unknown characteristic" xml:space="preserve" approved="yes">
         <source>Unknown characteristic</source>
-        <target state="translated">Okänd data</target>
+        <target state="final">Okänd data</target>
         <note>Error description</note>
       </trans-unit>
     </body>

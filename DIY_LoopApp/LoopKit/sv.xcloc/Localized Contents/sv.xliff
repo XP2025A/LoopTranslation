@@ -154,14 +154,14 @@
         <target state="final">%1$@ E bolus kan ha misslyckats</target>
         <note>Describes an uncertain bolus failure (1: size of the bolus in units)</note>
       </trans-unit>
-      <trans-unit id="%@ Range" xml:space="preserve">
+      <trans-unit id="%@ Range" xml:space="preserve" approved="yes">
         <source>%@ Range</source>
-        <target state="translated">%@ Intervall</target>
+        <target state="final">%@sintervall</target>
         <note>Format for correction range override therapy setting card</note>
       </trans-unit>
-      <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>A value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="translated">Det värde du har angett är högre än vad som normalt rekommenderas för de flesta.</target>
+        <target state="final">Det värde du har angett är högre än vad som normalt rekommenderas för de flesta.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="A value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
@@ -359,9 +359,9 @@
         <target state="final">Sänker tillfälligt dina målvärden före en måltid för att förekomma höga postprandiella blodsockervärden. Blodsockerintervallet som kan ställas in måste vara mellan ditt tröskelvärde, som det lägsta, upp till ditt högsta målvärde.</target>
         <note>Description of pre-meal mode</note>
       </trans-unit>
-      <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
+      <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve" approved="yes">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</source>
-        <target state="translated">Höj tillfälligt ditt målvärde före, under eller efter fysisk aktivitet för att minska risken för låga blodsockervärden.</target>
+        <target state="final">Höj tillfälligt ditt målvärde före, under eller efter fysisk aktivitet för att minska risken för låga blodsockervärden.</target>
         <note>Descriptive text for workout correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." xml:space="preserve" approved="yes">
@@ -678,7 +678,7 @@
       </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
-        <target state="needs-translation">%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</target>
+        <target state="translated">%1$@ förutsätter ett insulin med 6 timmars verkan. Du kan välja mellan %2$@ olika modeller för hur appen mäter insulinets maximala aktivitet.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve" approved="yes">
@@ -1042,7 +1042,7 @@
       </trans-unit>
       <trans-unit id="Enter %1$@ value" xml:space="preserve">
         <source>Enter %1$@ value</source>
-        <target state="needs-translation">Enter %1$@ value</target>
+        <target state="translated">Ange %1$@värde</target>
         <note>Format string for accessibility label for value entry. (1: value label)</note>
       </trans-unit>
       <trans-unit id="Enter a number of units" xml:space="preserve" approved="yes">
@@ -1605,9 +1605,9 @@
         <target state="final">Träning</target>
         <note>Title for the workout override range</note>
       </trans-unit>
-      <trans-unit id="Workout temp adjust is the glucose value or range of values you want Loop to target during activity." xml:space="preserve">
+      <trans-unit id="Workout temp adjust is the glucose value or range of values you want Loop to target during activity." xml:space="preserve" approved="yes">
         <source>Workout temp adjust is the glucose value or range of values you want Loop to target during activity.</source>
-        <target state="translated">Temp träning - inställning är det blodsockervärde eller målvärde som du vill att Loop ska använda under träning.</target>
+        <target state="final">Temp träningsinställning är det blodsockervärde eller målvärde som du vill att Loop ska använda under träning.</target>
         <note>Information about workout range</note>
       </trans-unit>
       <trans-unit id="Workout temp adjust range" xml:space="preserve">
@@ -1672,7 +1672,7 @@
       </trans-unit>
       <trans-unit id="Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." xml:space="preserve" approved="yes">
         <source>Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal.</source>
-        <target state="final">Ditt målvårde för Före måltid bör vara det blodsockervärde (eller målvärde) som du vill att Loop ska rikta in sig på när du tar din första tugga av din måltid.</target>
+        <target state="final">Ditt målvärde för 'Före måltid' är det blodsockervärde eller målvärde som du vill att Loop ska sikta på, innan du tar första tuggan av din måltid.</target>
         <note>Information about pre-meal range</note>
       </trans-unit>
       <trans-unit id="authentication-button-delete" xml:space="preserve">
@@ -1837,7 +1837,7 @@
 Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered.</source>
         <target state="translated">%1$@ har tappat kommunikation med simulatorpumpen sedan %2$@.
 
-Utan kommunikation kan appen inte fortsätta att skicka kommandon för insulintillförsel eller visa korrekt, aktuell information om ditt aktiva insulin eller det insulin som administrerats.</target>
+Utan kommunikation kan appen inte fortsätta att skicka kommandon för insulintillförsel eller visa korrekt aktuell information om ditt aktiva insulin eller det insulin som administrerats.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve" approved="yes">
