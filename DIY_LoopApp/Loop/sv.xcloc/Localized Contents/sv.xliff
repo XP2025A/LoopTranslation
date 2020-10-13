@@ -72,9 +72,9 @@
         <target state="final">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
-      <trans-unit id="Range" xml:space="preserve">
+      <trans-unit id="Range" xml:space="preserve" approved="yes">
         <source>Range</source>
-        <target state="translated">Målvärde</target>
+        <target state="final">Målvärde</target>
         <note>Section title for glucose range</note>
       </trans-unit>
       <trans-unit id="Start Date" xml:space="preserve" approved="yes">
@@ -92,9 +92,9 @@
         <target state="final">E</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
-      <trans-unit id="Visualizes the most frequent glucose values by time of day" xml:space="preserve">
+      <trans-unit id="Visualizes the most frequent glucose values by time of day" xml:space="preserve" approved="yes">
         <source>Visualizes the most frequent glucose values by time of day</source>
-        <target state="translated">Visar de vanligaste blodglukosvärdena under olika tider på dagen</target>
+        <target state="final">Visar de vanligaste blodglukosvärdena under olika tider på dagen</target>
         <note>Lesson subtitle</note>
       </trans-unit>
       <trans-unit id="Weeks" xml:space="preserve" approved="yes">
@@ -129,19 +129,19 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
+      <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve" approved="yes">
         <source>Current glucose of %1$@ is below correction range.</source>
-        <target state="translated">Nuvarande blodglukosvärde %1$@ är under målvärde.</target>
+        <target state="final">Nuvarande blodglukosvärde %1$@ är under målvärde.</target>
         <note>Message when offering bolus recommendation even though bg is below range. (1: glucose value)</note>
       </trans-unit>
-      <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve">
+      <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve" approved="yes">
         <source>Predicted glucose at %1$@ is %2$@.</source>
-        <target state="translated">Förväntat glukosvärde vid %1$@ är %2$@.</target>
+        <target state="final">Förväntat glukosvärde kl %1$@ är %2$@.</target>
         <note>Message when offering bolus recommendation even though bg is below range and minBG is in future. (1: glucose time)(2: glucose number)</note>
       </trans-unit>
-      <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve">
+      <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve" approved="yes">
         <source>Predicted glucose of %1$@ is below your suspend threshold setting.</source>
-        <target state="translated">Det framtida beräknade blodglukosvärdet %1$@ är under ditt angivna tröskelvärde.</target>
+        <target state="final">Det framtida beräknade blodglukosvärdet %1$@ är under ditt angivna tröskelvärde.</target>
         <note>Notice message when recommending bolus when BG is below the suspend threshold. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
@@ -368,9 +368,9 @@
         <target state="final">Bluetooth används för kommunikation med insulinpump och CGM.</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve" approved="yes">
         <source>Camera is used to scan barcodes of devices</source>
-        <target state="translated">Kamera används för att skanna streckkoder</target>
+        <target state="final">Kamera används för att skanna streckkoder</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve" approved="yes">
@@ -722,9 +722,9 @@ Unavailable</source>
         <target state="translated">Bolus sammanfattning</target>
         <note>Title for card displaying carb entry and bolus recommendation</note>
       </trans-unit>
-      <trans-unit id="Bolused %1$@ of %2$@" xml:space="preserve">
+      <trans-unit id="Bolused %1$@ of %2$@" xml:space="preserve" approved="yes">
         <source>Bolused %1$@ of %2$@</source>
-        <target state="translated">Givit bolus %1$@ av %2$@</target>
+        <target state="final">Gett %1$@ av %2$@ i bolus</target>
         <note>The format string for bolus progress. (1: delivered volume)(2: total volume)</note>
       </trans-unit>
       <trans-unit id="Bolusing %1$@" xml:space="preserve">
@@ -1418,9 +1418,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="final">Bolusrekommendationen har uppdaterats. Bekräfta bolus.</target>
         <note>Alert message for an updated bolus recommendation</note>
       </trans-unit>
-      <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve">
+      <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve" approved="yes">
         <source>The legacy model used by Loop, allowing customization of action duration.</source>
-        <target state="translated">Äldre modell använd av Loop, vilken tillåter anpassning av insulinets verkningstid.</target>
+        <target state="final">Äldre modell använd av Loop, vilken tillåter anpassning av insulinets verkningstid.</target>
         <note>Subtitle description of Walsh insulin model setting</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ U." xml:space="preserve" approved="yes">
