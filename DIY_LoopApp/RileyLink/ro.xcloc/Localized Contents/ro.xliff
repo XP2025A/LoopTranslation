@@ -1059,7 +1059,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Please reposition the RileyLink relative to the pod" xml:space="preserve">
         <source>Please reposition the RileyLink relative to the pod</source>
-        <target state="translated">Te rugăm să poziţionezi RileyLink mai aproape de pod</target>
+        <target state="translated">Va rugăm să poziționați RileyLink mai aproape de pod</target>
         <note>Recovery suggestion when pairing signal strength is too low</note>
       </trans-unit>
       <trans-unit id="Please try repositioning the pod or the RileyLink and try again" xml:space="preserve">
@@ -1097,9 +1097,9 @@ Find Device</target>
         <target state="final">Pod deja amorsat</target>
         <note>Error message shown when prime is attempted, but pod is already primed</note>
       </trans-unit>
-      <trans-unit id="Pod expiration advisory alarm" xml:space="preserve">
+      <trans-unit id="Pod expiration advisory alarm" xml:space="preserve" approved="yes">
         <source>Pod expiration advisory alarm</source>
-        <target state="translated">Alarmă expirare Pod</target>
+        <target state="final">Alarmă expirare Pod</target>
         <note>Description for expiration advisory alarm</note>
       </trans-unit>
       <trans-unit id="Pod expired" xml:space="preserve" approved="yes">
@@ -1127,9 +1127,9 @@ Find Device</target>
         <target state="translated">Pod-ul a trimis o confirmare în loc de răspuns</target>
         <note>Error message shown when pod sends ack instead of response</note>
       </trans-unit>
-      <trans-unit id="Pod setup window expired" xml:space="preserve">
+      <trans-unit id="Pod setup window expired" xml:space="preserve" approved="yes">
         <source>Pod setup window expired</source>
-        <target state="translated">Intervalul de timp în care se poate seta Pod-ul a expirat</target>
+        <target state="final">Intervalul de timp în care se poate seta Pod-ul a expirat</target>
         <note>Pod state when prime or cannula insertion has not completed in the time allotted</note>
       </trans-unit>
       <trans-unit id="Poor signal strength" xml:space="preserve">
@@ -1178,9 +1178,9 @@ Find Device</target>
         <target state="translated">Bazală planificată</target>
         <note>Delivery status when scheduled basal is running</note>
       </trans-unit>
-      <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
+      <trans-unit id="Shutdown imminent alarm" xml:space="preserve" approved="yes">
         <source>Shutdown imminent alarm</source>
-        <target state="translated">Alarmă de oprire iminentă</target>
+        <target state="final">Alarmă de oprire iminentă</target>
         <note>Description for shutdown imminent alarm</note>
       </trans-unit>
       <trans-unit id="Signal strength too high" xml:space="preserve">
@@ -1198,9 +1198,9 @@ Find Device</target>
         <target state="final">Suspendat</target>
         <note>Delivery status when insulin delivery is suspended</note>
       </trans-unit>
-      <trans-unit id="Tank fill completed" xml:space="preserve">
+      <trans-unit id="Tank fill completed" xml:space="preserve" approved="yes">
         <source>Tank fill completed</source>
-        <target state="translated">Umplere rezervor completă</target>
+        <target state="final">Umplere rezervor completă</target>
         <note>Pod tank fill completed</note>
       </trans-unit>
       <trans-unit id="Tank power activated" xml:space="preserve">
@@ -1223,9 +1223,9 @@ Find Device</target>
         <target state="translated">BasalăTemporară: %1$@ U/oră %2$@ %3$@ %4$@ U %5$@</target>
         <note>The format string describing a temp basal. (1: The rate)(2: Start time)(3: duration)(4: volume)(5: scheduled certainty</note>
       </trans-unit>
-      <trans-unit id="Time to replace your pod! Your pod will expire in %1$@" xml:space="preserve">
+      <trans-unit id="Time to replace your pod! Your pod will expire in %1$@" xml:space="preserve" approved="yes">
         <source>Time to replace your pod! Your pod will expire in %1$@</source>
-        <target state="translated">E timpul să înlocuiți Pod-ul! Acesta va expira în %1$@</target>
+        <target state="final">E timpul să înlocuiți Pod-ul! Acesta va expira în %1$@</target>
         <note>The format string for pod expiration notification body (1: time until expiration)</note>
       </trans-unit>
       <trans-unit id="Try again" xml:space="preserve" approved="yes">
@@ -1248,9 +1248,9 @@ Find Device</target>
         <target state="translated">Modificare pod neașteptată</target>
         <note>Format string for unexpected pod change</note>
       </trans-unit>
-      <trans-unit id="Unexpected response from pod" xml:space="preserve">
+      <trans-unit id="Unexpected response from pod" xml:space="preserve" approved="yes">
         <source>Unexpected response from pod</source>
-        <target state="translated">Răspuns neașteptat de la Pod</target>
+        <target state="final">Răspuns neașteptat de la Pod</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
       <trans-unit id="Unknown Value (%1$@) for type %2$@" xml:space="preserve" approved="yes">
@@ -1268,14 +1268,14 @@ Find Device</target>
         <target state="final">Validarea nu a reușit: %1$@</target>
         <note>Format string for description of MessageError validationFailed. (1: description of validation failure)</note>
       </trans-unit>
-      <trans-unit id="Wait for existing bolus to finish, or cancel bolus" xml:space="preserve">
+      <trans-unit id="Wait for existing bolus to finish, or cancel bolus" xml:space="preserve" approved="yes">
         <source>Wait for existing bolus to finish, or cancel bolus</source>
-        <target state="translated">Așteptați finalizarea bolusului curent sau opriți bolusul</target>
+        <target state="final">Așteptați finalizarea bolusului curent sau opriți bolusul</target>
         <note>Recovery suggestion when operation could not be completed due to existing bolus in progress</note>
       </trans-unit>
       <trans-unit id="Wait for existing temp basal to finish, or suspend to cancel" xml:space="preserve">
         <source>Wait for existing temp basal to finish, or suspend to cancel</source>
-        <target state="translated">Așteptați finalizarea bazalei temporare curente sau suspendați pentru oprirea ei</target>
+        <target state="translated">Așteptați finalizarea bazalei temporare curente sau suspendați pentru a o opri</target>
         <note>Recovery suggestion when operation could not be completed due to existing temp basal in progress</note>
       </trans-unit>
       <trans-unit id="Waiting for pairing reminder" xml:space="preserve">
@@ -1342,14 +1342,14 @@ Find Device</target>
         <target state="final">Pregătire Pod</target>
         <note>Class = "UITableViewSection"; headerTitle = "Prepare Pod"; ObjectID = "EUt-xk-Rmp";</note>
       </trans-unit>
-      <trans-unit id="Eng-IY-fQ7.text" xml:space="preserve">
+      <trans-unit id="Eng-IY-fQ7.text" xml:space="preserve" approved="yes">
         <source>Loop will remind you to change your pod before it expires. You can change this to a time convenient for you.</source>
-        <target state="translated">Loop vă va reaminti să schimbați Pod-ul înainte de expirare. Puteți modifica aceasta la un moment convenabil pentru dvs.</target>
+        <target state="final">Loop vă va reaminti să schimbați Pod-ul înainte de expirare. Puteți modifica aceasta la un moment convenabil pentru dvs.</target>
         <note>Class = "UILabel"; text = "Loop will remind you to change your pod before it expires. You can change this to a time convenient for you."; ObjectID = "Eng-IY-fQ7";</note>
       </trans-unit>
-      <trans-unit id="GK7-jb-tyY.text" xml:space="preserve">
+      <trans-unit id="GK7-jb-tyY.text" xml:space="preserve" approved="yes">
         <source>Please deactivate the pod. When deactivation is complete, remove pod from body.</source>
-        <target state="translated">Dezactivați Pod-ul. Când dezactivarea este completă, îndepărtați Pod-ul de pe corp.</target>
+        <target state="final">Dezactivați Pod-ul. Când dezactivarea este completă, îndepărtați Pod-ul de pe corp.</target>
         <note>Class = "UILabel"; text = "Please deactivate the pod. When deactivation is complete, remove pod from body."; ObjectID = "GK7-jb-tyY";</note>
       </trans-unit>
       <trans-unit id="HwT-30-f0y.title" xml:space="preserve" approved="yes">
@@ -1414,7 +1414,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="vmF-Dc-3DS.text" xml:space="preserve">
         <source>Fill a new pod with insulin. Listen for 2 beeps from the pod during filling. Keep the RileyLink about 6 inches from the pod during pairing.</source>
-        <target state="translated">Umpleți un Pod nou cu insulină. Urmăriți ca Pod-ul să emită 2 beep-uri în timpul umplerii.</target>
+        <target state="translated">Umpleți un Pod nou cu insulină. Urmăriți ca Pod-ul să emită 2 beep-uri în timpul umplerii. Țineți RileyLink la aproximativ 15 cm de Pod in timpul împerecherii.</target>
         <note>Class = "UILabel"; text = "Fill a new pod with insulin. Listen for 2 beeps from the pod during filling. Keep the RileyLink about 6 inches from the pod during pairing."; ObjectID = "vmF-Dc-3DS";</note>
       </trans-unit>
       <trans-unit id="yy1-xf-HdR.title" xml:space="preserve" approved="yes">
@@ -1458,7 +1458,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="%1$@. Insulin delivery has stopped. Please deactivate and remove pod." xml:space="preserve">
         <source>%1$@. Insulin delivery has stopped. Please deactivate and remove pod.</source>
-        <target state="translated">%1$@. Administrarea insulinei a fost oprită. Trebuie să dezactivați și să detașati Pod-ul.</target>
+        <target state="translated">%1$@. Administrarea insulinei a fost oprită. Va rugam să dezactivați și să detașați Pod-ul.</target>
         <note>Format string providing instructions for replacing pod due to a fault. (1: The fault description)</note>
       </trans-unit>
       <trans-unit id="%@ U" xml:space="preserve" approved="yes">
@@ -1953,7 +1953,7 @@ Dacă nu ați auzit nici un bip de la pod dvs., cel mai probabil difuzorul piezo
       </trans-unit>
       <trans-unit id="Switch from Omnipod Pumps" xml:space="preserve">
         <source>Switch from Omnipod Pumps</source>
-        <target state="translated">Schimbă de la pompele Omnipod</target>
+        <target state="translated">Schimbă pompele Omnipod</target>
         <note>Title text for the button to delete Omnipod PumpManager</note>
       </trans-unit>
       <trans-unit id="Sync With Pod" xml:space="preserve" approved="yes">
@@ -2285,9 +2285,9 @@ Dacă nu ați auzit nici un bip de la pod dvs., cel mai probabil difuzorul piezo
         <target state="final">Nume</target>
         <note>The title of the cell showing device name</note>
       </trans-unit>
-      <trans-unit id="RileyLink allows for communication with the pump over Bluetooth Low Energy." xml:space="preserve">
+      <trans-unit id="RileyLink allows for communication with the pump over Bluetooth Low Energy." xml:space="preserve" approved="yes">
         <source>RileyLink allows for communication with the pump over Bluetooth Low Energy.</source>
-        <target state="translated">RileyLink facilitează conexiunea cu pompa prin intermediul Bluetooth Low Energy.</target>
+        <target state="final">RileyLink facilitează conexiunea cu pompa prin intermediul Bluetooth Low Energy.</target>
         <note>RileyLink setup description</note>
       </trans-unit>
       <trans-unit id="Signal Strength" xml:space="preserve" approved="yes">
