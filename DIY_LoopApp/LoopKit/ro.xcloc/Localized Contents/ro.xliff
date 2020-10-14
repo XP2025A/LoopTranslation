@@ -801,14 +801,14 @@
         <target state="final">Adaugă cont</target>
         <note>The title of the button to add the credentials for a service</note>
       </trans-unit>
-      <trans-unit id="Add Carb Entry" xml:space="preserve">
+      <trans-unit id="Add Carb Entry" xml:space="preserve" approved="yes">
         <source>Add Carb Entry</source>
-        <target state="translated">Adaugă carbohidrați</target>
+        <target state="final">Adaugă carbohidrați</target>
         <note>The title of the view controller to create a new carb entry</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete all history entries?" xml:space="preserve">
+      <trans-unit id="Are you sure you want to delete all history entries?" xml:space="preserve" approved="yes">
         <source>Are you sure you want to delete all history entries?</source>
-        <target state="translated">Sigur doriți să ștergeți toate înregistrările din istoric?</target>
+        <target state="final">Sigur doriți să ștergeți toate înregistrările din istoric?</target>
         <note>Action sheet confirmation message for pump history deletion</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete all reservoir values?" xml:space="preserve">
@@ -821,9 +821,9 @@
         <target state="translated">Autentifică-te pentru a salva setările terapiei</target>
         <note>Authentication hint string for therapy settings</note>
       </trans-unit>
-      <trans-unit id="Basal Rates" xml:space="preserve">
+      <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
         <source>Basal Rates</source>
-        <target state="translated">Rate bazale</target>
+        <target state="final">Rate bazale</target>
         <note>Title text for multi-value basal rate warning</note>
       </trans-unit>
       <trans-unit id="Basal, bolus, and correction insulin dose amounts are decreased by %@%%." xml:space="preserve">
@@ -856,9 +856,9 @@
         <target state="translated">Componenta de jos</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
+      <trans-unit id="Cancel" xml:space="preserve" approved="yes">
         <source>Cancel</source>
-        <target state="translated">Renunță</target>
+        <target state="final">Renunță</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
       <trans-unit id="Cancel Override" xml:space="preserve">
@@ -891,9 +891,9 @@
         <target state="translated">Alegeți o durată mai lungă de absorbție pentru mese mai mari sau pentru cele care conțin grăsimi și proteine. Nu e necesară o valoare exactă, scopul e să oferim doar o ghidare pentru algoritm.</target>
         <note>Carb entry section footer text explaining absorption time</note>
       </trans-unit>
-      <trans-unit id="Close" xml:space="preserve">
+      <trans-unit id="Close" xml:space="preserve" approved="yes">
         <source>Close</source>
-        <target state="translated">Închide</target>
+        <target state="final">Închide</target>
         <note>Button text to close a modal
    Text to close informational page</note>
       </trans-unit>
@@ -902,9 +902,9 @@
         <target state="translated">Finalizat.</target>
         <note>Accessibility label for ProgressIndicatorView when showIndeterminantProgress</note>
       </trans-unit>
-      <trans-unit id="Condition" xml:space="preserve">
+      <trans-unit id="Condition" xml:space="preserve" approved="yes">
         <source>Condition</source>
-        <target state="translated">Condiție</target>
+        <target state="final">Condiție</target>
         <note>The title for the override emoji condition section</note>
       </trans-unit>
       <trans-unit id="Confirm Setting" xml:space="preserve">
@@ -912,9 +912,9 @@
         <target state="translated">Confirmați setările</target>
         <note>The button text for confirming the setting</note>
       </trans-unit>
-      <trans-unit id="Continue" xml:space="preserve">
+      <trans-unit id="Continue" xml:space="preserve" approved="yes">
         <source>Continue</source>
-        <target state="translated">Continuă</target>
+        <target state="final">Continuă</target>
         <note>Title of the setup button to continue</note>
       </trans-unit>
       <trans-unit id="Correction Values" xml:space="preserve">
@@ -1045,14 +1045,14 @@
         <target state="translated">Introduceți valoarea %1$@</target>
         <note>Format string for accessibility label for value entry. (1: value label)</note>
       </trans-unit>
-      <trans-unit id="Enter a number of units" xml:space="preserve">
+      <trans-unit id="Enter a number of units" xml:space="preserve" approved="yes">
         <source>Enter a number of units</source>
-        <target state="translated">Introduceți un număr de unități</target>
+        <target state="final">Introduceți un număr de unități</target>
         <note>The placeholder text instructing users how to enter a maximum bolus</note>
       </trans-unit>
-      <trans-unit id="Enter a rate in units per hour" xml:space="preserve">
+      <trans-unit id="Enter a rate in units per hour" xml:space="preserve" approved="yes">
         <source>Enter a rate in units per hour</source>
-        <target state="translated">Introduceți o rată exprimată în unități per oră</target>
+        <target state="final">Introduceți o rată exprimată în unități per oră</target>
         <note>The placeholder text instructing users how to enter a maximum basal rate</note>
       </trans-unit>
       <trans-unit id="Example" xml:space="preserve" approved="yes">
@@ -1223,12 +1223,12 @@
       </trans-unit>
       <trans-unit id="More Info" xml:space="preserve">
         <source>More Info</source>
-        <target state="translated">Detalii</target>
+        <target state="translated">Mai multe informații</target>
         <note>Alert action title to open error help</note>
       </trans-unit>
-      <trans-unit id="Name" xml:space="preserve">
+      <trans-unit id="Name" xml:space="preserve" approved="yes">
         <source>Name</source>
-        <target state="translated">Nume</target>
+        <target state="final">Nume</target>
         <note>The text for the override preset name setting</note>
       </trans-unit>
       <trans-unit id="New Entry" xml:space="preserve">
@@ -1236,9 +1236,9 @@
         <target state="translated">Intrare nouă</target>
         <note>Title for mini-modal to add a new schedule entry</note>
       </trans-unit>
-      <trans-unit id="New Preset" xml:space="preserve">
+      <trans-unit id="New Preset" xml:space="preserve" approved="yes">
         <source>New Preset</source>
-        <target state="translated">Presetare nouă</target>
+        <target state="final">Presetare nouă</target>
         <note>The title for the new override preset entry screen</note>
       </trans-unit>
       <trans-unit id="No Basal Insulin" xml:space="preserve">
@@ -1246,9 +1246,9 @@
         <target state="translated">Fără insulină bazală</target>
         <note>Title text for the zero basal rate warning</note>
       </trans-unit>
-      <trans-unit id="Other" xml:space="preserve">
+      <trans-unit id="Other" xml:space="preserve" approved="yes">
         <source>Other</source>
-        <target state="translated">Altele</target>
+        <target state="final">Altele</target>
         <note>Section title for no-carb food
    The title for override emoji miscellaneous section</note>
       </trans-unit>
@@ -1277,9 +1277,9 @@
         <target state="translated">PRESETĂRI</target>
         <note>The section header text override presets</note>
       </trans-unit>
-      <trans-unit id="Pre-Meal" xml:space="preserve">
+      <trans-unit id="Pre-Meal" xml:space="preserve" approved="yes">
         <source>Pre-Meal</source>
-        <target state="translated">Preprandial</target>
+        <target state="final">Preprandial</target>
         <note>Title for the pre-meal override range</note>
       </trans-unit>
       <trans-unit id="Pre-meal temp adjust range" xml:space="preserve">
@@ -1299,27 +1299,27 @@
       </trans-unit>
       <trans-unit id="Pump Event" xml:space="preserve">
         <source>Pump Event</source>
-        <target state="translated">Eveniment de pompă</target>
+        <target state="translated">Eveniment pompă</target>
         <note>The title of the screen displaying a pump event</note>
       </trans-unit>
-      <trans-unit id="Rapid-Acting – Adults" xml:space="preserve">
+      <trans-unit id="Rapid-Acting – Adults" xml:space="preserve" approved="yes">
         <source>Rapid-Acting – Adults</source>
-        <target state="translated">Acțiune rapidă – Adulți</target>
+        <target state="final">Acțiune rapidă – Adulți</target>
         <note>Title of insulin model preset - rapid acting adult</note>
       </trans-unit>
-      <trans-unit id="Rapid-Acting – Children" xml:space="preserve">
+      <trans-unit id="Rapid-Acting – Children" xml:space="preserve" approved="yes">
         <source>Rapid-Acting – Children</source>
-        <target state="translated">Acțiune rapidă - Copii</target>
+        <target state="final">Acțiune rapidă - Copii</target>
         <note>Title of insulin model preset - rapid acting children</note>
       </trans-unit>
       <trans-unit id="Required" xml:space="preserve">
         <source>Required</source>
-        <target state="translated">Necesar</target>
+        <target state="translated">Obligatoriu</target>
         <note>The default placeholder string for a credential</note>
       </trans-unit>
-      <trans-unit id="Resume Delivery" xml:space="preserve">
+      <trans-unit id="Resume Delivery" xml:space="preserve" approved="yes">
         <source>Resume Delivery</source>
-        <target state="translated">Reia administrarea</target>
+        <target state="final">Reia administrarea</target>
         <note>Title text for button to resume insulin delivery</note>
       </trans-unit>
       <trans-unit id="Resuming" xml:space="preserve">
@@ -1393,9 +1393,9 @@
         <target state="translated">Salvați limita de suspendare?</target>
         <note>Alert title for confirming a suspend threshold outside the recommended range</note>
       </trans-unit>
-      <trans-unit id="Slow" xml:space="preserve">
+      <trans-unit id="Slow" xml:space="preserve" approved="yes">
         <source>Slow</source>
-        <target state="translated">Lentă</target>
+        <target state="final">Lentă</target>
         <note>Section title for slow absorbing food</note>
       </trans-unit>
       <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
@@ -1413,14 +1413,14 @@
         <target state="translated">Oră începere</target>
         <note>The text for the override start time</note>
       </trans-unit>
-      <trans-unit id="Starting Temp Basal" xml:space="preserve">
+      <trans-unit id="Starting Temp Basal" xml:space="preserve" approved="yes">
         <source>Starting Temp Basal</source>
-        <target state="translated">Pornire bazală temporară</target>
+        <target state="final">Pornire bazală temporară</target>
         <note>Title text for suspend resume button when temp basal starting</note>
       </trans-unit>
-      <trans-unit id="Submitted by %1$@, %2$@" xml:space="preserve">
+      <trans-unit id="Submitted by %1$@, %2$@" xml:space="preserve" approved="yes">
         <source>Submitted by %1$@, %2$@</source>
-        <target state="translated">Trimis de %1$@, %2$@</target>
+        <target state="final">Trimis de %1$@, %2$@</target>
         <note>Format for prescription descriptive text (1: providerName, 2: datePrescribed)</note>
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
@@ -1428,14 +1428,14 @@
         <target state="translated">Asistenţă</target>
         <note>Title for support section</note>
       </trans-unit>
-      <trans-unit id="Suspend Delivery" xml:space="preserve">
+      <trans-unit id="Suspend Delivery" xml:space="preserve" approved="yes">
         <source>Suspend Delivery</source>
-        <target state="translated">Suspendă administrarea</target>
+        <target state="final">Suspendă administrarea</target>
         <note>Title text for button to suspend insulin delivery</note>
       </trans-unit>
-      <trans-unit id="Suspending" xml:space="preserve">
+      <trans-unit id="Suspending" xml:space="preserve" approved="yes">
         <source>Suspending</source>
-        <target state="translated">Se suspendă</target>
+        <target state="final">Se suspendă</target>
         <note>Title text for button when insulin delivery is in the process of being stopped</note>
       </trans-unit>
       <trans-unit id="Switch Preview State" xml:space="preserve">
@@ -1443,9 +1443,9 @@
         <target state="translated">Schimbă către Stare Previzualizare</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Symbol" xml:space="preserve">
+      <trans-unit id="Symbol" xml:space="preserve" approved="yes">
         <source>Symbol</source>
-        <target state="translated">Simbol</target>
+        <target state="final">Simbol</target>
         <note>The text for the override preset symbol setting</note>
       </trans-unit>
       <trans-unit id="Tap '+' to create a new custom preset." xml:space="preserve">
@@ -1458,9 +1458,9 @@
         <target state="translated">Apăsați pentru setare</target>
         <note>The empty-state text for a configuration value</note>
       </trans-unit>
-      <trans-unit id="Target Range" xml:space="preserve">
+      <trans-unit id="Target Range" xml:space="preserve" approved="yes">
         <source>Target Range</source>
-        <target state="translated">Interval țintă</target>
+        <target state="final">Interval țintă</target>
         <note>The text for the override target range setting</note>
       </trans-unit>
       <trans-unit id="Temporary Override" xml:space="preserve">
@@ -1498,9 +1498,9 @@
         <target state="translated">Programul începe la miezul nopții și nu poate conține o rată bazala de 0 U/oră.</target>
         <note>Information about basal rate scheduling</note>
       </trans-unit>
-      <trans-unit id="Therapy Settings" xml:space="preserve">
+      <trans-unit id="Therapy Settings" xml:space="preserve" approved="yes">
         <source>Therapy Settings</source>
-        <target state="translated">Setări Terapie</target>
+        <target state="final">Setări Terapie</target>
         <note>Therapy Settings screen title</note>
       </trans-unit>
       <trans-unit id="Therapy Settings Support Placeholder" xml:space="preserve">
@@ -1529,14 +1529,14 @@
         <note>Information about pre-meal range relative to correction range
    Information about workout range relative to correction range</note>
       </trans-unit>
-      <trans-unit id="Time" xml:space="preserve">
+      <trans-unit id="Time" xml:space="preserve" approved="yes">
         <source>Time</source>
-        <target state="translated">Timp</target>
+        <target state="final">Timp</target>
         <note>Label for offset from midnight picker</note>
       </trans-unit>
-      <trans-unit id="Times in %1$@%2$@%3$@" xml:space="preserve">
+      <trans-unit id="Times in %1$@%2$@%3$@" xml:space="preserve" approved="yes">
         <source>Times in %1$@%2$@%3$@</source>
-        <target state="translated">Orele în %1$@%2$@%3$@</target>
+        <target state="final">Orele în %1$@%2$@%3$@</target>
         <note>The schedule table view header describing the configured time zone difference from the default time zone. The substitution parameters are: (1: time zone name)(2: +/-)(3: time interval)</note>
       </trans-unit>
       <trans-unit id="To be implemented" xml:space="preserve">
@@ -1554,9 +1554,9 @@
         <target state="translated">Componenta superioara</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="U/hour" xml:space="preserve">
+      <trans-unit id="U/hour" xml:space="preserve" approved="yes">
         <source>U/hour</source>
-        <target state="translated">U/oră</target>
+        <target state="final">U/oră</target>
         <note>The unit string for units per hour</note>
       </trans-unit>
       <trans-unit id="Unable to Save" xml:space="preserve">
@@ -1564,35 +1564,35 @@
         <target state="translated">Nu se poate salva</target>
         <note>Alert title when error occurs while saving a schedule</note>
       </trans-unit>
-      <trans-unit id="Units" xml:space="preserve">
+      <trans-unit id="Units" xml:space="preserve" approved="yes">
         <source>Units</source>
-        <target state="translated">Unități</target>
+        <target state="final">Unități</target>
         <note>The unit string for units</note>
       </trans-unit>
-      <trans-unit id="Unknown" xml:space="preserve">
+      <trans-unit id="Unknown" xml:space="preserve" approved="yes">
         <source>Unknown</source>
-        <target state="translated">Necunoscut</target>
+        <target state="final">Necunoscut</target>
         <note>Accessibility value for an unknown value
    The default title to use when an entry has none</note>
       </trans-unit>
-      <trans-unit id="Value" xml:space="preserve">
+      <trans-unit id="Value" xml:space="preserve" approved="yes">
         <source>Value</source>
-        <target state="translated">Valoare</target>
+        <target state="final">Valoare</target>
         <note>Placeholder text until value is entered</note>
       </trans-unit>
-      <trans-unit id="Verifying" xml:space="preserve">
+      <trans-unit id="Verifying" xml:space="preserve" approved="yes">
         <source>Verifying</source>
-        <target state="translated">Se verifică</target>
+        <target state="final">Se verifică</target>
         <note>Label indicating validation is occurring</note>
       </trans-unit>
-      <trans-unit id="Walsh" xml:space="preserve">
+      <trans-unit id="Walsh" xml:space="preserve" approved="yes">
         <source>Walsh</source>
-        <target state="translated">Walsh</target>
+        <target state="final">Walsh</target>
         <note>Title of insulin model setting</note>
       </trans-unit>
-      <trans-unit id="Warning" xml:space="preserve">
+      <trans-unit id="Warning" xml:space="preserve" approved="yes">
         <source>Warning</source>
-        <target state="translated">Avertizare</target>
+        <target state="final">Avertizare</target>
         <note>Title of an alert containing a validation warning</note>
       </trans-unit>
       <trans-unit id="Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable." xml:space="preserve">
@@ -1725,14 +1725,14 @@
         <target state="translated">mai mult conținut</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="quantity-and-unit-space" xml:space="preserve">
+      <trans-unit id="quantity-and-unit-space" xml:space="preserve" approved="yes">
         <source>%1$@ %2$@</source>
-        <target state="translated">%1$@ %2$@</target>
+        <target state="final">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit with a space. (1: numeric value)(2: unit)</note>
       </trans-unit>
-      <trans-unit id="quantity-and-unit-tight" xml:space="preserve">
+      <trans-unit id="quantity-and-unit-tight" xml:space="preserve" approved="yes">
         <source>%1$@%2$@</source>
-        <target state="translated">%1$@ %2$@</target>
+        <target state="final">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit without spacing. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="than your correction range" xml:space="preserve">
@@ -1741,19 +1741,19 @@
         <note>Information about pre-meal range relative to correction range
    Information about workout range relative to correction range</note>
       </trans-unit>
-      <trans-unit id="–" xml:space="preserve">
+      <trans-unit id="–" xml:space="preserve" approved="yes">
         <source>–</source>
-        <target state="translated">–</target>
+        <target state="final">–</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="—" xml:space="preserve">
+      <trans-unit id="—" xml:space="preserve" approved="yes">
         <source>—</source>
-        <target state="translated">—</target>
+        <target state="final">—</target>
         <note>The detail text representing no value</note>
       </trans-unit>
-      <trans-unit id="－" xml:space="preserve">
+      <trans-unit id="－" xml:space="preserve" approved="yes">
         <source>－</source>
-        <target state="translated">-</target>
+        <target state="final">-</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -1763,9 +1763,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>LoopKitUI</source>
-        <target state="translated">LoopKitUI</target>
+        <target state="final">LoopKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1775,9 +1775,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>MockKit</source>
-        <target state="translated">MockKit</target>
+        <target state="final">MockKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1802,14 +1802,14 @@
         <target state="translated">Fără insulină</target>
         <note>Status highlight that a pump is out of insulin.</note>
       </trans-unit>
-      <trans-unit id="Pump Error" xml:space="preserve">
+      <trans-unit id="Pump Error" xml:space="preserve" approved="yes">
         <source>Pump Error</source>
-        <target state="translated">Eroare pompă</target>
+        <target state="final">Eroare pompă</target>
         <note>Status highlight that a pump error occurred.</note>
       </trans-unit>
-      <trans-unit id="Pump Occlusion" xml:space="preserve">
+      <trans-unit id="Pump Occlusion" xml:space="preserve" approved="yes">
         <source>Pump Occlusion</source>
-        <target state="translated">Ocluzie pompă</target>
+        <target state="final">Ocluzie pompă</target>
         <note>Status highlight that an occlusion was detected.</note>
       </trans-unit>
     </body>
@@ -1819,9 +1819,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>MockKitUI</source>
-        <target state="translated">MockKitUI</target>
+        <target state="final">MockKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1840,9 +1840,9 @@ Without communication, the app cannot continue to send commands for insulin deli
 Fără comunicare, aplicația nu poate continua să trimită comenzi pentru livrarea de insulină sau sa afișeze informații recente, acurate despre insulina dumneavoastră activă sau insulina care vi se administrează.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%@." xml:space="preserve">
+      <trans-unit id="%@." xml:space="preserve" approved="yes">
         <source>%@.</source>
-        <target state="translated">%@.</target>
+        <target state="final">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete this service?" xml:space="preserve">
@@ -1850,19 +1850,19 @@ Fără comunicare, aplicația nu poate continua să trimită comenzi pentru livr
         <target state="translated">Sunteți sigur că doriți să eliminați acest serviciu?</target>
         <note>Confirmation message for deleting a service</note>
       </trans-unit>
-      <trans-unit id="Back" xml:space="preserve">
+      <trans-unit id="Back" xml:space="preserve" approved="yes">
         <source>Back</source>
-        <target state="translated">Înapoi</target>
+        <target state="final">Înapoi</target>
         <note>Back button text on DeliveryUncertaintyRecoveryView</note>
       </trans-unit>
-      <trans-unit id="CGM Settings" xml:space="preserve">
+      <trans-unit id="CGM Settings" xml:space="preserve" approved="yes">
         <source>CGM Settings</source>
-        <target state="translated">Setări CGM</target>
+        <target state="final">Setări CGM</target>
         <note>Title for CGM simulator settings</note>
       </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
+      <trans-unit id="Cancel" xml:space="preserve" approved="yes">
         <source>Cancel</source>
-        <target state="translated">Renunță</target>
+        <target state="final">Renunță</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
       <trans-unit id="Comms Recovery" xml:space="preserve">
@@ -1870,29 +1870,29 @@ Fără comunicare, aplicația nu poate continua să trimită comenzi pentru livr
         <target state="translated">Recuperare comenzi</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Delete Service" xml:space="preserve">
+      <trans-unit id="Delete Service" xml:space="preserve" approved="yes">
         <source>Delete Service</source>
-        <target state="translated">Șterge serviciu</target>
+        <target state="final">Șterge serviciu</target>
         <note>Button title to delete a service</note>
       </trans-unit>
-      <trans-unit id="Error Resuming" xml:space="preserve">
+      <trans-unit id="Error Resuming" xml:space="preserve" approved="yes">
         <source>Error Resuming</source>
-        <target state="translated">Eroare în timpul reluării</target>
+        <target state="final">Eroare în timpul reluării</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
-      <trans-unit id="Error Suspending" xml:space="preserve">
+      <trans-unit id="Error Suspending" xml:space="preserve" approved="yes">
         <source>Error Suspending</source>
-        <target state="translated">Eroare în timpul suspendării</target>
+        <target state="final">Eroare în timpul suspendării</target>
         <note>The alert title for a suspend error</note>
       </trans-unit>
-      <trans-unit id="OK" xml:space="preserve">
+      <trans-unit id="OK" xml:space="preserve" approved="yes">
         <source>OK</source>
-        <target state="translated">OK</target>
+        <target state="final">OK</target>
         <note>Button title to acknowledge error</note>
       </trans-unit>
-      <trans-unit id="Pump Settings" xml:space="preserve">
+      <trans-unit id="Pump Settings" xml:space="preserve" approved="yes">
         <source>Pump Settings</source>
-        <target state="translated">Setări pompă</target>
+        <target state="final">Setări pompă</target>
         <note>Title for Pump simulator settings</note>
       </trans-unit>
       <trans-unit id="Recover Simulator" xml:space="preserve">
@@ -1900,14 +1900,14 @@ Fără comunicare, aplicația nu poate continua să trimită comenzi pentru livr
         <target state="translated">Simulator de recuperare</target>
         <note>Button title recovering comms</note>
       </trans-unit>
-      <trans-unit id="quantity-and-unit-space" xml:space="preserve">
+      <trans-unit id="quantity-and-unit-space" xml:space="preserve" approved="yes">
         <source>%1$@ %2$@</source>
-        <target state="translated">%1$@ %2$@</target>
+        <target state="final">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit with a space. (1: numeric value)(2: unit)</note>
       </trans-unit>
-      <trans-unit id="quantity-and-unit-tight" xml:space="preserve">
+      <trans-unit id="quantity-and-unit-tight" xml:space="preserve" approved="yes">
         <source>%1$@%2$@</source>
-        <target state="translated">%1$@ %2$@</target>
+        <target state="final">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit without spacing. (1: numeric value)(2: unit)</note>
       </trans-unit>
     </body>
