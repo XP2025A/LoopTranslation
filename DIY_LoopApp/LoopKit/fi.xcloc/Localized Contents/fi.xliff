@@ -156,7 +156,7 @@
       </trans-unit>
       <trans-unit id="%@ Range" xml:space="preserve">
         <source>%@ Range</source>
-        <target state="translated">%@ alue</target>
+        <target state="translated">%@ -tavoite</target>
         <note>Format for correction range override therapy setting card</note>
       </trans-unit>
       <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
@@ -211,7 +211,7 @@
       </trans-unit>
       <trans-unit id="Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
         <source>Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target state="translated">Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.</target>
+        <target state="translated">Korjausalue tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.</target>
         <note>Descriptive text for glucose target range</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
@@ -286,12 +286,12 @@
       </trans-unit>
       <trans-unit id="Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically." xml:space="preserve">
         <source>Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically.</source>
-        <target state="translated">Suurin sallittu basaalitaso on korkein tilapäinen basaalitaso, jonka Loop saa asettaa automaattisesti.</target>
+        <target state="translated">Suurin sallittu basaalitaso tarkoittaa korkeinta tilapäistä basaalitasoa, jonka Loop saa asettaa automaattisesti.</target>
         <note>Descriptive text for maximum basal rate</note>
       </trans-unit>
       <trans-unit id="Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." xml:space="preserve">
         <source>Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</source>
-        <target state="translated">Suurin sallittu bolus on suurin bolusmäärä, jonka voi antaa yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.</target>
+        <target state="translated">Suurin sallittu bolus tarkoittaa suurinta insuliiniannosta, jonka voi annostella yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.</target>
         <note>Descriptive text for maximum bolus</note>
       </trans-unit>
       <trans-unit id="Needs Attention" xml:space="preserve">
@@ -351,12 +351,12 @@
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</source>
-        <target state="translated">Laske glukoositavoitetta väliaikaisesti ennen ateriaa vaikuttaaksesi aterian jälkeiseen glukoosinousuun.</target>
+        <target state="translated">Laske glukoositavoitetta väliaikaisesti ennen ateriaa vaikuttaaksesi aterian jälkeiseen glukoosin nousuun.</target>
         <note>Descriptive text for pre-meal correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end." xml:space="preserve">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end.</source>
-        <target state="translated">Laske glukoositavoitetta väliaikaisesti ennen ateriaa vaikuttaaksesi aterian jälkeiseen glukoosinousuun. Tämä alue voidaan asettaa mihin tahansa pysäytysrajan ja korjausalueen yläarvon välille.</target>
+        <target state="translated">Laske glukoositavoitetta väliaikaisesti ennen ateriaa vaikuttaaksesi aterian jälkeiseen glukoosin nousuun. Tämä alue voidaan asettaa mihin tahansa pysäytysrajan ja korjausalueen ylärajan välille.</target>
         <note>Description of pre-meal mode</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
@@ -366,7 +366,7 @@
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." xml:space="preserve">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end.</source>
-        <target state="translated">Nosta glukoositavoitetta tilapäisesti ennen liikuntaa, sen aikana tai sen jälkeen, jotta matalan glukoosin riski pienenee. Tämä alue voidaan asettaa mihin tahansa korjausalueen yläarvon ja 180 mg/dL (10 mmol/L) välille.</target>
+        <target state="translated">Nosta glukoositavoitetta tilapäisesti ennen liikuntaa, sen aikana tai sen jälkeen, jotta matalan glukoosin riski pienenee. Tämä alue voidaan asettaa mihin tahansa korjausalueen ylärajan ja 10 mmol/L välille.</target>
         <note>Description of workout mode</note>
       </trans-unit>
       <trans-unit id="The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." xml:space="preserve">
@@ -441,12 +441,12 @@
       </trans-unit>
       <trans-unit id="Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." xml:space="preserve">
         <source>Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin.</source>
-        <target state="translated">Hiilihydraattisuhde on hiilihydraattien grammamäärä, jonka yksi yksikkö insuliinia kattaa.</target>
+        <target state="translated">Hiilihydraattisuhde tarkoittaa, kuinka monta grammaa hiilihydraatteja yksi insuliiniyksikkö kattaa.</target>
         <note>Descriptive text for carb ratio</note>
       </trans-unit>
       <trans-unit id="Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin." xml:space="preserve">
         <source>Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin.</source>
-        <target state="translated">Insuliiniherkkyys on glukoosin lasku, jonka yksi yksikkö insuliinia odotetaan aiheuttavan.</target>
+        <target state="translated">Insuliiniherkkyys tarkoittaa sitä, kuinka paljon glukoosi laskee yhdellä insuliiniyksiköllä.</target>
         <note>Descriptive text for insulin sensitivity</note>
       </trans-unit>
       <trans-unit id="com.loudnate.CarbKit.deleteCarbEntryUnownedErrorDescription" xml:space="preserve">
@@ -678,7 +678,7 @@
       </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
-        <target state="translated">%1$@ olettaa, että insuliini vaikuttaa aktiivisesti 6 tuntia. Voit valita %2$@ eri mallista, miten sovellus mittaa insuliinin vaikutushuipun.</target>
+        <target state="translated">%1$@ olettaa, että insuliini vaikuttaa aktiivisesti 6 tuntia. Valittavana on %2$@ eri mallia siitä, miten sovellus mittaa insuliinin vaikutushuipun.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
@@ -1128,7 +1128,7 @@
       </trans-unit>
       <trans-unit id="If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." xml:space="preserve">
         <source>If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL.</source>
-        <target state="translated">Jos olet käyttänyt jatkuvaa glukoosinseurantaa aiemmin, tavoitealue on todennäköisesti tuttu laajana glukoosiarvoalueena, jonka haluat hälytyksille, esimerkiksi 70–180 mg/dL tai 90–200 mg/dL.</target>
+        <target state="translated">Jos olet käyttänyt jatkuvaa glukoosinseurantaa aiemmin, tavoitealue on todennäköisesti tuttu laajana glukoosiarvoalueena, jonka haluat hälytyksille, esimerkiksi 4–10 mmol/L tai 5–12 mmol/L.</target>
         <note>Information about target range</note>
       </trans-unit>
       <trans-unit id="Insulin Sensitivities" xml:space="preserve">
@@ -1198,7 +1198,7 @@
       </trans-unit>
       <trans-unit id="Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range." xml:space="preserve">
         <source>Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range.</source>
-        <target state="translated">Suurin sallittu basaalitaso on korkein määrä basaali-insuliinille, jonka Loop saa asettaa automaattisesti tavoitellessaan korjausaluetta.</target>
+        <target state="translated">Suurin sallittu basaalitaso tarkoittaa korkeinta basaali-insuliinin määrää, jonka Loop saa asettaa automaattisesti tavoitellessaan korjausaluetta.</target>
         <note>Information about maximum basal rate</note>
       </trans-unit>
       <trans-unit id="Maximum bolus" xml:space="preserve">
@@ -1208,7 +1208,7 @@
       </trans-unit>
       <trans-unit id="Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose." xml:space="preserve">
         <source>Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose.</source>
-        <target state="translated">Suurin sallittu bolus on suurin insuliiniannos, jonka Loop voi antaa yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.</target>
+        <target state="translated">Suurin sallittu bolus tarkoittaa suurinta insuliiniannosta, jonka Loop voi suositella annettavaksi yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.</target>
         <note>Information about maximum bolus</note>
       </trans-unit>
       <trans-unit id="Medium" xml:space="preserve">
@@ -1284,7 +1284,7 @@
       </trans-unit>
       <trans-unit id="Pre-meal temp adjust range" xml:space="preserve">
         <source>Pre-meal temp adjust range</source>
-        <target state="translated">Ennen ateriaa -alue</target>
+        <target state="translated">Ennen ateriaa -tavoite</target>
         <note>Title for pre-meal range information section</note>
       </trans-unit>
       <trans-unit id="Prescription" xml:space="preserve">
@@ -1405,7 +1405,7 @@
       </trans-unit>
       <trans-unit id="Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." xml:space="preserve">
         <source>Some users choose a value 2, 3, or 4 times their highest scheduled basal rate.</source>
-        <target state="translated">Jotkut käyttäjät valitsevat heidän korkeinta basaalitasoaan 2, 3 tai 4 kertaa suuremman arvon.</target>
+        <target state="translated">Useimmat käyttäjät valitsevat omaa korkeinta basaalitasoa 2, 3 tai 4 kertaa suuremman arvon.</target>
         <note>Information about typical maximum basal rates</note>
       </trans-unit>
       <trans-unit id="Start Time" xml:space="preserve">
@@ -1667,12 +1667,12 @@
       </trans-unit>
       <trans-unit id="Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." xml:space="preserve">
         <source>Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin.</source>
-        <target state="translated">Insuliiniherkkyysarvo (ISF) tarkoittaa glukoosin odotettua laskua, jonka yksi yksikkö insuliinia aiheuttaa.</target>
+        <target state="translated">Insuliiniherkkyysarvo (ISF) tarkoittaa sitä, kuinka paljon glukoosin odotetaan laskevan yhdellä insuliiniyksiköllä.</target>
         <note>Description of insulin sensitivity factor</note>
       </trans-unit>
       <trans-unit id="Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." xml:space="preserve">
         <source>Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal.</source>
-        <target state="translated">Ennen ateriaa -tila tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin korjaavan aterian alkuun mennessä.</target>
+        <target state="translated">Ennen ateriaa -tavoite tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin tähtäävän aterian alkuun mennessä.</target>
         <note>Information about pre-meal range</note>
       </trans-unit>
       <trans-unit id="authentication-button-delete" xml:space="preserve">
