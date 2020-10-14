@@ -534,39 +534,39 @@ Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napautta
         <target state="final">Perustuu Fiasp-insuliinin julkaistuun imeytymismalliin.</target>
         <note>Subtitle of Fiasp preset</note>
       </trans-unit>
-      <trans-unit id="A model based on the published absorption of Humalog, Novolog, and Apidra insulin in adults." xml:space="preserve">
+      <trans-unit id="A model based on the published absorption of Humalog, Novolog, and Apidra insulin in adults." xml:space="preserve" approved="yes">
         <source>A model based on the published absorption of Humalog, Novolog, and Apidra insulin in adults.</source>
-        <target state="translated">Perustuu Humalog-, Novorapid- ja Apidra-insuliinien julkaistuun imeytymismalliin aikuisilla.</target>
+        <target state="final">Perustuu Humalog-, Novorapid- ja Apidra-insuliinien julkaistuun imeytymismalliin aikuisilla.</target>
         <note>Subtitle of Rapid-Acting – Adult preset</note>
       </trans-unit>
-      <trans-unit id="A pump must be configured before a bolus can be delivered." xml:space="preserve">
+      <trans-unit id="A pump must be configured before a bolus can be delivered." xml:space="preserve" approved="yes">
         <source>A pump must be configured before a bolus can be delivered.</source>
-        <target state="translated">Pumppu on määritettävä, ennen kuin bolus voidaan annostella.</target>
+        <target state="final">Pumppu on määritettävä, ennen kuin bolus voidaan annostella.</target>
         <note>Alert message for a missing pump error</note>
       </trans-unit>
-      <trans-unit id="API Key" xml:space="preserve">
+      <trans-unit id="API Key" xml:space="preserve" approved="yes">
         <source>API Key</source>
-        <target state="translated">API-avain</target>
+        <target state="final">API-avain</target>
         <note>The title of the amplitude API key credential</note>
       </trans-unit>
-      <trans-unit id="API Secret" xml:space="preserve">
+      <trans-unit id="API Secret" xml:space="preserve" approved="yes">
         <source>API Secret</source>
-        <target state="translated">API-salausavain</target>
+        <target state="final">API-salausavain</target>
         <note>The title of the nightscout API secret credential</note>
       </trans-unit>
-      <trans-unit id="Absorption Time" xml:space="preserve">
+      <trans-unit id="Absorption Time" xml:space="preserve" approved="yes">
         <source>Absorption Time</source>
-        <target state="translated">Imeytymisaika</target>
+        <target state="final">Imeytymisaika</target>
         <note>Title of the carb entry absorption time cell</note>
       </trans-unit>
-      <trans-unit id="AcceptRecommendedBolus" xml:space="preserve">
+      <trans-unit id="AcceptRecommendedBolus" xml:space="preserve" approved="yes">
         <source>AcceptRecommendedBolus</source>
-        <target state="translated">HyväksySuositeltuBolus</target>
+        <target state="final">HyväksySuositeltuBolus</target>
         <note>Action to copy the recommended Bolus value to the actual Bolus Field</note>
       </trans-unit>
-      <trans-unit id="Active Carbohydrates" xml:space="preserve">
+      <trans-unit id="Active Carbohydrates" xml:space="preserve" approved="yes">
         <source>Active Carbohydrates</source>
-        <target state="translated">Aktiivinen hiilihydraatti</target>
+        <target state="final">Aktiivinen hiilihydraatti</target>
         <note>The title of the Carbs On-Board graph</note>
       </trans-unit>
       <trans-unit id="Active Carbohydrates: %@" xml:space="preserve">
@@ -589,31 +589,31 @@ Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napautta
         <target state="translated">Aktiivinen insuliini: %@</target>
         <note>The string format describing active insulin. (1: localized insulin value description)</note>
       </trans-unit>
-      <trans-unit id="Add CGM" xml:space="preserve">
+      <trans-unit id="Add CGM" xml:space="preserve" approved="yes">
         <source>Add CGM</source>
-        <target state="translated">Lisää CGM</target>
+        <target state="final">Lisää CGM</target>
         <note>Action sheet title selecting CGM
    Title text for button to set up a CGM</note>
       </trans-unit>
-      <trans-unit id="Add Carb Entry" xml:space="preserve">
+      <trans-unit id="Add Carb Entry" xml:space="preserve" approved="yes">
         <source>Add Carb Entry</source>
-        <target state="translated">Lisää hiilihydraatteja</target>
+        <target state="final">Lisää hiilihydraatteja</target>
         <note>Title of the user activity for adding carbs</note>
       </trans-unit>
-      <trans-unit id="Add Meal" xml:space="preserve">
+      <trans-unit id="Add Meal" xml:space="preserve" approved="yes">
         <source>Add Meal</source>
-        <target state="translated">Lisää ateria</target>
+        <target state="final">Lisää ateria</target>
         <note>The label of the meal button</note>
       </trans-unit>
-      <trans-unit id="Add Pump" xml:space="preserve">
+      <trans-unit id="Add Pump" xml:space="preserve" approved="yes">
         <source>Add Pump</source>
-        <target state="translated">Lisää pumppu</target>
+        <target state="final">Lisää pumppu</target>
         <note>Action sheet title selecting Pump
    Title text for button to set up a new pump</note>
       </trans-unit>
-      <trans-unit id="Add Service" xml:space="preserve">
+      <trans-unit id="Add Service" xml:space="preserve" approved="yes">
         <source>Add Service</source>
-        <target state="translated">Lisää palvelu</target>
+        <target state="final">Lisää palvelu</target>
         <note>Title text for button to set up a service</note>
       </trans-unit>
       <trans-unit id="Alert Permissions" xml:space="preserve">
@@ -622,147 +622,147 @@ Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napautta
         <note>Alert Permissions button text
    Notification &amp; Critical Alert Permissions screen title</note>
       </trans-unit>
-      <trans-unit id="Algorithm Settings" xml:space="preserve">
+      <trans-unit id="Algorithm Settings" xml:space="preserve" approved="yes">
         <source>Algorithm Settings</source>
-        <target state="translated">Algoritmin asetukset</target>
+        <target state="final">Algoritmin asetukset</target>
         <note>The title of the section containing algorithm settings</note>
       </trans-unit>
-      <trans-unit id="Amplitude" xml:space="preserve">
+      <trans-unit id="Amplitude" xml:space="preserve" approved="yes">
         <source>Amplitude</source>
-        <target state="translated">Amplitude</target>
+        <target state="final">Amplitude</target>
         <note>The title of the Amplitude service</note>
       </trans-unit>
-      <trans-unit id="An adjustment to the adult model based on empirical effects in children." xml:space="preserve">
+      <trans-unit id="An adjustment to the adult model based on empirical effects in children." xml:space="preserve" approved="yes">
         <source>An adjustment to the adult model based on empirical effects in children.</source>
-        <target state="translated">Aikuisten mallista lapsille mukautettu empiirisiin vaikutuksiin perustuva malli.</target>
+        <target state="final">Aikuisten mallista lapsille mukautettu empiirisiin vaikutuksiin perustuva malli.</target>
         <note>Subtitle of Rapid-Acting – Children preset</note>
       </trans-unit>
-      <trans-unit id="An error occurred while trying to save your carb entry." xml:space="preserve">
+      <trans-unit id="An error occurred while trying to save your carb entry." xml:space="preserve" approved="yes">
         <source>An error occurred while trying to save your carb entry.</source>
-        <target state="translated">Virhe hiilihydraattien tallennuksessa.</target>
+        <target state="final">Virhe hiilihydraattien tallennuksessa.</target>
         <note>Alert message for a carb entry persistence error</note>
       </trans-unit>
-      <trans-unit id="An error occurred while trying to save your manual glucose entry." xml:space="preserve">
+      <trans-unit id="An error occurred while trying to save your manual glucose entry." xml:space="preserve" approved="yes">
         <source>An error occurred while trying to save your manual glucose entry.</source>
-        <target state="translated">Virhe glukoosiarvon tallennuksessa.</target>
+        <target state="final">Virhe glukoosiarvon tallennuksessa.</target>
         <note>Alert message for a manual glucose entry persistence error</note>
       </trans-unit>
-      <trans-unit id="An updated bolus recommendation is available." xml:space="preserve">
+      <trans-unit id="An updated bolus recommendation is available." xml:space="preserve" approved="yes">
         <source>An updated bolus recommendation is available.</source>
-        <target state="translated">Päivitetty bolussuositus on saatavilla.</target>
+        <target state="final">Päivitetty bolussuositus on saatavilla.</target>
         <note>Alert message when glucose data returns while on bolus screen</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete all your %@ Data?&#10;(This action is not reversible)" xml:space="preserve">
+      <trans-unit id="Are you sure you want to delete all your %@ Data?&#10;(This action is not reversible)" xml:space="preserve" approved="yes">
         <source>Are you sure you want to delete all your %@ Data?
 (This action is not reversible)</source>
-        <target state="translated">Haluatko varmasti poistaa kaikki %@ tietosi?
+        <target state="final">Haluatko varmasti poistaa kaikki %@ tietosi?
 (Tämä toiminto ei ole palautettavissa)</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete this CGM?" xml:space="preserve">
+      <trans-unit id="Are you sure you want to delete this CGM?" xml:space="preserve" approved="yes">
         <source>Are you sure you want to delete this CGM?</source>
-        <target state="translated">Haluatko varmasti poistaa CGM:n?</target>
+        <target state="final">Haluatko varmasti poistaa CGM:n?</target>
         <note>Confirmation message for deleting a CGM</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete this service?" xml:space="preserve">
+      <trans-unit id="Are you sure you want to delete this service?" xml:space="preserve" approved="yes">
         <source>Are you sure you want to delete this service?</source>
-        <target state="translated">Haluatko varmasti poistaa tämän palvelun?</target>
+        <target state="final">Haluatko varmasti poistaa tämän palvelun?</target>
         <note>Confirmation message for deleting a service</note>
       </trans-unit>
-      <trans-unit id="Authenticate to Bolus %@ Units" xml:space="preserve">
+      <trans-unit id="Authenticate to Bolus %@ Units" xml:space="preserve" approved="yes">
         <source>Authenticate to Bolus %@ Units</source>
-        <target state="translated">Vahvista bolus %@ yksikköä</target>
+        <target state="final">Vahvista bolus %@ yksikköä</target>
         <note>The message displayed during a device authentication prompt for bolus specification</note>
       </trans-unit>
-      <trans-unit id="Basal Rate Schedule" xml:space="preserve">
+      <trans-unit id="Basal Rate Schedule" xml:space="preserve" approved="yes">
         <source>Basal Rate Schedule</source>
-        <target state="translated">Basaaliohjelma</target>
+        <target state="final">Basaaliohjelma</target>
         <note>Details for configuration error when basal rate schedule is missing</note>
       </trans-unit>
-      <trans-unit id="Basal Rates" xml:space="preserve">
+      <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
         <source>Basal Rates</source>
-        <target state="translated">Basaalitasot</target>
+        <target state="final">Basaalitasot</target>
         <note>The title of the basal rate profile screen
    The title text for the basal rate schedule</note>
       </trans-unit>
-      <trans-unit id="Bluetooth&#10;Off" xml:space="preserve">
+      <trans-unit id="Bluetooth&#10;Off" xml:space="preserve" approved="yes">
         <source>Bluetooth
 Off</source>
-        <target state="translated">Bluetooth ei ole käytössä</target>
+        <target state="final">Bluetooth ei ole käytössä</target>
         <note>Message to the user to that the bluetooth is off</note>
       </trans-unit>
-      <trans-unit id="Bluetooth&#10;Unavailable" xml:space="preserve">
+      <trans-unit id="Bluetooth&#10;Unavailable" xml:space="preserve" approved="yes">
         <source>Bluetooth
 Unavailable</source>
-        <target state="translated">Bluetooth ei ole käytettävissä</target>
+        <target state="final">Bluetooth ei ole käytettävissä</target>
         <note>Message to the user that bluetooth is unavailable to the app</note>
       </trans-unit>
-      <trans-unit id="Bluetooth Off Alert" xml:space="preserve">
+      <trans-unit id="Bluetooth Off Alert" xml:space="preserve" approved="yes">
         <source>Bluetooth Off Alert</source>
-        <target state="translated">Bluetooth ei ole käytössä -hälytys</target>
+        <target state="final">Bluetooth ei ole käytössä -hälytys</target>
         <note>Bluetooth off alert title</note>
       </trans-unit>
-      <trans-unit id="Bluetooth Unavailable Alert" xml:space="preserve">
+      <trans-unit id="Bluetooth Unavailable Alert" xml:space="preserve" approved="yes">
         <source>Bluetooth Unavailable Alert</source>
-        <target state="translated">Bluetooth ei ole käytettävissä -hälytys</target>
+        <target state="final">Bluetooth ei ole käytettävissä -hälytys</target>
         <note>Bluetooth unavailable alert title</note>
       </trans-unit>
-      <trans-unit id="Bolus" xml:space="preserve">
+      <trans-unit id="Bolus" xml:space="preserve" approved="yes">
         <source>Bolus</source>
-        <target state="translated">Bolus</target>
+        <target state="final">Bolus</target>
         <note>The label of the bolus entry button
    The notification title for a bolus failure</note>
       </trans-unit>
-      <trans-unit id="Bolus Recommendation Updated" xml:space="preserve">
+      <trans-unit id="Bolus Recommendation Updated" xml:space="preserve" approved="yes">
         <source>Bolus Recommendation Updated</source>
-        <target state="translated">Bolussuositus päivitetty</target>
+        <target state="final">Bolussuositus päivitetty</target>
         <note>Alert title for an updated bolus recommendation</note>
       </trans-unit>
-      <trans-unit id="Bolus Summary" xml:space="preserve">
+      <trans-unit id="Bolus Summary" xml:space="preserve" approved="yes">
         <source>Bolus Summary</source>
-        <target state="translated">Bolusyhteenveto</target>
+        <target state="final">Bolusyhteenveto</target>
         <note>Title for card displaying carb entry and bolus recommendation</note>
       </trans-unit>
-      <trans-unit id="Bolused %1$@ of %2$@" xml:space="preserve">
+      <trans-unit id="Bolused %1$@ of %2$@" xml:space="preserve" approved="yes">
         <source>Bolused %1$@ of %2$@</source>
-        <target state="translated">Bolus %1$@ / %2$@</target>
+        <target state="final">Bolus %1$@ / %2$@</target>
         <note>The format string for bolus progress. (1: delivered volume)(2: total volume)</note>
       </trans-unit>
-      <trans-unit id="Bolusing %1$@" xml:space="preserve">
+      <trans-unit id="Bolusing %1$@" xml:space="preserve" approved="yes">
         <source>Bolusing %1$@</source>
-        <target state="translated">Annetaan bolus %1$@</target>
+        <target state="final">Annetaan bolus %1$@</target>
         <note>The format string for bolus in progress showing total volume. (1: total volume)</note>
       </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
+      <trans-unit id="Cancel" xml:space="preserve" approved="yes">
         <source>Cancel</source>
-        <target state="translated">Kumoa</target>
+        <target state="final">Kumoa</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
-      <trans-unit id="Canceling Bolus" xml:space="preserve">
+      <trans-unit id="Canceling Bolus" xml:space="preserve" approved="yes">
         <source>Canceling Bolus</source>
-        <target state="translated">Kumotaan bolus</target>
+        <target state="final">Kumotaan bolus</target>
         <note>The title of the cell indicating a bolus is being canceled</note>
       </trans-unit>
-      <trans-unit id="Carb Entry" xml:space="preserve">
+      <trans-unit id="Carb Entry" xml:space="preserve" approved="yes">
         <source>Carb Entry</source>
-        <target state="translated">Hiilihydraatit</target>
+        <target state="final">Hiilihydraatit</target>
         <note>Back button text for bolus screen to return to carb entry screen
    Label for carb entry row on bolus screen</note>
       </trans-unit>
-      <trans-unit id="Carb Ratios" xml:space="preserve">
+      <trans-unit id="Carb Ratios" xml:space="preserve" approved="yes">
         <source>Carb Ratios</source>
-        <target state="translated">Hiilihydraattisuhteet</target>
+        <target state="final">Hiilihydraattisuhteet</target>
         <note>The title of the carb ratios schedule screen
    The title text for the carb ratio schedule</note>
       </trans-unit>
-      <trans-unit id="Carb effects" xml:space="preserve">
+      <trans-unit id="Carb effects" xml:space="preserve" approved="yes">
         <source>Carb effects</source>
-        <target state="translated">Hiilihydraattivaikutus</target>
+        <target state="final">Hiilihydraattivaikutus</target>
         <note>Details for missing data error when carb effects are missing</note>
       </trans-unit>
-      <trans-unit id="Carbohydrates" xml:space="preserve">
+      <trans-unit id="Carbohydrates" xml:space="preserve" approved="yes">
         <source>Carbohydrates</source>
-        <target state="translated">Hiilihydraatit</target>
+        <target state="final">Hiilihydraatit</target>
         <note>Title of the prediction input effect for carbohydrates</note>
       </trans-unit>
       <trans-unit id="Carbs Absorbed (g) ÷ Carb Ratio (g/U) × Insulin Sensitivity (%1$@/U)" xml:space="preserve">
@@ -770,59 +770,59 @@ Unavailable</source>
         <target state="translated">Imeytyvät hiilihydraatit (g) ÷ Hiilihydraattisuhde (g/U) × Insuliiniherkkyys (%1$@/U)</target>
         <note>Description of the prediction input effect for carbohydrates. (1: The glucose unit string)</note>
       </trans-unit>
-      <trans-unit id="Change the pump battery immediately" xml:space="preserve">
+      <trans-unit id="Change the pump battery immediately" xml:space="preserve" approved="yes">
         <source>Change the pump battery immediately</source>
-        <target state="translated">Vaihda pumpun paristo välittömästi</target>
+        <target state="final">Vaihda pumpun paristo välittömästi</target>
         <note>The notification alert describing a low pump battery</note>
       </trans-unit>
-      <trans-unit id="Change the pump reservoir now" xml:space="preserve">
+      <trans-unit id="Change the pump reservoir now" xml:space="preserve" approved="yes">
         <source>Change the pump reservoir now</source>
-        <target state="translated">Vaihda pumpun säiliö</target>
+        <target state="final">Vaihda pumpun säiliö</target>
         <note>The notification alert describing an empty pump reservoir</note>
       </trans-unit>
-      <trans-unit id="Check settings" xml:space="preserve">
+      <trans-unit id="Check settings" xml:space="preserve" approved="yes">
         <source>Check settings</source>
-        <target state="translated">Tarkista asetukset</target>
+        <target state="final">Tarkista asetukset</target>
         <note>Details for configuration error when one or more loop settings are missing</note>
       </trans-unit>
-      <trans-unit id="Check that your pump is in range" xml:space="preserve">
+      <trans-unit id="Check that your pump is in range" xml:space="preserve" approved="yes">
         <source>Check that your pump is in range</source>
-        <target state="translated">Tarkista, että pumppu on riittävän lähellä</target>
+        <target state="final">Tarkista, että pumppu on riittävän lähellä</target>
         <note>Recovery suggestion when reservoir data is missing</note>
       </trans-unit>
-      <trans-unit id="Check your CGM data source" xml:space="preserve">
+      <trans-unit id="Check your CGM data source" xml:space="preserve" approved="yes">
         <source>Check your CGM data source</source>
-        <target state="translated">Tarkista CGM-tietolähde</target>
+        <target state="final">Tarkista CGM-tietolähde</target>
         <note>Recovery suggestion when glucose data is missing</note>
       </trans-unit>
-      <trans-unit id="Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." xml:space="preserve">
+      <trans-unit id="Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." xml:space="preserve" approved="yes">
         <source>Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact.</source>
-        <target state="translated">Valitse pidempi imeytymisaika isoille tai paljon rasvaa ja proteiineja sisältäville aterioille. Tämä on suuntaa antava tieto, eikä sen tarvitse olla tarkka.</target>
+        <target state="final">Valitse pidempi imeytymisaika isoille tai paljon rasvaa ja proteiineja sisältäville aterioille. Tämä on suuntaa antava tieto, eikä sen tarvitse olla tarkka.</target>
         <note>Carb entry section footer text explaining absorption time</note>
       </trans-unit>
-      <trans-unit id="Closed Loop" xml:space="preserve">
+      <trans-unit id="Closed Loop" xml:space="preserve" approved="yes">
         <source>Closed Loop</source>
-        <target state="translated">Suljettu säätö</target>
+        <target state="final">Suljettu säätö</target>
         <note>The title text for the looping enabled switch cell</note>
       </trans-unit>
-      <trans-unit id="Configuration" xml:space="preserve">
+      <trans-unit id="Configuration" xml:space="preserve" approved="yes">
         <source>Configuration</source>
-        <target state="translated">Määritykset</target>
+        <target state="final">Määritykset</target>
         <note>The title of the configuration section in settings</note>
       </trans-unit>
-      <trans-unit id="Configuration Error: %1$@" xml:space="preserve">
+      <trans-unit id="Configuration Error: %1$@" xml:space="preserve" approved="yes">
         <source>Configuration Error: %1$@</source>
-        <target state="translated">Määritysvirhe: %1$@</target>
+        <target state="final">Määritysvirhe: %1$@</target>
         <note>The error message displayed for configuration errors. (1: configuration error details)</note>
       </trans-unit>
-      <trans-unit id="Continuous Glucose Monitor" xml:space="preserve">
+      <trans-unit id="Continuous Glucose Monitor" xml:space="preserve" approved="yes">
         <source>Continuous Glucose Monitor</source>
-        <target state="translated">Glukoosinseuranta (CGM)</target>
+        <target state="final">Jatkuva glukoosinseuranta (CGM)</target>
         <note>The title of the continuous glucose monitor section in settings</note>
       </trans-unit>
-      <trans-unit id="Correction Range" xml:space="preserve">
+      <trans-unit id="Correction Range" xml:space="preserve" approved="yes">
         <source>Correction Range</source>
-        <target state="translated">Korjausalue</target>
+        <target state="final">Korjausalue</target>
         <note>The title of the glucose target range schedule screen
    The title text for the glucose target range schedule</note>
       </trans-unit>
@@ -841,59 +841,59 @@ Unavailable</source>
         <target state="translated">Kriittisten tapahtumien lokia ei voitu viedä.</target>
         <note>Critical event log export error alert message</note>
       </trans-unit>
-      <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
+      <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve" approved="yes">
         <source>Current glucose of %1$@ is below correction range.</source>
-        <target state="translated">Nykyinen glukoosi %1$@ on korjausalueen alapuolella.</target>
+        <target state="final">Nykyinen glukoosi %1$@ on korjausalueen alapuolella.</target>
         <note>Message when offering bolus recommendation even though bg is below range. (1: glucose value)</note>
       </trans-unit>
-      <trans-unit id="Custom Override" xml:space="preserve">
+      <trans-unit id="Custom Override" xml:space="preserve" approved="yes">
         <source>Custom Override</source>
-        <target state="translated">Mukautettu tilapäisasetus</target>
+        <target state="final">Mukautettu tilapäisasetus</target>
         <note>The title of the cell indicating a generic temporary override is enabled</note>
       </trans-unit>
-      <trans-unit id="Custom Preset" xml:space="preserve">
+      <trans-unit id="Custom Preset" xml:space="preserve" approved="yes">
         <source>Custom Preset</source>
-        <target state="translated">Mukautettu esiasetus</target>
+        <target state="final">Mukautettu esiasetus</target>
         <note>The title of the cell indicating a generic custom preset is enabled</note>
       </trans-unit>
-      <trans-unit id="Customer Token" xml:space="preserve">
+      <trans-unit id="Customer Token" xml:space="preserve" approved="yes">
         <source>Customer Token</source>
-        <target state="translated">Asiakastunniste</target>
+        <target state="final">Asiakastunniste</target>
         <note>The title of the Loggly customer token credential</note>
       </trans-unit>
-      <trans-unit id="Date" xml:space="preserve">
+      <trans-unit id="Date" xml:space="preserve" approved="yes">
         <source>Date</source>
-        <target state="translated">Aika</target>
+        <target state="final">Aika</target>
         <note>Title of the carb entry date picker cell</note>
       </trans-unit>
-      <trans-unit id="Delete" xml:space="preserve">
+      <trans-unit id="Delete" xml:space="preserve" approved="yes">
         <source>Delete</source>
-        <target state="translated">Poista</target>
+        <target state="final">Poista</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Delete Account" xml:space="preserve">
+      <trans-unit id="Delete Account" xml:space="preserve" approved="yes">
         <source>Delete Account</source>
-        <target state="translated">Poista tili</target>
+        <target state="final">Poista tili</target>
         <note>The title of the button to remove the credentials for a service</note>
       </trans-unit>
-      <trans-unit id="Delete CGM" xml:space="preserve">
+      <trans-unit id="Delete CGM" xml:space="preserve" approved="yes">
         <source>Delete CGM</source>
-        <target state="translated">Poista CGM</target>
+        <target state="final">Poista CGM</target>
         <note>Button title to delete CGM</note>
       </trans-unit>
-      <trans-unit id="Delete Service" xml:space="preserve">
+      <trans-unit id="Delete Service" xml:space="preserve" approved="yes">
         <source>Delete Service</source>
-        <target state="translated">Poista palvelu</target>
+        <target state="final">Poista palvelu</target>
         <note>Button title to delete a service</note>
       </trans-unit>
-      <trans-unit id="Delete Testing CGM Data" xml:space="preserve">
+      <trans-unit id="Delete Testing CGM Data" xml:space="preserve" approved="yes">
         <source>Delete Testing CGM Data</source>
-        <target state="translated">Poista testi-CGM:n tiedot</target>
+        <target state="final">Poista testi-CGM:n tiedot</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Delete Testing Data" xml:space="preserve">
+      <trans-unit id="Delete Testing Data" xml:space="preserve" approved="yes">
         <source>Delete Testing Data</source>
-        <target state="translated">Poista testitiedot</target>
+        <target state="final">Poista testitiedot</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Testing Pump Data" xml:space="preserve">
