@@ -1730,30 +1730,30 @@
         <target state="final">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit with a space. (1: numeric value)(2: unit)</note>
       </trans-unit>
-      <trans-unit id="quantity-and-unit-tight" xml:space="preserve">
+      <trans-unit id="quantity-and-unit-tight" xml:space="preserve" approved="yes">
         <source>%1$@%2$@</source>
-        <target state="translated">%1$@%2$@</target>
+        <target state="final">%1$@%2$@</target>
         <note>Format string for combining localized numeric value and unit without spacing. (1: numeric value)(2: unit)</note>
       </trans-unit>
-      <trans-unit id="than your correction range" xml:space="preserve">
+      <trans-unit id="than your correction range" xml:space="preserve" approved="yes">
         <source>than your correction range</source>
-        <target state="translated">kuin korjausalue</target>
+        <target state="final">kuin korjausalue</target>
         <note>Information about pre-meal range relative to correction range
    Information about workout range relative to correction range</note>
       </trans-unit>
-      <trans-unit id="–" xml:space="preserve">
+      <trans-unit id="–" xml:space="preserve" approved="yes">
         <source>–</source>
-        <target state="translated">–</target>
+        <target state="final">–</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="—" xml:space="preserve">
+      <trans-unit id="—" xml:space="preserve" approved="yes">
         <source>—</source>
-        <target state="translated">—</target>
+        <target state="final">—</target>
         <note>The detail text representing no value</note>
       </trans-unit>
-      <trans-unit id="－" xml:space="preserve">
+      <trans-unit id="－" xml:space="preserve" approved="yes">
         <source>－</source>
-        <target state="translated">－</target>
+        <target state="final">－</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -1763,9 +1763,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>LoopKitUI</source>
-        <target state="translated">LoopKitUI</target>
+        <target state="final">LoopKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1775,9 +1775,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>MockKit</source>
-        <target state="translated">MockKit</target>
+        <target state="final">MockKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1787,9 +1787,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="Comms Issue" xml:space="preserve">
+      <trans-unit id="Comms Issue" xml:space="preserve" approved="yes">
         <source>Comms Issue</source>
-        <target state="translated">Yhteysongelma</target>
+        <target state="final">Yhteysongelma</target>
         <note>Status highlight that delivery is uncertain.</note>
       </trans-unit>
       <trans-unit id="Insulin Suspended" xml:space="preserve" approved="yes">
@@ -1797,19 +1797,19 @@
         <target state="final">Insuliini pysäytetty</target>
         <note>Status highlight that insulin delivery was suspended.</note>
       </trans-unit>
-      <trans-unit id="No Insulin" xml:space="preserve">
+      <trans-unit id="No Insulin" xml:space="preserve" approved="yes">
         <source>No Insulin</source>
-        <target state="translated">Ei insuliinia</target>
+        <target state="final">Ei insuliinia</target>
         <note>Status highlight that a pump is out of insulin.</note>
       </trans-unit>
-      <trans-unit id="Pump Error" xml:space="preserve">
+      <trans-unit id="Pump Error" xml:space="preserve" approved="yes">
         <source>Pump Error</source>
-        <target state="translated">Pumppuvirhe</target>
+        <target state="final">Pumpun virhe</target>
         <note>Status highlight that a pump error occurred.</note>
       </trans-unit>
-      <trans-unit id="Pump Occlusion" xml:space="preserve">
+      <trans-unit id="Pump Occlusion" xml:space="preserve" approved="yes">
         <source>Pump Occlusion</source>
-        <target state="translated">Tukkeutunut pumppu</target>
+        <target state="final">Tukkeutunut pumppu</target>
         <note>Status highlight that an occlusion was detected.</note>
       </trans-unit>
     </body>
@@ -1819,9 +1819,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>MockKitUI</source>
-        <target state="translated">MockKitUI</target>
+        <target state="final">MockKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1831,53 +1831,53 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="%@ has been unable to communicate with the Simulator Pump since %@.&#10;&#10;Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered." xml:space="preserve">
+      <trans-unit id="%@ has been unable to communicate with the Simulator Pump since %@.&#10;&#10;Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered." xml:space="preserve" approved="yes">
         <source>%1$@ has been unable to communicate with the Simulator Pump since %2$@.
 
 Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered.</source>
-        <target state="translated">%1$@ ei ole pystynyt kommunikoimaan simulaattoripumpun kanssa %2$@ jälkeen.
+        <target state="final">%1$@ ei ole pystynyt kommunikoimaan simulaattoripumpun kanssa %2$@ jälkeen.
 
 Ilman yhteyttä sovellus ei voi jatkaa insuliinin annostelukomentojen lähettämistä tai näyttää uusimpia tarkkoja tietoja aktiivisesta insuliinista tai insuliiniannostelusta.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%@." xml:space="preserve">
+      <trans-unit id="%@." xml:space="preserve" approved="yes">
         <source>%@.</source>
-        <target state="translated">%@.</target>
+        <target state="final">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete this service?" xml:space="preserve">
+      <trans-unit id="Are you sure you want to delete this service?" xml:space="preserve" approved="yes">
         <source>Are you sure you want to delete this service?</source>
-        <target state="translated">Haluatko varmasti poistaa tämän palvelun?</target>
+        <target state="final">Haluatko varmasti poistaa tämän palvelun?</target>
         <note>Confirmation message for deleting a service</note>
       </trans-unit>
-      <trans-unit id="Back" xml:space="preserve">
+      <trans-unit id="Back" xml:space="preserve" approved="yes">
         <source>Back</source>
-        <target state="translated">Takaisin</target>
+        <target state="final">Takaisin</target>
         <note>Back button text on DeliveryUncertaintyRecoveryView</note>
       </trans-unit>
-      <trans-unit id="CGM Settings" xml:space="preserve">
+      <trans-unit id="CGM Settings" xml:space="preserve" approved="yes">
         <source>CGM Settings</source>
-        <target state="translated">CGM-asetukset</target>
+        <target state="final">CGM-asetukset</target>
         <note>Title for CGM simulator settings</note>
       </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
+      <trans-unit id="Cancel" xml:space="preserve" approved="yes">
         <source>Cancel</source>
-        <target state="translated">Kumoa</target>
+        <target state="final">Kumoa</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
-      <trans-unit id="Comms Recovery" xml:space="preserve">
+      <trans-unit id="Comms Recovery" xml:space="preserve" approved="yes">
         <source>Comms Recovery</source>
-        <target state="translated">Yhteyksien palautus</target>
+        <target state="final">Yhteyksien palautus</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Delete Service" xml:space="preserve">
+      <trans-unit id="Delete Service" xml:space="preserve" approved="yes">
         <source>Delete Service</source>
-        <target state="translated">Poista palvelu</target>
+        <target state="final">Poista palvelu</target>
         <note>Button title to delete a service</note>
       </trans-unit>
-      <trans-unit id="Error Resuming" xml:space="preserve">
+      <trans-unit id="Error Resuming" xml:space="preserve" approved="yes">
         <source>Error Resuming</source>
-        <target state="translated">Virhe jatkamisessa</target>
+        <target state="final">Virhe jatkamisessa</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
       <trans-unit id="Error Suspending" xml:space="preserve" approved="yes">
@@ -1885,29 +1885,29 @@ Ilman yhteyttä sovellus ei voi jatkaa insuliinin annostelukomentojen lähettäm
         <target state="final">Virhe pysäytyksessä</target>
         <note>The alert title for a suspend error</note>
       </trans-unit>
-      <trans-unit id="OK" xml:space="preserve">
+      <trans-unit id="OK" xml:space="preserve" approved="yes">
         <source>OK</source>
-        <target state="translated">OK</target>
+        <target state="final">OK</target>
         <note>Button title to acknowledge error</note>
       </trans-unit>
-      <trans-unit id="Pump Settings" xml:space="preserve">
+      <trans-unit id="Pump Settings" xml:space="preserve" approved="yes">
         <source>Pump Settings</source>
-        <target state="translated">Pumpun asetukset</target>
+        <target state="final">Pumpun asetukset</target>
         <note>Title for Pump simulator settings</note>
       </trans-unit>
-      <trans-unit id="Recover Simulator" xml:space="preserve">
+      <trans-unit id="Recover Simulator" xml:space="preserve" approved="yes">
         <source>Recover Simulator</source>
-        <target state="translated">Palauta simulaattori</target>
+        <target state="final">Palauta simulaattori</target>
         <note>Button title recovering comms</note>
       </trans-unit>
-      <trans-unit id="quantity-and-unit-space" xml:space="preserve">
+      <trans-unit id="quantity-and-unit-space" xml:space="preserve" approved="yes">
         <source>%1$@ %2$@</source>
-        <target state="translated">%1$@ %2$@</target>
+        <target state="final">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit with a space. (1: numeric value)(2: unit)</note>
       </trans-unit>
-      <trans-unit id="quantity-and-unit-tight" xml:space="preserve">
+      <trans-unit id="quantity-and-unit-tight" xml:space="preserve" approved="yes">
         <source>%1$@%2$@</source>
-        <target state="translated">%1$@%2$@</target>
+        <target state="final">%1$@%2$@</target>
         <note>Format string for combining localized numeric value and unit without spacing. (1: numeric value)(2: unit)</note>
       </trans-unit>
     </body>
@@ -1917,9 +1917,9 @@ Ilman yhteyttä sovellus ei voi jatkaa insuliinin annostelukomentojen lähettäm
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>LoopTestingKit</source>
-        <target state="translated">LoopTestingKit</target>
+        <target state="final">LoopTestingKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
