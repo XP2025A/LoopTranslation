@@ -242,9 +242,9 @@
         <target state="final">? U</target>
         <note>Displayed in the widget when the amount of active insulin cannot be determined.</note>
       </trans-unit>
-      <trans-unit id="? g" xml:space="preserve">
+      <trans-unit id="? g" xml:space="preserve" approved="yes">
         <source>? g</source>
-        <target state="translated">? g</target>
+        <target state="final">? g</target>
         <note>Displayed in the widget when the amount of active carbs cannot be determined.</note>
       </trans-unit>
       <trans-unit id="Active Carbs" xml:space="preserve" approved="yes">
@@ -395,25 +395,25 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="&#10;            Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.&#10;            " xml:space="preserve">
+      <trans-unit id="&#10;            Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.&#10;            " xml:space="preserve" approved="yes">
         <source>
             Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.
             </source>
-        <target state="translated">
+        <target state="final">
             Kriittiset hälytykset toistavat aina äänen ja näkyvät lukitulla näytöllä, vaikka iPhone olisi mykistetty tai Älä häiritse -tilassa.
             </target>
         <note>Manage Notifications in Settings descriptive text</note>
       </trans-unit>
-      <trans-unit id="&#10;            Notifications appear on your Lock screen or pop up while you’re using other apps.&#10;            &#10;            Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.&#10;            " xml:space="preserve">
+      <trans-unit id="&#10;            Notifications appear on your Lock screen or pop up while you’re using other apps.&#10;            &#10;            Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.&#10;            " xml:space="preserve" approved="yes">
         <source>
             Notifications appear on your Lock screen or pop up while you’re using other apps.
             
             Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.
             </source>
-        <target state="translated">
-            Ilmoitukset näkyvät lukitulla näytöllä tai tulevat näkyviin, kun käytät muita sovelluksia
+        <target state="final">
+            Ilmoitukset näkyvät lukitulla näytöllä tai tulevat näkyviin, kun käytät muita sovelluksia.
             
-            Ilmoitukset antavat tärkeää (appName) -sovelluksen tietoa ilman, että avaat sovellusta. Voit mukauttaa milloin ja miten haluat vastaanottaa nämä ilmoitukset.
+            Ilmoitukset antavat tärkeää (appName)-sovelluksen tietoa ilman, että avaat sovellusta. Voit mukauttaa milloin ja miten haluat vastaanottaa nämä ilmoitukset.
             </target>
         <note>Manage Notifications in Settings descriptive text</note>
       </trans-unit>
@@ -457,10 +457,10 @@
         <target state="final">%1$@ U/t klo %2$@</target>
         <note>The format for recommended temp basal rate and time. (1: localized rate number)(2: localized time)</note>
       </trans-unit>
-      <trans-unit id="%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.&#10;You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options." xml:space="preserve">
+      <trans-unit id="%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.&#10;You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options." xml:space="preserve" approved="yes">
         <source>%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.
 You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options.</source>
-        <target state="translated">%1$@ ei pysty kommunikoimaan insuliinipumpun kanssa. Sovellus yrittää edelleen yhdistää pumppuun, mutta insuliininannostelun tiedot eivät päivity, eikä automatiikka ole päällä.
+        <target state="final">%1$@ ei pysty kommunikoimaan insuliinipumpun kanssa. Sovellus yrittää edelleen yhdistää pumppuun, mutta insuliininannostelun tiedot eivät päivity, eikä automatiikka ole päällä.
 Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napauttaa alla olevaa painiketta saadaksesi lisätietoja muista vaihtoehdoista.</target>
         <note>Message for alert shown when delivery status is uncertain. (1: app name)</note>
       </trans-unit>
@@ -494,9 +494,9 @@ Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napautta
         <target state="final">%@ imeytynyt</target>
         <note>Formats absorbed carb value</note>
       </trans-unit>
-      <trans-unit id="%@ remaining" xml:space="preserve">
+      <trans-unit id="%@ remaining" xml:space="preserve" approved="yes">
         <source>%@ remaining</source>
-        <target state="translated">%@ jäljellä</target>
+        <target state="final">%@ jäljellä</target>
         <note>Estimated remaining duration with more than a minute</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve" approved="yes">
@@ -826,19 +826,19 @@ Unavailable</source>
         <note>The title of the glucose target range schedule screen
    The title text for the glucose target range schedule</note>
       </trans-unit>
-      <trans-unit id="Critical Event Log Ready" xml:space="preserve">
+      <trans-unit id="Critical Event Log Ready" xml:space="preserve" approved="yes">
         <source>Critical Event Log Ready</source>
-        <target state="translated">Kriittisten tapahtumien loki valmis</target>
+        <target state="final">Tärkeiden tapahtumien loki valmis</target>
         <note>Critical event log ready text</note>
       </trans-unit>
-      <trans-unit id="Critical Event Logs" xml:space="preserve">
+      <trans-unit id="Critical Event Logs" xml:space="preserve" approved="yes">
         <source>Critical Event Logs</source>
-        <target state="translated">Kriittisten tapahtumien loki</target>
+        <target state="final">Tärkeiden tapahtumien loki</target>
         <note>Critical event log export title</note>
       </trans-unit>
-      <trans-unit id="Critical Event Logs were not able to be exported." xml:space="preserve">
+      <trans-unit id="Critical Event Logs were not able to be exported." xml:space="preserve" approved="yes">
         <source>Critical Event Logs were not able to be exported.</source>
-        <target state="translated">Kriittisten tapahtumien lokia ei voitu viedä.</target>
+        <target state="final">Tärkeiden tapahtumien lokia ei voitu viedä.</target>
         <note>Critical event log export error alert message</note>
       </trans-unit>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve" approved="yes">
@@ -896,125 +896,125 @@ Unavailable</source>
         <target state="final">Poista testitiedot</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Delete Testing Pump Data" xml:space="preserve">
+      <trans-unit id="Delete Testing Pump Data" xml:space="preserve" approved="yes">
         <source>Delete Testing Pump Data</source>
-        <target state="translated">Poista testipumpun tiedot</target>
+        <target state="final">Poista testipumpun tiedot</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Deliver" xml:space="preserve">
+      <trans-unit id="Deliver" xml:space="preserve" approved="yes">
         <source>Deliver</source>
-        <target state="translated">Annostele</target>
+        <target state="final">Annostele</target>
         <note>Button text to deliver a bolus</note>
       </trans-unit>
-      <trans-unit id="Delivery Limits" xml:space="preserve">
+      <trans-unit id="Delivery Limits" xml:space="preserve" approved="yes">
         <source>Delivery Limits</source>
-        <target state="translated">Annostelurajat</target>
+        <target state="final">Annostelurajat</target>
         <note>Title text for delivery limits</note>
       </trans-unit>
-      <trans-unit id="Diabetes Treatment" xml:space="preserve">
+      <trans-unit id="Diabetes Treatment" xml:space="preserve" approved="yes">
         <source>Diabetes Treatment</source>
-        <target state="translated">Diabeteshoito</target>
+        <target state="final">Diabeteshoito</target>
         <note>Descriptive text for Therapy Settings</note>
       </trans-unit>
-      <trans-unit id="Disables" xml:space="preserve">
+      <trans-unit id="Disables" xml:space="preserve" approved="yes">
         <source>Disables</source>
-        <target state="translated">Poistaa käytöstä</target>
+        <target state="final">Poistaa käytöstä</target>
         <note>The action hint of the workout mode toggle button when enabled</note>
       </trans-unit>
-      <trans-unit id="Dismiss" xml:space="preserve">
+      <trans-unit id="Dismiss" xml:space="preserve" approved="yes">
         <source>Dismiss</source>
-        <target state="translated">Ohita</target>
+        <target state="final">Ohita</target>
         <note>Default alert dismissal</note>
       </trans-unit>
-      <trans-unit id="Done" xml:space="preserve">
+      <trans-unit id="Done" xml:space="preserve" approved="yes">
         <source>Done</source>
-        <target state="translated">Valmis</target>
+        <target state="final">Valmis</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Enable&#10;Bluetooth" xml:space="preserve">
+      <trans-unit id="Enable&#10;Bluetooth" xml:space="preserve" approved="yes">
         <source>Enable
 Bluetooth</source>
-        <target state="translated">Ota Bluetooth käyttöön</target>
+        <target state="final">Ota Bluetooth käyttöön</target>
         <note>Message to the user to enable bluetooth</note>
       </trans-unit>
-      <trans-unit id="Enables" xml:space="preserve">
+      <trans-unit id="Enables" xml:space="preserve" approved="yes">
         <source>Enables</source>
-        <target state="translated">Ottaa käyttöön</target>
+        <target state="final">Ottaa käyttöön</target>
         <note>The action hint of the workout mode toggle button when disabled</note>
       </trans-unit>
-      <trans-unit id="Enter Bolus" xml:space="preserve">
+      <trans-unit id="Enter Bolus" xml:space="preserve" approved="yes">
         <source>Enter Bolus</source>
-        <target state="translated">Anna bolus</target>
+        <target state="final">Syötä bolus</target>
         <note>Button text to begin entering a bolus</note>
       </trans-unit>
-      <trans-unit id="Enter Fingerstick Glucose" xml:space="preserve">
+      <trans-unit id="Enter Fingerstick Glucose" xml:space="preserve" approved="yes">
         <source>Enter Fingerstick Glucose</source>
-        <target state="translated">Syötä mitattu glukoosiarvo</target>
+        <target state="final">Syötä mitattu glukoosiarvo</target>
         <note>Button text prompting manual glucose entry on bolus screen</note>
       </trans-unit>
-      <trans-unit id="Enter a blood glucose from a meter for a recommended bolus amount." xml:space="preserve">
+      <trans-unit id="Enter a blood glucose from a meter for a recommended bolus amount." xml:space="preserve" approved="yes">
         <source>Enter a blood glucose from a meter for a recommended bolus amount.</source>
-        <target state="translated">Syötä sormenpäästä mitattu glukoosiarvo saadaksesi suositellun bolusmäärän.</target>
+        <target state="final">Syötä sormenpäästä mitattu glukoosiarvo saadaksesi suositellun bolusmäärän.</target>
         <note>Caption for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
-      <trans-unit id="Enter suspend threshold" xml:space="preserve">
+      <trans-unit id="Enter suspend threshold" xml:space="preserve" approved="yes">
         <source>Enter suspend threshold</source>
-        <target state="translated">Aseta pysäytysraja</target>
+        <target state="final">Aseta pysäytysraja</target>
         <note>The placeholder text instructing users to enter a suspend treshold</note>
       </trans-unit>
-      <trans-unit id="Error Canceling Bolus" xml:space="preserve">
+      <trans-unit id="Error Canceling Bolus" xml:space="preserve" approved="yes">
         <source>Error Canceling Bolus</source>
-        <target state="translated">Virhe boluksen kumoamisessa</target>
+        <target state="final">Virhe boluksen kumoamisessa</target>
         <note>The alert title for an error while canceling a bolus</note>
       </trans-unit>
-      <trans-unit id="Error Exporting Logs" xml:space="preserve">
+      <trans-unit id="Error Exporting Logs" xml:space="preserve" approved="yes">
         <source>Error Exporting Logs</source>
-        <target state="translated">Virhe lokin viennissä</target>
+        <target state="final">Virhe lokin viennissä</target>
         <note>Critical event log export error alert title</note>
       </trans-unit>
-      <trans-unit id="Error Resuming" xml:space="preserve">
+      <trans-unit id="Error Resuming" xml:space="preserve" approved="yes">
         <source>Error Resuming</source>
-        <target state="translated">Virhe jatkamisessa</target>
+        <target state="final">Virhe jatkamisessa</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
-      <trans-unit id="Eventually %@" xml:space="preserve">
+      <trans-unit id="Eventually %@" xml:space="preserve" approved="yes">
         <source>Eventually %@</source>
-        <target state="translated">Ennuste %@</target>
+        <target state="final">Ennuste %@</target>
         <note>The subtitle format describing eventual glucose. (1: localized glucose value description)</note>
       </trans-unit>
-      <trans-unit id="Exceeds Maximum Bolus" xml:space="preserve">
+      <trans-unit id="Exceeds Maximum Bolus" xml:space="preserve" approved="yes">
         <source>Exceeds Maximum Bolus</source>
-        <target state="translated">Ylittää maksimiboluksen</target>
+        <target state="final">Ylittää maksimiboluksen</target>
         <note>The title of the alert describing a maximum bolus validation error</note>
       </trans-unit>
-      <trans-unit id="Export Critical Event Logs" xml:space="preserve">
+      <trans-unit id="Export Critical Event Logs" xml:space="preserve" approved="yes">
         <source>Export Critical Event Logs</source>
-        <target state="translated">Vie kriittisten tapahtumien loki</target>
+        <target state="final">Vie tärkeiden tapahtumien loki</target>
         <note>The title of the export critical event logs in support</note>
       </trans-unit>
-      <trans-unit id="Export-%1$@" xml:space="preserve">
+      <trans-unit id="Export-%1$@" xml:space="preserve" approved="yes">
         <source>Export-%1$@</source>
-        <target state="translated">Vienti-%1$@</target>
+        <target state="final">Vienti-%1$@</target>
         <note>The export file name formatted string (1: timestamp)</note>
       </trans-unit>
-      <trans-unit id="Failed to Resume Insulin Delivery" xml:space="preserve">
+      <trans-unit id="Failed to Resume Insulin Delivery" xml:space="preserve" approved="yes">
         <source>Failed to Resume Insulin Delivery</source>
-        <target state="translated">Annostelun jatkaminen epäonnistui</target>
+        <target state="final">Annostelun jatkaminen epäonnistui</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
-      <trans-unit id="Fiasp" xml:space="preserve">
+      <trans-unit id="Fiasp" xml:space="preserve" approved="yes">
         <source>Fiasp</source>
-        <target state="translated">Fiasp</target>
+        <target state="final">Fiasp</target>
         <note>Title of insulin model preset</note>
       </trans-unit>
-      <trans-unit id="Fingerstick Glucose" xml:space="preserve">
+      <trans-unit id="Fingerstick Glucose" xml:space="preserve" approved="yes">
         <source>Fingerstick Glucose</source>
-        <target state="translated">Mitattu glukoosiarvo</target>
+        <target state="final">Mitattu glukoosi</target>
         <note>Label for manual glucose entry row on bolus screen</note>
       </trans-unit>
-      <trans-unit id="For %1$@" xml:space="preserve">
+      <trans-unit id="For %1$@" xml:space="preserve" approved="yes">
         <source>For %1$@</source>
-        <target state="translated">%1$@ ajaksi</target>
+        <target state="final">%1$@ ajaksi</target>
         <note>The format string used to describe a finite workout targets duration</note>
       </trans-unit>
       <trans-unit id="Get help with Notification &amp; Critical Alert Permissions" xml:space="preserve">
@@ -1027,44 +1027,44 @@ Bluetooth</source>
         <target state="translated">Apua ilmoitusten &amp; tärkeiden hälytysten käyttöoikeuksien kanssa -näyttö</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Glucose" xml:space="preserve">
+      <trans-unit id="Glucose" xml:space="preserve" approved="yes">
         <source>Glucose</source>
-        <target state="translated">Glukoosi</target>
+        <target state="final">Glukoosi</target>
         <note>The title of the glucose and prediction graph</note>
       </trans-unit>
-      <trans-unit id="Glucose Data Now Available" xml:space="preserve">
+      <trans-unit id="Glucose Data Now Available" xml:space="preserve" approved="yes">
         <source>Glucose Data Now Available</source>
-        <target state="translated">Glukoositiedot nyt saatavilla</target>
+        <target state="final">Glukoositiedot nyt saatavilla</target>
         <note>Alert title when glucose data returns while on bolus screen</note>
       </trans-unit>
-      <trans-unit id="Glucose Entry Out of Range" xml:space="preserve">
+      <trans-unit id="Glucose Entry Out of Range" xml:space="preserve" approved="yes">
         <source>Glucose Entry Out of Range</source>
-        <target state="translated">Glukoosiarvo alueen ulkopuolella</target>
+        <target state="final">Glukoosiarvo alueen ulkopuolella</target>
         <note>Alert title for a manual glucose entry out of range error</note>
       </trans-unit>
-      <trans-unit id="Glucose Momentum" xml:space="preserve">
+      <trans-unit id="Glucose Momentum" xml:space="preserve" approved="yes">
         <source>Glucose Momentum</source>
-        <target state="translated">Glukoosin liike</target>
+        <target state="final">Glukoosin liike</target>
         <note>Title of the prediction input effect for glucose momentum</note>
       </trans-unit>
-      <trans-unit id="Glucose data is %1$@ old" xml:space="preserve">
+      <trans-unit id="Glucose data is %1$@ old" xml:space="preserve" approved="yes">
         <source>Glucose data is %1$@ old</source>
-        <target state="translated">Glukoositieto on %1$@ vanha</target>
+        <target state="final">Glukoositieto on %1$@ vanha</target>
         <note>The error message when glucose data is too old to be used. (1: glucose data age in minutes)</note>
       </trans-unit>
-      <trans-unit id="Glucose data not available" xml:space="preserve">
+      <trans-unit id="Glucose data not available" xml:space="preserve" approved="yes">
         <source>Glucose data not available</source>
-        <target state="translated">Glukoositietoja ei saatavilla</target>
+        <target state="final">Glukoositietoja ei saatavilla</target>
         <note>Description of error when glucose data is missing</note>
       </trans-unit>
-      <trans-unit id="Indefinitely" xml:space="preserve">
+      <trans-unit id="Indefinitely" xml:space="preserve" approved="yes">
         <source>Indefinitely</source>
-        <target state="translated">Toistaiseksi</target>
+        <target state="final">Toistaiseksi</target>
         <note>The title of a target alert action specifying an indefinitely long workout targets duration</note>
       </trans-unit>
-      <trans-unit id="Insulin" xml:space="preserve">
+      <trans-unit id="Insulin" xml:space="preserve" approved="yes">
         <source>Insulin</source>
-        <target state="translated">Insuliini</target>
+        <target state="final">Insuliini</target>
         <note>Title of the prediction input effect for insulin</note>
       </trans-unit>
       <trans-unit id="Insulin Absorbed (U) × Insulin Sensitivity (%1$@/U)" xml:space="preserve">
@@ -1072,41 +1072,41 @@ Bluetooth</source>
         <target state="translated">Imeytynyt insuliini (U) × Insuliiniherkkyys (%1$@/U)</target>
         <note>Description of the prediction input effect for insulin</note>
       </trans-unit>
-      <trans-unit id="Insulin Delivery" xml:space="preserve">
+      <trans-unit id="Insulin Delivery" xml:space="preserve" approved="yes">
         <source>Insulin Delivery</source>
-        <target state="translated">Insuliinin annostelu</target>
+        <target state="final">Insuliinin annostelu</target>
         <note>The title of the insulin delivery graph</note>
       </trans-unit>
-      <trans-unit id="Insulin Model" xml:space="preserve">
+      <trans-unit id="Insulin Model" xml:space="preserve" approved="yes">
         <source>Insulin Model</source>
-        <target state="translated">Insuliinimalli</target>
+        <target state="final">Insuliinimalli</target>
         <note>Details for configuration error when insulin model is missing
    The title text for the insulin model setting row</note>
       </trans-unit>
-      <trans-unit id="Insulin Pump" xml:space="preserve">
+      <trans-unit id="Insulin Pump" xml:space="preserve" approved="yes">
         <source>Insulin Pump</source>
-        <target state="translated">Insuliinipumppu</target>
+        <target state="final">Insuliinipumppu</target>
         <note>Descriptive text for Insulin Pump</note>
       </trans-unit>
-      <trans-unit id="Insulin Sensitivities" xml:space="preserve">
+      <trans-unit id="Insulin Sensitivities" xml:space="preserve" approved="yes">
         <source>Insulin Sensitivities</source>
-        <target state="translated">Insuliiniherkkyydet</target>
+        <target state="final">Insuliiniherkkyydet</target>
         <note>The title of the insulin sensitivities schedule screen
    The title text for the insulin sensitivity schedule</note>
       </trans-unit>
-      <trans-unit id="Insulin Suspended" xml:space="preserve">
+      <trans-unit id="Insulin Suspended" xml:space="preserve" approved="yes">
         <source>Insulin Suspended</source>
-        <target state="translated">Insuliini pysäytetty</target>
+        <target state="final">Insuliini pysäytetty</target>
         <note>The title of the cell indicating the pump is suspended</note>
       </trans-unit>
-      <trans-unit id="Insulin effects" xml:space="preserve">
+      <trans-unit id="Insulin effects" xml:space="preserve" approved="yes">
         <source>Insulin effects</source>
-        <target state="translated">Insuliinivaikutus</target>
+        <target state="final">Insuliinivaikutus</target>
         <note>Details for missing data error when insulin effects are missing</note>
       </trans-unit>
-      <trans-unit id="Invalid data: %1$@" xml:space="preserve">
+      <trans-unit id="Invalid data: %1$@" xml:space="preserve" approved="yes">
         <source>Invalid data: %1$@</source>
-        <target state="translated">Virheellinen tieto: %1$@</target>
+        <target state="final">Virheellinen tieto: %1$@</target>
         <note>The error message when invalid data was encountered. (1: details of invalid data)</note>
       </trans-unit>
       <trans-unit id="Issue Report" xml:space="preserve">
@@ -1114,44 +1114,44 @@ Bluetooth</source>
         <target state="translated">Ongelmaraportti</target>
         <note>The title text for the issue report cell</note>
       </trans-unit>
-      <trans-unit id="Launches CGM app" xml:space="preserve">
+      <trans-unit id="Launches CGM app" xml:space="preserve" approved="yes">
         <source>Launches CGM app</source>
-        <target state="translated">Avaa CGM-sovelluksen</target>
+        <target state="final">Avaa CGM-sovelluksen</target>
         <note>Glucose HUD accessibility hint</note>
       </trans-unit>
-      <trans-unit id="Learn More" xml:space="preserve">
+      <trans-unit id="Learn More" xml:space="preserve" approved="yes">
         <source>Learn More</source>
-        <target state="translated">Lue lisää</target>
+        <target state="final">Lue lisää</target>
         <note>OK button title for alert shown when delivery status is uncertain</note>
       </trans-unit>
-      <trans-unit id="Less than a minute remaining" xml:space="preserve">
+      <trans-unit id="Less than a minute remaining" xml:space="preserve" approved="yes">
         <source>Less than a minute remaining</source>
-        <target state="translated">Alle minuutti jäljellä</target>
+        <target state="final">Alle minuutti jäljellä</target>
         <note>Estimated remaining duration with less than a minute</note>
       </trans-unit>
-      <trans-unit id="Loading..." xml:space="preserve">
+      <trans-unit id="Loading..." xml:space="preserve" approved="yes">
         <source>Loading...</source>
-        <target state="translated">Ladataan...</target>
+        <target state="final">Ladataan...</target>
         <note>The loading message for the diagnostic report screen</note>
       </trans-unit>
-      <trans-unit id="Loop Failure" xml:space="preserve">
+      <trans-unit id="Loop Failure" xml:space="preserve" approved="yes">
         <source>Loop Failure</source>
-        <target state="translated">Loopin häiriö</target>
+        <target state="final">Loopin häiriö</target>
         <note>The notification title for a loop failure</note>
       </trans-unit>
-      <trans-unit id="Loop has detected an issue with your Bluetooth settings, and will not work successfully until Bluetooth is enabled. You will not receive glucose readings, or be able to bolus." xml:space="preserve">
+      <trans-unit id="Loop has detected an issue with your Bluetooth settings, and will not work successfully until Bluetooth is enabled. You will not receive glucose readings, or be able to bolus." xml:space="preserve" approved="yes">
         <source>Loop has detected an issue with your Bluetooth settings, and will not work successfully until Bluetooth is enabled. You will not receive glucose readings, or be able to bolus.</source>
-        <target state="translated">Loop on havainnut Bluetooth-asetuksissa ongelman, eikä se toimi oikein ennen kuin Bluetooth on otettu käyttöön. Et saa glukoosilukemia, etkä voi antaa bolusta.</target>
+        <target state="final">Loop on havainnut Bluetooth-asetuksissa ongelman, eikä se toimi oikein ennen kuin Bluetooth on otettu käyttöön. Et saa glukoosilukemia, etkä voi antaa bolusta.</target>
         <note>Bluetooth unavailable alert body.</note>
       </trans-unit>
-      <trans-unit id="Loop has not completed successfully in %@" xml:space="preserve">
+      <trans-unit id="Loop has not completed successfully in %@" xml:space="preserve" approved="yes">
         <source>Loop has not completed successfully in %@</source>
-        <target state="translated">Häiriö Loopin toiminnassa %@</target>
+        <target state="final">Häiriö Loopin toiminnassa %@</target>
         <note>The notification alert describing a long-lasting loop failure. The substitution parameter is the time interval since the last loop</note>
       </trans-unit>
-      <trans-unit id="Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus." xml:space="preserve">
+      <trans-unit id="Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus." xml:space="preserve" approved="yes">
         <source>Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus.</source>
-        <target state="translated">Loop ei toimi oikein ennen kuin Bluetooth on otettu käyttöön. Et saa glukoosilukemia, etkä voi antaa bolusta.</target>
+        <target state="final">Loop ei toimi oikein ennen kuin Bluetooth on otettu käyttöön. Et saa glukoosilukemia, etkä voi antaa bolusta.</target>
         <note>Bluetooth off background alert body.</note>
       </trans-unit>
       <trans-unit id="Manage Critical Alerts in Settings" xml:space="preserve">
@@ -1164,14 +1164,14 @@ Bluetooth</source>
         <target state="translated">Ilmoitusten hallinta asetuksissa</target>
         <note>Manage Notifications in Settings button text</note>
       </trans-unit>
-      <trans-unit id="Meal Bolus" xml:space="preserve">
+      <trans-unit id="Meal Bolus" xml:space="preserve" approved="yes">
         <source>Meal Bolus</source>
-        <target state="translated">Ateriabolus</target>
+        <target state="final">Ateriabolus</target>
         <note>Title for bolus entry screen when also entering carbs</note>
       </trans-unit>
-      <trans-unit id="Missing data: %1$@" xml:space="preserve">
+      <trans-unit id="Missing data: %1$@" xml:space="preserve" approved="yes">
         <source>Missing data: %1$@</source>
-        <target state="translated">Tiedot puuttuvat: %1$@</target>
+        <target state="final">Tiedot puuttuvat: %1$@</target>
         <note>The error message for missing data. (1: missing data details)</note>
       </trans-unit>
       <trans-unit id="Momentum effects" xml:space="preserve">
@@ -1179,29 +1179,29 @@ Bluetooth</source>
         <target state="translated">Liikevaikutukset (momentum)</target>
         <note>Details for missing data error when momentum effects are missing</note>
       </trans-unit>
-      <trans-unit id="Needs Attention" xml:space="preserve">
+      <trans-unit id="Needs Attention" xml:space="preserve" approved="yes">
         <source>Needs Attention</source>
-        <target state="translated">Tarvitsee huomiota</target>
+        <target state="final">Tarvitsee huomiota</target>
         <note>Sensor state description for the non-valid state</note>
       </trans-unit>
-      <trans-unit id="Nightscout" xml:space="preserve">
+      <trans-unit id="Nightscout" xml:space="preserve" approved="yes">
         <source>Nightscout</source>
-        <target state="translated">Nightscout</target>
+        <target state="final">Nightscout</target>
         <note>The title of the Nightscout service</note>
       </trans-unit>
-      <trans-unit id="No Bolus Recommended" xml:space="preserve">
+      <trans-unit id="No Bolus Recommended" xml:space="preserve" approved="yes">
         <source>No Bolus Recommended</source>
-        <target state="translated">Bolusta ei suositella</target>
+        <target state="final">Bolusta ei suositella</target>
         <note>Title for bolus screen notice when no bolus is recommended</note>
       </trans-unit>
-      <trans-unit id="No Maximum Bolus Configured" xml:space="preserve">
+      <trans-unit id="No Maximum Bolus Configured" xml:space="preserve" approved="yes">
         <source>No Maximum Bolus Configured</source>
-        <target state="translated">Maksimibolusta ei ole määritetty</target>
+        <target state="final">Maksimibolusta ei ole määritetty</target>
         <note>Alert title for a missing maximum bolus setting error</note>
       </trans-unit>
-      <trans-unit id="No Pump Configured" xml:space="preserve">
+      <trans-unit id="No Pump Configured" xml:space="preserve" approved="yes">
         <source>No Pump Configured</source>
-        <target state="translated">Pumppua ei ole määritetty</target>
+        <target state="final">Pumppua ei ole määritetty</target>
         <note>Alert title for a missing pump error</note>
       </trans-unit>
       <trans-unit id="No Recent Glucose Data" xml:space="preserve">
@@ -1214,14 +1214,14 @@ Bluetooth</source>
         <target state="translated">Ei viimeaikaisia pumpun tietoja</target>
         <note>Title for bolus screen notice when pump data is missing or stale</note>
       </trans-unit>
-      <trans-unit id="No connected devices, or failure during device connection" xml:space="preserve">
+      <trans-unit id="No connected devices, or failure during device connection" xml:space="preserve" approved="yes">
         <source>No connected devices, or failure during device connection</source>
-        <target state="translated">Ei yhdistettyjä laitteita tai häiriö laiteyhteydessä</target>
+        <target state="final">Ei yhdistettyjä laitteita tai häiriö laiteyhteydessä</target>
         <note>The error message displayed for device connection errors.</note>
       </trans-unit>
-      <trans-unit id="OK" xml:space="preserve">
+      <trans-unit id="OK" xml:space="preserve" approved="yes">
         <source>OK</source>
-        <target state="translated">OK</target>
+        <target state="final">OK</target>
         <note>The title of the notification action to acknowledge a device alert</note>
       </trans-unit>
       <trans-unit id="Override Presets" xml:space="preserve">
@@ -1229,131 +1229,131 @@ Bluetooth</source>
         <target state="translated">Tilapäisasetukset</target>
         <note>The title text for the override presets</note>
       </trans-unit>
-      <trans-unit id="Pre-Meal Targets" xml:space="preserve">
+      <trans-unit id="Pre-Meal Targets" xml:space="preserve" approved="yes">
         <source>Pre-Meal Targets</source>
-        <target state="translated">Ennen ateriaa -tavoite</target>
+        <target state="final">Ennen ateriaa -tavoite</target>
         <note>The label of the pre-meal mode toggle button</note>
       </trans-unit>
-      <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve">
+      <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve" approved="yes">
         <source>Predicted glucose at %1$@ is %2$@.</source>
-        <target state="translated">Ennustettu glukoosi klo %1$@ on %2$@.</target>
+        <target state="final">Ennustettu glukoosi klo %1$@ on %2$@.</target>
         <note>Message when offering bolus recommendation even though bg is below range and minBG is in future. (1: glucose time)(2: glucose number)</note>
       </trans-unit>
-      <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve">
+      <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve" approved="yes">
         <source>Predicted glucose of %1$@ is below your suspend threshold setting.</source>
-        <target state="translated">Ennustettu glukoosi %1$@ on pysäytysrajan alapuolella.</target>
+        <target state="final">Ennustettu glukoosi %1$@ on pysäytysrajan alapuolella.</target>
         <note>Notice message when recommending bolus when BG is below the suspend threshold. (1: glucose value)</note>
       </trans-unit>
-      <trans-unit id="Predicted: %1$@&#10;Actual: %2$@ (%3$@)" xml:space="preserve">
+      <trans-unit id="Predicted: %1$@&#10;Actual: %2$@ (%3$@)" xml:space="preserve" approved="yes">
         <source>Predicted: %1$@
 Actual: %2$@ (%3$@)</source>
-        <target state="translated">Ennustettu: %1$@
+        <target state="final">Ennustettu: %1$@
 Todellinen: %2$@ (%3$@)</target>
         <note>Format string describing retrospective glucose prediction comparison. (1: Predicted glucose)(2: Actual glucose)(3: difference)</note>
       </trans-unit>
-      <trans-unit id="Preparing Critical Event Logs" xml:space="preserve">
+      <trans-unit id="Preparing Critical Event Logs" xml:space="preserve" approved="yes">
         <source>Preparing Critical Event Logs</source>
-        <target state="translated">Valmistellaan kriittisten tapahtumien lokia</target>
+        <target state="final">Valmistellaan tärkeiden tapahtumien lokia</target>
         <note>Preparing critical event log text</note>
       </trans-unit>
-      <trans-unit id="Pump" xml:space="preserve">
+      <trans-unit id="Pump" xml:space="preserve" approved="yes">
         <source>Pump</source>
-        <target state="translated">Pumppu</target>
+        <target state="final">Pumppu</target>
         <note>The title of the pump section in settings</note>
       </trans-unit>
-      <trans-unit id="Pump Battery Low" xml:space="preserve">
+      <trans-unit id="Pump Battery Low" xml:space="preserve" approved="yes">
         <source>Pump Battery Low</source>
-        <target state="translated">Pumpun paristo vähissä</target>
+        <target state="final">Pumpun paristo vähissä</target>
         <note>The notification title for a low pump battery</note>
       </trans-unit>
-      <trans-unit id="Pump Manager" xml:space="preserve">
+      <trans-unit id="Pump Manager" xml:space="preserve" approved="yes">
         <source>Pump Manager</source>
-        <target state="translated">Pumpun hallinta</target>
+        <target state="final">Pumpun hallinta</target>
         <note>Details for configuration error when pump manager is missing</note>
       </trans-unit>
-      <trans-unit id="Pump Reservoir Empty" xml:space="preserve">
+      <trans-unit id="Pump Reservoir Empty" xml:space="preserve" approved="yes">
         <source>Pump Reservoir Empty</source>
-        <target state="translated">Pumpun säiliö tyhjä</target>
+        <target state="final">Pumpun säiliö tyhjä</target>
         <note>The notification title for an empty pump reservoir</note>
       </trans-unit>
-      <trans-unit id="Pump Reservoir Low" xml:space="preserve">
+      <trans-unit id="Pump Reservoir Low" xml:space="preserve" approved="yes">
         <source>Pump Reservoir Low</source>
-        <target state="translated">Pumpun säiliö vähissä</target>
+        <target state="final">Pumpun säiliö vähissä</target>
         <note>The notification title for a low pump reservoir</note>
       </trans-unit>
-      <trans-unit id="Pump Suspended" xml:space="preserve">
+      <trans-unit id="Pump Suspended" xml:space="preserve" approved="yes">
         <source>Pump Suspended</source>
-        <target state="translated">Pumppu pysäytetty</target>
+        <target state="final">Pumppu pysäytetty</target>
         <note>The title of the cell indicating the pump is suspended</note>
       </trans-unit>
-      <trans-unit id="Pump data is %1$@ old" xml:space="preserve">
+      <trans-unit id="Pump data is %1$@ old" xml:space="preserve" approved="yes">
         <source>Pump data is %1$@ old</source>
-        <target state="translated">Pumpun tiedot ovat %1$@ vanhat</target>
+        <target state="final">Pumpun tiedot ovat %1$@ vanhat</target>
         <note>The error message when pump data is too old to be used. (1: pump data age in minutes)</note>
       </trans-unit>
-      <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
+      <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve" approved="yes">
         <source>%1$@ %2$@</source>
-        <target state="translated">%1$@ %2$@</target>
+        <target state="final">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
-      <trans-unit id="Rapid-Acting – Adults" xml:space="preserve">
+      <trans-unit id="Rapid-Acting – Adults" xml:space="preserve" approved="yes">
         <source>Rapid-Acting – Adults</source>
-        <target state="translated">Nopeavaikutteinen – aikuiset</target>
+        <target state="final">Nopeavaikutteinen – aikuiset</target>
         <note>Title of insulin model preset</note>
       </trans-unit>
-      <trans-unit id="Rapid-Acting – Children" xml:space="preserve">
+      <trans-unit id="Rapid-Acting – Children" xml:space="preserve" approved="yes">
         <source>Rapid-Acting – Children</source>
-        <target state="translated">Nopeavaikutteinen – lapset</target>
+        <target state="final">Nopeavaikutteinen – lapset</target>
         <note>Title of insulin model preset</note>
       </trans-unit>
-      <trans-unit id="Recommendation expired: %1$@ old" xml:space="preserve">
+      <trans-unit id="Recommendation expired: %1$@ old" xml:space="preserve" approved="yes">
         <source>Recommendation expired: %1$@ old</source>
-        <target state="translated">Suositus vanhentunut: %1$@ vanha</target>
+        <target state="final">Suositus vanhentunut: %1$@ vanha</target>
         <note>The error message when a recommendation has expired. (1: age of recommendation in minutes)</note>
       </trans-unit>
-      <trans-unit id="Recommended Basal" xml:space="preserve">
+      <trans-unit id="Recommended Basal" xml:space="preserve" approved="yes">
         <source>Recommended Basal</source>
-        <target state="translated">Suositeltu basaali</target>
+        <target state="final">Suositeltu basaali</target>
         <note>The title of the cell displaying a recommended temp basal value</note>
       </trans-unit>
-      <trans-unit id="Recommended Bolus" xml:space="preserve">
+      <trans-unit id="Recommended Bolus" xml:space="preserve" approved="yes">
         <source>Recommended Bolus</source>
-        <target state="translated">Suositeltu bolus</target>
+        <target state="final">Suositeltu bolus</target>
         <note>Label for recommended bolus row on bolus screen</note>
       </trans-unit>
-      <trans-unit id="Recommended Bolus: %@ Units" xml:space="preserve">
+      <trans-unit id="Recommended Bolus: %@ Units" xml:space="preserve" approved="yes">
         <source>Recommended Bolus: %@ Units</source>
-        <target state="translated">Suositeltu bolus: %@ yksikköä</target>
+        <target state="final">Suositeltu bolus: %@ yksikköä</target>
         <note>Accessibility hint describing recommended bolus units</note>
       </trans-unit>
-      <trans-unit id="Reservoir" xml:space="preserve">
+      <trans-unit id="Reservoir" xml:space="preserve" approved="yes">
         <source>Reservoir</source>
-        <target state="translated">Säiliö</target>
+        <target state="final">Säiliö</target>
         <note>Details for missing data error when reservoir data is missing</note>
       </trans-unit>
-      <trans-unit id="Retrospective Correction" xml:space="preserve">
+      <trans-unit id="Retrospective Correction" xml:space="preserve" approved="yes">
         <source>Retrospective Correction</source>
-        <target state="translated">Retrospektiivinen korjaus</target>
+        <target state="final">Retrospektiivinen korjaus</target>
         <note>Title of the prediction input effect for retrospective correction</note>
       </trans-unit>
-      <trans-unit id="Retry" xml:space="preserve">
+      <trans-unit id="Retry" xml:space="preserve" approved="yes">
         <source>Retry</source>
-        <target state="translated">Uudelleen</target>
+        <target state="final">Uudelleen</target>
         <note>The title of the notification action to retry a bolus command</note>
       </trans-unit>
-      <trans-unit id="Save and Deliver" xml:space="preserve">
+      <trans-unit id="Save and Deliver" xml:space="preserve" approved="yes">
         <source>Save and Deliver</source>
-        <target state="translated">Tallenna ja annostele</target>
+        <target state="final">Tallenna ja annostele</target>
         <note>Button text to save carbs and/or manual glucose entry and deliver a bolus</note>
       </trans-unit>
-      <trans-unit id="Save without Bolusing" xml:space="preserve">
+      <trans-unit id="Save without Bolusing" xml:space="preserve" approved="yes">
         <source>Save without Bolusing</source>
-        <target state="translated">Tallenna ilman bolusta</target>
+        <target state="final">Tallenna ilman bolusta</target>
         <note>Button text to save carbs and/or manual glucose entry without a bolus</note>
       </trans-unit>
-      <trans-unit id="Services" xml:space="preserve">
+      <trans-unit id="Services" xml:space="preserve" approved="yes">
         <source>Services</source>
-        <target state="translated">Palvelut</target>
+        <target state="final">Palvelut</target>
         <note>The title of the services section in settings</note>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
@@ -1444,9 +1444,9 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="translated">Hoidon asetukset</target>
         <note>Title text for button to Therapy Settings</note>
       </trans-unit>
-      <trans-unit id="Try Again" xml:space="preserve">
+      <trans-unit id="Try Again" xml:space="preserve" approved="yes">
         <source>Try Again</source>
-        <target state="translated">Yritä uudelleen</target>
+        <target state="final">Yritä uudelleen</target>
         <note>Critical event log export error alert try again button</note>
       </trans-unit>
       <trans-unit id="Turn on Bluetooth to receive alerts, alarms or sensor glucose readings." xml:space="preserve">
@@ -1529,49 +1529,49 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="translated">Muokkaa hiilihydraatteja</target>
         <note>The title of the view controller to edit an existing carb entry</note>
       </trans-unit>
-      <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve">
+      <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve" approved="yes">
         <source>OK</source>
-        <target state="translated">OK</target>
+        <target state="final">OK</target>
         <note>The title of the action used to dismiss an error alert</note>
       </trans-unit>
-      <trans-unit id="dB" xml:space="preserve">
+      <trans-unit id="dB" xml:space="preserve" approved="yes">
         <source>dB</source>
-        <target state="translated">dB</target>
+        <target state="final">dB</target>
         <note>The short unit display string for decibles</note>
       </trans-unit>
-      <trans-unit id="g" xml:space="preserve">
+      <trans-unit id="g" xml:space="preserve" approved="yes">
         <source>g</source>
-        <target state="translated">g</target>
+        <target state="final">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
-      <trans-unit id="mg/dL" xml:space="preserve">
+      <trans-unit id="mg/dL" xml:space="preserve" approved="yes">
         <source>mg/dL</source>
-        <target state="translated">mg/dL</target>
+        <target state="final">mg/dL</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
-      <trans-unit id="mmol/L" xml:space="preserve">
+      <trans-unit id="mmol/L" xml:space="preserve" approved="yes">
         <source>mmol/L</source>
-        <target state="translated">mmol/L</target>
+        <target state="final">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
-      <trans-unit id="prediction-description-retrospective-correction" xml:space="preserve">
+      <trans-unit id="prediction-description-retrospective-correction" xml:space="preserve" approved="yes">
         <source>prediction-description-retrospective-correction</source>
-        <target state="translated">ennuste-kuvaus-retrospektiivinen-korjaus</target>
+        <target state="final">ennuste-kuvaus-retrospektiivinen-korjaus</target>
         <note>Format string describing retrospective glucose prediction comparison. (1: Predicted glucose)(2: Actual glucose)(3: difference)</note>
       </trans-unit>
-      <trans-unit id="since %@" xml:space="preserve">
+      <trans-unit id="since %@" xml:space="preserve" approved="yes">
         <source>since %@</source>
-        <target state="translated">%@ jälkeen</target>
+        <target state="final">%@ jälkeen</target>
         <note>Format fragment for a start time</note>
       </trans-unit>
-      <trans-unit id="starting at %@" xml:space="preserve">
+      <trans-unit id="starting at %@" xml:space="preserve" approved="yes">
         <source>starting at %@</source>
-        <target state="translated">alkaa %@</target>
+        <target state="final">alkaa %@</target>
         <note>The format for the description of a temporary override start date</note>
       </trans-unit>
-      <trans-unit id="until %@" xml:space="preserve">
+      <trans-unit id="until %@" xml:space="preserve" approved="yes">
         <source>until %@</source>
-        <target state="translated">%@ asti</target>
+        <target state="final">%@ asti</target>
         <note>The format for the description of a temporary override end date</note>
       </trans-unit>
     </body>
@@ -1581,44 +1581,44 @@ Todellinen: %2$@ (%3$@)</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="0RV-d5-muE.text" xml:space="preserve">
+      <trans-unit id="0RV-d5-muE.text" xml:space="preserve" approved="yes">
         <source>g</source>
-        <target state="translated">g</target>
+        <target state="final">g</target>
         <note>Class = "UILabel"; text = "g"; ObjectID = "0RV-d5-muE";</note>
       </trans-unit>
-      <trans-unit id="3kU-n2-fha.title" xml:space="preserve">
+      <trans-unit id="3kU-n2-fha.title" xml:space="preserve" approved="yes">
         <source>Status</source>
-        <target state="translated">Tila</target>
+        <target state="final">Tila</target>
         <note>Class = "UINavigationItem"; title = "Status"; ObjectID = "3kU-n2-fha";</note>
       </trans-unit>
-      <trans-unit id="5gz-kZ-iF1.text" xml:space="preserve">
+      <trans-unit id="5gz-kZ-iF1.text" xml:space="preserve" approved="yes">
         <source>3.5 U/hour @ 12:12 PM</source>
-        <target state="translated">3.5 U/t @ 12:12</target>
+        <target state="final">3.5 U/t @ 12:12</target>
         <note>Class = "UILabel"; text = "3.5 U/hour @ 12:12 PM"; ObjectID = "5gz-kZ-iF1";</note>
       </trans-unit>
-      <trans-unit id="87H-N1-0vJ.text" xml:space="preserve">
+      <trans-unit id="87H-N1-0vJ.text" xml:space="preserve" approved="yes">
         <source>Predicted</source>
-        <target state="translated">Ennustettu</target>
+        <target state="final">Ennustettu</target>
         <note>Class = "UILabel"; text = "Predicted"; ObjectID = "87H-N1-0vJ";</note>
       </trans-unit>
-      <trans-unit id="D4C-I2-dhA.text" xml:space="preserve">
+      <trans-unit id="D4C-I2-dhA.text" xml:space="preserve" approved="yes">
         <source>Future glucose is predicted by combining the effects of multiple inputs. Use this tool to toggle various inputs to see how they compare to the final prediction.</source>
-        <target state="translated">Tulevia glukoosiarvoja ennustetaan yhdistämällä useiden eri tekijöiden vaikutuksia. Tämän työkalun avulla voit havainnoida, kuinka ne vaikuttavat lopulliseen ennusteeseen laittamalla niitä päälle/pois.</target>
+        <target state="final">Tulevia glukoosiarvoja ennustetaan yhdistämällä useiden eri tekijöiden vaikutuksia. Tämän työkalun avulla voit havainnoida, kuinka ne vaikuttavat lopulliseen ennusteeseen laittamalla niitä päälle/pois.</target>
         <note>Class = "UILabel"; text = "Future glucose is predicted by combining the effects of multiple inputs. Use this tool to toggle various inputs to see how they compare to the final prediction."; ObjectID = "D4C-I2-dhA";</note>
       </trans-unit>
-      <trans-unit id="E41-FN-nkk.text" xml:space="preserve">
+      <trans-unit id="E41-FN-nkk.text" xml:space="preserve" approved="yes">
         <source>eventually 92 mg/dL</source>
-        <target state="translated">ennuste 92 mg/dL</target>
+        <target state="final">ennuste 92 mg/dL</target>
         <note>Class = "UILabel"; text = "eventually 92 mg/dL"; ObjectID = "E41-FN-nkk";</note>
       </trans-unit>
-      <trans-unit id="EAn-Ja-S1d.text" xml:space="preserve">
+      <trans-unit id="EAn-Ja-S1d.text" xml:space="preserve" approved="yes">
         <source>Observed</source>
-        <target state="translated">Havaittu</target>
+        <target state="final">Havaittu</target>
         <note>Class = "UILabel"; text = "Observed"; ObjectID = "EAn-Ja-S1d";</note>
       </trans-unit>
-      <trans-unit id="Fal-Vf-lfh.normalTitle" xml:space="preserve">
+      <trans-unit id="Fal-Vf-lfh.normalTitle" xml:space="preserve" approved="yes">
         <source>🍭</source>
-        <target state="translated">🍭</target>
+        <target state="final">🍭</target>
         <note>Class = "UIButton"; normalTitle = "🍭"; ObjectID = "Fal-Vf-lfh";</note>
       </trans-unit>
       <trans-unit id="IxU-As-glo.text" xml:space="preserve">
@@ -1626,39 +1626,39 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="translated">Havaittua glukoosin muutosta voidaan käyttää hiilihydraattien imeytymisen arviointiin sen jälkeen, kun siitä on vähennetty insuliinin mallinnettu vaikutus.</target>
         <note>Class = "UILabel"; text = "Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption."; ObjectID = "IxU-As-glo";</note>
       </trans-unit>
-      <trans-unit id="J7x-W5-gwo.text" xml:space="preserve">
+      <trans-unit id="J7x-W5-gwo.text" xml:space="preserve" approved="yes">
         <source>Detail</source>
-        <target state="translated">Yksityiskohta</target>
+        <target state="final">Yksityiskohta</target>
         <note>Class = "UILabel"; text = "Detail"; ObjectID = "J7x-W5-gwo";</note>
       </trans-unit>
-      <trans-unit id="Krd-Aa-ret.text" xml:space="preserve">
+      <trans-unit id="Krd-Aa-ret.text" xml:space="preserve" approved="yes">
         <source>Label</source>
-        <target state="translated">Nimiö</target>
+        <target state="final">Nimiö</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "Krd-Aa-ret";</note>
       </trans-unit>
-      <trans-unit id="OFA-qT-ZAg.text" xml:space="preserve">
+      <trans-unit id="OFA-qT-ZAg.text" xml:space="preserve" approved="yes">
         <source>Label</source>
-        <target state="translated">Nimiö</target>
+        <target state="final">Nimiö</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "OFA-qT-ZAg";</note>
       </trans-unit>
-      <trans-unit id="PA3-sP-cWY.title" xml:space="preserve">
+      <trans-unit id="PA3-sP-cWY.title" xml:space="preserve" approved="yes">
         <source>Predicted Glucose</source>
-        <target state="translated">Ennustettu glukoosi</target>
+        <target state="final">Ennustettu glukoosi</target>
         <note>Class = "UITableViewController"; title = "Predicted Glucose"; ObjectID = "PA3-sP-cWY";</note>
       </trans-unit>
-      <trans-unit id="Qe9-uc-vPR.normalTitle" xml:space="preserve">
+      <trans-unit id="Qe9-uc-vPR.normalTitle" xml:space="preserve" approved="yes">
         <source>🍽</source>
-        <target state="translated">🍽</target>
+        <target state="final">🍽</target>
         <note>Class = "UIButton"; normalTitle = "🍽"; ObjectID = "Qe9-uc-vPR";</note>
       </trans-unit>
-      <trans-unit id="QhO-Yi-AqQ.normalTitle" xml:space="preserve">
+      <trans-unit id="QhO-Yi-AqQ.normalTitle" xml:space="preserve" approved="yes">
         <source>🌮</source>
-        <target state="translated">🌮</target>
+        <target state="final">🌮</target>
         <note>Class = "UIButton"; normalTitle = "🌮"; ObjectID = "QhO-Yi-AqQ";</note>
       </trans-unit>
-      <trans-unit id="Rse-x8-amW.text" xml:space="preserve">
+      <trans-unit id="Rse-x8-amW.text" xml:space="preserve" approved="yes">
         <source>eventually 92 mg/dL</source>
-        <target state="translated">ennuste 92 mg/dL</target>
+        <target state="final">ennuste 92 mg/dL</target>
         <note>Class = "UILabel"; text = "eventually 92 mg/dL"; ObjectID = "Rse-x8-amW";</note>
       </trans-unit>
       <trans-unit id="SQx-au-ZcM.text" xml:space="preserve">
@@ -1666,9 +1666,9 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="translated">g akt. hiilari</target>
         <note>Class = "UILabel"; text = "g Active Carbs"; ObjectID = "SQx-au-ZcM";</note>
       </trans-unit>
-      <trans-unit id="Tz7-80-bJ7.title" xml:space="preserve">
+      <trans-unit id="Tz7-80-bJ7.title" xml:space="preserve" approved="yes">
         <source>Add/Edit Carb Entry</source>
-        <target state="translated">Lisää/muokkaa hiilihydraatteja</target>
+        <target state="final">Lisää/muokkaa hiilihydraatteja</target>
         <note>Class = "UINavigationItem"; title = "Add/Edit Carb Entry"; ObjectID = "Tz7-80-bJ7";</note>
       </trans-unit>
       <trans-unit id="Vpi-5b-bY5.title" xml:space="preserve">
@@ -1676,34 +1676,34 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="translated">Hiilihydraatit</target>
         <note>Class = "UINavigationItem"; title = "Carbohydrates"; ObjectID = "Vpi-5b-bY5";</note>
       </trans-unit>
-      <trans-unit id="Wx8-Tf-FnG.text" xml:space="preserve">
+      <trans-unit id="Wx8-Tf-FnG.text" xml:space="preserve" approved="yes">
         <source>Amount Consumed</source>
-        <target state="translated">Määrä</target>
+        <target state="final">Määrä</target>
         <note>Class = "UILabel"; text = "Amount Consumed"; ObjectID = "Wx8-Tf-FnG";</note>
       </trans-unit>
-      <trans-unit id="Yf6-fw-Gex.placeholder" xml:space="preserve">
+      <trans-unit id="Yf6-fw-Gex.placeholder" xml:space="preserve" approved="yes">
         <source>0</source>
-        <target state="translated">0</target>
+        <target state="final">0</target>
         <note>Class = "UITextField"; placeholder = "0"; ObjectID = "Yf6-fw-Gex";</note>
       </trans-unit>
-      <trans-unit id="aCb-Qs-bpu.text" xml:space="preserve">
+      <trans-unit id="aCb-Qs-bpu.text" xml:space="preserve" approved="yes">
         <source>Detail</source>
-        <target state="translated">Yksityiskohta</target>
+        <target state="final">Yksityiskohta</target>
         <note>Class = "UILabel"; text = "Detail"; ObjectID = "aCb-Qs-bpu";</note>
       </trans-unit>
-      <trans-unit id="ap1-M6-naG.text" xml:space="preserve">
+      <trans-unit id="ap1-M6-naG.text" xml:space="preserve" approved="yes">
         <source>Food Type</source>
-        <target state="translated">Ruokatyyppi</target>
+        <target state="final">Ruokatyyppi</target>
         <note>Class = "UILabel"; text = "Food Type"; ObjectID = "ap1-M6-naG";</note>
       </trans-unit>
-      <trans-unit id="bIL-Ub-qYp.text" xml:space="preserve">
+      <trans-unit id="bIL-Ub-qYp.text" xml:space="preserve" approved="yes">
         <source>Label</source>
-        <target state="translated">Nimiö</target>
+        <target state="final">Nimiö</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "bIL-Ub-qYp";</note>
       </trans-unit>
-      <trans-unit id="bq4-98-cQU.text" xml:space="preserve">
+      <trans-unit id="bq4-98-cQU.text" xml:space="preserve" approved="yes">
         <source>Glucose Change</source>
-        <target state="translated">Glukoosin muutos</target>
+        <target state="final">Glukoosin muutos</target>
         <note>Class = "UILabel"; text = "Glucose Change"; ObjectID = "bq4-98-cQU";</note>
       </trans-unit>
       <trans-unit id="d3X-AN-tA5.text" xml:space="preserve">
@@ -1711,54 +1711,54 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="translated">g yhteensä</target>
         <note>Class = "UILabel"; text = "g Total"; ObjectID = "d3X-AN-tA5";</note>
       </trans-unit>
-      <trans-unit id="d6m-qV-wWi.text" xml:space="preserve">
+      <trans-unit id="d6m-qV-wWi.text" xml:space="preserve" approved="yes">
         <source>Label</source>
-        <target state="translated">Nimiö</target>
+        <target state="final">Nimiö</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "d6m-qV-wWi";</note>
       </trans-unit>
-      <trans-unit id="hZZ-2S-lrd.title" xml:space="preserve">
+      <trans-unit id="hZZ-2S-lrd.title" xml:space="preserve" approved="yes">
         <source>Carbohydrate Effects</source>
-        <target state="translated">Hiilihydraattivaikutus</target>
+        <target state="final">Hiilihydraattivaikutus</target>
         <note>Class = "UITableViewController"; title = "Carbohydrate Effects"; ObjectID = "hZZ-2S-lrd";</note>
       </trans-unit>
-      <trans-unit id="k3F-Na-7mn.text" xml:space="preserve">
+      <trans-unit id="k3F-Na-7mn.text" xml:space="preserve" approved="yes">
         <source>Recommended Basal</source>
-        <target state="translated">Suositeltu basaali</target>
+        <target state="final">Suositeltu basaali</target>
         <note>Class = "UILabel"; text = "Recommended Basal"; ObjectID = "k3F-Na-7mn";</note>
       </trans-unit>
-      <trans-unit id="qPH-vU-xlu.text" xml:space="preserve">
+      <trans-unit id="qPH-vU-xlu.text" xml:space="preserve" approved="yes">
         <source>Food Type</source>
-        <target state="translated">Ruokatyyppi</target>
+        <target state="final">Ruokatyyppi</target>
         <note>Class = "UILabel"; text = "Food Type"; ObjectID = "qPH-vU-xlu";</note>
       </trans-unit>
-      <trans-unit id="tuw-av-A3x.text" xml:space="preserve">
+      <trans-unit id="tuw-av-A3x.text" xml:space="preserve" approved="yes">
         <source>Glucose</source>
-        <target state="translated">Glukoosi</target>
+        <target state="final">Glukoosi</target>
         <note>Class = "UILabel"; text = "Glucose"; ObjectID = "tuw-av-A3x";</note>
       </trans-unit>
-      <trans-unit id="ufi-Kj-33k.text" xml:space="preserve">
+      <trans-unit id="ufi-Kj-33k.text" xml:space="preserve" approved="yes">
         <source>Label</source>
-        <target state="translated">Nimiö</target>
+        <target state="final">Nimiö</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "ufi-Kj-33k";</note>
       </trans-unit>
-      <trans-unit id="xl9-Wc-Pdu.normalTitle" xml:space="preserve">
+      <trans-unit id="xl9-Wc-Pdu.normalTitle" xml:space="preserve" approved="yes">
         <source>🍕</source>
-        <target state="translated">🍕</target>
+        <target state="final">🍕</target>
         <note>Class = "UIButton"; normalTitle = "🍕"; ObjectID = "xl9-Wc-Pdu";</note>
       </trans-unit>
-      <trans-unit id="yn7-2M-jZz.text" xml:space="preserve">
+      <trans-unit id="yn7-2M-jZz.text" xml:space="preserve" approved="yes">
         <source>0</source>
-        <target state="translated">0</target>
+        <target state="final">0</target>
         <note>Class = "UILabel"; text = "0"; ObjectID = "yn7-2M-jZz";</note>
       </trans-unit>
-      <trans-unit id="zbc-87-wxZ.text" xml:space="preserve">
+      <trans-unit id="zbc-87-wxZ.text" xml:space="preserve" approved="yes">
         <source>Title</source>
-        <target state="translated">Otsikko</target>
+        <target state="final">Otsikko</target>
         <note>Class = "UILabel"; text = "Title"; ObjectID = "zbc-87-wxZ";</note>
       </trans-unit>
-      <trans-unit id="zvZ-uf-zMX.text" xml:space="preserve">
+      <trans-unit id="zvZ-uf-zMX.text" xml:space="preserve" approved="yes">
         <source>0</source>
-        <target state="translated">0</target>
+        <target state="final">0</target>
         <note>Class = "UILabel"; text = "0"; ObjectID = "zvZ-uf-zMX";</note>
       </trans-unit>
     </body>
@@ -1768,9 +1768,9 @@ Todellinen: %2$@ (%3$@)</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>LoopCore</source>
-        <target state="translated">LoopCore</target>
+        <target state="final">LoopCore</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1780,9 +1780,9 @@ Todellinen: %2$@ (%3$@)</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="%1$@ v%2$@" xml:space="preserve">
+      <trans-unit id="%1$@ v%2$@" xml:space="preserve" approved="yes">
         <source>%1$@ v%2$@</source>
-        <target state="translated">%1$@ v%2$@</target>
+        <target state="final">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
     </body>
@@ -1792,14 +1792,14 @@ Todellinen: %2$@ (%3$@)</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve" approved="yes">
         <source>LoopUI</source>
-        <target state="translated">LoopUI</target>
+        <target state="final">LoopUI</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>$(PRODUCT_NAME)</source>
-        <target state="translated">$(PRODUCT_NAME)</target>
+        <target state="final">$(PRODUCT_NAME)</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1809,9 +1809,9 @@ Todellinen: %2$@ (%3$@)</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="%1$@ at %2$@" xml:space="preserve">
+      <trans-unit id="%1$@ at %2$@" xml:space="preserve" approved="yes">
         <source>%1$@ at %2$@</source>
-        <target state="translated">%1$@ klo %2$@</target>
+        <target state="final">%1$@ klo %2$@</target>
         <note>Accessbility format value describing glucose: (1: glucose number)(2: glucose time)</note>
       </trans-unit>
       <trans-unit id="%1$@ units per hour at %2$@" xml:space="preserve">
@@ -2055,51 +2055,51 @@ Todellinen: %2$@ (%3$@)</target>
         <note>The title of the alert controller displayed after a carb entry send attempt fails
    The title of the alert controller displayed after a glucose range override send attempt fails</note>
       </trans-unit>
-      <trans-unit id="Turn Digital Crown&#10;to bolus" xml:space="preserve">
+      <trans-unit id="Turn Digital Crown&#10;to bolus" xml:space="preserve" approved="yes">
         <source>Turn Digital Crown
 to bolus</source>
-        <target state="translated">Vahvista bolus pyörittämällä Digital Crownia</target>
+        <target state="final">Vahvista bolus pyörittämällä Digital Crownia</target>
         <note>Help text for bolus confirmation on Apple Watch</note>
       </trans-unit>
-      <trans-unit id="U" xml:space="preserve">
+      <trans-unit id="U" xml:space="preserve" approved="yes">
         <source>U</source>
-        <target state="translated">U</target>
+        <target state="final">U</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
-      <trans-unit id="U/hr" xml:space="preserve">
+      <trans-unit id="U/hr" xml:space="preserve" approved="yes">
         <source>U/hr</source>
-        <target state="translated">U/t</target>
+        <target state="final">U/t</target>
         <note>The short unit display string for international units of insulin delivery per hour</note>
       </trans-unit>
-      <trans-unit id="Unable to Reach iPhone" xml:space="preserve">
+      <trans-unit id="Unable to Reach iPhone" xml:space="preserve" approved="yes">
         <source>Unable to Reach iPhone</source>
-        <target state="translated">iPhoneen ei saada yhteyttä</target>
+        <target state="final">iPhoneen ei saada yhteyttä</target>
         <note>The title of the alert controller displayed after a potential carb entry send attempt fails</note>
       </trans-unit>
-      <trans-unit id="Workout" xml:space="preserve">
+      <trans-unit id="Workout" xml:space="preserve" approved="yes">
         <source>Workout</source>
-        <target state="translated">Liikunta</target>
+        <target state="final">Liikunta</target>
         <note>The text for the Watch button for enabling workout mode</note>
       </trans-unit>
-      <trans-unit id="dB" xml:space="preserve">
+      <trans-unit id="dB" xml:space="preserve" approved="yes">
         <source>dB</source>
-        <target state="translated">dB</target>
+        <target state="final">dB</target>
         <note>The short unit display string for decibles</note>
       </trans-unit>
-      <trans-unit id="g" xml:space="preserve">
+      <trans-unit id="g" xml:space="preserve" approved="yes">
         <source>g</source>
-        <target state="translated">g</target>
+        <target state="final">g</target>
         <note>Short unit label for gram measurement
    The short unit display string for grams</note>
       </trans-unit>
-      <trans-unit id="mg/dL" xml:space="preserve">
+      <trans-unit id="mg/dL" xml:space="preserve" approved="yes">
         <source>mg/dL</source>
-        <target state="translated">mg/dL</target>
+        <target state="final">mg/dL</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
-      <trans-unit id="mmol/L" xml:space="preserve">
+      <trans-unit id="mmol/L" xml:space="preserve" approved="yes">
         <source>mmol/L</source>
-        <target state="translated">mmol/L</target>
+        <target state="final">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
