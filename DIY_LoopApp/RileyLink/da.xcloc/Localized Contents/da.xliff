@@ -87,9 +87,9 @@
         <target state="final">Hændelseshistorik</target>
         <note>Describing the pump history insulin data source</note>
       </trans-unit>
-      <trans-unit id="Glucose page failed crc check" xml:space="preserve">
+      <trans-unit id="Glucose page failed crc check" xml:space="preserve" approved="yes">
         <source>Glucose page failed crc check</source>
-        <target state="translated">Glucose page failed crc check</target>
+        <target state="final">Glucose page failed crc check</target>
         <note>Error description for glucose page failing crc check</note>
       </trans-unit>
       <trans-unit id="History page does not exist" xml:space="preserve" approved="yes">
@@ -97,9 +97,9 @@
         <target state="final">Historik side findes ikke</target>
         <note>Pump error code when invalid history page is requested</note>
       </trans-unit>
-      <trans-unit id="History page failed crc check" xml:space="preserve">
+      <trans-unit id="History page failed crc check" xml:space="preserve" approved="yes">
         <source>History page failed crc check</source>
-        <target state="translated">History page failed crc check</target>
+        <target state="final">History page failed crc check</target>
         <note>Error description for history page failing crc check</note>
       </trans-unit>
       <trans-unit id="Invalid response during %1$@: %2$@" xml:space="preserve" approved="yes">
@@ -961,9 +961,9 @@ Find enhed</target>
         <target state="translated">Sørg for at din RileyLink er i nærheden og tændt</target>
         <note>Recovery suggestion when no RileyLink is available</note>
       </trans-unit>
-      <trans-unit id="Memory initialized" xml:space="preserve">
+      <trans-unit id="Memory initialized" xml:space="preserve" approved="yes">
         <source>Memory initialized</source>
-        <target state="translated">Hukommelse initialiseret</target>
+        <target state="final">Hukommelse initialiseret</target>
         <note>Pod memory initialized</note>
       </trans-unit>
       <trans-unit id="No Insulin" xml:space="preserve">
@@ -1037,9 +1037,9 @@ Find enhed</target>
         <target state="translated">Fortolkningsfejl: </target>
         <note>Description for MessageError parsingError</note>
       </trans-unit>
-      <trans-unit id="Please bring only original pod in range or deactivate original pod" xml:space="preserve">
+      <trans-unit id="Please bring only original pod in range or deactivate original pod" xml:space="preserve" approved="yes">
         <source>Please bring only original pod in range or deactivate original pod</source>
-        <target state="translated">Hav kun den originale pod tæt på eller deaktivere original pod'e</target>
+        <target state="final">Hav kun den originale pod tæt på eller deaktivere den original pod</target>
         <note>Recovery suggestion on unexpected pod change</note>
       </trans-unit>
       <trans-unit id="Please bring your pod closer to the RileyLink and try again" xml:space="preserve" approved="yes">
@@ -1283,19 +1283,19 @@ Find enhed</target>
         <target state="translated">Venter på parrings påmindelse</target>
         <note>Description waiting for pairing reminder</note>
       </trans-unit>
-      <trans-unit id="oneNotUsed" xml:space="preserve">
+      <trans-unit id="oneNotUsed" xml:space="preserve" approved="yes">
         <source>oneNotUsed</source>
-        <target state="translated">oneNotUsed</target>
+        <target state="final">oneNotUsed</target>
         <note>Pod state oneNotUsed</note>
       </trans-unit>
-      <trans-unit id="threeNotUsed" xml:space="preserve">
+      <trans-unit id="threeNotUsed" xml:space="preserve" approved="yes">
         <source>threeNotUsed</source>
-        <target state="translated">threeNotUsed</target>
+        <target state="final">threeNotUsed</target>
         <note>Pod state threeNotUsed</note>
       </trans-unit>
-      <trans-unit id="twoNotUsed" xml:space="preserve">
+      <trans-unit id="twoNotUsed" xml:space="preserve" approved="yes">
         <source>twoNotUsed</source>
-        <target state="translated">twoNotUsed</target>
+        <target state="final">twoNotUsed</target>
         <note>Pod state twoNotUsed</note>
       </trans-unit>
     </body>
@@ -1507,9 +1507,9 @@ Find enhed</target>
         <target state="translated">%@E</target>
         <note>Format string for reservoir volume. (1: The localized volume)</note>
       </trans-unit>
-      <trans-unit id="Activation time exceeded. The pod must be deactivated before pairing with a new one. Please deactivate and discard pod." xml:space="preserve">
+      <trans-unit id="Activation time exceeded. The pod must be deactivated before pairing with a new one. Please deactivate and discard pod." xml:space="preserve" approved="yes">
         <source>Activation time exceeded. The pod must be deactivated before pairing with a new one. Please deactivate and discard pod.</source>
-        <target state="translated">Aktiveringstiden overskredet. Pod'en skal deaktiveres, før der parres med en ny. Deaktiver og kassér pod.</target>
+        <target state="final">Aktiveringstiden overskredet. Pod'en skal deaktiveres, før der parres med en ny. Deaktiver og kassér pod.</target>
         <note>Instructions when deactivating pod that didn't complete activation in time.</note>
       </trans-unit>
       <trans-unit id="Active Time" xml:space="preserve">
