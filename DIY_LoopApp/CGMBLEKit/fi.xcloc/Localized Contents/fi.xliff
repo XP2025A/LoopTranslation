@@ -131,29 +131,29 @@
         <target state="final">Oheislaitetta ei ole kytketty</target>
         <note>Not ready error description</note>
       </trans-unit>
-      <trans-unit id="Sensor calibration is OK" xml:space="preserve">
+      <trans-unit id="Sensor calibration is OK" xml:space="preserve" approved="yes">
         <source>Sensor calibration is OK</source>
-        <target state="translated">Sensorin kalibrointi onnistui</target>
+        <target state="final">Sensorin kalibrointi onnistui</target>
         <note>The description of sensor calibration state when sensor calibration is ok.</note>
       </trans-unit>
-      <trans-unit id="Sensor is in unknown state %1$d" xml:space="preserve">
+      <trans-unit id="Sensor is in unknown state %1$d" xml:space="preserve" approved="yes">
         <source>Sensor is in unknown state %1$d</source>
-        <target state="translated">Anturi on tuntemattomassa tilassa %1$d</target>
+        <target state="final">Sensori on tuntemattomassa tilassa %1$d</target>
         <note>The description of sensor calibration state when raw value is unknown. (1: missing data details)</note>
       </trans-unit>
-      <trans-unit id="Sensor is stopped" xml:space="preserve">
+      <trans-unit id="Sensor is stopped" xml:space="preserve" approved="yes">
         <source>Sensor is stopped</source>
-        <target state="translated">Anturi on pysäytetty</target>
+        <target state="final">Sensori on pysäytetty</target>
         <note>The description of sensor calibration state when sensor sensor is stopped.</note>
       </trans-unit>
-      <trans-unit id="Sensor is warming up" xml:space="preserve">
+      <trans-unit id="Sensor is warming up" xml:space="preserve" approved="yes">
         <source>Sensor is warming up</source>
-        <target state="translated">Anturi lämpenee</target>
+        <target state="final">Sensori lämpenee</target>
         <note>The description of sensor calibration state when sensor sensor is warming up.</note>
       </trans-unit>
-      <trans-unit id="Sensor needs calibration" xml:space="preserve">
+      <trans-unit id="Sensor needs calibration" xml:space="preserve" approved="yes">
         <source>Sensor needs calibration</source>
-        <target state="translated">Anturi tarvitsee kalibroinnin</target>
+        <target state="final">Sensori tarvitsee kalibroinnin</target>
         <note>The description of sensor calibration state when sensor needs calibration.</note>
       </trans-unit>
       <trans-unit id="Unknown characteristic" xml:space="preserve" approved="yes">
@@ -376,9 +376,9 @@ Title text for the button to remove a CGM from Loop</note>
         <target state="final">Nollaus valmis</target>
         <note>Class = "UINavigationItem"; title = "Reset Complete"; ObjectID = "3SD-s3-7OM";</note>
       </trans-unit>
-      <trans-unit id="7nc-6t-4hZ.title" xml:space="preserve">
+      <trans-unit id="7nc-6t-4hZ.title" xml:space="preserve" approved="yes">
         <source>Reset Transmitter</source>
-        <target state="translated">Nollaa lähetin</target>
+        <target state="final">Nollaa lähetin</target>
         <note>Class = "UINavigationItem"; title = "Reset Transmitter"; ObjectID = "7nc-6t-4hZ";</note>
       </trans-unit>
       <trans-unit id="G4a-ia-wQC.placeholder" xml:space="preserve" approved="yes">
@@ -456,9 +456,9 @@ Käytä omalla vastuullasi.</target>
         <target state="final">Haluatko varmasti nollata lähettimen?</target>
         <note>Title of the reset confirmation sheet</note>
       </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
+      <trans-unit id="Cancel" xml:space="preserve" approved="yes">
         <source>Cancel</source>
-        <target state="translated">Kumoa</target>
+        <target state="final">Kumoa</target>
         <note>Title of button to cancel reset</note>
       </trans-unit>
       <trans-unit id="It will take up to 10 minutes to complete." xml:space="preserve" approved="yes">
