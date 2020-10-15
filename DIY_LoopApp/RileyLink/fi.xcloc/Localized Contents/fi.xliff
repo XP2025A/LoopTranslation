@@ -407,9 +407,9 @@
         <target state="translated">Virhe jatkamisessa</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
-      <trans-unit id="Error Suspending" xml:space="preserve">
+      <trans-unit id="Error Suspending" xml:space="preserve" approved="yes">
         <source>Error Suspending</source>
-        <target state="translated">Virhe pysäytyksessä</target>
+        <target state="final">Virhe pysäytyksessä</target>
         <note>The alert title for a suspend error</note>
       </trans-unit>
       <trans-unit id="Fetch Enlite Glucose" xml:space="preserve">
@@ -916,9 +916,9 @@ Etsi laite</target>
         <target state="translated">Asetetaan kanyyli</target>
         <note>Pod state when inserting cannula</note>
       </trans-unit>
-      <trans-unit id="Insulin Suspended" xml:space="preserve">
+      <trans-unit id="Insulin Suspended" xml:space="preserve" approved="yes">
         <source>Insulin Suspended</source>
-        <target state="translated">Insuliini pysäytetty</target>
+        <target state="final">Insuliini pysäytetty</target>
         <note>Status highlight that insulin delivery was suspended.</note>
       </trans-unit>
       <trans-unit id="Internal pod fault %1$03d" xml:space="preserve">
@@ -1275,7 +1275,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Wait for existing temp basal to finish, or suspend to cancel" xml:space="preserve" approved="yes">
         <source>Wait for existing temp basal to finish, or suspend to cancel</source>
-        <target state="final">Odota, että meneillään oleva tilapäinen basaali päättyy tai pysäytä pumppu kumotaksesi</target>
+        <target state="final">Odota, että meneillään oleva tilapäinen basaali päättyy tai kumoa pysäyttämällä pumppu</target>
         <note>Recovery suggestion when operation could not be completed due to existing temp basal in progress</note>
       </trans-unit>
       <trans-unit id="Waiting for pairing reminder" xml:space="preserve" approved="yes">
@@ -1647,9 +1647,9 @@ Etsi laite</target>
         <target state="translated">Virhe jatkamisessa</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
-      <trans-unit id="Error Suspending" xml:space="preserve">
+      <trans-unit id="Error Suspending" xml:space="preserve" approved="yes">
         <source>Error Suspending</source>
-        <target state="translated">Virhe pysäytyksessä</target>
+        <target state="final">Virhe pysäytyksessä</target>
         <note>The alert title for a suspend error</note>
       </trans-unit>
       <trans-unit id="Error disabling bolus beeps" xml:space="preserve">
@@ -1946,9 +1946,9 @@ Jos et kuullut pumpun piippauksia, on todennäköistä, että pumpun kaiutin on 
         <target state="translated">Onnistui</target>
         <note>A message indicating a command succeeded</note>
       </trans-unit>
-      <trans-unit id="Suspended" xml:space="preserve">
+      <trans-unit id="Suspended" xml:space="preserve" approved="yes">
         <source>Suspended</source>
-        <target state="translated">Pysäytetty</target>
+        <target state="final">Pysäytetty</target>
         <note>The detail text of the basal row when pod is suspended</note>
       </trans-unit>
       <trans-unit id="Switch from Omnipod Pumps" xml:space="preserve">
