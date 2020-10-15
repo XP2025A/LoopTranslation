@@ -976,9 +976,9 @@ Bluetooth</source>
         <target state="final">Fel vid försök att återuppta insulintillförsel</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
-      <trans-unit id="Eventually %@" xml:space="preserve">
+      <trans-unit id="Eventually %@" xml:space="preserve" approved="yes">
         <source>Eventually %@</source>
-        <target state="translated">Eventuellt %@</target>
+        <target state="final">Eventuellt %@</target>
         <note>The subtitle format describing eventual glucose. (1: localized glucose value description)</note>
       </trans-unit>
       <trans-unit id="Exceeds Maximum Bolus" xml:space="preserve" approved="yes">
@@ -1607,7 +1607,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="E41-FN-nkk.text" xml:space="preserve" approved="yes">
         <source>eventually 92 mg/dL</source>
-        <target state="final">förväntat 5,1 mmol/l</target>
+        <target state="final">eventuellt 5,1 mmol/l</target>
         <note>Class = "UILabel"; text = "eventually 92 mg/dL"; ObjectID = "E41-FN-nkk";</note>
       </trans-unit>
       <trans-unit id="EAn-Ja-S1d.text" xml:space="preserve">
@@ -1657,7 +1657,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Rse-x8-amW.text" xml:space="preserve" approved="yes">
         <source>eventually 92 mg/dL</source>
-        <target state="final">Förväntat 5,1 mmol/l</target>
+        <target state="final">eventuellt 5,1 mmol/l</target>
         <note>Class = "UILabel"; text = "eventually 92 mg/dL"; ObjectID = "Rse-x8-amW";</note>
       </trans-unit>
       <trans-unit id="SQx-au-ZcM.text" xml:space="preserve">
