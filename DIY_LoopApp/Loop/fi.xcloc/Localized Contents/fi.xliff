@@ -569,24 +569,24 @@ Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napautta
         <target state="final">Aktiivinen hiilihydraatti</target>
         <note>The title of the Carbs On-Board graph</note>
       </trans-unit>
-      <trans-unit id="Active Carbohydrates: %@" xml:space="preserve">
+      <trans-unit id="Active Carbohydrates: %@" xml:space="preserve" approved="yes">
         <source>Active Carbohydrates: %@</source>
-        <target state="translated">Aktiivinen hiilihydraatti: %@</target>
+        <target state="final">Aktiivinen hiilihydraatti: %@</target>
         <note>The string format describing active carbohydrates. (1: localized glucose value description)</note>
       </trans-unit>
-      <trans-unit id="Active Carbs" xml:space="preserve">
+      <trans-unit id="Active Carbs" xml:space="preserve" approved="yes">
         <source>Active Carbs</source>
-        <target state="translated">Akt. hiilari</target>
+        <target state="final">Akt. hiilari</target>
         <note>Title describing quantity of still-absorbing carbohydrates</note>
       </trans-unit>
-      <trans-unit id="Active Insulin" xml:space="preserve">
+      <trans-unit id="Active Insulin" xml:space="preserve" approved="yes">
         <source>Active Insulin</source>
-        <target state="translated">Akt. insuliini</target>
+        <target state="final">Akt. insuliini</target>
         <note>The title of the Insulin On-Board graph</note>
       </trans-unit>
-      <trans-unit id="Active Insulin: %@" xml:space="preserve">
+      <trans-unit id="Active Insulin: %@" xml:space="preserve" approved="yes">
         <source>Active Insulin: %@</source>
-        <target state="translated">Aktiivinen insuliini: %@</target>
+        <target state="final">Aktiivinen insuliini: %@</target>
         <note>The string format describing active insulin. (1: localized insulin value description)</note>
       </trans-unit>
       <trans-unit id="Add CGM" xml:space="preserve" approved="yes">
@@ -616,9 +616,9 @@ Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napautta
         <target state="final">Lisää palvelu</target>
         <note>Title text for button to set up a service</note>
       </trans-unit>
-      <trans-unit id="Alert Permissions" xml:space="preserve">
+      <trans-unit id="Alert Permissions" xml:space="preserve" approved="yes">
         <source>Alert Permissions</source>
-        <target state="translated">Hälytysten käyttöoikeudet</target>
+        <target state="final">Hälytysten käyttöoikeudet</target>
         <note>Alert Permissions button text
    Notification &amp; Critical Alert Permissions screen title</note>
       </trans-unit>
@@ -765,9 +765,9 @@ Unavailable</source>
         <target state="final">Hiilihydraatit</target>
         <note>Title of the prediction input effect for carbohydrates</note>
       </trans-unit>
-      <trans-unit id="Carbs Absorbed (g) ÷ Carb Ratio (g/U) × Insulin Sensitivity (%1$@/U)" xml:space="preserve">
+      <trans-unit id="Carbs Absorbed (g) ÷ Carb Ratio (g/U) × Insulin Sensitivity (%1$@/U)" xml:space="preserve" approved="yes">
         <source>Carbs Absorbed (g) ÷ Carb Ratio (g/U) × Insulin Sensitivity (%1$@/U)</source>
-        <target state="translated">Imeytyvät hiilihydraatit (g) ÷ Hiilihydraattisuhde (g/U) × Insuliiniherkkyys (%1$@/U)</target>
+        <target state="final">Imeytyvät hiilihydraatit (g) ÷ Hiilihydraattisuhde (g/U) × Insuliiniherkkyys (%1$@/U)</target>
         <note>Description of the prediction input effect for carbohydrates. (1: The glucose unit string)</note>
       </trans-unit>
       <trans-unit id="Change the pump battery immediately" xml:space="preserve" approved="yes">
@@ -1017,14 +1017,14 @@ Bluetooth</source>
         <target state="final">%1$@ ajaksi</target>
         <note>The format string used to describe a finite workout targets duration</note>
       </trans-unit>
-      <trans-unit id="Get help with Notification &amp; Critical Alert Permissions" xml:space="preserve">
+      <trans-unit id="Get help with Notification &amp; Critical Alert Permissions" xml:space="preserve" approved="yes">
         <source>Get help with Notification &amp; Critical Alert Permissions</source>
-        <target state="translated">Apua ilmoitusten &amp; tärkeiden hälytysten käyttöoikeuksien kanssa</target>
+        <target state="final">Apua ilmoitusten &amp; tärkeiden hälytysten käyttöoikeuksien kanssa</target>
         <note>Get help with Notification &amp; Critical Alert Permissions support button text</note>
       </trans-unit>
-      <trans-unit id="Get help with Notification &amp; Critical Alert Permissions screen" xml:space="preserve">
+      <trans-unit id="Get help with Notification &amp; Critical Alert Permissions screen" xml:space="preserve" approved="yes">
         <source>Get help with Notification &amp; Critical Alert Permissions screen</source>
-        <target state="translated">Apua ilmoitusten &amp; tärkeiden hälytysten käyttöoikeuksien kanssa -näyttö</target>
+        <target state="final">Apua ilmoitusten &amp; tärkeiden hälytysten käyttöoikeuksien kanssa -näyttö</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Glucose" xml:space="preserve" approved="yes">
@@ -1067,9 +1067,9 @@ Bluetooth</source>
         <target state="final">Insuliini</target>
         <note>Title of the prediction input effect for insulin</note>
       </trans-unit>
-      <trans-unit id="Insulin Absorbed (U) × Insulin Sensitivity (%1$@/U)" xml:space="preserve">
+      <trans-unit id="Insulin Absorbed (U) × Insulin Sensitivity (%1$@/U)" xml:space="preserve" approved="yes">
         <source>Insulin Absorbed (U) × Insulin Sensitivity (%1$@/U)</source>
-        <target state="translated">Imeytynyt insuliini (U) × Insuliiniherkkyys (%1$@/U)</target>
+        <target state="final">Imeytynyt insuliini (U) × Insuliiniherkkyys (%1$@/U)</target>
         <note>Description of the prediction input effect for insulin</note>
       </trans-unit>
       <trans-unit id="Insulin Delivery" xml:space="preserve" approved="yes">
@@ -1109,9 +1109,9 @@ Bluetooth</source>
         <target state="final">Virheellinen tieto: %1$@</target>
         <note>The error message when invalid data was encountered. (1: details of invalid data)</note>
       </trans-unit>
-      <trans-unit id="Issue Report" xml:space="preserve">
+      <trans-unit id="Issue Report" xml:space="preserve" approved="yes">
         <source>Issue Report</source>
-        <target state="translated">Ongelmaraportti</target>
+        <target state="final">Ongelmaraportti</target>
         <note>The title text for the issue report cell</note>
       </trans-unit>
       <trans-unit id="Launches CGM app" xml:space="preserve" approved="yes">
@@ -1154,14 +1154,14 @@ Bluetooth</source>
         <target state="final">Loop ei toimi oikein ennen kuin Bluetooth on otettu käyttöön. Et saa glukoosilukemia, etkä voi antaa bolusta.</target>
         <note>Bluetooth off background alert body.</note>
       </trans-unit>
-      <trans-unit id="Manage Critical Alerts in Settings" xml:space="preserve">
+      <trans-unit id="Manage Critical Alerts in Settings" xml:space="preserve" approved="yes">
         <source>Manage Critical Alerts in Settings</source>
-        <target state="translated">Tärkeiden hälytysten hallinta asetuksissa</target>
+        <target state="final">Tärkeiden hälytysten hallinta Asetuksissa</target>
         <note>Manage Critical Alerts in Settings button text</note>
       </trans-unit>
-      <trans-unit id="Manage Notifications in Settings" xml:space="preserve">
+      <trans-unit id="Manage Notifications in Settings" xml:space="preserve" approved="yes">
         <source>Manage Notifications in Settings</source>
-        <target state="translated">Ilmoitusten hallinta asetuksissa</target>
+        <target state="final">Ilmoitusten hallinta Asetuksissa</target>
         <note>Manage Notifications in Settings button text</note>
       </trans-unit>
       <trans-unit id="Meal Bolus" xml:space="preserve" approved="yes">
@@ -1174,9 +1174,9 @@ Bluetooth</source>
         <target state="final">Tiedot puuttuvat: %1$@</target>
         <note>The error message for missing data. (1: missing data details)</note>
       </trans-unit>
-      <trans-unit id="Momentum effects" xml:space="preserve">
+      <trans-unit id="Momentum effects" xml:space="preserve" approved="yes">
         <source>Momentum effects</source>
-        <target state="translated">Liikevaikutukset (momentum)</target>
+        <target state="final">Liikevaikutukset (momentum)</target>
         <note>Details for missing data error when momentum effects are missing</note>
       </trans-unit>
       <trans-unit id="Needs Attention" xml:space="preserve" approved="yes">
@@ -1224,9 +1224,9 @@ Bluetooth</source>
         <target state="final">OK</target>
         <note>The title of the notification action to acknowledge a device alert</note>
       </trans-unit>
-      <trans-unit id="Override Presets" xml:space="preserve">
+      <trans-unit id="Override Presets" xml:space="preserve" approved="yes">
         <source>Override Presets</source>
-        <target state="translated">Tilapäisasetukset</target>
+        <target state="final">Tilapäisasetukset</target>
         <note>The title text for the override presets</note>
       </trans-unit>
       <trans-unit id="Pre-Meal Targets" xml:space="preserve" approved="yes">
@@ -1519,9 +1519,9 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="final">klo %@</target>
         <note>Format fragment for a specific time</note>
       </trans-unit>
-      <trans-unit id="carb-entry-title-add" xml:space="preserve">
+      <trans-unit id="carb-entry-title-add" xml:space="preserve" approved="yes">
         <source>Add Carb Entry</source>
-        <target state="translated">Lisää hiilihydraatteja</target>
+        <target state="final">Lisää hiilihydraatteja</target>
         <note>The title of the view controller to create a new carb entry</note>
       </trans-unit>
       <trans-unit id="carb-entry-title-edit" xml:space="preserve" approved="yes">
@@ -1621,9 +1621,9 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="final">🍭</target>
         <note>Class = "UIButton"; normalTitle = "🍭"; ObjectID = "Fal-Vf-lfh";</note>
       </trans-unit>
-      <trans-unit id="IxU-As-glo.text" xml:space="preserve">
+      <trans-unit id="IxU-As-glo.text" xml:space="preserve" approved="yes">
         <source>Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption.</source>
-        <target state="translated">Havaittua glukoosin muutosta voidaan käyttää hiilihydraattien imeytymisen arviointiin sen jälkeen, kun siitä on vähennetty insuliinin mallinnettu vaikutus.</target>
+        <target state="final">Havaittua glukoosin muutosta voidaan käyttää hiilihydraattien imeytymisen arviointiin sen jälkeen, kun siitä on vähennetty insuliinin mallinnettu vaikutus.</target>
         <note>Class = "UILabel"; text = "Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption."; ObjectID = "IxU-As-glo";</note>
       </trans-unit>
       <trans-unit id="J7x-W5-gwo.text" xml:space="preserve" approved="yes">
@@ -1661,9 +1661,9 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="final">ennuste 92 mg/dL</target>
         <note>Class = "UILabel"; text = "eventually 92 mg/dL"; ObjectID = "Rse-x8-amW";</note>
       </trans-unit>
-      <trans-unit id="SQx-au-ZcM.text" xml:space="preserve">
+      <trans-unit id="SQx-au-ZcM.text" xml:space="preserve" approved="yes">
         <source>g Active Carbs</source>
-        <target state="translated">g akt. hiilari</target>
+        <target state="final">g akt. hiilari</target>
         <note>Class = "UILabel"; text = "g Active Carbs"; ObjectID = "SQx-au-ZcM";</note>
       </trans-unit>
       <trans-unit id="Tz7-80-bJ7.title" xml:space="preserve" approved="yes">
@@ -1671,9 +1671,9 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="final">Lisää/muokkaa hiilihydraatteja</target>
         <note>Class = "UINavigationItem"; title = "Add/Edit Carb Entry"; ObjectID = "Tz7-80-bJ7";</note>
       </trans-unit>
-      <trans-unit id="Vpi-5b-bY5.title" xml:space="preserve">
+      <trans-unit id="Vpi-5b-bY5.title" xml:space="preserve" approved="yes">
         <source>Carbohydrates</source>
-        <target state="translated">Hiilihydraatit</target>
+        <target state="final">Hiilihydraatit</target>
         <note>Class = "UINavigationItem"; title = "Carbohydrates"; ObjectID = "Vpi-5b-bY5";</note>
       </trans-unit>
       <trans-unit id="Wx8-Tf-FnG.text" xml:space="preserve" approved="yes">
