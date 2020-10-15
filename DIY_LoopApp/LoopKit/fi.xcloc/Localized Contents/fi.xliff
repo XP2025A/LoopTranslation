@@ -1116,9 +1116,9 @@
         <target state="translated">Korkea suurin sallittu bolus</target>
         <note>Title text for high maximum bolus warning</note>
       </trans-unit>
-      <trans-unit id="High Suspend Threshold" xml:space="preserve">
+      <trans-unit id="High Suspend Threshold" xml:space="preserve" approved="yes">
         <source>High Suspend Threshold</source>
-        <target state="translated">Korkea pysäytysraja</target>
+        <target state="final">Korkea pysäytysraja</target>
         <note>Title text for the high suspend threshold warning</note>
       </trans-unit>
       <trans-unit id="If these settings look good to you, tap Save Settings to continue." xml:space="preserve">
@@ -1413,9 +1413,9 @@
         <target state="translated">Alkaa</target>
         <note>The text for the override start time</note>
       </trans-unit>
-      <trans-unit id="Starting Temp Basal" xml:space="preserve">
+      <trans-unit id="Starting Temp Basal" xml:space="preserve" approved="yes">
         <source>Starting Temp Basal</source>
-        <target state="translated">Aloitetaan tilapäinen basaali</target>
+        <target state="final">Aloitetaan tilapäinen basaali</target>
         <note>Title text for suspend resume button when temp basal starting</note>
       </trans-unit>
       <trans-unit id="Submitted by %1$@, %2$@" xml:space="preserve">
@@ -1428,14 +1428,14 @@
         <target state="translated">Tuki</target>
         <note>Title for support section</note>
       </trans-unit>
-      <trans-unit id="Suspend Delivery" xml:space="preserve">
+      <trans-unit id="Suspend Delivery" xml:space="preserve" approved="yes">
         <source>Suspend Delivery</source>
-        <target state="translated">Pysäytä annostelu</target>
+        <target state="final">Pysäytä annostelu</target>
         <note>Title text for button to suspend insulin delivery</note>
       </trans-unit>
-      <trans-unit id="Suspending" xml:space="preserve">
+      <trans-unit id="Suspending" xml:space="preserve" approved="yes">
         <source>Suspending</source>
-        <target state="translated">Pysäytetään</target>
+        <target state="final">Pysäytetään</target>
         <note>Title text for button when insulin delivery is in the process of being stopped</note>
       </trans-unit>
       <trans-unit id="Switch Preview State" xml:space="preserve">
@@ -1792,9 +1792,9 @@
         <target state="translated">Yhteysongelma</target>
         <note>Status highlight that delivery is uncertain.</note>
       </trans-unit>
-      <trans-unit id="Insulin Suspended" xml:space="preserve">
+      <trans-unit id="Insulin Suspended" xml:space="preserve" approved="yes">
         <source>Insulin Suspended</source>
-        <target state="translated">Insuliini pysäytetty</target>
+        <target state="final">Insuliini pysäytetty</target>
         <note>Status highlight that insulin delivery was suspended.</note>
       </trans-unit>
       <trans-unit id="No Insulin" xml:space="preserve">
@@ -1880,9 +1880,9 @@ Ilman yhteyttä sovellus ei voi jatkaa insuliinin annostelukomentojen lähettäm
         <target state="translated">Virhe jatkamisessa</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
-      <trans-unit id="Error Suspending" xml:space="preserve">
+      <trans-unit id="Error Suspending" xml:space="preserve" approved="yes">
         <source>Error Suspending</source>
-        <target state="translated">Virhe pysäytyksessä</target>
+        <target state="final">Virhe pysäytyksessä</target>
         <note>The alert title for a suspend error</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
