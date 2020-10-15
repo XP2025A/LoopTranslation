@@ -111,64 +111,64 @@
         <target state="translated">Kirjaudu Nightscoutiin</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Not Available" xml:space="preserve">
+      <trans-unit id="Not Available" xml:space="preserve" approved="yes">
         <source>Not Available</source>
-        <target state="translated">Ei käytettävissä</target>
+        <target state="final">Ei käytettävissä</target>
         <note>Error when nightscout service url is not set</note>
       </trans-unit>
-      <trans-unit id="OK" xml:space="preserve">
+      <trans-unit id="OK" xml:space="preserve" approved="yes">
         <source>OK</source>
-        <target state="translated">OK</target>
+        <target state="final">OK</target>
         <note>Description of ServiceStatus of checking</note>
       </trans-unit>
-      <trans-unit id="Required" xml:space="preserve">
+      <trans-unit id="Required" xml:space="preserve" approved="yes">
         <source>Required</source>
-        <target state="translated">Pakollinen</target>
+        <target state="final">Pakollinen</target>
         <note>The default placeholder for required text</note>
       </trans-unit>
-      <trans-unit id="Save Settings" xml:space="preserve">
+      <trans-unit id="Save Settings" xml:space="preserve" approved="yes">
         <source>Save Settings</source>
-        <target state="translated">Tallenna asetukset</target>
+        <target state="final">Tallenna asetukset</target>
         <note>Therapy settings save button title</note>
       </trans-unit>
-      <trans-unit id="Setup Loop without Nightscout" xml:space="preserve">
+      <trans-unit id="Setup Loop without Nightscout" xml:space="preserve" approved="yes">
         <source>Setup Loop without Nightscout</source>
-        <target state="translated">Asenna Loop ilman Nightscoutia</target>
+        <target state="final">Asenna Loop ilman Nightscoutia</target>
         <note>Button title for choosing onboarding without nightscout</note>
       </trans-unit>
-      <trans-unit id="Site URL" xml:space="preserve">
+      <trans-unit id="Site URL" xml:space="preserve" approved="yes">
         <source>Site URL</source>
-        <target state="translated">URL</target>
+        <target state="final">URL</target>
         <note>The title of the Nightscout site URL</note>
       </trans-unit>
-      <trans-unit id="Status" xml:space="preserve">
+      <trans-unit id="Status" xml:space="preserve" approved="yes">
         <source>Status</source>
-        <target state="translated">Tila</target>
+        <target state="final">Tila</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Therapy Settings" xml:space="preserve">
+      <trans-unit id="Therapy Settings" xml:space="preserve" approved="yes">
         <source>Therapy Settings</source>
-        <target state="translated">Hoidon asetukset</target>
+        <target state="final">Hoitoasetukset</target>
         <note>Navigation view title</note>
       </trans-unit>
-      <trans-unit id="URL" xml:space="preserve">
+      <trans-unit id="URL" xml:space="preserve" approved="yes">
         <source>URL</source>
-        <target state="translated">URL</target>
+        <target state="final">URL</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Use Nightscout with Loop" xml:space="preserve">
+      <trans-unit id="Use Nightscout with Loop" xml:space="preserve" approved="yes">
         <source>Use Nightscout with Loop</source>
-        <target state="translated">Käytä Nightscoutia Loopin kanssa</target>
+        <target state="final">Käytä Nightscoutia Loopin kanssa</target>
         <note>Button title for choosing onboarding with nightscout</note>
       </trans-unit>
-      <trans-unit id="Welcome to Loop" xml:space="preserve">
+      <trans-unit id="Welcome to Loop" xml:space="preserve" approved="yes">
         <source>Welcome to Loop</source>
-        <target state="translated">Tervetuloa Loopiin</target>
+        <target state="final">Tervetuloa Loopiin</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="https://mysite.herokuapp.com" xml:space="preserve">
+      <trans-unit id="https://mysite.herokuapp.com" xml:space="preserve" approved="yes">
         <source>https://mysite.herokuapp.com</source>
-        <target state="translated">https://omaosoite.herokuapp.com</target>
+        <target state="final">https://omaosoite.herokuapp.com</target>
         <note>The placeholder text for the Nightscout site URL</note>
       </trans-unit>
     </body>
@@ -178,9 +178,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>NightscoutServiceKitUI</source>
-        <target state="translated">NightscoutServiceKitUI</target>
+        <target state="final">NightscoutServiceKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
