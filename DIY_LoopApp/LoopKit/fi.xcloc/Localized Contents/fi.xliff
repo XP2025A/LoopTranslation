@@ -716,9 +716,9 @@
         <target state="final">%@, </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%@." xml:space="preserve">
+      <trans-unit id="%@." xml:space="preserve" approved="yes">
         <source>%@.</source>
-        <target state="translated">%@.</target>
+        <target state="final">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
       <trans-unit id="%@U" xml:space="preserve" approved="yes">
@@ -726,14 +726,14 @@
         <target state="final">%@ U</target>
         <note>Format string for reservoir volume. (1: The localized volume)</note>
       </trans-unit>
-      <trans-unit id="(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve">
+      <trans-unit id="(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve" approved="yes">
         <source>(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</source>
-        <target state="translated">(appName) olettaa, että annosteltu insuliini alentaa aktiivisesti glukoosia 6 tunnin ajan. Tätä asetusta ei voi muuttaa.</target>
+        <target state="final">(appName) olettaa, että annosteltu insuliini alentaa aktiivisesti glukoosia 6 tunnin ajan. Tätä asetusta ei voi muuttaa.</target>
         <note>Information about insulin action duration</note>
       </trans-unit>
-      <trans-unit id="-" xml:space="preserve">
+      <trans-unit id="-" xml:space="preserve" approved="yes">
         <source>-</source>
-        <target state="translated">-</target>
+        <target state="final">-</target>
         <note>Separator between min and max glucose values</note>
       </trans-unit>
       <trans-unit id="A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do" xml:space="preserve" approved="yes">
@@ -746,9 +746,9 @@
         <target state="final">Korjausalue tarkoittaa eri asiaa. Se on kapeampi alue.</target>
         <note>Information about differences between target range and correction range</note>
       </trans-unit>
-      <trans-unit id="A setting of 0 U means you will not be able to bolus." xml:space="preserve">
+      <trans-unit id="A setting of 0 U means you will not be able to bolus." xml:space="preserve" approved="yes">
         <source>A setting of 0 U means you will not be able to bolus.</source>
-        <target state="translated">Asetus 0 U tarkoittaa, että et voi antaa bolusta.</target>
+        <target state="final">Asetus 0 U tarkoittaa, että et voi antaa bolusta.</target>
         <note>Caption text for zero maximum bolus setting warning</note>
       </trans-unit>
       <trans-unit id="A setting of 0 U/hr means Loop will not automatically administer insulin." xml:space="preserve" approved="yes">
@@ -806,9 +806,9 @@
         <target state="final">Lisää hiilihydraatteja</target>
         <note>The title of the view controller to create a new carb entry</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete all history entries?" xml:space="preserve">
+      <trans-unit id="Are you sure you want to delete all history entries?" xml:space="preserve" approved="yes">
         <source>Are you sure you want to delete all history entries?</source>
-        <target state="translated">Haluatko varmasti poistaa kaikki historiatiedot?</target>
+        <target state="final">Haluatko varmasti poistaa kaikki historiatiedot?</target>
         <note>Action sheet confirmation message for pump history deletion</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete all reservoir values?" xml:space="preserve" approved="yes">
@@ -846,9 +846,9 @@
         <target state="final">Dynaamisten tietojen alapuolella</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Bottom" xml:space="preserve">
+      <trans-unit id="Bottom" xml:space="preserve" approved="yes">
         <source>Bottom</source>
-        <target state="translated">Alaosa</target>
+        <target state="final">Alaosa</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Bottom component" xml:space="preserve" approved="yes">
@@ -861,9 +861,9 @@
         <target state="final">Kumoa</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
-      <trans-unit id="Cancel Override" xml:space="preserve">
+      <trans-unit id="Cancel Override" xml:space="preserve" approved="yes">
         <source>Cancel Override</source>
-        <target state="translated">Kumoa tilapäisasetus</target>
+        <target state="final">Kumoa tilapäisasetus</target>
         <note>The text for the override cancellation button</note>
       </trans-unit>
       <trans-unit id="Canceling Temp Basal" xml:space="preserve" approved="yes">
@@ -912,9 +912,9 @@
         <target state="final">Vahvista asetus</target>
         <note>The button text for confirming the setting</note>
       </trans-unit>
-      <trans-unit id="Continue" xml:space="preserve">
+      <trans-unit id="Continue" xml:space="preserve" approved="yes">
         <source>Continue</source>
-        <target state="translated">Jatka</target>
+        <target state="final">Jatka</target>
         <note>Title of the setup button to continue</note>
       </trans-unit>
       <trans-unit id="Correction Values" xml:space="preserve" approved="yes">
@@ -927,97 +927,97 @@
         <target state="final">Korjausalue on glukoositavoitealue, johon haluat Loopin korjaavan.</target>
         <note>The section footer of correction range schedule</note>
       </trans-unit>
-      <trans-unit id="Custom" xml:space="preserve">
+      <trans-unit id="Custom" xml:space="preserve" approved="yes">
         <source>Custom</source>
-        <target state="translated">Mukautettu</target>
+        <target state="final">Mukautettu</target>
         <note>The text for a custom override</note>
       </trans-unit>
-      <trans-unit id="Custom Override" xml:space="preserve">
+      <trans-unit id="Custom Override" xml:space="preserve" approved="yes">
         <source>Custom Override</source>
-        <target state="translated">Mukautettu tilapäisasetus</target>
+        <target state="final">Mukautettu tilapäisasetus</target>
         <note>The title for the custom override entry screen</note>
       </trans-unit>
-      <trans-unit id="Custom Preset" xml:space="preserve">
+      <trans-unit id="Custom Preset" xml:space="preserve" approved="yes">
         <source>Custom Preset</source>
-        <target state="translated">Mukautettu esiasetus</target>
+        <target state="final">Mukautettu esiasetus</target>
         <note>The title for the custom preset entry screen
    The title for the custom preset selection screen</note>
       </trans-unit>
-      <trans-unit id="Date" xml:space="preserve">
+      <trans-unit id="Date" xml:space="preserve" approved="yes">
         <source>Date</source>
-        <target state="translated">Aika</target>
+        <target state="final">Aika</target>
         <note>Title of the carb entry date picker cell</note>
       </trans-unit>
-      <trans-unit id="Delete" xml:space="preserve">
+      <trans-unit id="Delete" xml:space="preserve" approved="yes">
         <source>Delete</source>
-        <target state="translated">Poista</target>
+        <target state="final">Poista</target>
         <note>Test for table cell delete button</note>
       </trans-unit>
-      <trans-unit id="Delete Account" xml:space="preserve">
+      <trans-unit id="Delete Account" xml:space="preserve" approved="yes">
         <source>Delete Account</source>
-        <target state="translated">Poista tili</target>
+        <target state="final">Poista tili</target>
         <note>The title of the button to remove the credentials for a service</note>
       </trans-unit>
-      <trans-unit id="Delete All" xml:space="preserve">
+      <trans-unit id="Delete All" xml:space="preserve" approved="yes">
         <source>Delete All</source>
-        <target state="translated">Poista kaikki</target>
+        <target state="final">Poista kaikki</target>
         <note>Button title to delete all objects</note>
       </trans-unit>
-      <trans-unit id="Delivery Limits" xml:space="preserve">
+      <trans-unit id="Delivery Limits" xml:space="preserve" approved="yes">
         <source>Delivery Limits</source>
-        <target state="translated">Annostelurajat</target>
+        <target state="final">Annostelurajat</target>
         <note>Title text for crossed thresholds guardrail warning</note>
       </trans-unit>
-      <trans-unit id="Delivery limits are safety guardrails for your insulin delivery." xml:space="preserve">
+      <trans-unit id="Delivery limits are safety guardrails for your insulin delivery." xml:space="preserve" approved="yes">
         <source>Delivery limits are safety guardrails for your insulin delivery.</source>
-        <target state="translated">Annostelurajoilla tarkoitetaan insuliiniannostelun turvarajoja.</target>
+        <target state="final">Annostelurajoilla tarkoitetaan insuliiniannostelun turvarajoja.</target>
         <note>Information about delivery limits</note>
       </trans-unit>
-      <trans-unit id="Disable Preset" xml:space="preserve">
+      <trans-unit id="Disable Preset" xml:space="preserve" approved="yes">
         <source>Disable Preset</source>
-        <target state="translated">Poista esiasetus käytöstä</target>
+        <target state="final">Poista esiasetus käytöstä</target>
         <note>The text for the custom preset disable button</note>
       </trans-unit>
-      <trans-unit id="Done" xml:space="preserve">
+      <trans-unit id="Done" xml:space="preserve" approved="yes">
         <source>Done</source>
-        <target state="translated">Valmis</target>
+        <target state="final">Valmis</target>
         <note>Text for dismiss button
    Text for done button</note>
       </trans-unit>
-      <trans-unit id="Duration" xml:space="preserve">
+      <trans-unit id="Duration" xml:space="preserve" approved="yes">
         <source>Duration</source>
-        <target state="translated">Kesto</target>
+        <target state="final">Kesto</target>
         <note>The text for the override duration setting</note>
       </trans-unit>
-      <trans-unit id="Dynamic component #%@" xml:space="preserve">
+      <trans-unit id="Dynamic component #%@" xml:space="preserve" approved="yes">
         <source>Dynamic component #%@</source>
-        <target state="translated">Dynaaminen komponentti #%@</target>
+        <target state="final">Dynaaminen komponentti #%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Dynamic data %@" xml:space="preserve">
+      <trans-unit id="Dynamic data %@" xml:space="preserve" approved="yes">
         <source>Dynamic data %@</source>
-        <target state="translated">Dynaamiset tiedot %@</target>
+        <target state="final">Dynaamiset tiedot %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Edit" xml:space="preserve">
+      <trans-unit id="Edit" xml:space="preserve" approved="yes">
         <source>Edit</source>
-        <target state="translated">Muokkaa</target>
+        <target state="final">Muokkaa</target>
         <note>Text for edit button
    The title for the enabled custom preset editing screen</note>
       </trans-unit>
-      <trans-unit id="Edit Carb Entry" xml:space="preserve">
+      <trans-unit id="Edit Carb Entry" xml:space="preserve" approved="yes">
         <source>Edit Carb Entry</source>
-        <target state="translated">Muokkaa hiilihydraatteja</target>
+        <target state="final">Muokkaa hiilihydraatteja</target>
         <note>The title of the view controller to edit an existing carb entry</note>
       </trans-unit>
-      <trans-unit id="Edit Override" xml:space="preserve">
+      <trans-unit id="Edit Override" xml:space="preserve" approved="yes">
         <source>Edit Override</source>
-        <target state="translated">Muokkaa tilapäisasetusta</target>
+        <target state="final">Muokkaa tilapäisasetusta</target>
         <note>The title for the override editing screen</note>
       </trans-unit>
-      <trans-unit id="Editing affects only the active override. The default settings of %@ will not be affected." xml:space="preserve">
+      <trans-unit id="Editing affects only the active override. The default settings of %@ will not be affected." xml:space="preserve" approved="yes">
         <source>Editing affects only the active override. The default settings of %@ will not be affected.</source>
-        <target state="translated">Muokkaus vaikuttaa vain aktiiviseen tilapäisasetukseen. Alkuperäiset %@-asetukset säilyvät ennallaan.</target>
+        <target state="final">Muokkaus vaikuttaa vain aktiiviseen tilapäisasetukseen. Alkuperäiset %@-asetukset säilyvät ennallaan.</target>
         <note>Footer text for editing an active override (1: preset name)</note>
       </trans-unit>
       <trans-unit id="Edits persist only until the preset is disabled. The default settings of %@ will not be affected." xml:space="preserve" approved="yes">
@@ -1050,34 +1050,34 @@
         <target state="final">Syötä yksikkömäärä</target>
         <note>The placeholder text instructing users how to enter a maximum bolus</note>
       </trans-unit>
-      <trans-unit id="Enter a rate in units per hour" xml:space="preserve">
+      <trans-unit id="Enter a rate in units per hour" xml:space="preserve" approved="yes">
         <source>Enter a rate in units per hour</source>
-        <target state="translated">Syötä määrä yksiköinä tunnissa</target>
+        <target state="final">Syötä määrä yksiköinä tunnissa</target>
         <note>The placeholder text instructing users how to enter a maximum basal rate</note>
       </trans-unit>
-      <trans-unit id="Example" xml:space="preserve">
+      <trans-unit id="Example" xml:space="preserve" approved="yes">
         <source>Example</source>
-        <target state="translated">Esimerkki</target>
+        <target state="final">Esimerkki</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Fast" xml:space="preserve">
+      <trans-unit id="Fast" xml:space="preserve" approved="yes">
         <source>Fast</source>
-        <target state="translated">Nopea</target>
+        <target state="final">Nopea</target>
         <note>Section title for fast absorbing food</note>
       </trans-unit>
-      <trans-unit id="Fiasp" xml:space="preserve">
+      <trans-unit id="Fiasp" xml:space="preserve" approved="yes">
         <source>Fiasp</source>
-        <target state="translated">Fiasp</target>
+        <target state="final">Fiasp</target>
         <note>Title of insulin model preset - fiasp</note>
       </trans-unit>
-      <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
+      <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve" approved="yes">
         <source>For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target state="translated">Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.</target>
+        <target state="final">Korjausalue tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.</target>
         <note>Information about correction range</note>
       </trans-unit>
-      <trans-unit id="Get help with Therapy Settings" xml:space="preserve">
+      <trans-unit id="Get help with Therapy Settings" xml:space="preserve" approved="yes">
         <source>Get help with Therapy Settings</source>
-        <target state="translated">Apua hoitoasetuksiin</target>
+        <target state="final">Apua hoitoasetuksiin</target>
         <note>Support button for Therapy Settings</note>
       </trans-unit>
       <trans-unit id="Go Back" xml:space="preserve">
@@ -1334,7 +1334,7 @@
       </trans-unit>
       <trans-unit id="Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." xml:space="preserve" approved="yes">
         <source>Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen.</source>
-        <target state="final">Tarkista alla olevat hoidon asetukset. Jos haluat muokata jotakin näistä asetuksista, napauta Takaisin.</target>
+        <target state="final">Tarkista alla olevat hoitoasetukset. Jos haluat muokata jotakin näistä asetuksista, napauta Takaisin.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="Running" xml:space="preserve" approved="yes">
@@ -1448,266 +1448,266 @@
         <target state="translated">Symboli</target>
         <note>The text for the override preset symbol setting</note>
       </trans-unit>
-      <trans-unit id="Tap '+' to create a new custom preset." xml:space="preserve">
+      <trans-unit id="Tap '+' to create a new custom preset." xml:space="preserve" approved="yes">
         <source>Tap '+' to create a new custom preset.</source>
-        <target state="translated">Luo uusi mukautettu esiasetus napauttamalla '+'.</target>
+        <target state="final">Luo uusi mukautettu esiasetus napauttamalla '+'.</target>
         <note>Text directing the user to configure their first custom preset</note>
       </trans-unit>
-      <trans-unit id="Tap to set" xml:space="preserve">
+      <trans-unit id="Tap to set" xml:space="preserve" approved="yes">
         <source>Tap to set</source>
-        <target state="translated">Napauta asettaaksesi</target>
+        <target state="final">Napauta asettaaksesi</target>
         <note>The empty-state text for a configuration value</note>
       </trans-unit>
-      <trans-unit id="Target Range" xml:space="preserve">
+      <trans-unit id="Target Range" xml:space="preserve" approved="yes">
         <source>Target Range</source>
-        <target state="translated">Tavoitealue</target>
+        <target state="final">Tavoitealue</target>
         <note>The text for the override target range setting</note>
       </trans-unit>
-      <trans-unit id="Temporary Override" xml:space="preserve">
+      <trans-unit id="Temporary Override" xml:space="preserve" approved="yes">
         <source>Temporary Override</source>
-        <target state="translated">Tilapäisasetus</target>
+        <target state="final">Tilapäisasetus</target>
         <note>The title for the override selection screen</note>
       </trans-unit>
-      <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve">
+      <trans-unit id="The legacy model used by Loop, allowing customization of action duration." xml:space="preserve" approved="yes">
         <source>The legacy model used by Loop, allowing customization of action duration.</source>
-        <target state="translated">Loopin vanha insuliinimalli, jossa voi muokata insuliinin vaikutusaikaa.</target>
+        <target state="final">Loopin vanha insuliinimalli, jossa voi muokata insuliinin vaikutusaikaa.</target>
         <note>Subtitle description of Walsh insulin model setting</note>
       </trans-unit>
-      <trans-unit id="The maximum absorption time is %@" xml:space="preserve">
+      <trans-unit id="The maximum absorption time is %@" xml:space="preserve" approved="yes">
         <source>The maximum absorption time is %@</source>
-        <target state="translated">Pisin sallittu imeytymisaika on %@</target>
+        <target state="final">Pisin sallittu imeytymisaika on %@</target>
         <note>Alert body displayed absorption time greater than max (1: maximum absorption time)</note>
       </trans-unit>
-      <trans-unit id="The maximum allowed amount is %@ grams" xml:space="preserve">
+      <trans-unit id="The maximum allowed amount is %@ grams" xml:space="preserve" approved="yes">
         <source>The maximum allowed amount is %@ grams</source>
-        <target state="translated">Suurin sallittu määrä on %@ grammaa</target>
+        <target state="final">Suurin sallittu määrä on %@ grammaa</target>
         <note>Alert body displayed for quantity greater than max (1: maximum quantity in grams)</note>
       </trans-unit>
-      <trans-unit id="The rapid-acting adult model assumes peak activity at 75 minutes." xml:space="preserve">
+      <trans-unit id="The rapid-acting adult model assumes peak activity at 75 minutes." xml:space="preserve" approved="yes">
         <source>The rapid-acting adult model assumes peak activity at 75 minutes.</source>
-        <target state="translated">Nopeavaikutteinen aikuisten malli olettaa vaikutushuippua 75 minuutissa.</target>
+        <target state="final">Nopeavaikutteinen aikuisten malli olettaa vaikutushuippua 75 minuutissa.</target>
         <note>Information about adult insulin model</note>
       </trans-unit>
-      <trans-unit id="The rapid-acting child model assumes peak activity at 65 minutes." xml:space="preserve">
+      <trans-unit id="The rapid-acting child model assumes peak activity at 65 minutes." xml:space="preserve" approved="yes">
         <source>The rapid-acting child model assumes peak activity at 65 minutes.</source>
-        <target state="translated">Nopeavaikutteinen lasten malli olettaa vaikutushuippua 65 minuutissa.</target>
+        <target state="final">Nopeavaikutteinen lasten malli olettaa vaikutushuippua 65 minuutissa.</target>
         <note>Information about child insulin model</note>
       </trans-unit>
-      <trans-unit id="The schedule starts at midnight and cannot contain a rate of 0 U/hr." xml:space="preserve">
+      <trans-unit id="The schedule starts at midnight and cannot contain a rate of 0 U/hr." xml:space="preserve" approved="yes">
         <source>The schedule starts at midnight and cannot contain a rate of 0 U/hr.</source>
-        <target state="translated">Aikataulu alkaa keskiyöstä, eikä se voi sisältää 0 U/t basaalitasoa.</target>
+        <target state="final">Aikataulu alkaa keskiyöstä, eikä se voi sisältää basaalitasoa 0 U/t.</target>
         <note>Information about basal rate scheduling</note>
       </trans-unit>
-      <trans-unit id="Therapy Settings" xml:space="preserve">
+      <trans-unit id="Therapy Settings" xml:space="preserve" approved="yes">
         <source>Therapy Settings</source>
-        <target state="translated">Hoidon asetukset</target>
+        <target state="final">Hoitoasetukset</target>
         <note>Therapy Settings screen title</note>
       </trans-unit>
-      <trans-unit id="Therapy Settings Support Placeholder" xml:space="preserve">
+      <trans-unit id="Therapy Settings Support Placeholder" xml:space="preserve" approved="yes">
         <source>Therapy Settings Support Placeholder</source>
-        <target state="translated">Terapia-asetusten tuen paikkamerkki</target>
+        <target state="final">Hoitoasetusten tuen paikkamerkki</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="This model assumes peak insulin activity at 55 minutes." xml:space="preserve">
+      <trans-unit id="This model assumes peak insulin activity at 55 minutes." xml:space="preserve" approved="yes">
         <source>This model assumes peak insulin activity at 55 minutes.</source>
-        <target state="translated">Tässä mallissa oletetaan, että insuliinin vaikutushuippu on 55 minuutissa.</target>
+        <target state="final">Tässä mallissa oletetaan, että insuliinin vaikutushuippu on 55 minuutissa.</target>
         <note>Subtitle of Fiasp preset</note>
       </trans-unit>
-      <trans-unit id="This model assumes peak insulin activity at 65 minutes." xml:space="preserve">
+      <trans-unit id="This model assumes peak insulin activity at 65 minutes." xml:space="preserve" approved="yes">
         <source>This model assumes peak insulin activity at 65 minutes.</source>
-        <target state="translated">Tässä mallissa oletetaan, että insuliinin vaikutushuippu on 65 minuutissa.</target>
+        <target state="final">Tässä mallissa oletetaan, että insuliinin vaikutushuippu on 65 minuutissa.</target>
         <note>Subtitle of Rapid-Acting – Children preset</note>
       </trans-unit>
-      <trans-unit id="This model assumes peak insulin activity at 75 minutes." xml:space="preserve">
+      <trans-unit id="This model assumes peak insulin activity at 75 minutes." xml:space="preserve" approved="yes">
         <source>This model assumes peak insulin activity at 75 minutes.</source>
-        <target state="translated">Tässä mallissa oletetaan, että insuliinin vaikutushuippu on 75 minuutissa.</target>
+        <target state="final">Tässä mallissa oletetaan, että insuliinin vaikutushuippu on 75 minuutissa.</target>
         <note>Subtitle of Rapid-Acting – Adult preset</note>
       </trans-unit>
-      <trans-unit id="This will typically be" xml:space="preserve">
+      <trans-unit id="This will typically be" xml:space="preserve" approved="yes">
         <source>This will typically be</source>
-        <target state="translated">Tämä on yleensä</target>
+        <target state="final">Tämä on yleensä</target>
         <note>Information about pre-meal range relative to correction range
    Information about workout range relative to correction range</note>
       </trans-unit>
-      <trans-unit id="Time" xml:space="preserve">
+      <trans-unit id="Time" xml:space="preserve" approved="yes">
         <source>Time</source>
-        <target state="translated">Aika</target>
+        <target state="final">Aika</target>
         <note>Label for offset from midnight picker</note>
       </trans-unit>
-      <trans-unit id="Times in %1$@%2$@%3$@" xml:space="preserve">
+      <trans-unit id="Times in %1$@%2$@%3$@" xml:space="preserve" approved="yes">
         <source>Times in %1$@%2$@%3$@</source>
-        <target state="translated">Aika %1$@%2$@%3$@</target>
+        <target state="final">Aika %1$@%2$@%3$@</target>
         <note>The schedule table view header describing the configured time zone difference from the default time zone. The substitution parameters are: (1: time zone name)(2: +/-)(3: time interval)</note>
       </trans-unit>
-      <trans-unit id="To be implemented" xml:space="preserve">
+      <trans-unit id="To be implemented" xml:space="preserve" approved="yes">
         <source>To be implemented</source>
-        <target state="translated">Toteutettava</target>
+        <target state="final">Toteutettava</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Top" xml:space="preserve">
+      <trans-unit id="Top" xml:space="preserve" approved="yes">
         <source>Top</source>
-        <target state="translated">Yläosa</target>
+        <target state="final">Yläosa</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Top component" xml:space="preserve">
+      <trans-unit id="Top component" xml:space="preserve" approved="yes">
         <source>Top component</source>
-        <target state="translated">Ylin komponentti</target>
+        <target state="final">Ylin komponentti</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="U/hour" xml:space="preserve">
+      <trans-unit id="U/hour" xml:space="preserve" approved="yes">
         <source>U/hour</source>
-        <target state="translated">U/tunti</target>
+        <target state="final">U/tunti</target>
         <note>The unit string for units per hour</note>
       </trans-unit>
-      <trans-unit id="Unable to Save" xml:space="preserve">
+      <trans-unit id="Unable to Save" xml:space="preserve" approved="yes">
         <source>Unable to Save</source>
-        <target state="translated">Ei voitu tallentaa</target>
+        <target state="final">Ei voitu tallentaa</target>
         <note>Alert title when error occurs while saving a schedule</note>
       </trans-unit>
-      <trans-unit id="Units" xml:space="preserve">
+      <trans-unit id="Units" xml:space="preserve" approved="yes">
         <source>Units</source>
-        <target state="translated">Yksikköä</target>
+        <target state="final">Yksikköä</target>
         <note>The unit string for units</note>
       </trans-unit>
-      <trans-unit id="Unknown" xml:space="preserve">
+      <trans-unit id="Unknown" xml:space="preserve" approved="yes">
         <source>Unknown</source>
-        <target state="translated">Tuntematon</target>
+        <target state="final">Tuntematon</target>
         <note>Accessibility value for an unknown value
    The default title to use when an entry has none</note>
       </trans-unit>
-      <trans-unit id="Value" xml:space="preserve">
+      <trans-unit id="Value" xml:space="preserve" approved="yes">
         <source>Value</source>
-        <target state="translated">Arvo</target>
+        <target state="final">Arvo</target>
         <note>Placeholder text until value is entered</note>
       </trans-unit>
-      <trans-unit id="Verifying" xml:space="preserve">
+      <trans-unit id="Verifying" xml:space="preserve" approved="yes">
         <source>Verifying</source>
-        <target state="translated">Tarkistetaan</target>
+        <target state="final">Tarkistetaan</target>
         <note>Label indicating validation is occurring</note>
       </trans-unit>
-      <trans-unit id="Walsh" xml:space="preserve">
+      <trans-unit id="Walsh" xml:space="preserve" approved="yes">
         <source>Walsh</source>
-        <target state="translated">Walsh</target>
+        <target state="final">Walsh</target>
         <note>Title of insulin model setting</note>
       </trans-unit>
-      <trans-unit id="Warning" xml:space="preserve">
+      <trans-unit id="Warning" xml:space="preserve" approved="yes">
         <source>Warning</source>
-        <target state="translated">Varoitus</target>
+        <target state="final">Varoitus</target>
         <note>Title of an alert containing a validation warning</note>
       </trans-unit>
-      <trans-unit id="Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable." xml:space="preserve">
+      <trans-unit id="Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable." xml:space="preserve" approved="yes">
         <source>Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable.</source>
-        <target state="translated">Keskustele terveydenhuollon ammattilaisen kanssa valitaksesi arvon, joka on korkeampi kuin korkein ohjelmoitu basaalitasosi, mutta niin konservatiivinen tai aggressiivinen, että tunnet olosi mukavaksi.</target>
+        <target state="final">Keskustele terveydenhuollon ammattilaisen kanssa valitaksesi arvon, joka on korkeampi kuin korkein ohjelmoitu basaalitasosi, mutta niin konservatiivinen tai aggressiivinen, että tunnet olosi mukavaksi.</target>
         <note>Disclaimer</note>
       </trans-unit>
-      <trans-unit id="Workout" xml:space="preserve">
+      <trans-unit id="Workout" xml:space="preserve" approved="yes">
         <source>Workout</source>
-        <target state="translated">Liikunta</target>
+        <target state="final">Liikunta</target>
         <note>Title for the workout override range</note>
       </trans-unit>
-      <trans-unit id="Workout temp adjust is the glucose value or range of values you want Loop to target during activity." xml:space="preserve">
+      <trans-unit id="Workout temp adjust is the glucose value or range of values you want Loop to target during activity." xml:space="preserve" approved="yes">
         <source>Workout temp adjust is the glucose value or range of values you want Loop to target during activity.</source>
-        <target state="translated">Liikuntatavoite tarkoittaa glukoosiarvoa tai arvoaluetta, johon haluat Loopin tähtäävän liikunnan aikana.</target>
+        <target state="final">Liikuntatavoite tarkoittaa glukoosiarvoa tai arvoaluetta, johon haluat Loopin tähtäävän liikunnan aikana.</target>
         <note>Information about workout range</note>
       </trans-unit>
-      <trans-unit id="Workout temp adjust range" xml:space="preserve">
+      <trans-unit id="Workout temp adjust range" xml:space="preserve" approved="yes">
         <source>Workout temp adjust range</source>
-        <target state="translated">Liikuntatavoite</target>
+        <target state="final">Liikuntatavoite</target>
         <note>Title for workout range information section</note>
       </trans-unit>
-      <trans-unit id="You can add different carb ratios for different times of day by using the ➕." xml:space="preserve">
+      <trans-unit id="You can add different carb ratios for different times of day by using the ➕." xml:space="preserve" approved="yes">
         <source>You can add different carb ratios for different times of day by using the ➕.</source>
-        <target state="translated">Voit lisätä erilaisia hiilihydraattisuhteita eri aikoihin päivästä napauttamalla ➕.</target>
+        <target state="final">Voit lisätä erilaisia hiilihydraattisuhteita eri aikoihin päivästä napauttamalla ➕.</target>
         <note>Description of how to add a ratio</note>
       </trans-unit>
-      <trans-unit id="You can add different insulin sensitivities for different times of day by using the ➕." xml:space="preserve">
+      <trans-unit id="You can add different insulin sensitivities for different times of day by using the ➕." xml:space="preserve" approved="yes">
         <source>You can add different insulin sensitivities for different times of day by using the ➕.</source>
-        <target state="translated">Voit lisätä erilaisia insuliiniherkkyyksiä eri aikoihin päivästä napauttamalla ➕.</target>
+        <target state="final">Voit lisätä erilaisia insuliiniherkkyyksiä eri aikoihin päivästä napauttamalla ➕.</target>
         <note>Description of how to add a ratio</note>
       </trans-unit>
-      <trans-unit id="You can add different ranges for different times of day by using the ➕." xml:space="preserve">
+      <trans-unit id="You can add different ranges for different times of day by using the ➕." xml:space="preserve" approved="yes">
         <source>You can add different ranges for different times of day by using the ➕.</source>
-        <target state="translated">Voit lisätä erilaisia korjausalueita eri aikoihin päivästä napauttamalla ➕.</target>
+        <target state="final">Voit lisätä erilaisia korjausalueita eri aikoihin päivästä napauttamalla ➕.</target>
         <note>Description of how to add a configuration range</note>
       </trans-unit>
-      <trans-unit id="You can add entries for different times of day by using the ➕." xml:space="preserve">
+      <trans-unit id="You can add entries for different times of day by using the ➕." xml:space="preserve" approved="yes">
         <source>You can add entries for different times of day by using the ➕.</source>
-        <target state="translated">Voit lisätä merkintöjä eri aikoihin päivästä napauttamalla ➕.</target>
+        <target state="final">Voit lisätä merkintöjä eri aikoihin päivästä napauttamalla ➕.</target>
         <note>Description of how to add a range</note>
       </trans-unit>
-      <trans-unit id="You can choose how %@ measures the insulin's peak activity according to one of these two insulin models." xml:space="preserve">
+      <trans-unit id="You can choose how %@ measures the insulin's peak activity according to one of these two insulin models." xml:space="preserve" approved="yes">
         <source>You can choose how %@ measures the insulin's peak activity according to one of these two insulin models.</source>
-        <target state="translated">Voit valita, kuinka %@ mittaa insuliinin vaikutushuippua valitsemalla toisen näistä kahdesta insuliinimallista.</target>
+        <target state="final">Voit valita, kuinka %@ mittaa insuliinin vaikutushuippua valitsemalla toisen näistä kahdesta insuliinimallista.</target>
         <note>Information about insulin model</note>
       </trans-unit>
-      <trans-unit id="You can choose how (appName) measures the insulin's peak activity according to one of these two insulin models." xml:space="preserve">
+      <trans-unit id="You can choose how (appName) measures the insulin's peak activity according to one of these two insulin models." xml:space="preserve" approved="yes">
         <source>You can choose how (appName) measures the insulin's peak activity according to one of these two insulin models.</source>
-        <target state="translated">Voit valita, kuinka (appName) mittaa insuliinin vaikutushuippua valitsemalla toisen näistä kahdesta insuliinimallista.</target>
+        <target state="final">Voit valita, kuinka (appName) mittaa insuliinin vaikutushuippua valitsemalla toisen näistä kahdesta insuliinimallista.</target>
         <note>Information about insulin model</note>
       </trans-unit>
-      <trans-unit id="You can edit a setting by tapping into any line item." xml:space="preserve">
+      <trans-unit id="You can edit a setting by tapping into any line item." xml:space="preserve" approved="yes">
         <source>You can edit a setting by tapping into any line item.</source>
-        <target state="translated">Voit muokata asetusta napauttamalla mitä tahansa riviä.</target>
+        <target state="final">Voit muokata asetusta napauttamalla mitä tahansa riviä.</target>
         <note>Description of how to edit setting</note>
       </trans-unit>
-      <trans-unit id="You can edit the setting by tapping into the line item." xml:space="preserve">
+      <trans-unit id="You can edit the setting by tapping into the line item." xml:space="preserve" approved="yes">
         <source>You can edit the setting by tapping into the line item.</source>
-        <target state="translated">Voit muokata asetusta napauttamalla riviä.</target>
+        <target state="final">Voit muokata asetusta napauttamalla riviä.</target>
         <note>Description of how to edit setting</note>
       </trans-unit>
-      <trans-unit id="Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
+      <trans-unit id="Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve" approved="yes">
         <source>Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="translated">Basaalitaso tarkoittaa sitä yksikkömäärää insuliinia tunnissa, jonka tarvitset insuliinin perustarpeen kattamiseen.</target>
+        <target state="final">Basaalitaso tarkoittaa sitä yksikkömäärää insuliinia tunnissa, jonka tarvitset insuliinin perustarpeen kattamiseen.</target>
         <note>Information about basal rates</note>
       </trans-unit>
-      <trans-unit id="Your healthcare provider can help you choose a correction range that's right for you." xml:space="preserve">
+      <trans-unit id="Your healthcare provider can help you choose a correction range that's right for you." xml:space="preserve" approved="yes">
         <source>Your healthcare provider can help you choose a correction range that's right for you.</source>
-        <target state="translated">Terveydenhuollon ammattilainen voi auttaa sinua valitsemaan sinulle sopivan korjausalueen.</target>
+        <target state="final">Terveydenhuollon ammattilainen voi auttaa sinua valitsemaan sinulle sopivan korjausalueen.</target>
         <note>Disclaimer</note>
       </trans-unit>
-      <trans-unit id="Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." xml:space="preserve">
+      <trans-unit id="Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." xml:space="preserve" approved="yes">
         <source>Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin.</source>
-        <target state="translated">Insuliiniherkkyys (ISF) tarkoittaa sitä, kuinka paljon glukoosin odotetaan laskevan yhdellä insuliiniyksiköllä.</target>
+        <target state="final">Insuliiniherkkyys (ISF) tarkoittaa sitä, kuinka paljon glukoosin odotetaan laskevan yhdellä insuliiniyksiköllä.</target>
         <note>Description of insulin sensitivity factor</note>
       </trans-unit>
-      <trans-unit id="Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." xml:space="preserve">
+      <trans-unit id="Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." xml:space="preserve" approved="yes">
         <source>Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal.</source>
-        <target state="translated">Ennen ateriaa -tavoite tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin tähtäävän aterian alkuun mennessä.</target>
+        <target state="final">Ennen ateriaa -tavoite tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin tähtäävän aterian alkuun mennessä.</target>
         <note>Information about pre-meal range</note>
       </trans-unit>
-      <trans-unit id="authentication-button-delete" xml:space="preserve">
+      <trans-unit id="authentication-button-delete" xml:space="preserve" approved="yes">
         <source>authentication-button-delete</source>
-        <target state="translated">todennus-painike-poisto</target>
+        <target state="final">todennus-painike-poisto</target>
         <note>The title of the button to remove the credentials for a service</note>
       </trans-unit>
-      <trans-unit id="com.loudnate.CarbKit.COBDateLabel" xml:space="preserve">
+      <trans-unit id="com.loudnate.CarbKit.COBDateLabel" xml:space="preserve" approved="yes">
         <source>at %1$@</source>
-        <target state="translated">klo %1$@</target>
+        <target state="final">klo %1$@</target>
         <note>The format string describing the date of a COB value. The first format argument is the localized date.</note>
       </trans-unit>
-      <trans-unit id="com.loudnate.CarbKit.totalDateLabel" xml:space="preserve">
+      <trans-unit id="com.loudnate.CarbKit.totalDateLabel" xml:space="preserve" approved="yes">
         <source>since %1$@</source>
-        <target state="translated">%1$@ jälkeen</target>
+        <target state="final">%1$@ jälkeen</target>
         <note>The format string describing the starting date of a total value. The first format argument is the localized date.</note>
       </trans-unit>
-      <trans-unit id="com.loudnate.InsulinKit.IOBDateLabel" xml:space="preserve">
+      <trans-unit id="com.loudnate.InsulinKit.IOBDateLabel" xml:space="preserve" approved="yes">
         <source>at %1$@</source>
-        <target state="translated">klo %1$@</target>
+        <target state="final">klo %1$@</target>
         <note>The format string describing the date of an IOB value. The first format argument is the localized date.</note>
       </trans-unit>
-      <trans-unit id="com.loudnate.InsulinKit.totalDateLabel" xml:space="preserve">
+      <trans-unit id="com.loudnate.InsulinKit.totalDateLabel" xml:space="preserve" approved="yes">
         <source>since %1$@</source>
-        <target state="translated">%1$@ jälkeen</target>
+        <target state="final">%1$@ jälkeen</target>
         <note>The format string describing the starting date of a total value. The first format argument is the localized date.</note>
       </trans-unit>
-      <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve">
+      <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve" approved="yes">
         <source>OK</source>
-        <target state="translated">OK</target>
+        <target state="final">OK</target>
         <note>The title of the action used to dismiss an error alert</note>
       </trans-unit>
-      <trans-unit id="content" xml:space="preserve">
+      <trans-unit id="content" xml:space="preserve" approved="yes">
         <source>content</source>
-        <target state="translated">sisältö</target>
+        <target state="final">sisältö</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="max" xml:space="preserve">
