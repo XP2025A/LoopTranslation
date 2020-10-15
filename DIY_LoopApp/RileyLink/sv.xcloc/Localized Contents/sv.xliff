@@ -177,19 +177,19 @@
         <target state="final">RileyLink radiosignal misslyckad</target>
         <note>Error description</note>
       </trans-unit>
-      <trans-unit id="Temporary Basal: %1$.3f U/hour" xml:space="preserve">
+      <trans-unit id="Temporary Basal: %1$.3f U/hour" xml:space="preserve" approved="yes">
         <source>Temporary Basal: %1$.3f U/hour</source>
-        <target state="translated">Temporär basal: %1$.3f E/timme</target>
+        <target state="final">Temporär basal: %1$.3f E/timme</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in minutes)</note>
       </trans-unit>
-      <trans-unit id="Temporary Basal: %1$d min" xml:space="preserve">
+      <trans-unit id="Temporary Basal: %1$d min" xml:space="preserve" approved="yes">
         <source>Temporary Basal: %1$d min</source>
-        <target state="translated">Temporär basal: %1$d min</target>
+        <target state="final">Temporär basal: %1$d min</target>
         <note>The format string description of a TempBasalDurationPumpEvent. (1: The duration of the temp basal in minutes)</note>
       </trans-unit>
-      <trans-unit id="Temporary Basal: %1$d%%" xml:space="preserve">
+      <trans-unit id="Temporary Basal: %1$d%%" xml:space="preserve" approved="yes">
         <source>Temporary Basal: %1$d%%</source>
-        <target state="translated">Temporär basal: %1$d%%</target>
+        <target state="final">Temporär basal: %1$d%%</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in percent)</note>
       </trans-unit>
       <trans-unit id="Unable to store pump data" xml:space="preserve">
@@ -886,9 +886,9 @@ Hitta enhet</target>
         <target state="translated">Inget svar från podd</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
-      <trans-unit id="Error event logged, shutting down" xml:space="preserve">
+      <trans-unit id="Error event logged, shutting down" xml:space="preserve" approved="yes">
         <source>Error event logged, shutting down</source>
-        <target state="translated">Felhändelse loggad, stänger ned</target>
+        <target state="final">Felhändelse loggad, stänger ned</target>
         <note>Pod state error event logged shutting down</note>
       </trans-unit>
       <trans-unit id="Expiration alert" xml:space="preserve">
@@ -896,9 +896,9 @@ Hitta enhet</target>
         <target state="translated">Larm om utgångsdatum</target>
         <note>Description for expiration alert</note>
       </trans-unit>
-      <trans-unit id="Fault event occurred" xml:space="preserve">
+      <trans-unit id="Fault event occurred" xml:space="preserve" approved="yes">
         <source>Fault event occurred</source>
-        <target state="translated">Felhändelse inträffade</target>
+        <target state="final">Felhändelse inträffade</target>
         <note>Pod state when fault event has occurred</note>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve">
@@ -986,9 +986,9 @@ Hitta enhet</target>
         <target state="translated">Inga larm</target>
         <note>Pod alert state when no alerts are active</note>
       </trans-unit>
-      <trans-unit id="No faults" xml:space="preserve">
+      <trans-unit id="No faults" xml:space="preserve" approved="yes">
         <source>No faults</source>
-        <target state="translated">Inga fel</target>
+        <target state="final">Inga fel</target>
         <note>Description for Fault Event Code .noFaults</note>
       </trans-unit>
       <trans-unit id="No pod paired" xml:space="preserve">
