@@ -374,19 +374,19 @@
         <target state="final">Appen förutsätter ett insulin med 6 timmars verkan. Du kan välja mellan olika modeller för hur appen mäter insulinets maximala aktivitet.</target>
         <note>Descriptive text for insulin model</note>
       </trans-unit>
-      <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>The value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="translated">Det värde du har angett är högre än vad som normalt rekommenderas för de flesta.</target>
+        <target state="final">Det värde du har angett är högre än vad som normalt rekommenderas för de flesta.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
-      <trans-unit id="The value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="The value you have entered is lower than what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>The value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="translated">Det värde du har angett är lägre än vad som normalt rekommenderas för de flesta.</target>
+        <target state="final">Det värde du har angett är lägre än vad som normalt rekommenderas för de flesta.</target>
         <note>Descriptive text for guardrail low value warning</note>
       </trans-unit>
-      <trans-unit id="The values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="The values you have entered are outside of what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>The values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="translated">Ett eller flera av de värden du har angett är utanför vad som generellt rekommenderas.</target>
+        <target state="final">Ett eller flera av de värden du har angett är utanför vad som generellt rekommenderas.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve" approved="yes">
@@ -399,9 +399,9 @@
         <target state="final">E/timme</target>
         <note>The short unit display string for international units of insulin per hour</note>
       </trans-unit>
-      <trans-unit id="Uncertain Delivery" xml:space="preserve">
+      <trans-unit id="Uncertain Delivery" xml:space="preserve" approved="yes">
         <source>Uncertain Delivery</source>
-        <target state="translated">Oklart ifall bolus administrerats</target>
+        <target state="final">Oklart ifall bolus administrerats</target>
         <note>Error description for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Unit" xml:space="preserve" approved="yes">
@@ -576,9 +576,9 @@
         <target state="final">Detalj</target>
         <note>Class = "UILabel"; text = "Detail"; ObjectID = "m95-PG-bTq";</note>
       </trans-unit>
-      <trans-unit id="nXh-BM-MuC.text" xml:space="preserve">
+      <trans-unit id="nXh-BM-MuC.text" xml:space="preserve" approved="yes">
         <source>HealthKit is not available on this device</source>
-        <target state="translated">HealthKit är inte tillgänglig på den här enheten</target>
+        <target state="final">HealthKit är inte tillgänglig på den här enheten</target>
         <note>Class = "UILabel"; text = "HealthKit is not available on this device"; ObjectID = "nXh-BM-MuC";</note>
       </trans-unit>
       <trans-unit id="pHI-f4-pJp.text" xml:space="preserve" approved="yes">
@@ -676,9 +676,9 @@
         <note>The format for an override preset cell. (1: symbol)(2: name)
    The format for an override symbol and name (1: symbol)(2: name)</note>
       </trans-unit>
-      <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
+      <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve" approved="yes">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
-        <target state="translated">%1$@ förutsätter ett insulin med 6 timmars verkan. Du kan välja mellan %2$@ olika modeller för hur appen mäter insulinets maximala aktivitet.</target>
+        <target state="final">%1$@ förutsätter ett insulin med 6 timmars duration. Du kan välja mellan %2$@ olika insulinmodeller för hur appen mäter insulinets maximala effekt.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve" approved="yes">
@@ -816,9 +816,9 @@
         <target state="final">Säkert att du vill radera alla reservoarvärden?</target>
         <note>Action sheet confirmation message for reservoir deletion</note>
       </trans-unit>
-      <trans-unit id="Authenticate to save therapy setting" xml:space="preserve">
+      <trans-unit id="Authenticate to save therapy setting" xml:space="preserve" approved="yes">
         <source>Authenticate to save therapy setting</source>
-        <target state="translated">Autentisera för att spara behandlingsinställningar</target>
+        <target state="final">Autentisera för att spara behandlingsinställningar</target>
         <note>Authentication hint string for therapy settings</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
@@ -1040,9 +1040,9 @@
         <target state="final">På</target>
         <note>The detail text describing an enabled setting</note>
       </trans-unit>
-      <trans-unit id="Enter %1$@ value" xml:space="preserve">
+      <trans-unit id="Enter %1$@ value" xml:space="preserve" approved="yes">
         <source>Enter %1$@ value</source>
-        <target state="translated">Ange %1$@värde</target>
+        <target state="final">Ange %1$@värde</target>
         <note>Format string for accessibility label for value entry. (1: value label)</note>
       </trans-unit>
       <trans-unit id="Enter a number of units" xml:space="preserve" approved="yes">
@@ -1121,9 +1121,9 @@
         <target state="final">Högt tröskelvärde</target>
         <note>Title text for the high suspend threshold warning</note>
       </trans-unit>
-      <trans-unit id="If these settings look good to you, tap Save Settings to continue." xml:space="preserve">
+      <trans-unit id="If these settings look good to you, tap Save Settings to continue." xml:space="preserve" approved="yes">
         <source>If these settings look good to you, tap Save Settings to continue.</source>
-        <target state="translated">Om inställningarna ser bra ut, tryck på Spara inställningar för att fortsätta.</target>
+        <target state="final">Om inställningarna ser bra ut, tryck på Spara inställningar för att fortsätta.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." xml:space="preserve" approved="yes">
@@ -1327,14 +1327,14 @@
         <target state="final">Återupptar</target>
         <note>Title text for button when insulin delivery is in the process of being resumed</note>
       </trans-unit>
-      <trans-unit id="Review and Save Settings" xml:space="preserve">
+      <trans-unit id="Review and Save Settings" xml:space="preserve" approved="yes">
         <source>Review and Save Settings</source>
-        <target state="translated">Granska och spara inställningar</target>
+        <target state="final">Granska och spara inställningar</target>
         <note>title for summary description section</note>
       </trans-unit>
-      <trans-unit id="Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." xml:space="preserve">
+      <trans-unit id="Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." xml:space="preserve" approved="yes">
         <source>Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen.</source>
-        <target state="translated">Granska dina behandlingsinställningar nedan. Om du behöver ändra någon av dessa, tryck Tillbaka för att gå tillbaka till den skärmen.</target>
+        <target state="final">Granska dina behandlingsinställningar nedan. Om du behöver ändra någon av dessa, tryck Tillbaka för att gå tillbaka till det fönstret.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="Running" xml:space="preserve" approved="yes">
@@ -1398,9 +1398,9 @@
         <target state="final">Långsam</target>
         <note>Section title for slow absorbing food</note>
       </trans-unit>
-      <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="translated">Ett eller flera av de värden du har angett är utanför vad som generellt rekommenderas.</target>
+        <target state="final">Ett eller flera av de värden du har angett är utanför vad som generellt rekommenderas.</target>
         <note>Caption for guardrail warning when more than one threshold is crossed</note>
       </trans-unit>
       <trans-unit id="Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." xml:space="preserve" approved="yes">
@@ -1541,7 +1541,7 @@
       </trans-unit>
       <trans-unit id="To be implemented" xml:space="preserve">
         <source>To be implemented</source>
-        <target state="translated">Att implementeras</target>
+        <target state="translated">Att bli implementerat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Top" xml:space="preserve" approved="yes">
@@ -1792,9 +1792,9 @@
         <target state="translated">Problem med kommandon</target>
         <note>Status highlight that delivery is uncertain.</note>
       </trans-unit>
-      <trans-unit id="Insulin Suspended" xml:space="preserve">
+      <trans-unit id="Insulin Suspended" xml:space="preserve" approved="yes">
         <source>Insulin Suspended</source>
-        <target state="translated">Insulintillförsel pausad</target>
+        <target state="final">Insulintillförsel pausad</target>
         <note>Status highlight that insulin delivery was suspended.</note>
       </trans-unit>
       <trans-unit id="No Insulin" xml:space="preserve" approved="yes">
@@ -1831,11 +1831,11 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="%@ has been unable to communicate with the Simulator Pump since %@.&#10;&#10;Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered." xml:space="preserve">
+      <trans-unit id="%@ has been unable to communicate with the Simulator Pump since %@.&#10;&#10;Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered." xml:space="preserve" approved="yes">
         <source>%1$@ has been unable to communicate with the Simulator Pump since %2$@.
 
 Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered.</source>
-        <target state="translated">%1$@ har tappat kommunikation med simulatorpumpen sedan %2$@.
+        <target state="final">%1$@ har tappat kommunikation med simulatorpumpen sedan %2$@.
 
 Utan kommunikation kan appen inte fortsätta att skicka kommandon för insulintillförsel eller visa korrekt aktuell information om ditt aktiva insulin eller det insulin som administrerats.</target>
         <note>No comment provided by engineer.</note>
@@ -1850,14 +1850,14 @@ Utan kommunikation kan appen inte fortsätta att skicka kommandon för insulinti
         <target state="final">Vill du ta bort den här tjänsten?</target>
         <note>Confirmation message for deleting a service</note>
       </trans-unit>
-      <trans-unit id="Back" xml:space="preserve">
+      <trans-unit id="Back" xml:space="preserve" approved="yes">
         <source>Back</source>
-        <target state="translated">Tillbaka</target>
+        <target state="final">Tillbaka</target>
         <note>Back button text on DeliveryUncertaintyRecoveryView</note>
       </trans-unit>
-      <trans-unit id="CGM Settings" xml:space="preserve">
+      <trans-unit id="CGM Settings" xml:space="preserve" approved="yes">
         <source>CGM Settings</source>
-        <target state="translated">CGM-inställningar</target>
+        <target state="final">CGM-inställningar</target>
         <note>Title for CGM simulator settings</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve" approved="yes">
@@ -1890,9 +1890,9 @@ Utan kommunikation kan appen inte fortsätta att skicka kommandon för insulinti
         <target state="final">OK</target>
         <note>Button title to acknowledge error</note>
       </trans-unit>
-      <trans-unit id="Pump Settings" xml:space="preserve">
+      <trans-unit id="Pump Settings" xml:space="preserve" approved="yes">
         <source>Pump Settings</source>
-        <target state="translated">Pumpinställningar</target>
+        <target state="final">Pumpinställningar</target>
         <note>Title for Pump simulator settings</note>
       </trans-unit>
       <trans-unit id="Recover Simulator" xml:space="preserve">
