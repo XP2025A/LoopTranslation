@@ -1813,9 +1813,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="translated">%1$@ kl %2$@</target>
         <note>Accessbility format value describing glucose: (1: glucose number)(2: glucose time)</note>
       </trans-unit>
-      <trans-unit id="%1$@ units per hour at %2$@" xml:space="preserve">
+      <trans-unit id="%1$@ units per hour at %2$@" xml:space="preserve" approved="yes">
         <source>%1$@ units per hour at %2$@</source>
-        <target state="translated">%1$@ enheter/timme kl. %2$@</target>
+        <target state="final">%1$@ enheter/timme kl. %2$@</target>
         <note>Accessibility format string describing the basal rate. (1: localized basal rate value)(2: last updated time)</note>
       </trans-unit>
       <trans-unit id="%1$@/min" xml:space="preserve">
@@ -1930,19 +1930,19 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="final">Aktivt insulin</target>
         <note>HUD row title for IOB</note>
       </trans-unit>
-      <trans-unit id="Add Carb Entry" xml:space="preserve">
+      <trans-unit id="Add Carb Entry" xml:space="preserve" approved="yes">
         <source>Add Carb Entry</source>
-        <target state="translated">Lägg till kolhydrater</target>
+        <target state="final">Lägg till kolhydrater</target>
         <note>Title of the user activity for adding carbs</note>
       </trans-unit>
-      <trans-unit id="Bolus" xml:space="preserve">
+      <trans-unit id="Bolus" xml:space="preserve" approved="yes">
         <source>Bolus</source>
-        <target state="translated">Bolus</target>
+        <target state="final">Bolus</target>
         <note>Button text to confirm manual bolus on Apple Watch</note>
       </trans-unit>
-      <trans-unit id="Bolus Failed" xml:space="preserve">
+      <trans-unit id="Bolus Failed" xml:space="preserve" approved="yes">
         <source>Bolus Failed</source>
-        <target state="translated">Bolus misslyckades</target>
+        <target state="final">Bolus misslyckades</target>
         <note>The title of the alert controller displayed after a bolus attempt fails</note>
       </trans-unit>
       <trans-unit id="Bolus Recommendation Updated" xml:space="preserve" approved="yes">
@@ -1950,26 +1950,26 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="final">Det finns en ny bolusrekommendation</target>
         <note>Alert title for updated bolus recommendation on Apple Watch</note>
       </trans-unit>
-      <trans-unit id="Continue" xml:space="preserve">
+      <trans-unit id="Continue" xml:space="preserve" approved="yes">
         <source>Continue</source>
-        <target state="translated">Fortsätt</target>
+        <target state="final">Fortsätt</target>
         <note>Button text to continue from carb entry to bolus entry on Apple Watch</note>
       </trans-unit>
-      <trans-unit id="Dismiss" xml:space="preserve">
+      <trans-unit id="Dismiss" xml:space="preserve" approved="yes">
         <source>Dismiss</source>
-        <target state="translated">Avfärda</target>
+        <target state="final">Avfärda</target>
         <note>The action button title to dismiss an error message</note>
       </trans-unit>
-      <trans-unit id="Make sure your iPhone is nearby and try again" xml:space="preserve">
+      <trans-unit id="Make sure your iPhone is nearby and try again" xml:space="preserve" approved="yes">
         <source>Make sure your iPhone is nearby and try again</source>
-        <target state="translated">Säkerställ att telefonen är inom räckhåll och försök igen</target>
+        <target state="final">Säkerställ att din telefon är inom räckhåll och försök igen</target>
         <note>The recovery message displayed after a bolus attempt fails
    The recovery message displayed after a carb entry send attempt fails
    The recovery message displayed after a glucose range override send attempt fails</note>
       </trans-unit>
-      <trans-unit id="Make sure your iPhone is nearby and try again." xml:space="preserve">
+      <trans-unit id="Make sure your iPhone is nearby and try again." xml:space="preserve" approved="yes">
         <source>Make sure your iPhone is nearby and try again.</source>
-        <target state="translated">Säkerställ att din telefon är inom räckhåll och försök igen.</target>
+        <target state="final">Säkerställ att din telefon är inom räckhåll och försök igen.</target>
         <note>The recovery message displayed after a bolus attempt fails
    The recovery message displayed after a potential carb entry send attempt fails</note>
       </trans-unit>
@@ -1978,24 +1978,24 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="final">Nettobasaldos</target>
         <note>HUD row title for Net Basal Rate</note>
       </trans-unit>
-      <trans-unit id="OK" xml:space="preserve">
+      <trans-unit id="OK" xml:space="preserve" approved="yes">
         <source>OK</source>
-        <target state="translated">OK</target>
+        <target state="final">OK</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Off" xml:space="preserve">
+      <trans-unit id="Off" xml:space="preserve" approved="yes">
         <source>Off</source>
-        <target state="translated">Av</target>
+        <target state="final">Av</target>
         <note>Label for off button</note>
       </trans-unit>
-      <trans-unit id="On" xml:space="preserve">
+      <trans-unit id="On" xml:space="preserve" approved="yes">
         <source>On</source>
-        <target state="translated">På</target>
+        <target state="final">På</target>
         <note>Label for on button</note>
       </trans-unit>
-      <trans-unit id="Override" xml:space="preserve">
+      <trans-unit id="Override" xml:space="preserve" approved="yes">
         <source>Override</source>
-        <target state="translated">Undantag</target>
+        <target state="final">Undantag</target>
         <note>The text for the Watch button for enabling a temporary override</note>
       </trans-unit>
       <trans-unit id="Please reconfirm the bolus amount." xml:space="preserve" approved="yes">
@@ -2003,9 +2003,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="final">Bekräfta bolusmängd.</target>
         <note>Alert message for updated bolus recommendation on Apple Watch</note>
       </trans-unit>
-      <trans-unit id="Pre-Meal" xml:space="preserve">
+      <trans-unit id="Pre-Meal" xml:space="preserve" approved="yes">
         <source>Pre-Meal</source>
-        <target state="translated">Före måltid</target>
+        <target state="final">Före måltid</target>
         <note>Title for sheet to enable/disable pre-meal on watch</note>
       </trans-unit>
       <trans-unit id="Preset" xml:space="preserve" approved="yes">
@@ -2013,34 +2013,34 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="final">Förinställning</target>
         <note>The text for the Watch button for enabling a custom preset</note>
       </trans-unit>
-      <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
+      <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve" approved="yes">
         <source>%1$@ %2$@</source>
-        <target state="translated">%1$@ %2$@</target>
+        <target state="final">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
-      <trans-unit id="REC: %@ U" xml:space="preserve">
+      <trans-unit id="REC: %@ U" xml:space="preserve" approved="yes">
         <source>REC: %@ U</source>
-        <target state="translated">Rek: %@ E</target>
+        <target state="final">Rek: %@ E</target>
         <note>Recommended bolus amount label on Apple Watch</note>
       </trans-unit>
-      <trans-unit id="REC: Calculating..." xml:space="preserve">
+      <trans-unit id="REC: Calculating..." xml:space="preserve" approved="yes">
         <source>REC: Calculating...</source>
-        <target state="translated">Rek: Beräknar...</target>
+        <target state="final">Rek: Beräknar...</target>
         <note>Indicator that recommended bolus computation is in progress on Apple Watch</note>
       </trans-unit>
-      <trans-unit id="Rec: %@ U" xml:space="preserve">
+      <trans-unit id="Rec: %@ U" xml:space="preserve" approved="yes">
         <source>Rec: %@ U</source>
-        <target state="translated">Rek: %@ E</target>
+        <target state="final">Rek: %@ E</target>
         <note>The label and value showing the recommended bolus</note>
       </trans-unit>
-      <trans-unit id="Reservoir Volume" xml:space="preserve">
+      <trans-unit id="Reservoir Volume" xml:space="preserve" approved="yes">
         <source>Reservoir Volume</source>
-        <target state="translated">Reservoarvolym</target>
+        <target state="final">Insulinreservoarvolym</target>
         <note>HUD row title for remaining reservoir volume</note>
       </trans-unit>
-      <trans-unit id="Save" xml:space="preserve">
+      <trans-unit id="Save" xml:space="preserve" approved="yes">
         <source>Save</source>
-        <target state="translated">Spara</target>
+        <target state="final">Spara</target>
         <note>Button text to confirm carb entry without bolusing on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Save &amp; Bolus" xml:space="preserve">
