@@ -164,9 +164,9 @@
         <target state="final">Det värde du har angett är högre än vad som normalt rekommenderas för de flesta.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
-      <trans-unit id="A value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="A value you have entered is lower than what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>A value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="translated">Det värde du har angett är lägre än vad som normalt rekommenderas för de flesta.</target>
+        <target state="final">Det värde du har angett är lägre än vad som normalt rekommenderas för de flesta.</target>
         <note>Descriptive text for guardrail low value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Authorization Denied" xml:space="preserve" approved="yes">
@@ -174,9 +174,9 @@
         <target state="final">Auktorisation nekad</target>
         <note>The error description describing when Health sharing was denied</note>
       </trans-unit>
-      <trans-unit id="Basal Rates" xml:space="preserve">
+      <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
         <source>Basal Rates</source>
-        <target state="translated">Basaldoser</target>
+        <target state="final">Basaldoser</target>
         <note>Title text for basal rates</note>
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve" approved="yes">
@@ -269,9 +269,9 @@
         <target state="final">Det är säkert att försöka igen</target>
         <note>Recovery instruction for a certain bolus failure</note>
       </trans-unit>
-      <trans-unit id="Make sure your pump is within communication range of your phone." xml:space="preserve">
+      <trans-unit id="Make sure your pump is within communication range of your phone." xml:space="preserve" approved="yes">
         <source>Make sure your pump is within communication range of your phone.</source>
-        <target state="translated">Säkerställ att din pump är inom räckvidd för kommunikation med pump.</target>
+        <target state="final">Säkerställ att din pump är inom räckvidd för kommunikation med telefon.</target>
         <note>Recovery suggestion for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate" xml:space="preserve" approved="yes">
@@ -309,9 +309,9 @@
         <target state="final">OK</target>
         <note>Sensor state description for the valid state</note>
       </trans-unit>
-      <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>One or more of the values you have entered is outside of what is typically recommended for most people.</source>
-        <target state="translated">Ett eller flera av de värden du har angett är utanför vad som generellt rekommenderas.</target>
+        <target state="final">Ett eller flera av de värden du har angett är utanför vad som generellt rekommenderas.</target>
         <note>Descriptive text for saving settings outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Please re-enable sharing in Health" xml:space="preserve" approved="yes">
@@ -339,9 +339,9 @@
         <target state="final">Stiger väldigt snabbt</target>
         <note>Glucose trend up-up-up</note>
       </trans-unit>
-      <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="translated">Ett eller flera av de värden du har angett är utanför vad som generellt rekommenderas.</target>
+        <target state="final">Ett eller flera av de värden du har angett är utanför vad som generellt rekommenderas.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Suspend Threshold" xml:space="preserve" approved="yes">
@@ -1610,34 +1610,34 @@
         <target state="final">Temp träningsinställning är det blodsockervärde eller målvärde som du vill att Loop ska använda under träning.</target>
         <note>Information about workout range</note>
       </trans-unit>
-      <trans-unit id="Workout temp adjust range" xml:space="preserve">
+      <trans-unit id="Workout temp adjust range" xml:space="preserve" approved="yes">
         <source>Workout temp adjust range</source>
-        <target state="translated">Temporärt målvärde vid träning</target>
+        <target state="final">Temporärt målvärde vid träning</target>
         <note>Title for workout range information section</note>
       </trans-unit>
-      <trans-unit id="You can add different carb ratios for different times of day by using the ➕." xml:space="preserve">
+      <trans-unit id="You can add different carb ratios for different times of day by using the ➕." xml:space="preserve" approved="yes">
         <source>You can add different carb ratios for different times of day by using the ➕.</source>
-        <target state="translated">Du kan lägga till olika insulinkvoter för olika tider på dagen med hjälp av ➕.</target>
+        <target state="final">Du kan lägga till olika insulinkvoter för olika tider på dagen med hjälp av ➕.</target>
         <note>Description of how to add a ratio</note>
       </trans-unit>
-      <trans-unit id="You can add different insulin sensitivities for different times of day by using the ➕." xml:space="preserve">
+      <trans-unit id="You can add different insulin sensitivities for different times of day by using the ➕." xml:space="preserve" approved="yes">
         <source>You can add different insulin sensitivities for different times of day by using the ➕.</source>
-        <target state="translated">Du kan lägga till olika värden för insulinkänslighet för olika tider på dagen med hjälp av ➕.</target>
+        <target state="final">Du kan lägga till olika värden för insulinkänslighet för olika tider på dagen med hjälp av ➕.</target>
         <note>Description of how to add a ratio</note>
       </trans-unit>
-      <trans-unit id="You can add different ranges for different times of day by using the ➕." xml:space="preserve">
+      <trans-unit id="You can add different ranges for different times of day by using the ➕." xml:space="preserve" approved="yes">
         <source>You can add different ranges for different times of day by using the ➕.</source>
-        <target state="translated">Du kan lägga till olika målvärden för olika tider på dagen med hjälp av ➕.</target>
+        <target state="final">Du kan lägga till olika målvärden för olika tider på dagen med hjälp av ➕.</target>
         <note>Description of how to add a configuration range</note>
       </trans-unit>
-      <trans-unit id="You can add entries for different times of day by using the ➕." xml:space="preserve">
+      <trans-unit id="You can add entries for different times of day by using the ➕." xml:space="preserve" approved="yes">
         <source>You can add entries for different times of day by using the ➕.</source>
-        <target state="translated">Du kan lägga till inmatningar för olika tider på dagen med hjälp av ➕.</target>
+        <target state="final">Du kan lägga till inmatningar för olika tider på dagen med hjälp av ➕.</target>
         <note>Description of how to add a range</note>
       </trans-unit>
-      <trans-unit id="You can choose how %@ measures the insulin's peak activity according to one of these two insulin models." xml:space="preserve">
+      <trans-unit id="You can choose how %@ measures the insulin's peak activity according to one of these two insulin models." xml:space="preserve" approved="yes">
         <source>You can choose how %@ measures the insulin's peak activity according to one of these two insulin models.</source>
-        <target state="translated">Du kan välja hur %@ mäter insulinets maximala aktivitet enligt en av dessa två insulinmodeller.</target>
+        <target state="final">Du kan välja hur %@ mäter insulinets maximala effekt enligt en av dessa två insulinmodeller.</target>
         <note>Information about insulin model</note>
       </trans-unit>
       <trans-unit id="You can choose how (appName) measures the insulin's peak activity according to one of these two insulin models." xml:space="preserve" approved="yes">
@@ -1665,9 +1665,9 @@
         <target state="final">Din vårdgivare kan hjälpa dig att välja ett målvärde som passar dig.</target>
         <note>Disclaimer</note>
       </trans-unit>
-      <trans-unit id="Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." xml:space="preserve">
+      <trans-unit id="Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." xml:space="preserve" approved="yes">
         <source>Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin.</source>
-        <target state="translated">Insulinkänslighet (ISF) är ett mått på hur många enheter din blodsocker sjunker av en enhet insulin.</target>
+        <target state="final">Insulinkänslighet (ISF) är ett mått på hur många enheter din blodsocker sjunker av en enhet insulin.</target>
         <note>Description of insulin sensitivity factor</note>
       </trans-unit>
       <trans-unit id="Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." xml:space="preserve" approved="yes">
@@ -1725,14 +1725,14 @@
         <target state="final">mer innehåll</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="quantity-and-unit-space" xml:space="preserve">
+      <trans-unit id="quantity-and-unit-space" xml:space="preserve" approved="yes">
         <source>%1$@ %2$@</source>
-        <target state="translated">%1$@: %2$@</target>
+        <target state="final">%1$@: %2$@</target>
         <note>Format string for combining localized numeric value and unit with a space. (1: numeric value)(2: unit)</note>
       </trans-unit>
-      <trans-unit id="quantity-and-unit-tight" xml:space="preserve">
+      <trans-unit id="quantity-and-unit-tight" xml:space="preserve" approved="yes">
         <source>%1$@%2$@</source>
-        <target state="translated">%1$@ %2$@</target>
+        <target state="final">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit without spacing. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="than your correction range" xml:space="preserve" approved="yes">
@@ -1741,19 +1741,19 @@
         <note>Information about pre-meal range relative to correction range
    Information about workout range relative to correction range</note>
       </trans-unit>
-      <trans-unit id="–" xml:space="preserve">
+      <trans-unit id="–" xml:space="preserve" approved="yes">
         <source>–</source>
-        <target state="translated">–</target>
+        <target state="final">–</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="—" xml:space="preserve">
+      <trans-unit id="—" xml:space="preserve" approved="yes">
         <source>—</source>
-        <target state="translated">—</target>
+        <target state="final">—</target>
         <note>The detail text representing no value</note>
       </trans-unit>
-      <trans-unit id="－" xml:space="preserve">
+      <trans-unit id="－" xml:space="preserve" approved="yes">
         <source>－</source>
-        <target state="translated">－</target>
+        <target state="final">－</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -1787,9 +1787,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="Comms Issue" xml:space="preserve">
+      <trans-unit id="Comms Issue" xml:space="preserve" approved="yes">
         <source>Comms Issue</source>
-        <target state="translated">Problem med kommandon</target>
+        <target state="final">Kommandoproblem</target>
         <note>Status highlight that delivery is uncertain.</note>
       </trans-unit>
       <trans-unit id="Insulin Suspended" xml:space="preserve" approved="yes">
@@ -1865,9 +1865,9 @@ Utan kommunikation kan appen inte fortsätta att skicka kommandon för insulinti
         <target state="final">Avbryt</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
-      <trans-unit id="Comms Recovery" xml:space="preserve">
+      <trans-unit id="Comms Recovery" xml:space="preserve" approved="yes">
         <source>Comms Recovery</source>
-        <target state="translated">Återställning av kommandon</target>
+        <target state="final">Återställning av kommandon</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Service" xml:space="preserve" approved="yes">
@@ -1895,9 +1895,9 @@ Utan kommunikation kan appen inte fortsätta att skicka kommandon för insulinti
         <target state="final">Pumpinställningar</target>
         <note>Title for Pump simulator settings</note>
       </trans-unit>
-      <trans-unit id="Recover Simulator" xml:space="preserve">
+      <trans-unit id="Recover Simulator" xml:space="preserve" approved="yes">
         <source>Recover Simulator</source>
-        <target state="translated">Återställ simulator</target>
+        <target state="final">Återställ simulator</target>
         <note>Button title recovering comms</note>
       </trans-unit>
       <trans-unit id="quantity-and-unit-space" xml:space="preserve" approved="yes">
