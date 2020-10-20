@@ -372,7 +372,7 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
       </trans-unit>
       <trans-unit id="The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." xml:space="preserve" approved="yes">
         <source>The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</source>
-        <target state="final">Loop antager, at insulinen arbejder aktivt i 6 timer. Du kan vælge mellem forskellige modeller for, hvordan Loop måler insulinets maksimale aktivitet.</target>
+        <target state="final">Loop antager, at insulinen arbejder aktivt i 6 timer. Du kan vælge mellem forskellige modeller for, hvordan Loop bruger insulinets maksimale effekt i sine beregninger.</target>
         <note>Descriptive text for insulin model</note>
       </trans-unit>
       <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve" approved="yes">
@@ -442,7 +442,7 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
       </trans-unit>
       <trans-unit id="Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." xml:space="preserve" approved="yes">
         <source>Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin.</source>
-        <target state="final">Kulhydratforhold er antallet af gram kulhydrat, der dækkes af én enhed insulin.</target>
+        <target state="final">Kulhydratforhold er antallet af kulhydrater i gram, der dækkes af én enhed insulin.</target>
         <note>Descriptive text for carb ratio</note>
       </trans-unit>
       <trans-unit id="Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin." xml:space="preserve" approved="yes">
@@ -679,7 +679,7 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
       </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve" approved="yes">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
-        <target state="final">%1$@ antager, at insulin er aktivt i 6 timer. Du kan vælge mellem %2$@ forskellige modeller for, hvordan appen måler insulinets maksimale aktivitet.</target>
+        <target state="final">%1$@ antager, at insulin er aktivt i 6 timer. Du kan vælge mellem %2$@ forskellige modeller for, hvordan Loop bruger insulinets maksimale effekt i sine beregninger.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve" approved="yes">
@@ -1234,7 +1234,7 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
       </trans-unit>
       <trans-unit id="New Entry" xml:space="preserve" approved="yes">
         <source>New Entry</source>
-        <target state="final">Ny indtastning</target>
+        <target state="final"> </target>
         <note>Title for mini-modal to add a new schedule entry</note>
       </trans-unit>
       <trans-unit id="New Preset" xml:space="preserve" approved="yes">
@@ -1486,12 +1486,12 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
       </trans-unit>
       <trans-unit id="The rapid-acting adult model assumes peak activity at 75 minutes." xml:space="preserve" approved="yes">
         <source>The rapid-acting adult model assumes peak activity at 75 minutes.</source>
-        <target state="final">Den rapid-acting adult model antager peak aktivitet på 75 minutter.</target>
+        <target state="final">Den rapid-acting adult model antager maksimal effekt ved 75 minutter.</target>
         <note>Information about adult insulin model</note>
       </trans-unit>
       <trans-unit id="The rapid-acting child model assumes peak activity at 65 minutes." xml:space="preserve" approved="yes">
         <source>The rapid-acting child model assumes peak activity at 65 minutes.</source>
-        <target state="final">Den rapid-acting adult model antager peak aktivitet på 65 minutter.</target>
+        <target state="final">Den rapid-acting adult model antager maksimal effekt ved 65 minutter.</target>
         <note>Information about child insulin model</note>
       </trans-unit>
       <trans-unit id="The schedule starts at midnight and cannot contain a rate of 0 U/hr." xml:space="preserve" approved="yes">
@@ -1516,12 +1516,12 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
       </trans-unit>
       <trans-unit id="This model assumes peak insulin activity at 65 minutes." xml:space="preserve" approved="yes">
         <source>This model assumes peak insulin activity at 65 minutes.</source>
-        <target state="final">Denne model forudsætter peak insulin aktivitet på 65 minutter.</target>
+        <target state="final">Denne model forudsætter maksimal effekt ved 65 minutter.</target>
         <note>Subtitle of Rapid-Acting – Children preset</note>
       </trans-unit>
       <trans-unit id="This model assumes peak insulin activity at 75 minutes." xml:space="preserve" approved="yes">
         <source>This model assumes peak insulin activity at 75 minutes.</source>
-        <target state="final">Denne model forudsætter peak insulin aktivitet på 75 minutter.</target>
+        <target state="final">Denne model forudsætter maksimal effekt ved 75 minutter.</target>
         <note>Subtitle of Rapid-Acting – Adult preset</note>
       </trans-unit>
       <trans-unit id="This will typically be" xml:space="preserve" approved="yes">
