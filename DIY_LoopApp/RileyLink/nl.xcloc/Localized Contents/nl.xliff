@@ -42,9 +42,9 @@
         <target state="final">Basaal profiel %1$@: %2$@ E/uur</target>
         <note>The format string description of a BasalProfileStartPumpEvent. (1: The index of the profile)(2: The basal rate)</note>
       </trans-unit>
-      <trans-unit id="Bolus in Progress" xml:space="preserve">
+      <trans-unit id="Bolus in Progress" xml:space="preserve" approved="yes">
         <source>Bolus in Progress</source>
-        <target state="translated">Bolus in uitvoering</target>
+        <target state="final">Bolus in uitvoering</target>
         <note>Error description when failure due to bolus in progress</note>
       </trans-unit>
       <trans-unit id="Bolus in progress" xml:space="preserve" approved="yes">
@@ -87,9 +87,9 @@
         <target state="final">Pomp historie</target>
         <note>Describing the pump history insulin data source</note>
       </trans-unit>
-      <trans-unit id="Glucose page failed crc check" xml:space="preserve">
+      <trans-unit id="Glucose page failed crc check" xml:space="preserve" approved="yes">
         <source>Glucose page failed crc check</source>
-        <target state="translated">Glucose pagina is mislukt crc controle</target>
+        <target state="final">Glucose pagina is mislukt crc controle</target>
         <note>Error description for glucose page failing crc check</note>
       </trans-unit>
       <trans-unit id="History page does not exist" xml:space="preserve" approved="yes">
@@ -97,9 +97,9 @@
         <target state="final">Geschiedenis pagina bestaat niet</target>
         <note>Pump error code when invalid history page is requested</note>
       </trans-unit>
-      <trans-unit id="History page failed crc check" xml:space="preserve">
+      <trans-unit id="History page failed crc check" xml:space="preserve" approved="yes">
         <source>History page failed crc check</source>
-        <target state="translated">Geschiedenis pagina is mislukt crc controle</target>
+        <target state="final">Geschiedenis pagina is mislukt crc controle</target>
         <note>Error description for history page failing crc check</note>
       </trans-unit>
       <trans-unit id="Invalid response during %1$@: %2$@" xml:space="preserve" approved="yes">
@@ -132,9 +132,9 @@
         <target state="final">Minimed 500/700 series</target>
         <note>Generic title of the minimed pump manager</note>
       </trans-unit>
-      <trans-unit id="No RileyLink Connected" xml:space="preserve">
+      <trans-unit id="No RileyLink Connected" xml:space="preserve" approved="yes">
         <source>No RileyLink Connected</source>
-        <target state="translated">Geen RileyLink verbonden</target>
+        <target state="final">Geen RileyLink verbonden</target>
         <note>Error description when no rileylink connected</note>
       </trans-unit>
       <trans-unit id="North America" xml:space="preserve" approved="yes">
@@ -192,19 +192,19 @@
         <target state="final">Tijdelijk basaal: %1$d%%</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in percent)</note>
       </trans-unit>
-      <trans-unit id="Unable to store pump data" xml:space="preserve">
+      <trans-unit id="Unable to store pump data" xml:space="preserve" approved="yes">
         <source>Unable to store pump data</source>
-        <target state="translated">Kan pompgegevens niet opslaan</target>
+        <target state="final">Kan pompgegevens niet opslaan</target>
         <note>Error description when storage fails</note>
       </trans-unit>
-      <trans-unit id="Unknown glucose record type: %$1@" xml:space="preserve">
+      <trans-unit id="Unknown glucose record type: %$1@" xml:space="preserve" approved="yes">
         <source>Unknown glucose record type: %$1@</source>
-        <target state="translated">Onbekend glucoserecordtype: %$1 @</target>
+        <target state="final">Onbekend glucoserecordtype: %$1 @</target>
         <note>Format string for error description for an unknown record type in a glucose page. (1: event type number)</note>
       </trans-unit>
-      <trans-unit id="Unknown history record type: %$1@" xml:space="preserve">
+      <trans-unit id="Unknown history record type: %$1@" xml:space="preserve" approved="yes">
         <source>Unknown history record type: %$1@</source>
-        <target state="translated">Onbekend glucoserecordtype: %$1 @</target>
+        <target state="final">Onbekend glucoserecordtype: %$1 @</target>
         <note>Format string for error description for an unknown record type in a history page. (1: event type number)</note>
       </trans-unit>
       <trans-unit id="Unknown pump error code: %1$@" xml:space="preserve" approved="yes">
@@ -810,9 +810,9 @@ Zoek Apparaat</target>
         <target state="final">%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
       </trans-unit>
-      <trans-unit id="Activation time exceeded" xml:space="preserve">
+      <trans-unit id="Activation time exceeded" xml:space="preserve" approved="yes">
         <source>Activation time exceeded</source>
-        <target state="translated">Activeringstijd overschreden</target>
+        <target state="final">Activeringstijd overschreden</target>
         <note>Format string for activation time exceeded
    Pod state when activation not completed in the time allowed</note>
       </trans-unit>
@@ -821,9 +821,9 @@ Zoek Apparaat</target>
         <target state="final">Auto-uit alarm</target>
         <note>Description for auto-off alarm</note>
       </trans-unit>
-      <trans-unit id="Basal initialized" xml:space="preserve">
+      <trans-unit id="Basal initialized" xml:space="preserve" approved="yes">
         <source>Basal initialized</source>
-        <target state="translated">Basaal geïnitialiseerd</target>
+        <target state="final">Basaal geïnitialiseerd</target>
         <note>Pod state when basal initialized</note>
       </trans-unit>
       <trans-unit id="Below 50 units" xml:space="preserve" approved="yes">
@@ -861,9 +861,9 @@ Zoek Apparaat</target>
         <target state="final">Zeker</target>
         <note>String describing a dose that was certainly scheduled</note>
       </trans-unit>
-      <trans-unit id="Command error %1$u" xml:space="preserve">
+      <trans-unit id="Command error %1$u" xml:space="preserve" approved="yes">
         <source>Command error %1$u</source>
-        <target state="translated">Commando fout %1$u</target>
+        <target state="final">Commando fout %1$u</target>
         <note>Format string for invalid message error code (1: error code number)</note>
       </trans-unit>
       <trans-unit id="Crosstalk possible. Please move to a new location and try again" xml:space="preserve" approved="yes">
@@ -896,9 +896,9 @@ Zoek Apparaat</target>
         <target state="final">Alarm vervaltijd</target>
         <note>Description for expiration alert</note>
       </trans-unit>
-      <trans-unit id="Fault event occurred" xml:space="preserve">
+      <trans-unit id="Fault event occurred" xml:space="preserve" approved="yes">
         <source>Fault event occurred</source>
-        <target state="translated">Foutgebeurtenis opgetreden</target>
+        <target state="final">Foutgebeurtenis opgetreden</target>
         <note>Pod state when fault event has occurred</note>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve" approved="yes">
@@ -911,14 +911,14 @@ Zoek Apparaat</target>
         <target state="final">Geïnitialiseerd</target>
         <note>Pod inititialized</note>
       </trans-unit>
-      <trans-unit id="Inserting cannula" xml:space="preserve">
+      <trans-unit id="Inserting cannula" xml:space="preserve" approved="yes">
         <source>Inserting cannula</source>
-        <target state="translated">Canule inschieten</target>
+        <target state="final">Canule inschieten</target>
         <note>Pod state when inserting cannula</note>
       </trans-unit>
-      <trans-unit id="Insulin Suspended" xml:space="preserve">
+      <trans-unit id="Insulin Suspended" xml:space="preserve" approved="yes">
         <source>Insulin Suspended</source>
-        <target state="translated">Insuline onderbroken</target>
+        <target state="final">Insuline onderbroken</target>
         <note>Status highlight that insulin delivery was suspended.</note>
       </trans-unit>
       <trans-unit id="Internal pod fault %1$03d" xml:space="preserve" approved="yes">
@@ -931,9 +931,9 @@ Zoek Apparaat</target>
         <target state="final">OnderbrokenBolus: %1$@ U (%2$@ Eenheden gepland) %3$@ %4$@ %5$@</target>
         <note>The format string describing a bolus that was interrupted. (1: The amount delivered)(2: The amount scheduled)(3: Start time of the dose)(4: duration)(5: scheduled certainty)</note>
       </trans-unit>
-      <trans-unit id="Invalid CRC" xml:space="preserve">
+      <trans-unit id="Invalid CRC" xml:space="preserve" approved="yes">
         <source>Invalid CRC</source>
-        <target state="translated">Ongeldige CRC</target>
+        <target state="final">Ongeldige CRC</target>
         <note>Description for MessageError invalidCrc</note>
       </trans-unit>
       <trans-unit id="Invalid address 0x%x. Expected 0x%x" xml:space="preserve" approved="yes">
@@ -941,14 +941,14 @@ Zoek Apparaat</target>
         <target state="final">Ongeldig adres 0x%1$x. Verwachte 0x%2$x</target>
         <note>Error message for when unexpected address is received (1: received address) (2: expected address)</note>
       </trans-unit>
-      <trans-unit id="Invalid address: (%1$@)" xml:space="preserve">
+      <trans-unit id="Invalid address: (%1$@)" xml:space="preserve" approved="yes">
         <source>Invalid address: (%1$@)</source>
-        <target state="translated">Ongeldig adres: (%1$@)</target>
+        <target state="final">Ongeldig adres: (%1$@)</target>
         <note>Description for MessageError invalidSequence</note>
       </trans-unit>
-      <trans-unit id="Low reservoir" xml:space="preserve">
+      <trans-unit id="Low reservoir" xml:space="preserve" approved="yes">
         <source>Low reservoir</source>
-        <target state="translated">Laag reservoir</target>
+        <target state="final">Laag reservoir</target>
         <note>Pod state when running with fifty or less units</note>
       </trans-unit>
       <trans-unit id="Low reservoir advisory alarm" xml:space="preserve" approved="yes">
