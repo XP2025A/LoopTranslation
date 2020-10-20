@@ -373,9 +373,9 @@
         <target state="final">Camera wordt gebruikt om barcodes van apparaten te scannen</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
+      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve" approved="yes">
         <source>Face ID is used to authenticate insulin bolus and to save changes to therapy settings.</source>
-        <target state="translated">Face ID wordt gebruikt voor het toestaan van een insuline bolus en het opslaan van wijzigingen in therapie instellingen.</target>
+        <target state="final">Face ID wordt gebruikt voor het toestaan van een insuline bolus en het opslaan van wijzigingen in therapie instellingen.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve" approved="yes">
@@ -457,10 +457,10 @@
         <target state="final">%1$@ E/uur @ %2$@</target>
         <note>The format for recommended temp basal rate and time. (1: localized rate number)(2: localized time)</note>
       </trans-unit>
-      <trans-unit id="%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.&#10;You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options." xml:space="preserve">
+      <trans-unit id="%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.&#10;You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options." xml:space="preserve" approved="yes">
         <source>%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.
 You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options.</source>
-        <target state="translated">%1$@ kan niet communiceren met je insulinepomp. De app zal blijven proberen je pomp te bereiken, maar insulinetoedieningsinformatie kan niet worden bijgewerkt en automatisering kan niet doorgaan.
+        <target state="final">%1$@ kan niet communiceren met je insulinepomp. De app zal blijven proberen je pomp te bereiken, maar insulinetoedieningsinformatie kan niet worden bijgewerkt en automatisering kan niet doorgaan.
 U kunt enkele minuten wachten om te zien of het probleem oplost of op de knop hieronder om meer te weten te komen over andere opties.</target>
         <note>Message for alert shown when delivery status is uncertain. (1: app name)</note>
       </trans-unit>
@@ -494,9 +494,9 @@ U kunt enkele minuten wachten om te zien of het probleem oplost of op de knop hi
         <target state="final">%@ opgenomen</target>
         <note>Formats absorbed carb value</note>
       </trans-unit>
-      <trans-unit id="%@ remaining" xml:space="preserve">
+      <trans-unit id="%@ remaining" xml:space="preserve" approved="yes">
         <source>%@ remaining</source>
-        <target state="translated">%@ resterend</target>
+        <target state="final">%@ resterend</target>
         <note>Estimated remaining duration with more than a minute</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve" approved="yes">
@@ -504,9 +504,9 @@ U kunt enkele minuten wachten om te zien of het probleem oplost of op de knop hi
         <target state="final">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
-      <trans-unit id="--" xml:space="preserve">
+      <trans-unit id="--" xml:space="preserve" approved="yes">
         <source>--</source>
-        <target state="translated">--</target>
+        <target state="final">--</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="15 min glucose regression coefficient (b₁), continued with decay over 30 min" xml:space="preserve" approved="yes">
@@ -519,9 +519,9 @@ U kunt enkele minuten wachten om te zien of het probleem oplost of op de knop hi
         <target state="final">30 min vergelijking van glucose voorspelling versus actueel, gevolgd door afbouw over 60 min</target>
         <note>Description of the prediction input effect for retrospective correction</note>
       </trans-unit>
-      <trans-unit id="A few seconds remaining" xml:space="preserve">
+      <trans-unit id="A few seconds remaining" xml:space="preserve" approved="yes">
         <source>A few seconds remaining</source>
-        <target state="translated">Nog een paar seconden te gaan</target>
+        <target state="final">Nog een paar seconden te gaan</target>
         <note>Estimated remaining duration with a few seconds</note>
       </trans-unit>
       <trans-unit id="A manual glucose entry must be between %@ and %@" xml:space="preserve" approved="yes">
@@ -652,10 +652,10 @@ U kunt enkele minuten wachten om te zien of het probleem oplost of op de knop hi
         <target state="final">Er is een bijgewerkte bolusaanbeveling beschikbaar.</target>
         <note>Alert message when glucose data returns while on bolus screen</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete all your %@ Data?&#10;(This action is not reversible)" xml:space="preserve">
+      <trans-unit id="Are you sure you want to delete all your %@ Data?&#10;(This action is not reversible)" xml:space="preserve" approved="yes">
         <source>Are you sure you want to delete all your %@ Data?
 (This action is not reversible)</source>
-        <target state="translated">Weet je zeker dat je al je %@ data wilt verwijderen?
+        <target state="final">Weet je zeker dat je al je %@ data wilt verwijderen?
 (Deze actie is niet omkeerbaar)</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -685,16 +685,16 @@ U kunt enkele minuten wachten om te zien of het probleem oplost of op de knop hi
         <note>The title of the basal rate profile screen
    The title text for the basal rate schedule</note>
       </trans-unit>
-      <trans-unit id="Bluetooth&#10;Off" xml:space="preserve">
+      <trans-unit id="Bluetooth&#10;Off" xml:space="preserve" approved="yes">
         <source>Bluetooth
 Off</source>
-        <target state="translated">Bluetooth uit</target>
+        <target state="final">Bluetooth uit</target>
         <note>Message to the user to that the bluetooth is off</note>
       </trans-unit>
-      <trans-unit id="Bluetooth&#10;Unavailable" xml:space="preserve">
+      <trans-unit id="Bluetooth&#10;Unavailable" xml:space="preserve" approved="yes">
         <source>Bluetooth
 Unavailable</source>
-        <target state="translated">Bluetooth
+        <target state="final">Bluetooth
 niet beschikbaar</target>
         <note>Message to the user that bluetooth is unavailable to the app</note>
       </trans-unit>
@@ -827,19 +827,19 @@ niet beschikbaar</target>
         <note>The title of the glucose target range schedule screen
    The title text for the glucose target range schedule</note>
       </trans-unit>
-      <trans-unit id="Critical Event Log Ready" xml:space="preserve">
+      <trans-unit id="Critical Event Log Ready" xml:space="preserve" approved="yes">
         <source>Critical Event Log Ready</source>
-        <target state="translated">Kritische gebeurtenis log klaar</target>
+        <target state="final">Kritische gebeurtenis log klaar</target>
         <note>Critical event log ready text</note>
       </trans-unit>
-      <trans-unit id="Critical Event Logs" xml:space="preserve">
+      <trans-unit id="Critical Event Logs" xml:space="preserve" approved="yes">
         <source>Critical Event Logs</source>
-        <target state="translated">Kritieke gebeurtenissen logboeken</target>
+        <target state="final">Kritieke gebeurtenissen logboeken</target>
         <note>Critical event log export title</note>
       </trans-unit>
-      <trans-unit id="Critical Event Logs were not able to be exported." xml:space="preserve">
+      <trans-unit id="Critical Event Logs were not able to be exported." xml:space="preserve" approved="yes">
         <source>Critical Event Logs were not able to be exported.</source>
-        <target state="needs-translation">Critical Event Logs were not able to be exported.</target>
+        <target state="final">Kritieke gebeurtenislogboeken konden niet worden geëxporteerd.</target>
         <note>Critical event log export error alert message</note>
       </trans-unit>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve" approved="yes">
@@ -867,9 +867,9 @@ niet beschikbaar</target>
         <target state="final">Datum</target>
         <note>Title of the carb entry date picker cell</note>
       </trans-unit>
-      <trans-unit id="Delete" xml:space="preserve">
+      <trans-unit id="Delete" xml:space="preserve" approved="yes">
         <source>Delete</source>
-        <target state="translated">Verwijderen</target>
+        <target state="final">Verwijderen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Account" xml:space="preserve" approved="yes">
@@ -887,24 +887,24 @@ niet beschikbaar</target>
         <target state="final">Service verwijderen</target>
         <note>Button title to delete a service</note>
       </trans-unit>
-      <trans-unit id="Delete Testing CGM Data" xml:space="preserve">
+      <trans-unit id="Delete Testing CGM Data" xml:space="preserve" approved="yes">
         <source>Delete Testing CGM Data</source>
-        <target state="translated">Verwijder test-CGM-gegevens</target>
+        <target state="final">Verwijder test-CGM-gegevens</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Delete Testing Data" xml:space="preserve">
+      <trans-unit id="Delete Testing Data" xml:space="preserve" approved="yes">
         <source>Delete Testing Data</source>
-        <target state="translated">Testgegevens verwijderen</target>
+        <target state="final">Testgegevens verwijderen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Delete Testing Pump Data" xml:space="preserve">
+      <trans-unit id="Delete Testing Pump Data" xml:space="preserve" approved="yes">
         <source>Delete Testing Pump Data</source>
-        <target state="translated">Gegevens van testpomp verwijderen</target>
+        <target state="final">Gegevens van testpomp verwijderen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Deliver" xml:space="preserve">
+      <trans-unit id="Deliver" xml:space="preserve" approved="yes">
         <source>Deliver</source>
-        <target state="translated">Toedienen</target>
+        <target state="final">Toedienen</target>
         <note>Button text to deliver a bolus</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve" approved="yes">
@@ -932,11 +932,10 @@ niet beschikbaar</target>
         <target state="final">Voltooid</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Enable&#10;Bluetooth" xml:space="preserve">
+      <trans-unit id="Enable&#10;Bluetooth" xml:space="preserve" approved="yes">
         <source>Enable
 Bluetooth</source>
-        <target state="needs-translation">Enable
-Bluetooth</target>
+        <target state="final">Bluetooth inschakelen</target>
         <note>Message to the user to enable bluetooth</note>
       </trans-unit>
       <trans-unit id="Enables" xml:space="preserve" approved="yes">
@@ -944,19 +943,19 @@ Bluetooth</target>
         <target state="final">Inschakelen</target>
         <note>The action hint of the workout mode toggle button when disabled</note>
       </trans-unit>
-      <trans-unit id="Enter Bolus" xml:space="preserve">
+      <trans-unit id="Enter Bolus" xml:space="preserve" approved="yes">
         <source>Enter Bolus</source>
-        <target state="translated">Bolus invoeren</target>
+        <target state="final">Bolus invoeren</target>
         <note>Button text to begin entering a bolus</note>
       </trans-unit>
-      <trans-unit id="Enter Fingerstick Glucose" xml:space="preserve">
+      <trans-unit id="Enter Fingerstick Glucose" xml:space="preserve" approved="yes">
         <source>Enter Fingerstick Glucose</source>
-        <target state="needs-translation">Enter Fingerstick Glucose</target>
+        <target state="final">Vul glucose van vingerprik in</target>
         <note>Button text prompting manual glucose entry on bolus screen</note>
       </trans-unit>
-      <trans-unit id="Enter a blood glucose from a meter for a recommended bolus amount." xml:space="preserve">
+      <trans-unit id="Enter a blood glucose from a meter for a recommended bolus amount." xml:space="preserve" approved="yes">
         <source>Enter a blood glucose from a meter for a recommended bolus amount.</source>
-        <target state="needs-translation">Enter a blood glucose from a meter for a recommended bolus amount.</target>
+        <target state="final">Verkrijg een bloed glucose waarde van een meter voor een aanbevolen bolus hoeveelheid.</target>
         <note>Caption for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
       <trans-unit id="Enter suspend threshold" xml:space="preserve" approved="yes">
@@ -969,9 +968,9 @@ Bluetooth</target>
         <target state="final">Fout bij annuleren van bolus</target>
         <note>The alert title for an error while canceling a bolus</note>
       </trans-unit>
-      <trans-unit id="Error Exporting Logs" xml:space="preserve">
+      <trans-unit id="Error Exporting Logs" xml:space="preserve" approved="yes">
         <source>Error Exporting Logs</source>
-        <target state="needs-translation">Error Exporting Logs</target>
+        <target state="final">Fout bij exporteren logboeken</target>
         <note>Critical event log export error alert title</note>
       </trans-unit>
       <trans-unit id="Error Resuming" xml:space="preserve" approved="yes">
@@ -989,19 +988,19 @@ Bluetooth</target>
         <target state="final">Overschrijdt maximale bolus</target>
         <note>The title of the alert describing a maximum bolus validation error</note>
       </trans-unit>
-      <trans-unit id="Export Critical Event Logs" xml:space="preserve">
+      <trans-unit id="Export Critical Event Logs" xml:space="preserve" approved="yes">
         <source>Export Critical Event Logs</source>
-        <target state="needs-translation">Export Critical Event Logs</target>
+        <target state="final">Exporteer kritieke gebeurtenislogboeken</target>
         <note>The title of the export critical event logs in support</note>
       </trans-unit>
-      <trans-unit id="Export-%1$@" xml:space="preserve">
+      <trans-unit id="Export-%1$@" xml:space="preserve" approved="yes">
         <source>Export-%1$@</source>
-        <target state="needs-translation">Export-%1$@</target>
+        <target state="final">Exporteren: %1$@</target>
         <note>The export file name formatted string (1: timestamp)</note>
       </trans-unit>
-      <trans-unit id="Failed to Resume Insulin Delivery" xml:space="preserve">
+      <trans-unit id="Failed to Resume Insulin Delivery" xml:space="preserve" approved="yes">
         <source>Failed to Resume Insulin Delivery</source>
-        <target state="translated">Kan de insulinetoevoer niet hervatten</target>
+        <target state="final">Kan de insulinetoevoer niet hervatten</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
       <trans-unit id="Fiasp" xml:space="preserve" approved="yes">
@@ -1009,9 +1008,9 @@ Bluetooth</target>
         <target state="final">Fiasp</target>
         <note>Title of insulin model preset</note>
       </trans-unit>
-      <trans-unit id="Fingerstick Glucose" xml:space="preserve">
+      <trans-unit id="Fingerstick Glucose" xml:space="preserve" approved="yes">
         <source>Fingerstick Glucose</source>
-        <target state="needs-translation">Fingerstick Glucose</target>
+        <target state="final">Vingerprik glucose</target>
         <note>Label for manual glucose entry row on bolus screen</note>
       </trans-unit>
       <trans-unit id="For %1$@" xml:space="preserve" approved="yes">
@@ -1121,14 +1120,14 @@ Bluetooth</target>
         <target state="final">Start de CGM app op</target>
         <note>Glucose HUD accessibility hint</note>
       </trans-unit>
-      <trans-unit id="Learn More" xml:space="preserve">
+      <trans-unit id="Learn More" xml:space="preserve" approved="yes">
         <source>Learn More</source>
-        <target state="translated">Leer meer</target>
+        <target state="final">Leer meer</target>
         <note>OK button title for alert shown when delivery status is uncertain</note>
       </trans-unit>
-      <trans-unit id="Less than a minute remaining" xml:space="preserve">
+      <trans-unit id="Less than a minute remaining" xml:space="preserve" approved="yes">
         <source>Less than a minute remaining</source>
-        <target state="needs-translation">Less than a minute remaining</target>
+        <target state="final">Minder dan een minuut resterend</target>
         <note>Estimated remaining duration with less than a minute</note>
       </trans-unit>
       <trans-unit id="Loading..." xml:space="preserve" approved="yes">
@@ -1211,9 +1210,9 @@ Bluetooth</target>
         <target state="final">Geen recente glucosegegevens</target>
         <note>Title for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
-      <trans-unit id="No Recent Pump Data" xml:space="preserve">
+      <trans-unit id="No Recent Pump Data" xml:space="preserve" approved="yes">
         <source>No Recent Pump Data</source>
-        <target state="translated">Geen recente pompgegevens</target>
+        <target state="final">Geen recente pompgegevens</target>
         <note>Title for bolus screen notice when pump data is missing or stale</note>
       </trans-unit>
       <trans-unit id="No connected devices, or failure during device connection" xml:space="preserve" approved="yes">
@@ -1253,9 +1252,9 @@ Actual: %2$@ (%3$@)</source>
 Actueel: %2$@ (%3$@)</target>
         <note>Format string describing retrospective glucose prediction comparison. (1: Predicted glucose)(2: Actual glucose)(3: difference)</note>
       </trans-unit>
-      <trans-unit id="Preparing Critical Event Logs" xml:space="preserve">
+      <trans-unit id="Preparing Critical Event Logs" xml:space="preserve" approved="yes">
         <source>Preparing Critical Event Logs</source>
-        <target state="needs-translation">Preparing Critical Event Logs</target>
+        <target state="final">Kritieke gebeurtenislogboeken voorbereiden</target>
         <note>Preparing critical event log text</note>
       </trans-unit>
       <trans-unit id="Pump" xml:space="preserve" approved="yes">
@@ -1396,9 +1395,9 @@ Actueel: %2$@ (%3$@)</target>
         <target state="final">Tik hier om een CGM in te stellen</target>
         <note>Descriptive text for button to add CGM device</note>
       </trans-unit>
-      <trans-unit id="Tap here to set up a Service" xml:space="preserve">
+      <trans-unit id="Tap here to set up a Service" xml:space="preserve" approved="yes">
         <source>Tap here to set up a Service</source>
-        <target state="needs-translation">Tap here to set up a Service</target>
+        <target state="final">Tik hier om een Service in te stellen</target>
         <note>The descriptive text of the add service button in settings</note>
       </trans-unit>
       <trans-unit id="Tap here to set up a pump" xml:space="preserve" approved="yes">
@@ -1411,9 +1410,9 @@ Actueel: %2$@ (%3$@)</target>
         <target state="final">Klik om te herstarten</target>
         <note>The subtitle of the cell displaying an action to resume insulin delivery</note>
       </trans-unit>
-      <trans-unit id="Tap to Stop" xml:space="preserve">
+      <trans-unit id="Tap to Stop" xml:space="preserve" approved="yes">
         <source>Tap to Stop</source>
-        <target state="needs-translation">Tap to Stop</target>
+        <target state="final">Tik om te stoppen</target>
         <note>Message presented in the status row instructing the user to tap this row to stop a bolus</note>
       </trans-unit>
       <trans-unit id="The bolus recommendation has updated. Please reconfirm the bolus amount." xml:space="preserve" approved="yes">
@@ -1446,9 +1445,9 @@ Actueel: %2$@ (%3$@)</target>
         <target state="final">Therapie instellingen</target>
         <note>Title text for button to Therapy Settings</note>
       </trans-unit>
-      <trans-unit id="Try Again" xml:space="preserve">
+      <trans-unit id="Try Again" xml:space="preserve" approved="yes">
         <source>Try Again</source>
-        <target state="needs-translation">Try Again</target>
+        <target state="final">Probeer opnieuw</target>
         <note>Critical event log export error alert try again button</note>
       </trans-unit>
       <trans-unit id="Turn on Bluetooth to receive alerts, alarms or sensor glucose readings." xml:space="preserve" approved="yes">
@@ -1461,9 +1460,9 @@ Actueel: %2$@ (%3$@)</target>
         <target state="final">E</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
-      <trans-unit id="Unable To Reach Pump" xml:space="preserve">
+      <trans-unit id="Unable To Reach Pump" xml:space="preserve" approved="yes">
         <source>Unable To Reach Pump</source>
-        <target state="translated">Kan de pomp niet bereiken</target>
+        <target state="final">Kan de pomp niet bereiken</target>
         <note>Title for alert shown when delivery status is uncertain</note>
       </trans-unit>
       <trans-unit id="Unable to Save Carb Entry" xml:space="preserve" approved="yes">
@@ -1506,14 +1505,14 @@ Actueel: %2$@ (%3$@)</target>
         <target state="final">Uw glucose is onder of verwacht dat u onder uw opschortingsdrempel komt, %@.</target>
         <note>Caption for bolus screen notice when no bolus is recommended due to prediction dropping below suspend threshold</note>
       </trans-unit>
-      <trans-unit id="Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating." xml:space="preserve">
+      <trans-unit id="Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating." xml:space="preserve" approved="yes">
         <source>Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating.</source>
-        <target state="needs-translation">Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating.</target>
+        <target state="final">Je glucose stijgt snel. Controleer of alle koolhydraten die je hebt gegeten zijn geregistreerd. Als je koolhydraten hebt geregistreerd, controleer dan de aanvangstijd maaltijd met wat je ingevoerd hebt.</target>
         <note>Warning to ensure the carb entry is accurate</note>
       </trans-unit>
-      <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve">
+      <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve" approved="yes">
         <source>Your pump data is stale. Loop cannot recommend a bolus amount.</source>
-        <target state="translated">Je pompgegevens zijn verouderd. Loop kan geen bolus geven.</target>
+        <target state="final">Je pompgegevens zijn verouderd. Loop kan geen bolus geven.</target>
         <note>Caption for bolus screen notice when pump data is missing or stale</note>
       </trans-unit>
       <trans-unit id="at %@" xml:space="preserve" approved="yes">
@@ -1663,9 +1662,9 @@ Actueel: %2$@ (%3$@)</target>
         <target state="final">uiteindelijk 92 mg/dL</target>
         <note>Class = "UILabel"; text = "eventually 92 mg/dL"; ObjectID = "Rse-x8-amW";</note>
       </trans-unit>
-      <trans-unit id="SQx-au-ZcM.text" xml:space="preserve">
+      <trans-unit id="SQx-au-ZcM.text" xml:space="preserve" approved="yes">
         <source>g Active Carbs</source>
-        <target state="translated">g Actieve koolhydraten</target>
+        <target state="final">g Actieve koolhydraten</target>
         <note>Class = "UILabel"; text = "g Active Carbs"; ObjectID = "SQx-au-ZcM";</note>
       </trans-unit>
       <trans-unit id="Tz7-80-bJ7.title" xml:space="preserve" approved="yes">
