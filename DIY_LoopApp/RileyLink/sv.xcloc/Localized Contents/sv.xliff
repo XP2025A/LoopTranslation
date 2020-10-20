@@ -42,9 +42,9 @@
         <target state="final">Basalprofil %1$@: %2$@ E/timme</target>
         <note>The format string description of a BasalProfileStartPumpEvent. (1: The index of the profile)(2: The basal rate)</note>
       </trans-unit>
-      <trans-unit id="Bolus in Progress" xml:space="preserve">
+      <trans-unit id="Bolus in Progress" xml:space="preserve" approved="yes">
         <source>Bolus in Progress</source>
-        <target state="translated">Bolus pågår</target>
+        <target state="final">Bolus pågår</target>
         <note>Error description when failure due to bolus in progress</note>
       </trans-unit>
       <trans-unit id="Bolus in progress" xml:space="preserve" approved="yes">
@@ -132,9 +132,9 @@
         <target state="final">Minimed 500/700 - serien</target>
         <note>Generic title of the minimed pump manager</note>
       </trans-unit>
-      <trans-unit id="No RileyLink Connected" xml:space="preserve">
+      <trans-unit id="No RileyLink Connected" xml:space="preserve" approved="yes">
         <source>No RileyLink Connected</source>
-        <target state="translated">Ingen RileyLink ansluten</target>
+        <target state="final">Ingen RileyLink ansluten</target>
         <note>Error description when no rileylink connected</note>
       </trans-unit>
       <trans-unit id="North America" xml:space="preserve" approved="yes">
@@ -177,24 +177,24 @@
         <target state="final">RileyLink radiosignal misslyckad</target>
         <note>Error description</note>
       </trans-unit>
-      <trans-unit id="Temporary Basal: %1$.3f U/hour" xml:space="preserve">
+      <trans-unit id="Temporary Basal: %1$.3f U/hour" xml:space="preserve" approved="yes">
         <source>Temporary Basal: %1$.3f U/hour</source>
-        <target state="translated">Temporär basal: %1$.3f E/timme</target>
+        <target state="final">Temporär basal: %1$.3f E/timme</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in minutes)</note>
       </trans-unit>
-      <trans-unit id="Temporary Basal: %1$d min" xml:space="preserve">
+      <trans-unit id="Temporary Basal: %1$d min" xml:space="preserve" approved="yes">
         <source>Temporary Basal: %1$d min</source>
-        <target state="translated">Temporär basal: %1$d min</target>
+        <target state="final">Temporär basal: %1$d min</target>
         <note>The format string description of a TempBasalDurationPumpEvent. (1: The duration of the temp basal in minutes)</note>
       </trans-unit>
-      <trans-unit id="Temporary Basal: %1$d%%" xml:space="preserve">
+      <trans-unit id="Temporary Basal: %1$d%%" xml:space="preserve" approved="yes">
         <source>Temporary Basal: %1$d%%</source>
-        <target state="translated">Temporär basal: %1$d%%</target>
+        <target state="final">Temporär basal: %1$d%%</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in percent)</note>
       </trans-unit>
-      <trans-unit id="Unable to store pump data" xml:space="preserve">
+      <trans-unit id="Unable to store pump data" xml:space="preserve" approved="yes">
         <source>Unable to store pump data</source>
-        <target state="translated">Det går inte att lagra pumpdata</target>
+        <target state="final">Det går inte att lagra pumpdata</target>
         <note>Error description when storage fails</note>
       </trans-unit>
       <trans-unit id="Unknown glucose record type: %$1@" xml:space="preserve">
@@ -521,25 +521,25 @@ Hitta enhet</target>
         <target state="translated">Pump</target>
         <note>The title of the section describing the pump</note>
       </trans-unit>
-      <trans-unit id="Pump Battery Type" xml:space="preserve">
+      <trans-unit id="Pump Battery Type" xml:space="preserve" approved="yes">
         <source>Pump Battery Type</source>
-        <target state="translated">Typ av pumpbatteri</target>
+        <target state="final">Typ av pumpbatteri</target>
         <note>The title text for the battery type value</note>
       </trans-unit>
-      <trans-unit id="Pump ID" xml:space="preserve">
+      <trans-unit id="Pump ID" xml:space="preserve" approved="yes">
         <source>Pump ID</source>
-        <target state="translated">Pump-ID</target>
+        <target state="final">Pump-ID</target>
         <note>The title of the cell showing pump ID
    The title text for the pump ID config value</note>
       </trans-unit>
-      <trans-unit id="Pump Model" xml:space="preserve">
+      <trans-unit id="Pump Model" xml:space="preserve" approved="yes">
         <source>Pump Model</source>
-        <target state="translated">Pumpmodell</target>
+        <target state="final">Pumpmodell</target>
         <note>The title of the cell showing the pump model number</note>
       </trans-unit>
-      <trans-unit id="Pump Settings" xml:space="preserve">
+      <trans-unit id="Pump Settings" xml:space="preserve" approved="yes">
         <source>Pump Settings</source>
-        <target state="translated">Pumpinställningar</target>
+        <target state="final">Pumpinställningar</target>
         <note>Title of the pump settings view controller</note>
       </trans-unit>
       <trans-unit id="Read Basal Schedule" xml:space="preserve" approved="yes">
@@ -547,9 +547,9 @@ Hitta enhet</target>
         <target state="final">Läs Basalscheman</target>
         <note>The title of the command to read basal schedule</note>
       </trans-unit>
-      <trans-unit id="Read Pump Status" xml:space="preserve">
+      <trans-unit id="Read Pump Status" xml:space="preserve" approved="yes">
         <source>Read Pump Status</source>
-        <target state="translated">Läs pumpstatus</target>
+        <target state="final">Läs pumpstatus</target>
         <note>The title of the command to read pump status</note>
       </trans-unit>
       <trans-unit id="Reading basal schedule…" xml:space="preserve" approved="yes">
@@ -557,19 +557,19 @@ Hitta enhet</target>
         <target state="final">Läser basalscheman…</target>
         <note>Progress message for reading basal schedule</note>
       </trans-unit>
-      <trans-unit id="Reading pump status…" xml:space="preserve">
+      <trans-unit id="Reading pump status…" xml:space="preserve" approved="yes">
         <source>Reading pump status…</source>
-        <target state="translated">Läser pumpstatus…</target>
+        <target state="final">Läser pumpstatus…</target>
         <note>Progress message for reading pump status</note>
       </trans-unit>
-      <trans-unit id="Region" xml:space="preserve">
+      <trans-unit id="Region" xml:space="preserve" approved="yes">
         <source>Region</source>
-        <target state="translated">Region</target>
+        <target state="final">Region</target>
         <note>The title of the cell showing the pump region</note>
       </trans-unit>
-      <trans-unit id="Retry" xml:space="preserve">
+      <trans-unit id="Retry" xml:space="preserve" approved="yes">
         <source>Retry</source>
-        <target state="translated">Försök igen</target>
+        <target state="final">Försök igen</target>
         <note>Button title to retry sentry setup</note>
       </trans-unit>
       <trans-unit id="RileyLink Statistics" xml:space="preserve" approved="yes">
@@ -577,62 +577,62 @@ Hitta enhet</target>
         <target state="final">RileyLink statistik</target>
         <note>The title of the command to fetch RileyLink statistics</note>
       </trans-unit>
-      <trans-unit id="Save to Pump…" xml:space="preserve">
+      <trans-unit id="Save to Pump…" xml:space="preserve" approved="yes">
         <source>Save to Pump…</source>
-        <target state="translated">Spara till pump…</target>
+        <target state="final">Spara till pump…</target>
         <note>Title of button to save basal profile to pump
    Title of button to save delivery limit settings to pump</note>
       </trans-unit>
-      <trans-unit id="Send Button Press" xml:space="preserve">
+      <trans-unit id="Send Button Press" xml:space="preserve" approved="yes">
         <source>Send Button Press</source>
-        <target state="translated">Skicka knapptryckning</target>
+        <target state="final">Skicka knapptryckning</target>
         <note>The title of the command to send a button press</note>
       </trans-unit>
-      <trans-unit id="Sending button press…" xml:space="preserve">
+      <trans-unit id="Sending button press…" xml:space="preserve" approved="yes">
         <source>Sending button press…</source>
-        <target state="translated">Skicka knapptryckning…</target>
+        <target state="final">Skickar knapptryckning…</target>
         <note>Progress message for sending button press to pump.</note>
       </trans-unit>
-      <trans-unit id="Signal Strength" xml:space="preserve">
+      <trans-unit id="Signal Strength" xml:space="preserve" approved="yes">
         <source>Signal Strength</source>
-        <target state="translated">Signalstyrka</target>
+        <target state="final">Signalstyrka</target>
         <note>The title of the cell showing BLE signal strength (RSSI)</note>
       </trans-unit>
-      <trans-unit id="Succeeded" xml:space="preserve">
+      <trans-unit id="Succeeded" xml:space="preserve" approved="yes">
         <source>Succeeded</source>
-        <target state="translated">Lyckades</target>
+        <target state="final">Lyckades</target>
         <note>A message indicating a command succeeded</note>
       </trans-unit>
-      <trans-unit id="Suspended: %1$@&#10;" xml:space="preserve">
+      <trans-unit id="Suspended: %1$@&#10;" xml:space="preserve" approved="yes">
         <source>Suspended: %1$@
 </source>
-        <target state="translated">Pausad: %1$@
+        <target state="final">Pausad: %1$@
 </target>
         <note>The format string describing pump suspended state: (1: suspended)</note>
       </trans-unit>
-      <trans-unit id="Trials" xml:space="preserve">
+      <trans-unit id="Trials" xml:space="preserve" approved="yes">
         <source>Trials</source>
-        <target state="translated">Försök</target>
+        <target state="final">Försök</target>
         <note>The label indicating the results of each frequency trial</note>
       </trans-unit>
-      <trans-unit id="Tune Radio Frequency" xml:space="preserve">
+      <trans-unit id="Tune Radio Frequency" xml:space="preserve" approved="yes">
         <source>Tune Radio Frequency</source>
-        <target state="translated">Radiofrekvens</target>
+        <target state="final">Ställ in radiofrekvens</target>
         <note>The title of the command to re-tune the radio</note>
       </trans-unit>
-      <trans-unit id="Tuning radio…" xml:space="preserve">
+      <trans-unit id="Tuning radio…" xml:space="preserve" approved="yes">
         <source>Tuning radio…</source>
-        <target state="translated">Justera radio…</target>
+        <target state="final">Ställer in radio…</target>
         <note>Progress message for tuning radio</note>
       </trans-unit>
-      <trans-unit id="Unknown" xml:space="preserve">
+      <trans-unit id="Unknown" xml:space="preserve" approved="yes">
         <source>Unknown</source>
-        <target state="translated">Okänd</target>
+        <target state="final">Okänd</target>
         <note>The detail text for an unknown pump model</note>
       </trans-unit>
-      <trans-unit id="Uptime" xml:space="preserve">
+      <trans-unit id="Uptime" xml:space="preserve" approved="yes">
         <source>Uptime</source>
-        <target state="translated">Körs sedan</target>
+        <target state="final">Körs sedan</target>
         <note>The title of the cell showing uptime</note>
       </trans-unit>
     </body>
@@ -642,64 +642,64 @@ Hitta enhet</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="0MV-2k-Dty.title" xml:space="preserve">
+      <trans-unit id="0MV-2k-Dty.title" xml:space="preserve" approved="yes">
         <source>RileyLink Setup</source>
-        <target state="translated">RileyLink inställning</target>
+        <target state="final">RileyLink inställning</target>
         <note>Class = "UITableViewController"; title = "RileyLink Setup"; ObjectID = "0MV-2k-Dty";</note>
       </trans-unit>
-      <trans-unit id="1fp-45-qWK.text" xml:space="preserve">
+      <trans-unit id="1fp-45-qWK.text" xml:space="preserve" approved="yes">
         <source>Find Device</source>
-        <target state="translated">Hitta enhet</target>
+        <target state="final">Hitta enhet</target>
         <note>Class = "UILabel"; text = "Find Device"; ObjectID = "1fp-45-qWK";</note>
       </trans-unit>
-      <trans-unit id="A6i-Cb-baR.text" xml:space="preserve">
+      <trans-unit id="A6i-Cb-baR.text" xml:space="preserve" approved="yes">
         <source>Other Devices</source>
-        <target state="translated">Annan enhet</target>
+        <target state="final">Andra enheter</target>
         <note>Class = "UILabel"; text = "Other Devices"; ObjectID = "A6i-Cb-baR";</note>
       </trans-unit>
-      <trans-unit id="Bdb-j4-WcR.text" xml:space="preserve">
+      <trans-unit id="Bdb-j4-WcR.text" xml:space="preserve" approved="yes">
         <source>Do not change the time using your pumpʼs menu.</source>
-        <target state="translated">Ändra inte tiden med din pumps menyer.</target>
+        <target state="final">Ändra inte tiden i din pumps menyer.</target>
         <note>Class = "UILabel"; text = "Do not change the time using your pumpʼs menu."; ObjectID = "Bdb-j4-WcR";</note>
       </trans-unit>
-      <trans-unit id="Fps-h3-V4K.title" xml:space="preserve">
+      <trans-unit id="Fps-h3-V4K.title" xml:space="preserve" approved="yes">
         <source>Pump Clock</source>
-        <target state="translated">Pumpklocka</target>
+        <target state="final">Pumpklocka</target>
         <note>Class = "UITableViewController"; title = "Pump Clock"; ObjectID = "Fps-h3-V4K";</note>
       </trans-unit>
-      <trans-unit id="HeG-VF-L5P.placeholder" xml:space="preserve">
+      <trans-unit id="HeG-VF-L5P.placeholder" xml:space="preserve" approved="yes">
         <source>Enter the 6-digit pump ID</source>
-        <target state="translated">Ange ditt 6-siffriga pump-ID</target>
+        <target state="final">Ange ditt 6-siffriga pump-ID</target>
         <note>Class = "UITextField"; placeholder = "Enter the 6-digit pump ID"; ObjectID = "HeG-VF-L5P";</note>
       </trans-unit>
-      <trans-unit id="HuY-fE-vM8.text" xml:space="preserve">
+      <trans-unit id="HuY-fE-vM8.text" xml:space="preserve" approved="yes">
         <source>If you travel to a different time zone for an extended period of time, you can change the pumpʼs time zone at any time in Loopʼs Settings screen.</source>
-        <target state="translated">Om du reser till annan tidszon under en längre tid, kan du ändra tidszonen närsomhelst i Loops inställningar.</target>
+        <target state="final">Om du reser till annan tidszon under en längre tid, kan du närsomhelst ändra tidszonen i Loops inställningar.</target>
         <note>Class = "UILabel"; text = "If you travel to a different time zone for an extended period of time, you can change the pumpʼs time zone at any time in Loopʼs Settings screen."; ObjectID = "HuY-fE-vM8";</note>
       </trans-unit>
-      <trans-unit id="IQ5-53-x9s.text" xml:space="preserve">
+      <trans-unit id="IQ5-53-x9s.text" xml:space="preserve" approved="yes">
         <source>Loop will keep your pumpʼs clock synchronized with your phone in the time zone youʼre in now.</source>
-        <target state="translated">Loop kommer att synkronisera pumpens klocka med din telefon i den tidszonen du nu befinner dig i.</target>
+        <target state="final">Loop kommer att synkronisera pumpens klocka med din telefon i den tidszon du nu befinner dig i.</target>
         <note>Class = "UILabel"; text = "Loop will keep your pumpʼs clock synchronized with your phone in the time zone youʼre in now."; ObjectID = "IQ5-53-x9s";</note>
       </trans-unit>
-      <trans-unit id="Nwf-TJ-KmJ.title" xml:space="preserve">
+      <trans-unit id="Nwf-TJ-KmJ.title" xml:space="preserve" approved="yes">
         <source>Setup Complete</source>
-        <target state="translated">Inställning klar</target>
+        <target state="final">Inställning klar</target>
         <note>Class = "UITableViewController"; title = "Setup Complete"; ObjectID = "Nwf-TJ-KmJ";</note>
       </trans-unit>
-      <trans-unit id="OZk-Db-KCs.title" xml:space="preserve">
+      <trans-unit id="OZk-Db-KCs.title" xml:space="preserve" approved="yes">
         <source>Pump Setup</source>
-        <target state="translated">Pumpinställning</target>
+        <target state="final">Pumpinställning</target>
         <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "OZk-Db-KCs";</note>
       </trans-unit>
-      <trans-unit id="V47-Nq-7ew.title" xml:space="preserve">
+      <trans-unit id="V47-Nq-7ew.title" xml:space="preserve" approved="yes">
         <source>Pump Setup</source>
-        <target state="translated">Pumpinställning</target>
+        <target state="final">Pumpinställning</target>
         <note>Class = "UINavigationItem"; title = "Pump Setup"; ObjectID = "V47-Nq-7ew";</note>
       </trans-unit>
-      <trans-unit id="ZnF-zy-5gR.headerTitle" xml:space="preserve">
+      <trans-unit id="ZnF-zy-5gR.headerTitle" xml:space="preserve" approved="yes">
         <source>Main Menu</source>
-        <target state="translated">Huvudmeny</target>
+        <target state="final">Huvudmeny</target>
         <note>Class = "UITableViewSection"; headerTitle = "Main Menu"; ObjectID = "ZnF-zy-5gR";</note>
       </trans-unit>
       <trans-unit id="c7t-pZ-WqY.text" xml:space="preserve">
@@ -707,34 +707,34 @@ Hitta enhet</target>
         <target state="translated">Tillbehör</target>
         <note>Class = "UILabel"; text = "Utilities"; ObjectID = "c7t-pZ-WqY";</note>
       </trans-unit>
-      <trans-unit id="erq-yb-anx.text" xml:space="preserve">
+      <trans-unit id="erq-yb-anx.text" xml:space="preserve" approved="yes">
         <source>Connect Devices</source>
-        <target state="translated">Anslut enheter</target>
+        <target state="final">Anslut enheter</target>
         <note>Class = "UILabel"; text = "Connect Devices"; ObjectID = "erq-yb-anx";</note>
       </trans-unit>
-      <trans-unit id="fVG-pl-jT9.footerTitle" xml:space="preserve">
+      <trans-unit id="fVG-pl-jT9.footerTitle" xml:space="preserve" approved="yes">
         <source>The pump ID is the 6-digit numerical portion of the serial number (labeled as SN or S/N).</source>
-        <target state="translated">Ditt pump-ID är den 6-siffriga numeriska delen av serienumret (markerat med SN eller S/N).</target>
+        <target state="final">Ditt pump-ID är den 6-siffriga numeriska delen av serienumret (markerat med SN eller S/N).</target>
         <note>Class = "UITableViewSection"; footerTitle = "The pump ID is the 6-digit numerical portion of the serial number (labeled as SN or S/N)."; ObjectID = "fVG-pl-jT9";</note>
       </trans-unit>
-      <trans-unit id="fVG-pl-jT9.headerTitle" xml:space="preserve">
+      <trans-unit id="fVG-pl-jT9.headerTitle" xml:space="preserve" approved="yes">
         <source>Pump ID</source>
-        <target state="translated">Pump-ID</target>
+        <target state="final">Pump-ID</target>
         <note>Class = "UITableViewSection"; headerTitle = "Pump ID"; ObjectID = "fVG-pl-jT9";</note>
       </trans-unit>
-      <trans-unit id="g1m-3k-XI3.text" xml:space="preserve">
+      <trans-unit id="g1m-3k-XI3.text" xml:space="preserve" approved="yes">
         <source>Your pump is ready for use.</source>
-        <target state="translated">Din pump är redo att användas.</target>
+        <target state="final">Din pump är redo att användas.</target>
         <note>Class = "UILabel"; text = "Your pump is ready for use."; ObjectID = "g1m-3k-XI3";</note>
       </trans-unit>
-      <trans-unit id="lGI-LD-xR7.footerTitle" xml:space="preserve">
+      <trans-unit id="lGI-LD-xR7.footerTitle" xml:space="preserve" approved="yes">
         <source>The pump region and color are denoted as the last 3 letters of the the model number (labeled as REF).</source>
-        <target state="translated">Pumpregion och färg är märkta som de 3 sista siffrorna i modellnumret (markerad som REF).</target>
+        <target state="final">Pumpregion och färg är märkta som de 3 sista siffrorna i modellnumret (markerad som REF).</target>
         <note>Class = "UITableViewSection"; footerTitle = "The pump region and color are denoted as the last 3 letters of the the model number (labeled as REF)."; ObjectID = "lGI-LD-xR7";</note>
       </trans-unit>
-      <trans-unit id="lGI-LD-xR7.headerTitle" xml:space="preserve">
+      <trans-unit id="lGI-LD-xR7.headerTitle" xml:space="preserve" approved="yes">
         <source>Region and Color</source>
-        <target state="translated">Region och färg</target>
+        <target state="final">Region och färg</target>
         <note>Class = "UITableViewSection"; headerTitle = "Region and Color"; ObjectID = "lGI-LD-xR7";</note>
       </trans-unit>
       <trans-unit id="oBL-lh-SHI.title" xml:space="preserve">
@@ -742,14 +742,14 @@ Hitta enhet</target>
         <target state="translated">Pumpsändningar</target>
         <note>Class = "UITableViewController"; title = "Pump Broadcasts"; ObjectID = "oBL-lh-SHI";</note>
       </trans-unit>
-      <trans-unit id="ojQ-ob-gBx.text" xml:space="preserve">
+      <trans-unit id="ojQ-ob-gBx.text" xml:space="preserve" approved="yes">
         <source>On</source>
-        <target state="translated">På</target>
+        <target state="final">På</target>
         <note>Class = "UILabel"; text = "On"; ObjectID = "ojQ-ob-gBx";</note>
       </trans-unit>
-      <trans-unit id="tGa-FP-JqD.text" xml:space="preserve">
+      <trans-unit id="tGa-FP-JqD.text" xml:space="preserve" approved="yes">
         <source>Enter the pump region</source>
-        <target state="translated">Ange pumpregion</target>
+        <target state="final">Ange pumpregion</target>
         <note>Class = "UILabel"; text = "Enter the pump region"; ObjectID = "tGa-FP-JqD";</note>
       </trans-unit>
       <trans-unit id="yLn-Ya-p1R.text" xml:space="preserve">
@@ -764,9 +764,9 @@ Hitta enhet</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>MinimedKitUI</source>
-        <target state="translated">MinimedKitUI</target>
+        <target state="final">MinimedKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -776,9 +776,9 @@ Hitta enhet</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>NightscoutUploadKit</source>
-        <target state="translated">NightscoutUploadKit</target>
+        <target state="final">NightscoutUploadKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -788,9 +788,9 @@ Hitta enhet</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>OmniKit</source>
-        <target state="translated">OmniKit</target>
+        <target state="final">OmniKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -800,14 +800,14 @@ Hitta enhet</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id=" (inactive)" xml:space="preserve">
+      <trans-unit id=" (inactive)" xml:space="preserve" approved="yes">
         <source> (inactive)</source>
-        <target state="translated"> (inaktiv)</target>
+        <target state="final"> (inaktiv)</target>
         <note>Description for an inactive alert modifier</note>
       </trans-unit>
-      <trans-unit id="%@ dB" xml:space="preserve">
+      <trans-unit id="%@ dB" xml:space="preserve" approved="yes">
         <source>%@ dB</source>
-        <target state="translated">%@ dB</target>
+        <target state="final">%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
       </trans-unit>
       <trans-unit id="Activation time exceeded" xml:space="preserve">
@@ -816,14 +816,14 @@ Hitta enhet</target>
         <note>Format string for activation time exceeded
    Pod state when activation not completed in the time allowed</note>
       </trans-unit>
-      <trans-unit id="Auto-off alarm" xml:space="preserve">
+      <trans-unit id="Auto-off alarm" xml:space="preserve" approved="yes">
         <source>Auto-off alarm</source>
-        <target state="translated">Auto-av larm</target>
+        <target state="final">Auto-av larm</target>
         <note>Description for auto-off alarm</note>
       </trans-unit>
-      <trans-unit id="Basal initialized" xml:space="preserve">
+      <trans-unit id="Basal initialized" xml:space="preserve" approved="yes">
         <source>Basal initialized</source>
-        <target state="translated">Basal initierad</target>
+        <target state="final">Basal initierad</target>
         <note>Pod state when basal initialized</note>
       </trans-unit>
       <trans-unit id="Below 50 units" xml:space="preserve">
@@ -886,9 +886,9 @@ Hitta enhet</target>
         <target state="translated">Inget svar från podd</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
-      <trans-unit id="Error event logged, shutting down" xml:space="preserve">
+      <trans-unit id="Error event logged, shutting down" xml:space="preserve" approved="yes">
         <source>Error event logged, shutting down</source>
-        <target state="translated">Felhändelse loggad, stänger ned</target>
+        <target state="final">Felhändelse loggad, stänger ned</target>
         <note>Pod state error event logged shutting down</note>
       </trans-unit>
       <trans-unit id="Expiration alert" xml:space="preserve">
@@ -896,9 +896,9 @@ Hitta enhet</target>
         <target state="translated">Larm om utgångsdatum</target>
         <note>Description for expiration alert</note>
       </trans-unit>
-      <trans-unit id="Fault event occurred" xml:space="preserve">
+      <trans-unit id="Fault event occurred" xml:space="preserve" approved="yes">
         <source>Fault event occurred</source>
-        <target state="translated">Felhändelse inträffade</target>
+        <target state="final">Felhändelse inträffade</target>
         <note>Pod state when fault event has occurred</note>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve">
@@ -986,9 +986,9 @@ Hitta enhet</target>
         <target state="translated">Inga larm</target>
         <note>Pod alert state when no alerts are active</note>
       </trans-unit>
-      <trans-unit id="No faults" xml:space="preserve">
+      <trans-unit id="No faults" xml:space="preserve" approved="yes">
         <source>No faults</source>
-        <target state="translated">Inga fel</target>
+        <target state="final">Inga fel</target>
         <note>Description for Fault Event Code .noFaults</note>
       </trans-unit>
       <trans-unit id="No pod paired" xml:space="preserve">
@@ -1102,19 +1102,19 @@ Hitta enhet</target>
         <target state="translated">Larm för utgångsdatum för podd</target>
         <note>Description for expiration advisory alarm</note>
       </trans-unit>
-      <trans-unit id="Pod expired" xml:space="preserve">
+      <trans-unit id="Pod expired" xml:space="preserve" approved="yes">
         <source>Pod expired</source>
-        <target state="translated">Poddens utgångsdatum passerat</target>
+        <target state="final">Poddens utgångsdatum passerat</target>
         <note>Description for Pod expired pod fault</note>
       </trans-unit>
-      <trans-unit id="Pod is not in a state ready for cannula insertion." xml:space="preserve">
+      <trans-unit id="Pod is not in a state ready for cannula insertion." xml:space="preserve" approved="yes">
         <source>Pod is not in a state ready for cannula insertion.</source>
-        <target state="translated">Podd är inte färdig att föra in kanyl.</target>
+        <target state="final">Podd är inte färdig att föra in kanyl.</target>
         <note>Error message when cannula insertion fails because the pod is in an unexpected state</note>
       </trans-unit>
-      <trans-unit id="Pod is not in a state ready for priming." xml:space="preserve">
+      <trans-unit id="Pod is not in a state ready for priming." xml:space="preserve" approved="yes">
         <source>Pod is not in a state ready for priming.</source>
-        <target state="translated">Podd är inte klar för att fyllas.</target>
+        <target state="final">Podd är inte klar för att fyllas.</target>
         <note>Error message when prime fails because the pod is in an unexpected state</note>
       </trans-unit>
       <trans-unit id="Pod is suspended" xml:space="preserve" approved="yes">
@@ -1127,40 +1127,40 @@ Hitta enhet</target>
         <target state="translated">Podd skickade ack istället för svar</target>
         <note>Error message shown when pod sends ack instead of response</note>
       </trans-unit>
-      <trans-unit id="Pod setup window expired" xml:space="preserve">
+      <trans-unit id="Pod setup window expired" xml:space="preserve" approved="yes">
         <source>Pod setup window expired</source>
-        <target state="translated">Tid för poddinställning har överskridits</target>
+        <target state="final">Tid för poddinställning har överskridits</target>
         <note>Pod state when prime or cannula insertion has not completed in the time allotted</note>
       </trans-unit>
-      <trans-unit id="Poor signal strength" xml:space="preserve">
+      <trans-unit id="Poor signal strength" xml:space="preserve" approved="yes">
         <source>Poor signal strength</source>
-        <target state="translated">Dålig signalstyrka</target>
+        <target state="final">Dålig signalstyrka</target>
         <note>Format string for poor pod signal strength</note>
       </trans-unit>
-      <trans-unit id="Priming" xml:space="preserve">
+      <trans-unit id="Priming" xml:space="preserve" approved="yes">
         <source>Priming</source>
-        <target state="translated">Podd fylls på</target>
+        <target state="final">Podd fylls på</target>
         <note>Delivery status when pod is priming
    Pod status when priming</note>
       </trans-unit>
-      <trans-unit id="Priming completed" xml:space="preserve">
+      <trans-unit id="Priming completed" xml:space="preserve" approved="yes">
         <source>Priming completed</source>
-        <target state="translated">Podd har fyllts färdigt med insulin</target>
+        <target state="final">Podd har fyllts färdigt med insulin</target>
         <note>Pod state when priming completed</note>
       </trans-unit>
-      <trans-unit id="Ready for basal programming" xml:space="preserve">
+      <trans-unit id="Ready for basal programming" xml:space="preserve" approved="yes">
         <source>Ready for basal programming</source>
-        <target state="translated">Klar för programmering av basal</target>
+        <target state="final">Klar för programmering av basal</target>
         <note>Pod state when ready for basal programming</note>
       </trans-unit>
-      <trans-unit id="Ready to insert cannula" xml:space="preserve">
+      <trans-unit id="Ready to insert cannula" xml:space="preserve" approved="yes">
         <source>Ready to insert cannula</source>
-        <target state="translated">Redo att föra in kanyl</target>
+        <target state="final">Redo att föra in kanyl</target>
         <note>Pod state when ready for cannula insertion</note>
       </trans-unit>
-      <trans-unit id="Reminder initialized" xml:space="preserve">
+      <trans-unit id="Reminder initialized" xml:space="preserve" approved="yes">
         <source>Reminder initialized</source>
-        <target state="translated">Påminnelse initierad</target>
+        <target state="final">Påminnelse initierad</target>
         <note>Pod pairing reminder initialized</note>
       </trans-unit>
       <trans-unit id="Resume: %1$@ %2$@" xml:space="preserve" approved="yes">
@@ -1168,79 +1168,79 @@ Hitta enhet</target>
         <target state="final">Återuppta: %1$@ %2$@</target>
         <note>The format string describing a resume. (1: Time)(2: Scheduled certainty</note>
       </trans-unit>
-      <trans-unit id="Scheduled Basal" xml:space="preserve">
+      <trans-unit id="Scheduled Basal" xml:space="preserve" approved="yes">
         <source>Scheduled Basal</source>
-        <target state="translated">Schemalagd basal</target>
+        <target state="final">Schemalagd basal</target>
         <note>Delivery status when basal is running</note>
       </trans-unit>
-      <trans-unit id="Scheduled basal" xml:space="preserve">
+      <trans-unit id="Scheduled basal" xml:space="preserve" approved="yes">
         <source>Scheduled basal</source>
-        <target state="translated">Schemalagd basal</target>
+        <target state="final">Schemalagd basal</target>
         <note>Delivery status when scheduled basal is running</note>
       </trans-unit>
-      <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
+      <trans-unit id="Shutdown imminent alarm" xml:space="preserve" approved="yes">
         <source>Shutdown imminent alarm</source>
-        <target state="translated">Larm för omedelbar avstängning</target>
+        <target state="final">Larm för omedelbar avstängning</target>
         <note>Description for shutdown imminent alarm</note>
       </trans-unit>
-      <trans-unit id="Signal strength too high" xml:space="preserve">
+      <trans-unit id="Signal strength too high" xml:space="preserve" approved="yes">
         <source>Signal strength too high</source>
-        <target state="translated">Signalstyrka för hög</target>
+        <target state="final">Signalstyrka för hög</target>
         <note>Format string for pod signal strength too high</note>
       </trans-unit>
-      <trans-unit id="Suspend: %1$@ %2$@" xml:space="preserve">
+      <trans-unit id="Suspend: %1$@ %2$@" xml:space="preserve" approved="yes">
         <source>Suspend: %1$@ %2$@</source>
-        <target state="translated">Pausa: %1$@ %2$@</target>
+        <target state="final">Pausa: %1$@ %2$@</target>
         <note>The format string describing a suspend. (1: Time)(2: Scheduled certainty</note>
       </trans-unit>
-      <trans-unit id="Suspended" xml:space="preserve">
+      <trans-unit id="Suspended" xml:space="preserve" approved="yes">
         <source>Suspended</source>
-        <target state="translated">Pausad</target>
+        <target state="final">Pausad</target>
         <note>Delivery status when insulin delivery is suspended</note>
       </trans-unit>
-      <trans-unit id="Tank fill completed" xml:space="preserve">
+      <trans-unit id="Tank fill completed" xml:space="preserve" approved="yes">
         <source>Tank fill completed</source>
-        <target state="translated">Pod har fyllts klart</target>
+        <target state="final">Pod har fyllts klart</target>
         <note>Pod tank fill completed</note>
       </trans-unit>
-      <trans-unit id="Tank power activated" xml:space="preserve">
+      <trans-unit id="Tank power activated" xml:space="preserve" approved="yes">
         <source>Tank power activated</source>
-        <target state="translated">Ström till motor för behållare aktiverad</target>
+        <target state="final">Ström till motor för behållare aktiverad</target>
         <note>Pod power to motor activated</note>
       </trans-unit>
-      <trans-unit id="Temp basal in progress" xml:space="preserve">
+      <trans-unit id="Temp basal in progress" xml:space="preserve" approved="yes">
         <source>Temp basal in progress</source>
-        <target state="translated">Temp basal pågår redan</target>
+        <target state="final">Temp basal pågår redan</target>
         <note>Error message shown when temp basal could not be set due to existing temp basal in progress</note>
       </trans-unit>
-      <trans-unit id="Temp basal running" xml:space="preserve">
+      <trans-unit id="Temp basal running" xml:space="preserve" approved="yes">
         <source>Temp basal running</source>
-        <target state="translated">Temp basal pågår</target>
+        <target state="final">Temp basal pågår</target>
         <note>Delivery status when temp basal is running</note>
       </trans-unit>
-      <trans-unit id="TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@" xml:space="preserve">
+      <trans-unit id="TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@" xml:space="preserve" approved="yes">
         <source>TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@</source>
-        <target state="translated">TempBasal: %1$@ E/timme %2$@ %3$@ %4$@ E %5$@</target>
+        <target state="final">TempBasal: %1$@ E/timme %2$@ %3$@ %4$@ E %5$@</target>
         <note>The format string describing a temp basal. (1: The rate)(2: Start time)(3: duration)(4: volume)(5: scheduled certainty</note>
       </trans-unit>
-      <trans-unit id="Time to replace your pod! Your pod will expire in %1$@" xml:space="preserve">
+      <trans-unit id="Time to replace your pod! Your pod will expire in %1$@" xml:space="preserve" approved="yes">
         <source>Time to replace your pod! Your pod will expire in %1$@</source>
-        <target state="translated">Byt din podd! Din podd går ut om %1$@</target>
+        <target state="final">Byt din podd! Din podd går ut om %1$@</target>
         <note>The format string for pod expiration notification body (1: time until expiration)</note>
       </trans-unit>
-      <trans-unit id="Try again" xml:space="preserve">
+      <trans-unit id="Try again" xml:space="preserve" approved="yes">
         <source>Try again</source>
-        <target state="translated">Försök igen</target>
+        <target state="final">Försök igen</target>
         <note>Recovery suggestion when ack received instead of response</note>
       </trans-unit>
-      <trans-unit id="Uncertain" xml:space="preserve">
+      <trans-unit id="Uncertain" xml:space="preserve" approved="yes">
         <source>Uncertain</source>
-        <target state="translated">Osäker</target>
+        <target state="final">Osäker</target>
         <note>String describing a dose that was possibly scheduled</note>
       </trans-unit>
-      <trans-unit id="Unexpected message sequence number" xml:space="preserve">
+      <trans-unit id="Unexpected message sequence number" xml:space="preserve" approved="yes">
         <source>Unexpected message sequence number</source>
-        <target state="translated">Oväntat meddelandesekvensnummer</target>
+        <target state="final">Oväntat meddelandesekvensnummer</target>
         <note>Description for MessageError invalidSequence</note>
       </trans-unit>
       <trans-unit id="Unexpected pod change" xml:space="preserve">
@@ -1248,29 +1248,29 @@ Hitta enhet</target>
         <target state="translated">Oväntat poddbyte</target>
         <note>Format string for unexpected pod change</note>
       </trans-unit>
-      <trans-unit id="Unexpected response from pod" xml:space="preserve">
+      <trans-unit id="Unexpected response from pod" xml:space="preserve" approved="yes">
         <source>Unexpected response from pod</source>
-        <target state="translated">Oväntat svar från din podd</target>
+        <target state="final">Oväntat svar från din podd</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
-      <trans-unit id="Unknown Value (%1$@) for type %2$@" xml:space="preserve">
+      <trans-unit id="Unknown Value (%1$@) for type %2$@" xml:space="preserve" approved="yes">
         <source>Unknown Value (%1$@) for type %2$@</source>
-        <target state="translated">Okänt värde (%1$@) för typ %2$@</target>
+        <target state="final">Okänt värde (%1$@) för typ %2$@</target>
         <note>Format string for description of MessageError unknownValue. (1: value) (2: Type)</note>
       </trans-unit>
-      <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve">
+      <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve" approved="yes">
         <source>Unknown pod fault %1$03d</source>
-        <target state="translated">Okänt poddfel %1$03d</target>
+        <target state="final">Okänt poddfel %1$03d</target>
         <note>The format string for Unknown pod fault (1: The fault code value)</note>
       </trans-unit>
-      <trans-unit id="Validation failed: %1$@" xml:space="preserve">
+      <trans-unit id="Validation failed: %1$@" xml:space="preserve" approved="yes">
         <source>Validation failed: %1$@</source>
-        <target state="translated">Validering misslyckades: %1$@</target>
+        <target state="final">Validering misslyckades: %1$@</target>
         <note>Format string for description of MessageError validationFailed. (1: description of validation failure)</note>
       </trans-unit>
-      <trans-unit id="Wait for existing bolus to finish, or cancel bolus" xml:space="preserve">
+      <trans-unit id="Wait for existing bolus to finish, or cancel bolus" xml:space="preserve" approved="yes">
         <source>Wait for existing bolus to finish, or cancel bolus</source>
-        <target state="translated">Vänta på att pågående bolus är färdig, eller avbryt bolus</target>
+        <target state="final">Vänta på att pågående bolus är färdig, eller avbryt bolus</target>
         <note>Recovery suggestion when operation could not be completed due to existing bolus in progress</note>
       </trans-unit>
       <trans-unit id="Wait for existing temp basal to finish, or suspend to cancel" xml:space="preserve">
@@ -1283,19 +1283,19 @@ Hitta enhet</target>
         <target state="translated">Väntar på påminnelse för parkoppling</target>
         <note>Description waiting for pairing reminder</note>
       </trans-unit>
-      <trans-unit id="oneNotUsed" xml:space="preserve">
+      <trans-unit id="oneNotUsed" xml:space="preserve" approved="yes">
         <source>oneNotUsed</source>
-        <target state="translated">oneNotUsed</target>
+        <target state="final">oneNotUsed</target>
         <note>Pod state oneNotUsed</note>
       </trans-unit>
-      <trans-unit id="threeNotUsed" xml:space="preserve">
+      <trans-unit id="threeNotUsed" xml:space="preserve" approved="yes">
         <source>threeNotUsed</source>
-        <target state="translated">threeNotUsed</target>
+        <target state="final">threeNotUsed</target>
         <note>Pod state threeNotUsed</note>
       </trans-unit>
-      <trans-unit id="twoNotUsed" xml:space="preserve">
+      <trans-unit id="twoNotUsed" xml:space="preserve" approved="yes">
         <source>twoNotUsed</source>
-        <target state="translated">twoNotUsed</target>
+        <target state="final">twoNotUsed</target>
         <note>Pod state twoNotUsed</note>
       </trans-unit>
     </body>
@@ -1305,9 +1305,9 @@ Hitta enhet</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>OmniKitPlugin</source>
-        <target state="translated">OmniKitPlugin</target>
+        <target state="final">OmniKitPlugin</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1322,9 +1322,9 @@ Hitta enhet</target>
         <target state="final">Ta bort podd</target>
         <note>Class = "UITableViewSection"; headerTitle = "Remove POD"; ObjectID = "1LF-te-Bdd";</note>
       </trans-unit>
-      <trans-unit id="3HH-eJ-lRh.title" xml:space="preserve">
+      <trans-unit id="3HH-eJ-lRh.title" xml:space="preserve" approved="yes">
         <source>RileyLink Setup</source>
-        <target state="translated">RileyLink-konfiguration</target>
+        <target state="final">RileyLink-konfiguration</target>
         <note>Class = "UINavigationItem"; title = "RileyLink Setup"; ObjectID = "3HH-eJ-lRh";</note>
       </trans-unit>
       <trans-unit id="91O-Un-vKc.title" xml:space="preserve">
@@ -1332,59 +1332,59 @@ Hitta enhet</target>
         <target state="translated">Pumpkonfiguration</target>
         <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "91O-Un-vKc";</note>
       </trans-unit>
-      <trans-unit id="EUt-xk-Rmp.footerTitle" xml:space="preserve">
+      <trans-unit id="EUt-xk-Rmp.footerTitle" xml:space="preserve" approved="yes">
         <source>NOTE: Do not remove the pod's needle cap at this time.</source>
-        <target state="translated">OBS: Ta inte bort kanylskyddet ännu.</target>
+        <target state="final">OBS: Ta inte bort kanylskyddet ännu.</target>
         <note>Class = "UITableViewSection"; footerTitle = "NOTE: Do not remove the pod's needle cap at this time."; ObjectID = "EUt-xk-Rmp";</note>
       </trans-unit>
-      <trans-unit id="EUt-xk-Rmp.headerTitle" xml:space="preserve">
+      <trans-unit id="EUt-xk-Rmp.headerTitle" xml:space="preserve" approved="yes">
         <source>Prepare Pod</source>
-        <target state="translated">Förbered podd</target>
+        <target state="final">Förbered podd</target>
         <note>Class = "UITableViewSection"; headerTitle = "Prepare Pod"; ObjectID = "EUt-xk-Rmp";</note>
       </trans-unit>
-      <trans-unit id="Eng-IY-fQ7.text" xml:space="preserve">
+      <trans-unit id="Eng-IY-fQ7.text" xml:space="preserve" approved="yes">
         <source>Loop will remind you to change your pod before it expires. You can change this to a time convenient for you.</source>
-        <target state="translated">Loop kommer att påminna dig om att byta podd innan den går ut. Du kan senare ändra påminnelsetiden till en tid som passar dig bättre.</target>
+        <target state="final">Loop kommer att påminna dig om att byta podd innan den går ut. Du kan senare ändra påminnelsetiden till en tid som passar dig bättre.</target>
         <note>Class = "UILabel"; text = "Loop will remind you to change your pod before it expires. You can change this to a time convenient for you."; ObjectID = "Eng-IY-fQ7";</note>
       </trans-unit>
-      <trans-unit id="GK7-jb-tyY.text" xml:space="preserve">
+      <trans-unit id="GK7-jb-tyY.text" xml:space="preserve" approved="yes">
         <source>Please deactivate the pod. When deactivation is complete, remove pod from body.</source>
-        <target state="translated">Inaktivera podden. När inaktiveringen är klar kan du ta bort podden från kroppen.</target>
+        <target state="final">Inaktivera podden. När inaktiveringen är klar kan du ta bort podden från kroppen.</target>
         <note>Class = "UILabel"; text = "Please deactivate the pod. When deactivation is complete, remove pod from body."; ObjectID = "GK7-jb-tyY";</note>
       </trans-unit>
-      <trans-unit id="HwT-30-f0y.title" xml:space="preserve">
+      <trans-unit id="HwT-30-f0y.title" xml:space="preserve" approved="yes">
         <source>Insert Cannula</source>
-        <target state="translated">För in kanylen</target>
+        <target state="final">För in kanylen</target>
         <note>Class = "UINavigationItem"; title = "Insert Cannula"; ObjectID = "HwT-30-f0y";</note>
       </trans-unit>
-      <trans-unit id="Iuv-5M-bDH.text" xml:space="preserve">
+      <trans-unit id="Iuv-5M-bDH.text" xml:space="preserve" approved="yes">
         <source>Prepare site. Remove the pod's needle cap and adhesive backing. If pod is OK, apply to site.</source>
-        <target state="translated">Förbered insticksstället. Ta bort poddens kanylskydd och skyddspapper. Om podden verkar OK, applicera den på huden.</target>
+        <target state="final">Förbered insticksstället. Ta bort poddens kanylskydd och skyddspapper. Om podden verkar OK, applicera den på huden.</target>
         <note>Class = "UILabel"; text = "Prepare site. Remove the pod's needle cap and adhesive backing. If pod is OK, apply to site."; ObjectID = "Iuv-5M-bDH";</note>
       </trans-unit>
-      <trans-unit id="aNg-mm-Uuy.title" xml:space="preserve">
+      <trans-unit id="aNg-mm-Uuy.title" xml:space="preserve" approved="yes">
         <source>Pump Setup</source>
-        <target state="translated">Pumpkonfiguration</target>
+        <target state="final">Pumpkonfiguration</target>
         <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "aNg-mm-Uuy";</note>
       </trans-unit>
-      <trans-unit id="ack-ra-XH6.title" xml:space="preserve">
+      <trans-unit id="ack-ra-XH6.title" xml:space="preserve" approved="yes">
         <source>Pump Setup</source>
-        <target state="translated">Pumpkonfiguration</target>
+        <target state="final">Pumpkonfiguration</target>
         <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "ack-ra-XH6";</note>
       </trans-unit>
-      <trans-unit id="bJ5-iH-fnF.text" xml:space="preserve">
+      <trans-unit id="bJ5-iH-fnF.text" xml:space="preserve" approved="yes">
         <source>Your Pod is ready for use.</source>
-        <target state="translated">Din podd är redo.</target>
+        <target state="final">Din podd är redo.</target>
         <note>Class = "UILabel"; text = "Your Pod is ready for use."; ObjectID = "bJ5-iH-fnF";</note>
       </trans-unit>
-      <trans-unit id="ePA-6p-q8C.text" xml:space="preserve">
+      <trans-unit id="ePA-6p-q8C.text" xml:space="preserve" approved="yes">
         <source>Reminder</source>
-        <target state="translated">Påminnelse</target>
+        <target state="final">Påminnelse</target>
         <note>Class = "UILabel"; text = "Reminder"; ObjectID = "ePA-6p-q8C";</note>
       </trans-unit>
-      <trans-unit id="jVO-Ut-MhL.title" xml:space="preserve">
+      <trans-unit id="jVO-Ut-MhL.title" xml:space="preserve" approved="yes">
         <source>Pod Pairing</source>
-        <target state="translated">Podden parkopplas</target>
+        <target state="final">Podden parkopplas</target>
         <note>Class = "UINavigationItem"; title = "Pod Pairing"; ObjectID = "jVO-Ut-MhL";</note>
       </trans-unit>
       <trans-unit id="k1Y-x4-m0a.title" xml:space="preserve">
@@ -1392,19 +1392,19 @@ Hitta enhet</target>
         <target state="translated">Pumpkonfiguration</target>
         <note>Class = "UITableViewController"; title = "Pump Setup"; ObjectID = "k1Y-x4-m0a";</note>
       </trans-unit>
-      <trans-unit id="nDb-R5-e02.title" xml:space="preserve">
+      <trans-unit id="nDb-R5-e02.title" xml:space="preserve" approved="yes">
         <source>Setup Complete</source>
-        <target state="translated">Konfigurationen färdig</target>
+        <target state="final">Inställning färdig</target>
         <note>Class = "UINavigationItem"; title = "Setup Complete"; ObjectID = "nDb-R5-e02";</note>
       </trans-unit>
-      <trans-unit id="rcC-ke-lUP.footerTitle" xml:space="preserve">
+      <trans-unit id="rcC-ke-lUP.footerTitle" xml:space="preserve" approved="yes">
         <source>NOTE: If cannula sticks out, press cancel.</source>
-        <target state="translated">OBS: Om kanylen redan sticker ut, tryck Avbryt.</target>
+        <target state="final">OBS: Om kanylen sticker ut, tryck Avbryt.</target>
         <note>Class = "UITableViewSection"; footerTitle = "NOTE: If cannula sticks out, press cancel."; ObjectID = "rcC-ke-lUP";</note>
       </trans-unit>
-      <trans-unit id="rcC-ke-lUP.headerTitle" xml:space="preserve">
+      <trans-unit id="rcC-ke-lUP.headerTitle" xml:space="preserve" approved="yes">
         <source>Apply POD</source>
-        <target state="translated">Sätt fast podden</target>
+        <target state="final">Sätt fast podden</target>
         <note>Class = "UITableViewSection"; headerTitle = "Apply POD"; ObjectID = "rcC-ke-lUP";</note>
       </trans-unit>
       <trans-unit id="vEc-Km-ewe.text" xml:space="preserve">
@@ -1517,15 +1517,15 @@ Hitta enhet</target>
         <target state="translated">Aktiv tid</target>
         <note>The title of the cell showing the pod activated at time</note>
       </trans-unit>
-      <trans-unit id="Alarms" xml:space="preserve">
+      <trans-unit id="Alarms" xml:space="preserve" approved="yes">
         <source>Alarms</source>
-        <target state="translated">Larm</target>
+        <target state="final">Larm</target>
         <note>The title of the cell showing alarm status</note>
       </trans-unit>
-      <trans-unit id="Alerts: %1$@&#10;" xml:space="preserve">
+      <trans-unit id="Alerts: %1$@&#10;" xml:space="preserve" approved="yes">
         <source>Alerts: %1$@
 </source>
-        <target state="translated">Varningar: %1$@
+        <target state="final">Varningar: %1$@
 </target>
         <note>The format string for Alerts: (1: the alerts string)</note>
       </trans-unit>
@@ -1600,9 +1600,9 @@ Hitta enhet</target>
         <target state="final">Radera Omnipod</target>
         <note>Button title to delete Omnipod PumpManager</note>
       </trans-unit>
-      <trans-unit id="Delivery Limits" xml:space="preserve">
+      <trans-unit id="Delivery Limits" xml:space="preserve" approved="yes">
         <source>Delivery Limits</source>
-        <target state="translated">Maxdoser</target>
+        <target state="final">Maxdoser</target>
         <note>Title text for delivery limits</note>
       </trans-unit>
       <trans-unit id="Delivery Status: %1$@&#10;" xml:space="preserve">
@@ -1622,9 +1622,9 @@ Hitta enhet</target>
         <target state="translated">Diagnostik</target>
         <note>The title of the configuration section in settings</note>
       </trans-unit>
-      <trans-unit id="Disable Bolus Beeps" xml:space="preserve">
+      <trans-unit id="Disable Bolus Beeps" xml:space="preserve" approved="yes">
         <source>Disable Bolus Beeps</source>
-        <target state="translated">Stäng av bolusljud</target>
+        <target state="final">Stäng av bolusljud</target>
         <note>Title text for button to disable bolus beeps</note>
       </trans-unit>
       <trans-unit id="Disable Confirmation Beeps" xml:space="preserve" approved="yes">
@@ -1632,9 +1632,9 @@ Hitta enhet</target>
         <target state="final">Stäng av bekräftelseljud</target>
         <note>Title text for button to disable confirmation beeps</note>
       </trans-unit>
-      <trans-unit id="Enable Bolus Beeps" xml:space="preserve">
+      <trans-unit id="Enable Bolus Beeps" xml:space="preserve" approved="yes">
         <source>Enable Bolus Beeps</source>
-        <target state="translated">Slå på bolusljud</target>
+        <target state="final">Slå på bolusljud</target>
         <note>Title text for button to enable bolus beeps</note>
       </trans-unit>
       <trans-unit id="Enable Confirmation Beeps" xml:space="preserve" approved="yes">
@@ -1689,7 +1689,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Expires" xml:space="preserve">
         <source>Expires</source>
-        <target state="translated">Utgår</target>
+        <target state="translated">Går ut</target>
         <note>The title of the cell showing the pod expiration</note>
       </trans-unit>
       <trans-unit id="Fault" xml:space="preserve">
@@ -1736,19 +1736,19 @@ Hitta enhet</target>
         <target state="translated">Ofullständigt inställd podd måste inaktiveras före parkoppling av ny podd. Inaktivera och kasta den gamla podden.</target>
         <note>Instructions when deactivating pod that has been paired and possibly attached.</note>
       </trans-unit>
-      <trans-unit id="Insert Cannula" xml:space="preserve">
+      <trans-unit id="Insert Cannula" xml:space="preserve" approved="yes">
         <source>Insert Cannula</source>
-        <target state="translated">För in kanyl</target>
+        <target state="final">För in kanyl</target>
         <note>Button title to insert cannula during setup</note>
       </trans-unit>
-      <trans-unit id="Insulin Delivered" xml:space="preserve">
+      <trans-unit id="Insulin Delivered" xml:space="preserve" approved="yes">
         <source>Insulin Delivered</source>
-        <target state="translated">Insulin doserat</target>
+        <target state="final">Insulin doserat</target>
         <note>The title of the cell showing delivered insulin</note>
       </trans-unit>
-      <trans-unit id="Invalid entry" xml:space="preserve">
+      <trans-unit id="Invalid entry" xml:space="preserve" approved="yes">
         <source>Invalid entry</source>
-        <target state="translated">Ogiltig inmatning</target>
+        <target state="final">Ogiltig inmatning</target>
         <note>The error message shown when Loop's basal schedule has an unsupported rate</note>
       </trans-unit>
       <trans-unit id="Last Bolus Not Delivered: %1$@ U&#10;" xml:space="preserve">
@@ -1793,35 +1793,35 @@ Hitta enhet</target>
         <target state="translated">Parkopplar…</target>
         <note>The text of the loading label when pairing</note>
       </trans-unit>
-      <trans-unit id="Play Test Beeps" xml:space="preserve">
+      <trans-unit id="Play Test Beeps" xml:space="preserve" approved="yes">
         <source>Play Test Beeps</source>
-        <target state="translated">Spela upp testljud</target>
+        <target state="final">Spela upp testljud</target>
         <note>The title of the command to play test beeps</note>
       </trans-unit>
-      <trans-unit id="Play Test Beeps…" xml:space="preserve">
+      <trans-unit id="Play Test Beeps…" xml:space="preserve" approved="yes">
         <source>Play Test Beeps…</source>
-        <target state="translated">Spelar upp testljud…</target>
+        <target state="final">Spelar upp testljud…</target>
         <note>Progress message for play test beeps.</note>
       </trans-unit>
-      <trans-unit id="Play test beeps command sent successfully.&#10;&#10;If you did not hear any beeps from your pod, it's likely that the piezo speaker in your pod is broken." xml:space="preserve">
+      <trans-unit id="Play test beeps command sent successfully.&#10;&#10;If you did not hear any beeps from your pod, it's likely that the piezo speaker in your pod is broken." xml:space="preserve" approved="yes">
         <source>Play test beeps command sent successfully.
 
 If you did not hear any beeps from your pod, it's likely that the piezo speaker in your pod is broken.</source>
-        <target state="translated">Kommandot för uppspelning av testljud skickades.
+        <target state="final">Kommandot för uppspelning av testljud skickades.
 
 Om du inte hörde några pip från din podd, är det troligt att piezohögtalaren i din podd är sönder.</target>
         <note>Success message for play test beeps.</note>
       </trans-unit>
-      <trans-unit id="Pod Active: %1$@&#10;" xml:space="preserve">
+      <trans-unit id="Pod Active: %1$@&#10;" xml:space="preserve" approved="yes">
         <source>Pod Active: %1$@
 </source>
-        <target state="translated">Podd aktiv: %1$@
+        <target state="final">Podd aktiv: %1$@
 </target>
         <note>The format string for Pod Active: (1: Pod active time string)</note>
       </trans-unit>
-      <trans-unit id="Pod Age" xml:space="preserve">
+      <trans-unit id="Pod Age" xml:space="preserve" approved="yes">
         <source>Pod Age</source>
-        <target state="translated">Poddålder</target>
+        <target state="final">Poddålder</target>
         <note>Label describing pod age view</note>
       </trans-unit>
       <trans-unit id="Pod Details" xml:space="preserve">
@@ -1829,9 +1829,9 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
         <target state="translated">Podd-detaljer</target>
         <note>The title of the device information section in settings</note>
       </trans-unit>
-      <trans-unit id="Pod Settings" xml:space="preserve">
+      <trans-unit id="Pod Settings" xml:space="preserve" approved="yes">
         <source>Pod Settings</source>
-        <target state="translated">Poddinställningar</target>
+        <target state="final">Poddinställningar</target>
         <note>Title of the pod settings view controller</note>
       </trans-unit>
       <trans-unit id="Previous pod progress: %1$@&#10;" xml:space="preserve">
@@ -1841,9 +1841,9 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
 </target>
         <note>The format string for previous pod progress: (1: previous pod progress string)</note>
       </trans-unit>
-      <trans-unit id="Primed" xml:space="preserve">
+      <trans-unit id="Primed" xml:space="preserve" approved="yes">
         <source>Primed</source>
-        <target state="translated">Podden är fylld</target>
+        <target state="final">Podden är fylld</target>
         <note>The text of the loading label when pod is primed</note>
       </trans-unit>
       <trans-unit id="Priming…" xml:space="preserve" approved="yes">
@@ -1851,38 +1851,38 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
         <target state="final">Podden fylls…</target>
         <note>The text of the loading label when priming</note>
       </trans-unit>
-      <trans-unit id="Pulse Count: %1$d&#10;" xml:space="preserve">
+      <trans-unit id="Pulse Count: %1$d&#10;" xml:space="preserve" approved="yes">
         <source>Pulse Count: %1$d
 </source>
-        <target state="translated">Pulsantal: %1$d
+        <target state="final">Pulsantal: %1$d
 </target>
         <note>The format string for Pulse Count (1: pulse count)</note>
       </trans-unit>
-      <trans-unit id="RSSI: %1$@&#10;" xml:space="preserve">
+      <trans-unit id="RSSI: %1$@&#10;" xml:space="preserve" approved="yes">
         <source>RSSI: %1$@
 </source>
-        <target state="translated">RSSI: %1$@
+        <target state="final">RSSI: %1$@
 </target>
         <note>The format string for RSSI: (1: RSSI value)</note>
       </trans-unit>
-      <trans-unit id="Read Pod Status" xml:space="preserve">
+      <trans-unit id="Read Pod Status" xml:space="preserve" approved="yes">
         <source>Read Pod Status</source>
-        <target state="translated">Läs Podd-status</target>
+        <target state="final">Läs Podd-status</target>
         <note>The title of the command to read the pod status</note>
       </trans-unit>
-      <trans-unit id="Read Pod Status…" xml:space="preserve">
+      <trans-unit id="Read Pod Status…" xml:space="preserve" approved="yes">
         <source>Read Pod Status…</source>
-        <target state="translated">Läs Podd-status…</target>
+        <target state="final">Läs Podd-status…</target>
         <note>Progress message for reading Pod status.</note>
       </trans-unit>
-      <trans-unit id="Read Pulse Log" xml:space="preserve">
+      <trans-unit id="Read Pulse Log" xml:space="preserve" approved="yes">
         <source>Read Pulse Log</source>
-        <target state="translated">Läs pulslogg</target>
+        <target state="final">Läs pulslogg</target>
         <note>The title of the command to read the pulse log</note>
       </trans-unit>
-      <trans-unit id="Reading Pulse Log…" xml:space="preserve">
+      <trans-unit id="Reading Pulse Log…" xml:space="preserve" approved="yes">
         <source>Reading Pulse Log…</source>
-        <target state="translated">Läser pulslogg…</target>
+        <target state="final">Läser pulslogg…</target>
         <note>Progress message for reading pulse log.</note>
       </trans-unit>
       <trans-unit id="Receiver Low Gain: %1$@&#10;" xml:space="preserve">
@@ -1892,63 +1892,63 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
 </target>
         <note>The format string for receiverLowGain: (1: receiverLowGain)</note>
       </trans-unit>
-      <trans-unit id="Remaining" xml:space="preserve">
+      <trans-unit id="Remaining" xml:space="preserve" approved="yes">
         <source>Remaining</source>
-        <target state="translated">Återstår</target>
+        <target state="final">Återstår</target>
         <note>Label describing time remaining view</note>
       </trans-unit>
-      <trans-unit id="Replace Pod" xml:space="preserve">
+      <trans-unit id="Replace Pod" xml:space="preserve" approved="yes">
         <source>Replace Pod</source>
-        <target state="translated">Byt podd</target>
+        <target state="final">Byt podd</target>
         <note>Label indicating pod replacement necessary
    The title of the command to replace pod</note>
       </trans-unit>
-      <trans-unit id="Replace Pod Now" xml:space="preserve">
+      <trans-unit id="Replace Pod Now" xml:space="preserve" approved="yes">
         <source>Replace Pod Now</source>
-        <target state="translated">Byt podd nu</target>
+        <target state="final">Byt podd nu</target>
         <note>The title of the command to replace pod when there is a pod fault</note>
       </trans-unit>
-      <trans-unit id="Reservoir" xml:space="preserve">
+      <trans-unit id="Reservoir" xml:space="preserve" approved="yes">
         <source>Reservoir</source>
-        <target state="translated">Reservoar</target>
+        <target state="final">Insulinreservoar</target>
         <note>The title of the cell showing reservoir status</note>
       </trans-unit>
-      <trans-unit id="Reservoir Level: %1$@ U&#10;" xml:space="preserve">
+      <trans-unit id="Reservoir Level: %1$@ U&#10;" xml:space="preserve" approved="yes">
         <source>Reservoir Level: %1$@ U
 </source>
-        <target state="translated">Insulinreservoarnivå: %1$@ E
+        <target state="final">Insulinreservoarnivå: %1$@ E
 </target>
         <note>The format string for Reservoir Level: (1: reservoir level string)</note>
       </trans-unit>
-      <trans-unit id="Retry Pod Deactivation" xml:space="preserve">
+      <trans-unit id="Retry Pod Deactivation" xml:space="preserve" approved="yes">
         <source>Retry Pod Deactivation</source>
-        <target state="translated">Försök inaktivera podden igen</target>
+        <target state="final">Försök att inaktivera podd igen</target>
         <note>Button title for retrying pod deactivation</note>
       </trans-unit>
-      <trans-unit id="Save" xml:space="preserve">
+      <trans-unit id="Save" xml:space="preserve" approved="yes">
         <source>Save</source>
-        <target state="translated">Spara</target>
+        <target state="final">Spara</target>
         <note>Title of button to save delivery limit settings
    Title of button to sync basal profile when no pod paired</note>
       </trans-unit>
-      <trans-unit id="Schedule" xml:space="preserve">
+      <trans-unit id="Schedule" xml:space="preserve" approved="yes">
         <source>Schedule</source>
-        <target state="translated">Schema</target>
+        <target state="final">Schema</target>
         <note>The detail text of the basal row when pod is running scheduled basal</note>
       </trans-unit>
-      <trans-unit id="Status" xml:space="preserve">
+      <trans-unit id="Status" xml:space="preserve" approved="yes">
         <source>Status</source>
-        <target state="translated">Status</target>
+        <target state="final">Status</target>
         <note>The title of the status section in settings</note>
       </trans-unit>
-      <trans-unit id="Succeeded" xml:space="preserve">
+      <trans-unit id="Succeeded" xml:space="preserve" approved="yes">
         <source>Succeeded</source>
-        <target state="translated">Lyckades</target>
+        <target state="final">Lyckades</target>
         <note>A message indicating a command succeeded</note>
       </trans-unit>
-      <trans-unit id="Suspended" xml:space="preserve">
+      <trans-unit id="Suspended" xml:space="preserve" approved="yes">
         <source>Suspended</source>
-        <target state="translated">Pausad</target>
+        <target state="final">Pausad</target>
         <note>The detail text of the basal row when pod is suspended</note>
       </trans-unit>
       <trans-unit id="Switch from Omnipod Pumps" xml:space="preserve" approved="yes">
@@ -1961,24 +1961,24 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
         <target state="final">Synkronisera med podd</target>
         <note>Title of button to sync basal profile from pod</note>
       </trans-unit>
-      <trans-unit id="TID" xml:space="preserve">
+      <trans-unit id="TID" xml:space="preserve" approved="yes">
         <source>TID</source>
-        <target state="translated">TID</target>
+        <target state="final">TID</target>
         <note>The title of the cell showing the pod TID</note>
       </trans-unit>
-      <trans-unit id="Test Command" xml:space="preserve">
+      <trans-unit id="Test Command" xml:space="preserve" approved="yes">
         <source>Test Command</source>
-        <target state="translated">Kommandotest</target>
+        <target state="final">Kommandotest</target>
         <note>The title of the command to run the test command</note>
       </trans-unit>
-      <trans-unit id="Testing Commands…" xml:space="preserve">
+      <trans-unit id="Testing Commands…" xml:space="preserve" approved="yes">
         <source>Testing Commands…</source>
-        <target state="translated">Testar att skicka kommandon…</target>
+        <target state="final">Testar att skicka kommandon…</target>
         <note>Progress message for testing commands.</note>
       </trans-unit>
-      <trans-unit id="Too many entries" xml:space="preserve">
+      <trans-unit id="Too many entries" xml:space="preserve" approved="yes">
         <source>Too many entries</source>
-        <target state="translated">För många inmatningar</target>
+        <target state="final">För många inmatningar</target>
         <note>The error message shown when Loop's basal schedule has more entries than the pod can support</note>
       </trans-unit>
       <trans-unit id="Unable to deactivate pod. Please continue and pair a new one." xml:space="preserve" approved="yes">
@@ -1986,9 +1986,9 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
         <target state="final">Kunde inte inaktivera podden. Var god fortsätt genom att parkoppla en ny podd.</target>
         <note>Instructions when pod cannot be deactivated</note>
       </trans-unit>
-      <trans-unit id="Unknown" xml:space="preserve">
+      <trans-unit id="Unknown" xml:space="preserve" approved="yes">
         <source>Unknown</source>
-        <target state="translated">Okänd</target>
+        <target state="final">Okänd</target>
         <note>The detail text for delivered insulin when no measurement is available</note>
       </trans-unit>
     </body>
@@ -1998,69 +1998,69 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="%@ dB" xml:space="preserve">
+      <trans-unit id="%@ dB" xml:space="preserve" approved="yes">
         <source>%@ dB</source>
-        <target state="translated">%@ dB</target>
+        <target state="final">%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
       </trans-unit>
-      <trans-unit id="API Secret" xml:space="preserve">
+      <trans-unit id="API Secret" xml:space="preserve" approved="yes">
         <source>API Secret</source>
-        <target state="translated">API Secret</target>
+        <target state="final">API Secret</target>
         <note>The title of the nightscout API secret credential</note>
       </trans-unit>
-      <trans-unit id="About" xml:space="preserve">
+      <trans-unit id="About" xml:space="preserve" approved="yes">
         <source>About</source>
-        <target state="translated">Om</target>
+        <target state="final">Om</target>
         <note>The title of the about section</note>
       </trans-unit>
-      <trans-unit id="Add Account" xml:space="preserve">
+      <trans-unit id="Add Account" xml:space="preserve" approved="yes">
         <source>Add Account</source>
-        <target state="translated">Lägg till konto</target>
+        <target state="final">Lägg till konto</target>
         <note>The title of the button to add the credentials for a service</note>
       </trans-unit>
-      <trans-unit id="Add Minimed Pump" xml:space="preserve">
+      <trans-unit id="Add Minimed Pump" xml:space="preserve" approved="yes">
         <source>Add Minimed Pump</source>
-        <target state="translated">Lägg till Minimed Pump</target>
+        <target state="final">Lägg till Minimed-pump</target>
         <note>Title text for button to set up a new minimed pump</note>
       </trans-unit>
-      <trans-unit id="Configuration" xml:space="preserve">
+      <trans-unit id="Configuration" xml:space="preserve" approved="yes">
         <source>Configuration</source>
-        <target state="translated">Konfiguration</target>
+        <target state="final">Konfiguration</target>
         <note>The title of the configuration section in settings</note>
       </trans-unit>
-      <trans-unit id="Delete Account" xml:space="preserve">
+      <trans-unit id="Delete Account" xml:space="preserve" approved="yes">
         <source>Delete Account</source>
-        <target state="translated">Radera konto</target>
+        <target state="final">Radera konto</target>
         <note>The title of the button to remove the credentials for a service</note>
       </trans-unit>
-      <trans-unit id="Enter the 6-digit pump ID" xml:space="preserve">
+      <trans-unit id="Enter the 6-digit pump ID" xml:space="preserve" approved="yes">
         <source>Enter the 6-digit pump ID</source>
-        <target state="translated">Ange 6-siffrigt pump-ID</target>
+        <target state="final">Ange 6-siffrigt pump-ID</target>
         <note>The placeholder text instructing users how to enter a pump ID</note>
       </trans-unit>
-      <trans-unit id="Fetch CGM" xml:space="preserve">
+      <trans-unit id="Fetch CGM" xml:space="preserve" approved="yes">
         <source>Fetch CGM</source>
-        <target state="translated">Hämta CGM</target>
+        <target state="final">Hämta CGM</target>
         <note>The title text for the pull cgm Data cell</note>
       </trans-unit>
-      <trans-unit id="Nightscout" xml:space="preserve">
+      <trans-unit id="Nightscout" xml:space="preserve" approved="yes">
         <source>Nightscout</source>
-        <target state="translated">Nightscout</target>
+        <target state="final">Nightscout</target>
         <note>The title of the Nightscout service</note>
       </trans-unit>
-      <trans-unit id="Pump ID" xml:space="preserve">
+      <trans-unit id="Pump ID" xml:space="preserve" approved="yes">
         <source>Pump ID</source>
-        <target state="translated">Pump-ID</target>
+        <target state="final">Pump-ID</target>
         <note>The title text for the pump ID config value</note>
       </trans-unit>
-      <trans-unit id="Pumps" xml:space="preserve">
+      <trans-unit id="Pumps" xml:space="preserve" approved="yes">
         <source>Pumps</source>
-        <target state="translated">Pumpar</target>
+        <target state="final">Pumpar</target>
         <note>Title text for section listing configured pumps</note>
       </trans-unit>
-      <trans-unit id="Required" xml:space="preserve">
+      <trans-unit id="Required" xml:space="preserve" approved="yes">
         <source>Required</source>
-        <target state="translated">Krävs</target>
+        <target state="final">Krävs</target>
         <note>The default placeholder string for a credential</note>
       </trans-unit>
       <trans-unit id="RileyLink Testing" xml:space="preserve" approved="yes">
@@ -2078,9 +2078,9 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
         <target state="final">Nightscout-URL</target>
         <note>The title of the nightscout site URL credential</note>
       </trans-unit>
-      <trans-unit id="Tap to set" xml:space="preserve">
+      <trans-unit id="Tap to set" xml:space="preserve" approved="yes">
         <source>Tap to set</source>
-        <target state="translated">Tryck för att ange</target>
+        <target state="final">Tryck för att ange</target>
         <note>The empty-state text for a configuration value</note>
       </trans-unit>
       <trans-unit id="Upload To Nightscout" xml:space="preserve" approved="yes">
@@ -2088,9 +2088,9 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
         <target state="final">Ladda upp till Nightscout</target>
         <note>The title text for the nightscout upload enabled switch cell</note>
       </trans-unit>
-      <trans-unit id="http://mysite.herokuapp.com" xml:space="preserve">
+      <trans-unit id="http://mysite.herokuapp.com" xml:space="preserve" approved="yes">
         <source>http://mysite.herokuapp.com</source>
-        <target state="translated">https://min-nightscoutsida.herokuapp.com</target>
+        <target state="final">https://min_nightscoutsida.herokuapp.com</target>
         <note>The placeholder text for the nightscout site URL credential</note>
       </trans-unit>
     </body>
@@ -2100,9 +2100,9 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve" approved="yes">
         <source>RileyLink</source>
-        <target state="translated">RileyLink</target>
+        <target state="final">RileyLink</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleGetInfoString" xml:space="preserve">
@@ -2110,9 +2110,9 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
         <target state="translated"/>
         <note>Get Info string</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>RileyLink</source>
-        <target state="translated">RileyLink</target>
+        <target state="final">RileyLink</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -2122,9 +2122,9 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve">
+      <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve" approved="yes">
         <source>OK</source>
-        <target state="translated">OK</target>
+        <target state="final">OK</target>
         <note>The title of the action used to dismiss an error alert</note>
       </trans-unit>
     </body>
@@ -2134,34 +2134,34 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="Data exceeded maximum size of %@ bytes" xml:space="preserve">
+      <trans-unit id="Data exceeded maximum size of %@ bytes" xml:space="preserve" approved="yes">
         <source>Data exceeded maximum size of %@ bytes</source>
-        <target state="translated">Kan inte skriva data då maxgränsen på %@ bytes är uppnådd</target>
+        <target state="final">Kan inte skriva data då maxgränsen på %@ bytes är uppnådd</target>
         <note>Write size limit exceeded error description (1: size limit)</note>
       </trans-unit>
-      <trans-unit id="Input %@ is invalid" xml:space="preserve">
+      <trans-unit id="Input %@ is invalid" xml:space="preserve" approved="yes">
         <source>Input %@ is invalid</source>
-        <target state="translated">Inmatningen %@ är ogiltig</target>
+        <target state="final">Inmatningen %@ är ogiltig</target>
         <note>Invalid input error description (1: input)</note>
       </trans-unit>
-      <trans-unit id="Make sure the device is nearby, and the issue should resolve automatically" xml:space="preserve">
+      <trans-unit id="Make sure the device is nearby, and the issue should resolve automatically" xml:space="preserve" approved="yes">
         <source>Make sure the device is nearby, and the issue should resolve automatically</source>
-        <target state="translated">Säkerställ att enheten är inom räckhåll så borde problemet lösas automatiskt</target>
+        <target state="final">Säkerställ att enheten är inom räckhåll så borde problemet lösas automatiskt</target>
         <note>Recovery suggestion for unknown peripheral characteristic</note>
       </trans-unit>
-      <trans-unit id="Peripheral did not respond in time" xml:space="preserve">
+      <trans-unit id="Peripheral did not respond in time" xml:space="preserve" approved="yes">
         <source>Peripheral did not respond in time</source>
-        <target state="translated">Enhet svarade inte inom utsatt tid</target>
+        <target state="final">Enhet svarade inte inom utsatt tid</target>
         <note>Timeout error description</note>
       </trans-unit>
-      <trans-unit id="Peripheral isnʼt connected" xml:space="preserve">
+      <trans-unit id="Peripheral isnʼt connected" xml:space="preserve" approved="yes">
         <source>Peripheral isnʼt connected</source>
-        <target state="translated">Enheten är inte ansluten</target>
+        <target state="final">Enheten är inte ansluten</target>
         <note>Not ready error description</note>
       </trans-unit>
-      <trans-unit id="Pump did not respond in time" xml:space="preserve">
+      <trans-unit id="Pump did not respond in time" xml:space="preserve" approved="yes">
         <source>Pump did not respond in time</source>
-        <target state="translated">Pumpen svarade inte inom utsatt tid</target>
+        <target state="final">Pumpen svarade inte i tid</target>
         <note>Response timeout error description</note>
       </trans-unit>
       <trans-unit id="Response %@ is invalid" xml:space="preserve">
@@ -2179,9 +2179,9 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
         <target state="final">RileyLink-enhetens firmware stöder inte kommandot %@</target>
         <note>Unsupported command error description</note>
       </trans-unit>
-      <trans-unit id="RileyLink is not connected" xml:space="preserve">
+      <trans-unit id="RileyLink is not connected" xml:space="preserve" approved="yes">
         <source>RileyLink is not connected</source>
-        <target state="translated">RileyLink är inte ansluten</target>
+        <target state="final">RileyLink är inte ansluten</target>
         <note>Not ready error description</note>
       </trans-unit>
       <trans-unit id="The RileyLink was temporarily disconnected" xml:space="preserve" approved="yes">
@@ -2201,9 +2201,9 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>RileyLinkBLEKit</source>
-        <target state="translated">RileyLinkBLEKit</target>
+        <target state="final">RileyLinkBLEKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -2213,9 +2213,9 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>RileyLinkKit</source>
-        <target state="translated">RileyLinkKit</target>
+        <target state="final">RileyLinkKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -2225,14 +2225,14 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="%@ dB" xml:space="preserve">
+      <trans-unit id="%@ dB" xml:space="preserve" approved="yes">
         <source>%@ dB</source>
-        <target state="translated">%@ dB</target>
+        <target state="final">%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
       </trans-unit>
-      <trans-unit id="Commands" xml:space="preserve">
+      <trans-unit id="Commands" xml:space="preserve" approved="yes">
         <source>Commands</source>
-        <target state="translated">Kommandon</target>
+        <target state="final">Kommandon</target>
         <note>The title of the section describing commands</note>
       </trans-unit>
       <trans-unit id="Connected" xml:space="preserve" approved="yes">
@@ -2245,34 +2245,34 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
         <target state="final">Ansluter</target>
         <note>The in-progress connecting state</note>
       </trans-unit>
-      <trans-unit id="Connection State" xml:space="preserve">
+      <trans-unit id="Connection State" xml:space="preserve" approved="yes">
         <source>Connection State</source>
-        <target state="translated">Anslutningsstatus</target>
+        <target state="final">Anslutningsstatus</target>
         <note>The title of the cell showing BLE connection state</note>
       </trans-unit>
-      <trans-unit id="Device" xml:space="preserve">
+      <trans-unit id="Device" xml:space="preserve" approved="yes">
         <source>Device</source>
-        <target state="translated">Enhet</target>
+        <target state="final">Enhet</target>
         <note>The title of the section describing the device</note>
       </trans-unit>
-      <trans-unit id="Devices" xml:space="preserve">
+      <trans-unit id="Devices" xml:space="preserve" approved="yes">
         <source>Devices</source>
-        <target state="translated">Enheter</target>
+        <target state="final">Enheter</target>
         <note>The title of the devices table section in RileyLink settings</note>
       </trans-unit>
-      <trans-unit id="Disconnected" xml:space="preserve">
+      <trans-unit id="Disconnected" xml:space="preserve" approved="yes">
         <source>Disconnected</source>
-        <target state="translated">Frånkopplad</target>
+        <target state="final">Frånkopplad</target>
         <note>The disconnected state</note>
       </trans-unit>
-      <trans-unit id="Disconnecting" xml:space="preserve">
+      <trans-unit id="Disconnecting" xml:space="preserve" approved="yes">
         <source>Disconnecting</source>
-        <target state="translated">Kopplar från</target>
+        <target state="final">Kopplar från</target>
         <note>The in-progress disconnecting state</note>
       </trans-unit>
-      <trans-unit id="Firmware" xml:space="preserve">
+      <trans-unit id="Firmware" xml:space="preserve" approved="yes">
         <source>Firmware</source>
-        <target state="translated">Firmware</target>
+        <target state="final">Firmware</target>
         <note>The title of the cell showing firmware version</note>
       </trans-unit>
       <trans-unit id="Frequency" xml:space="preserve" approved="yes">
@@ -2307,9 +2307,9 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>RileyLinkKitUI</source>
-        <target state="translated">RileyLinkKitUI</target>
+        <target state="final">RileyLinkKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
