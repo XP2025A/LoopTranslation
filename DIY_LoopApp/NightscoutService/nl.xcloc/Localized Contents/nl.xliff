@@ -56,9 +56,9 @@
         <target state="final">API Secret</target>
         <note>The title of the Nightscout API secret</note>
       </trans-unit>
-      <trans-unit id="Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are ultimately what Loop uses to determine how much insulin to deliver. If you are new to Loop, work with your diabetes support team to come up with a plan for finding out what settings will work best for you." xml:space="preserve">
+      <trans-unit id="Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are ultimately what Loop uses to determine how much insulin to deliver. If you are new to Loop, work with your diabetes support team to come up with a plan for finding out what settings will work best for you." xml:space="preserve" approved="yes">
         <source>Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are ultimately what Loop uses to determine how much insulin to deliver. If you are new to Loop, work with your diabetes support team to come up with a plan for finding out what settings will work best for you.</source>
-        <target state="needs-translation">Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are ultimately what Loop uses to determine how much insulin to deliver. If you are new to Loop, work with your diabetes support team to come up with a plan for finding out what settings will work best for you.</target>
+        <target state="final">Voordat je Loop gebruikt, moet u enkele instellingen configureren. Deze instellingen moeten nauwkeurig en zorgvuldig worden ingevoerd; ze worden uiteindelijk door Loop gebruikt om te bepalen hoeveel insuline je nodig hebt. Als je nieuw bij Loop bent, werk dan samen met je behandelteam aan een plan om je instellingen te bepalen.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve" approved="yes">
@@ -66,9 +66,9 @@
         <target state="final">Annuleer</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Checking..." xml:space="preserve">
+      <trans-unit id="Checking..." xml:space="preserve" approved="yes">
         <source>Checking...</source>
-        <target state="needs-translation">Checking...</target>
+        <target state="final">Controleren...</target>
         <note>Description of ServiceStatus of checking</note>
       </trans-unit>
       <trans-unit id="Delete Service" xml:space="preserve" approved="yes">
@@ -76,49 +76,49 @@
         <target state="final">Service verwijderen</target>
         <note>Button title to delete a service</note>
       </trans-unit>
-      <trans-unit id="Done" xml:space="preserve">
+      <trans-unit id="Done" xml:space="preserve" approved="yes">
         <source>Done</source>
-        <target state="needs-translation">Done</target>
+        <target state="final">Voltooid</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="I'm Ready!" xml:space="preserve">
+      <trans-unit id="I'm Ready!" xml:space="preserve" approved="yes">
         <source>I'm Ready!</source>
-        <target state="needs-translation">I'm Ready!</target>
+        <target state="final">Ik ben klaar!</target>
         <note>Button title for starting setup</note>
       </trans-unit>
-      <trans-unit id="Login" xml:space="preserve">
+      <trans-unit id="Login" xml:space="preserve" approved="yes">
         <source>Login</source>
-        <target state="needs-translation">Login</target>
+        <target state="final">Login</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Logout" xml:space="preserve">
+      <trans-unit id="Logout" xml:space="preserve" approved="yes">
         <source>Logout</source>
-        <target state="needs-translation">Logout</target>
+        <target state="final">Uitloggen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." xml:space="preserve">
+      <trans-unit id="Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." xml:space="preserve" approved="yes">
         <source>Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later.</source>
-        <target state="needs-translation">Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later.</target>
+        <target state="final">Loop kan met Nightscout werken om externe behandelaars een manier te bieden te zien wat Loop doet. Nightscout gebruik is volledig optioneel bij Loop, en je kunt het altijd later instellen.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Nightscout" xml:space="preserve">
+      <trans-unit id="Nightscout" xml:space="preserve" approved="yes">
         <source>Nightscout</source>
-        <target state="needs-translation">Nightscout</target>
+        <target state="final">Nightscout</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Nightscout Login" xml:space="preserve">
+      <trans-unit id="Nightscout Login" xml:space="preserve" approved="yes">
         <source>Nightscout Login</source>
-        <target state="needs-translation">Nightscout Login</target>
+        <target state="final">Nightscout login</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Not Available" xml:space="preserve">
+      <trans-unit id="Not Available" xml:space="preserve" approved="yes">
         <source>Not Available</source>
-        <target state="needs-translation">Not Available</target>
+        <target state="final">Niet beschikbaar</target>
         <note>Error when nightscout service url is not set</note>
       </trans-unit>
-      <trans-unit id="OK" xml:space="preserve">
+      <trans-unit id="OK" xml:space="preserve" approved="yes">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target state="final">Ok</target>
         <note>Description of ServiceStatus of checking</note>
       </trans-unit>
       <trans-unit id="Required" xml:space="preserve" approved="yes">
@@ -126,14 +126,14 @@
         <target state="final">Vereist</target>
         <note>The default placeholder for required text</note>
       </trans-unit>
-      <trans-unit id="Save Settings" xml:space="preserve">
+      <trans-unit id="Save Settings" xml:space="preserve" approved="yes">
         <source>Save Settings</source>
-        <target state="needs-translation">Save Settings</target>
+        <target state="final">Instellingen opslaan</target>
         <note>Therapy settings save button title</note>
       </trans-unit>
-      <trans-unit id="Setup Loop without Nightscout" xml:space="preserve">
+      <trans-unit id="Setup Loop without Nightscout" xml:space="preserve" approved="yes">
         <source>Setup Loop without Nightscout</source>
-        <target state="needs-translation">Setup Loop without Nightscout</target>
+        <target state="final">Setup Loop zonder Nightscout</target>
         <note>Button title for choosing onboarding without nightscout</note>
       </trans-unit>
       <trans-unit id="Site URL" xml:space="preserve" approved="yes">
@@ -141,29 +141,29 @@
         <target state="final">Webpagina URL</target>
         <note>The title of the Nightscout site URL</note>
       </trans-unit>
-      <trans-unit id="Status" xml:space="preserve">
+      <trans-unit id="Status" xml:space="preserve" approved="yes">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="final">Status</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Therapy Settings" xml:space="preserve">
+      <trans-unit id="Therapy Settings" xml:space="preserve" approved="yes">
         <source>Therapy Settings</source>
-        <target state="needs-translation">Therapy Settings</target>
+        <target state="final">Therapie instellingen</target>
         <note>Navigation view title</note>
       </trans-unit>
-      <trans-unit id="URL" xml:space="preserve">
+      <trans-unit id="URL" xml:space="preserve" approved="yes">
         <source>URL</source>
-        <target state="needs-translation">URL</target>
+        <target state="final">URL</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Use Nightscout with Loop" xml:space="preserve">
+      <trans-unit id="Use Nightscout with Loop" xml:space="preserve" approved="yes">
         <source>Use Nightscout with Loop</source>
-        <target state="needs-translation">Use Nightscout with Loop</target>
+        <target state="final">Gebruik Nightscout met Loop</target>
         <note>Button title for choosing onboarding with nightscout</note>
       </trans-unit>
-      <trans-unit id="Welcome to Loop" xml:space="preserve">
+      <trans-unit id="Welcome to Loop" xml:space="preserve" approved="yes">
         <source>Welcome to Loop</source>
-        <target state="needs-translation">Welcome to Loop</target>
+        <target state="final">Welkom bij Loop</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="https://mysite.herokuapp.com" xml:space="preserve" approved="yes">

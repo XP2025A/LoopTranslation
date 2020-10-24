@@ -154,19 +154,19 @@
         <target state="final">%1$@ E bolus is mogelijk niet geslaagd</target>
         <note>Describes an uncertain bolus failure (1: size of the bolus in units)</note>
       </trans-unit>
-      <trans-unit id="%@ Range" xml:space="preserve">
+      <trans-unit id="%@ Range" xml:space="preserve" approved="yes">
         <source>%@ Range</source>
-        <target state="translated">%@ bereik</target>
+        <target state="final">%@ bereik</target>
         <note>Format for correction range override therapy setting card</note>
       </trans-unit>
-      <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>A value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="translated">Een waarde die je hebt ingevoerd is hoger dan wat meestal voor de meeste mensen wordt aanbevolen.</target>
+        <target state="final">Een waarde die je hebt ingevoerd is hoger dan wat meestal voor de meeste mensen wordt aanbevolen.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
-      <trans-unit id="A value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="A value you have entered is lower than what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>A value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="translated">Een waarde die je hebt ingevoerd is lager dan wat meestal voor de meeste mensen wordt aanbevolen.</target>
+        <target state="final">Een waarde die je hebt ingevoerd is lager dan wat meestal voor de meeste mensen wordt aanbevolen.</target>
         <note>Descriptive text for guardrail low value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Authorization Denied" xml:space="preserve" approved="yes">
@@ -174,9 +174,9 @@
         <target state="final">Autorisatie geweigerd</target>
         <note>The error description describing when Health sharing was denied</note>
       </trans-unit>
-      <trans-unit id="Basal Rates" xml:space="preserve">
+      <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
         <source>Basal Rates</source>
-        <target state="translated">Basaal snelheden</target>
+        <target state="final">Basaal snelheden</target>
         <note>Title text for basal rates</note>
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve" approved="yes">
@@ -194,9 +194,9 @@
         <target state="final">Communicatiefout</target>
         <note>Generic pump error description</note>
       </trans-unit>
-      <trans-unit id="Communications interrupted during insulin delivery command." xml:space="preserve">
+      <trans-unit id="Communications interrupted during insulin delivery command." xml:space="preserve" approved="yes">
         <source>Communications interrupted during insulin delivery command.</source>
-        <target state="translated">Communicatie onderbroken tijdens het commando over insulinelevering.</target>
+        <target state="final">Communicatie onderbroken tijdens het commando over insulinelevering.</target>
         <note>Failure reason for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Connection Failure" xml:space="preserve" approved="yes">
@@ -269,9 +269,9 @@
         <target state="final">Veilig om opnieuw te proberen</target>
         <note>Recovery instruction for a certain bolus failure</note>
       </trans-unit>
-      <trans-unit id="Make sure your pump is within communication range of your phone." xml:space="preserve">
+      <trans-unit id="Make sure your pump is within communication range of your phone." xml:space="preserve" approved="yes">
         <source>Make sure your pump is within communication range of your phone.</source>
-        <target state="translated">Zorg ervoor dat je pomp binnen het communicatiebereik van je telefoon ligt.</target>
+        <target state="final">Zorg ervoor dat je pomp binnen het communicatiebereik van je telefoon ligt.</target>
         <note>Recovery suggestion for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate" xml:space="preserve" approved="yes">
@@ -309,9 +309,9 @@
         <target state="final">Ok</target>
         <note>Sensor state description for the valid state</note>
       </trans-unit>
-      <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>One or more of the values you have entered is outside of what is typically recommended for most people.</source>
-        <target state="translated">Een of meer van de waarden die u hebt ingevoerd valt buiten wat algemeen wordt aanbevolen.</target>
+        <target state="final">Een of meer van de waarden die u hebt ingevoerd valt buiten wat algemeen wordt aanbevolen.</target>
         <note>Descriptive text for saving settings outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Please re-enable sharing in Health" xml:space="preserve" approved="yes">
@@ -339,9 +339,9 @@
         <target state="final">Zeer snel stijgend</target>
         <note>Glucose trend up-up-up</note>
       </trans-unit>
-      <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="translated">Sommige van de waarden die u hebt ingevoerd vallen buiten wat algemeen wordt aanbevolen.</target>
+        <target state="final">Sommige van de waarden die u hebt ingevoerd vallen buiten wat algemeen wordt aanbevolen.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Suspend Threshold" xml:space="preserve" approved="yes">
@@ -349,9 +349,9 @@
         <target state="final">Onderbrekingsdrempel</target>
         <note>Title text for suspend threshold</note>
       </trans-unit>
-      <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve">
+      <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve" approved="yes">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</source>
-        <target state="translated">Tijdelijk verlagen van uw glucosedoel voor een maaltijd (pre-meal) om invloed te hebben op post-maaltijd glucose pieken.</target>
+        <target state="final">Tijdelijk verlagen van uw glucosedoel voor een maaltijd (pre-meal) om invloed te hebben op post-maaltijd glucose pieken.</target>
         <note>Descriptive text for pre-meal correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end." xml:space="preserve" approved="yes">
@@ -359,9 +359,9 @@
         <target state="final">Tijdelijk verlagen van uw glucosedoel voor een maaltijd om invloed te hebben op na de maaltijd glucose piek. Dit kan ingesteld worden van je onderbrekingsdrempel tot het maximum van je correctie bereik.</target>
         <note>Description of pre-meal mode</note>
       </trans-unit>
-      <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
+      <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve" approved="yes">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</source>
-        <target state="translated">Verhoog tijdelijk je glucosedoel voor, gedurende of na fysieke activiteit om het risico van lage glucosewaardes te verminderen.</target>
+        <target state="final">Verhoog tijdelijk je glucosedoel voor, gedurende of na fysieke activiteit om het risico van lage glucosewaardes te verminderen.</target>
         <note>Descriptive text for workout correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." xml:space="preserve" approved="yes">
@@ -374,19 +374,19 @@
         <target state="final">De app gaat ervan uit dat insuline 6 uur actief werkt. Je kan kiezen uit verschillende modellen voor hoe de app omgaat met de piekactiviteit van de insuline.</target>
         <note>Descriptive text for insulin model</note>
       </trans-unit>
-      <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>The value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="translated">Een waarde die je hebt ingevoerd is hoger dan wat meestal voor de meeste mensen wordt aanbevolen.</target>
+        <target state="final">Een waarde die je hebt ingevoerd is hoger dan wat meestal voor de meeste mensen wordt aanbevolen.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
-      <trans-unit id="The value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="The value you have entered is lower than what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>The value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="translated">Een waarde die je hebt ingevoerd is lager dan wat meestal voor de meeste mensen wordt aanbevolen.</target>
+        <target state="final">Een waarde die je hebt ingevoerd is lager dan wat meestal voor de meeste mensen wordt aanbevolen.</target>
         <note>Descriptive text for guardrail low value warning</note>
       </trans-unit>
-      <trans-unit id="The values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="The values you have entered are outside of what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>The values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="translated">Sommige van de waarden die u hebt ingevoerd vallen buiten wat algemeen wordt aanbevolen.</target>
+        <target state="final">Sommige van de waarden die u hebt ingevoerd vallen buiten wat algemeen wordt aanbevolen.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve" approved="yes">
@@ -399,9 +399,9 @@
         <target state="final">E/hr</target>
         <note>The short unit display string for international units of insulin per hour</note>
       </trans-unit>
-      <trans-unit id="Uncertain Delivery" xml:space="preserve">
+      <trans-unit id="Uncertain Delivery" xml:space="preserve" approved="yes">
         <source>Uncertain Delivery</source>
-        <target state="translated">Onzekere levering</target>
+        <target state="final">Onzekere levering</target>
         <note>Error description for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Unit" xml:space="preserve" approved="yes">
@@ -676,9 +676,9 @@
         <note>The format for an override preset cell. (1: symbol)(2: name)
    The format for an override symbol and name (1: symbol)(2: name)</note>
       </trans-unit>
-      <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
+      <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve" approved="yes">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
-        <target state="needs-translation">%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</target>
+        <target state="final">%1$@ gaat ervan uit dat insuline 6 uur actief werkt. Je kunt kiezen uit %2$@ verschillende modellen voor hoe de app de piekactiviteit van de insuline meet.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve" approved="yes">
@@ -816,9 +816,9 @@
         <target state="final">Weet je zeker dat je alle waardes van het reservoir wilt verwijderen?</target>
         <note>Action sheet confirmation message for reservoir deletion</note>
       </trans-unit>
-      <trans-unit id="Authenticate to save therapy setting" xml:space="preserve">
+      <trans-unit id="Authenticate to save therapy setting" xml:space="preserve" approved="yes">
         <source>Authenticate to save therapy setting</source>
-        <target state="translated">Bevestig om de therapie instellingen op te slaan</target>
+        <target state="final">Bevestig om de therapie instellingen op te slaan</target>
         <note>Authentication hint string for therapy settings</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
@@ -1040,9 +1040,9 @@
         <target state="final">Ingeschakeld</target>
         <note>The detail text describing an enabled setting</note>
       </trans-unit>
-      <trans-unit id="Enter %1$@ value" xml:space="preserve">
+      <trans-unit id="Enter %1$@ value" xml:space="preserve" approved="yes">
         <source>Enter %1$@ value</source>
-        <target state="needs-translation">Enter %1$@ value</target>
+        <target state="final">Voer %1$@ waarde in</target>
         <note>Format string for accessibility label for value entry. (1: value label)</note>
       </trans-unit>
       <trans-unit id="Enter a number of units" xml:space="preserve" approved="yes">
@@ -1121,9 +1121,9 @@
         <target state="final">Hoge onderbrekingsdrempel</target>
         <note>Title text for the high suspend threshold warning</note>
       </trans-unit>
-      <trans-unit id="If these settings look good to you, tap Save Settings to continue." xml:space="preserve">
+      <trans-unit id="If these settings look good to you, tap Save Settings to continue." xml:space="preserve" approved="yes">
         <source>If these settings look good to you, tap Save Settings to continue.</source>
-        <target state="translated">Als deze instellingen er goed uitzien, tikt u op Instellingen opslaan om door te gaan.</target>
+        <target state="final">Als deze instellingen er goed uitzien, tikt u op Instellingen opslaan om door te gaan.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." xml:space="preserve" approved="yes">
@@ -1327,14 +1327,14 @@
         <target state="final">Hervat</target>
         <note>Title text for button when insulin delivery is in the process of being resumed</note>
       </trans-unit>
-      <trans-unit id="Review and Save Settings" xml:space="preserve">
+      <trans-unit id="Review and Save Settings" xml:space="preserve" approved="yes">
         <source>Review and Save Settings</source>
-        <target state="translated">Bekijk en bewaar instellingen</target>
+        <target state="final">Bekijk en bewaar instellingen</target>
         <note>title for summary description section</note>
       </trans-unit>
-      <trans-unit id="Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." xml:space="preserve">
+      <trans-unit id="Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." xml:space="preserve" approved="yes">
         <source>Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen.</source>
-        <target state="translated">Controleer hieronder uw instellingen voor therapie. Als u een van deze instellingen wilt bewerken, tik dan op Terug om terug te gaan naar dat scherm.</target>
+        <target state="final">Controleer hieronder uw instellingen voor therapie. Als u een van deze instellingen wilt bewerken, tik dan op Terug om terug te gaan naar dat scherm.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="Running" xml:space="preserve" approved="yes">
@@ -1398,9 +1398,9 @@
         <target state="final">Langzaam</target>
         <note>Section title for slow absorbing food</note>
       </trans-unit>
-      <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="needs-translation">Some of the values you have entered are outside of what is typically recommended for most people.</target>
+        <target state="final">Sommige van de waarden die u hebt ingevoerd vallen buiten wat algemeen wordt aanbevolen.</target>
         <note>Caption for guardrail warning when more than one threshold is crossed</note>
       </trans-unit>
       <trans-unit id="Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." xml:space="preserve" approved="yes">
@@ -1675,9 +1675,9 @@
         <target state="final">Het tijdelijk aanpassingsbereik van je maaltijden moet de glucosewaarde (of bereik van waarden) zijn die de Loop tot doel moet hebben tegen de tijd dat je aan je maaltijd begint.</target>
         <note>Information about pre-meal range</note>
       </trans-unit>
-      <trans-unit id="authentication-button-delete" xml:space="preserve">
+      <trans-unit id="authentication-button-delete" xml:space="preserve" approved="yes">
         <source>authentication-button-delete</source>
-        <target state="translated">authenticatie-knop-verwijderen</target>
+        <target state="final">authenticatie-knop-verwijderen</target>
         <note>The title of the button to remove the credentials for a service</note>
       </trans-unit>
       <trans-unit id="com.loudnate.CarbKit.COBDateLabel" xml:space="preserve" approved="yes">
@@ -1787,9 +1787,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="Comms Issue" xml:space="preserve">
+      <trans-unit id="Comms Issue" xml:space="preserve" approved="yes">
         <source>Comms Issue</source>
-        <target state="translated">Comms probleem</target>
+        <target state="final">Comms probleem</target>
         <note>Status highlight that delivery is uncertain.</note>
       </trans-unit>
       <trans-unit id="Insulin Suspended" xml:space="preserve" approved="yes">
@@ -1831,11 +1831,11 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
     <body>
-      <trans-unit id="%@ has been unable to communicate with the Simulator Pump since %@.&#10;&#10;Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered." xml:space="preserve">
+      <trans-unit id="%@ has been unable to communicate with the Simulator Pump since %@.&#10;&#10;Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered." xml:space="preserve" approved="yes">
         <source>%1$@ has been unable to communicate with the Simulator Pump since %2$@.
 
 Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered.</source>
-        <target state="translated">%1$@ kan niet communiceren met de Simulator Pomp sinds %2$@.
+        <target state="final">%1$@ kan niet communiceren met de Simulator Pomp sinds %2$@.
 
 Zonder communicatie kan de app geen opdrachten meer versturen voor insulinetoediening of nauwkeurig weergeven van recente informatie over jouw actieve insuline of de insuline die is toegediend.</target>
         <note>No comment provided by engineer.</note>
@@ -1850,14 +1850,14 @@ Zonder communicatie kan de app geen opdrachten meer versturen voor insulinetoedi
         <target state="final">Bent u zeker dat u deze service wilt verwijderen?</target>
         <note>Confirmation message for deleting a service</note>
       </trans-unit>
-      <trans-unit id="Back" xml:space="preserve">
+      <trans-unit id="Back" xml:space="preserve" approved="yes">
         <source>Back</source>
-        <target state="translated">Terug</target>
+        <target state="final">Terug</target>
         <note>Back button text on DeliveryUncertaintyRecoveryView</note>
       </trans-unit>
-      <trans-unit id="CGM Settings" xml:space="preserve">
+      <trans-unit id="CGM Settings" xml:space="preserve" approved="yes">
         <source>CGM Settings</source>
-        <target state="translated">CGM instellingen</target>
+        <target state="final">CGM instellingen</target>
         <note>Title for CGM simulator settings</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve" approved="yes">
@@ -1865,9 +1865,9 @@ Zonder communicatie kan de app geen opdrachten meer versturen voor insulinetoedi
         <target state="final">Annuleer</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
-      <trans-unit id="Comms Recovery" xml:space="preserve">
+      <trans-unit id="Comms Recovery" xml:space="preserve" approved="yes">
         <source>Comms Recovery</source>
-        <target state="translated">Comms herstel</target>
+        <target state="final">Comms herstel</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Service" xml:space="preserve" approved="yes">
@@ -1890,14 +1890,14 @@ Zonder communicatie kan de app geen opdrachten meer versturen voor insulinetoedi
         <target state="final">Ok</target>
         <note>Button title to acknowledge error</note>
       </trans-unit>
-      <trans-unit id="Pump Settings" xml:space="preserve">
+      <trans-unit id="Pump Settings" xml:space="preserve" approved="yes">
         <source>Pump Settings</source>
-        <target state="translated">Pomp instellingen</target>
+        <target state="final">Pomp instellingen</target>
         <note>Title for Pump simulator settings</note>
       </trans-unit>
-      <trans-unit id="Recover Simulator" xml:space="preserve">
+      <trans-unit id="Recover Simulator" xml:space="preserve" approved="yes">
         <source>Recover Simulator</source>
-        <target state="translated">Simulator herstellen</target>
+        <target state="final">Simulator herstellen</target>
         <note>Button title recovering comms</note>
       </trans-unit>
       <trans-unit id="quantity-and-unit-space" xml:space="preserve" approved="yes">
