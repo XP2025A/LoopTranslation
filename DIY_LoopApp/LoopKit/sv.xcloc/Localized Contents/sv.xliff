@@ -156,7 +156,7 @@
       </trans-unit>
       <trans-unit id="%@ Range" xml:space="preserve">
         <source>%@ Range</source>
-        <target>%@ Intervall</target>
+        <target>%@sintervall</target>
         <note>Format for correction range override therapy setting card</note>
       </trans-unit>
       <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
@@ -271,7 +271,7 @@
       </trans-unit>
       <trans-unit id="Make sure your pump is within communication range of your phone." xml:space="preserve">
         <source>Make sure your pump is within communication range of your phone.</source>
-        <target>Säkerställ att din pump är inom räckvidd för kommunikation med pump.</target>
+        <target>Säkerställ att din pump är inom räckvidd för kommunikation med telefon.</target>
         <note>Recovery suggestion for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate" xml:space="preserve">
@@ -678,6 +678,7 @@
       </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
+        <target>%1$@ förutsätter ett insulin med 6 timmars duration. Du kan välja mellan %2$@ olika insulinmodeller för hur appen mäter insulinets maximala effekt.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
@@ -1041,6 +1042,7 @@
       </trans-unit>
       <trans-unit id="Enter %1$@ value" xml:space="preserve">
         <source>Enter %1$@ value</source>
+        <target>Ange %1$@värde</target>
         <note>Format string for accessibility label for value entry. (1: value label)</note>
       </trans-unit>
       <trans-unit id="Enter a number of units" xml:space="preserve">
@@ -1282,7 +1284,7 @@
       </trans-unit>
       <trans-unit id="Pre-meal temp adjust range" xml:space="preserve">
         <source>Pre-meal temp adjust range</source>
-        <target>Temporärt målvärde för Före måltid</target>
+        <target>Temporärt målvärde före måltid</target>
         <note>Title for pre-meal range information section</note>
       </trans-unit>
       <trans-unit id="Prescription" xml:space="preserve">
@@ -1332,7 +1334,7 @@
       </trans-unit>
       <trans-unit id="Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." xml:space="preserve">
         <source>Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen.</source>
-        <target>Granska dina behandlingsinställningar nedan. Om du behöver ändra någon av dessa, tryck Tillbaka för att gå tillbaka till den skärmen.</target>
+        <target>Granska dina behandlingsinställningar nedan. Om du behöver ändra någon av dessa, tryck Tillbaka för att gå tillbaka till det fönstret.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="Running" xml:space="preserve">
@@ -1539,7 +1541,7 @@
       </trans-unit>
       <trans-unit id="To be implemented" xml:space="preserve">
         <source>To be implemented</source>
-        <target>Att implementeras</target>
+        <target>Att bli implementerat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Top" xml:space="preserve">
@@ -1605,7 +1607,7 @@
       </trans-unit>
       <trans-unit id="Workout temp adjust is the glucose value or range of values you want Loop to target during activity." xml:space="preserve">
         <source>Workout temp adjust is the glucose value or range of values you want Loop to target during activity.</source>
-        <target>Temp träning - inställning är det blodsockervärde eller målvärde som du vill att Loop ska använda under träning.</target>
+        <target>Temp träningsinställning är det blodsockervärde eller målvärde som du vill att Loop ska använda under träning.</target>
         <note>Information about workout range</note>
       </trans-unit>
       <trans-unit id="Workout temp adjust range" xml:space="preserve">
@@ -1635,7 +1637,7 @@
       </trans-unit>
       <trans-unit id="You can choose how %@ measures the insulin's peak activity according to one of these two insulin models." xml:space="preserve">
         <source>You can choose how %@ measures the insulin's peak activity according to one of these two insulin models.</source>
-        <target>Du kan välja hur %@ mäter insulinets maximala aktivitet enligt en av dessa två insulinmodeller.</target>
+        <target>Du kan välja hur %@ mäter insulinets maximala effekt enligt en av dessa två insulinmodeller.</target>
         <note>Information about insulin model</note>
       </trans-unit>
       <trans-unit id="You can choose how (appName) measures the insulin's peak activity according to one of these two insulin models." xml:space="preserve">
@@ -1670,7 +1672,7 @@
       </trans-unit>
       <trans-unit id="Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." xml:space="preserve">
         <source>Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal.</source>
-        <target>Ditt målvårde för Före måltid bör vara det blodsockervärde (eller målvärde) som du vill att Loop ska rikta in sig på när du tar din första tugga av din måltid.</target>
+        <target>Ditt målvärde 'Före måltid' är det blodsockervärde eller målvärde som du vill att Loop ska sikta på, innan du tar första tuggan av din måltid.</target>
         <note>Information about pre-meal range</note>
       </trans-unit>
       <trans-unit id="authentication-button-delete" xml:space="preserve">
@@ -1787,7 +1789,7 @@
     <body>
       <trans-unit id="Comms Issue" xml:space="preserve">
         <source>Comms Issue</source>
-        <target>Problem med kommandon</target>
+        <target>Kommandoproblem</target>
         <note>Status highlight that delivery is uncertain.</note>
       </trans-unit>
       <trans-unit id="Insulin Suspended" xml:space="preserve">
@@ -1835,7 +1837,7 @@
 Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered.</source>
         <target>%1$@ har tappat kommunikation med simulatorpumpen sedan %2$@.
 
-Utan kommunikation kan appen inte fortsätta att skicka kommandon för insulintillförsel eller visa korrekt, aktuell information om ditt aktiva insulin eller det insulin som administrerats.</target>
+Utan kommunikation kan appen inte fortsätta att skicka kommandon för insulintillförsel eller visa korrekt aktuell information om ditt aktiva insulin eller det insulin som administrerats.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">

@@ -12,195 +12,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="fi">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
-    </header>
-    <body>
-      <trans-unit id=" (inactive)" xml:space="preserve">
-        <source> (inactive)</source>
-        <note>Description for an inactive alert modifier</note>
-      </trans-unit>
-      <trans-unit id="Activation time exceeded" xml:space="preserve">
-        <source>Activation time exceeded</source>
-        <note>Pod state when activation not completed in the time allowed</note>
-      </trans-unit>
-      <trans-unit id="Auto-off alarm" xml:space="preserve">
-        <source>Auto-off alarm</source>
-        <note>Description for auto-off alarm</note>
-      </trans-unit>
-      <trans-unit id="Basal initialized" xml:space="preserve">
-        <source>Basal initialized</source>
-        <note>Pod state when basal initialized</note>
-      </trans-unit>
-      <trans-unit id="Bolusing" xml:space="preserve">
-        <source>Bolusing</source>
-        <note>Delivery status when bolusing</note>
-      </trans-unit>
-      <trans-unit id="Bolusing with temp basal" xml:space="preserve">
-        <source>Bolusing with temp basal</source>
-        <note>Delivery status when bolusing and temp basal is running</note>
-      </trans-unit>
-      <trans-unit id="Deactivated" xml:space="preserve">
-        <source>Deactivated</source>
-        <note>Pod state when deactivated</note>
-      </trans-unit>
-      <trans-unit id="Empty reservoir" xml:space="preserve">
-        <source>Empty reservoir</source>
-        <note>Description for Empty reservoir pod fault</note>
-      </trans-unit>
-      <trans-unit id="Expiration alert" xml:space="preserve">
-        <source>Expiration alert</source>
-        <note>Description for expiration alert</note>
-      </trans-unit>
-      <trans-unit id="Fault event occurred" xml:space="preserve">
-        <source>Fault event occurred</source>
-        <note>Pod state when fault event has occurred</note>
-      </trans-unit>
-      <trans-unit id="Finish setup " xml:space="preserve">
-        <source>Finish setup </source>
-        <note>Description for finish setup</note>
-      </trans-unit>
-      <trans-unit id="Initialized" xml:space="preserve">
-        <source>Initialized</source>
-        <note>Pod initialized</note>
-      </trans-unit>
-      <trans-unit id="Inserting cannula" xml:space="preserve">
-        <source>Inserting cannula</source>
-        <note>Pod state when inserting cannula</note>
-      </trans-unit>
-      <trans-unit id="Internal pod fault %1$03d" xml:space="preserve">
-        <source>Internal pod fault %1$03d</source>
-        <note>The format string for Internal pod fault (1: The fault code value)</note>
-      </trans-unit>
-      <trans-unit id="Invalid CRC" xml:space="preserve">
-        <source>Invalid CRC</source>
-        <note>Description for MessageError invalidCrc</note>
-      </trans-unit>
-      <trans-unit id="Invalid address: (%1$@)" xml:space="preserve">
-        <source>Invalid address: (%1$@)</source>
-        <note>Description for MessageError invalidSequence</note>
-      </trans-unit>
-      <trans-unit id="Low reservoir" xml:space="preserve">
-        <source>Low reservoir</source>
-        <note>Pod state when running with fifty or less units</note>
-      </trans-unit>
-      <trans-unit id="Low reservoir advisory alarm" xml:space="preserve">
-        <source>Low reservoir advisory alarm</source>
-        <note>Description for low reservoir alarm</note>
-      </trans-unit>
-      <trans-unit id="Memory initialized" xml:space="preserve">
-        <source>Memory initialized</source>
-        <note>Pod memory initialized</note>
-      </trans-unit>
-      <trans-unit id="No alerts" xml:space="preserve">
-        <source>No alerts</source>
-        <note>Pod alert state when no alerts are active</note>
-      </trans-unit>
-      <trans-unit id="No faults" xml:space="preserve">
-        <source>No faults</source>
-        <note>Description for Fault Event Code .noFaults</note>
-      </trans-unit>
-      <trans-unit id="Normal" xml:space="preserve">
-        <source>Normal</source>
-        <note>Pod state when running above fifty units</note>
-      </trans-unit>
-      <trans-unit id="Not enough data" xml:space="preserve">
-        <source>Not enough data</source>
-        <note>Description for MessageError notEnoughData</note>
-      </trans-unit>
-      <trans-unit id="Occlusion detected" xml:space="preserve">
-        <source>Occlusion detected</source>
-        <note>Description for Occlusion detected pod fault</note>
-      </trans-unit>
-      <trans-unit id="Paired completed" xml:space="preserve">
-        <source>Paired completed</source>
-        <note>Pod status when pairing completed</note>
-      </trans-unit>
-      <trans-unit id="Parsing Error: " xml:space="preserve">
-        <source>Parsing Error: </source>
-        <note>Description for MessageError parsingError</note>
-      </trans-unit>
-      <trans-unit id="Pod Expired" xml:space="preserve">
-        <source>Pod Expired</source>
-        <note>Highlight string for pod expired (80hrs).</note>
-      </trans-unit>
-      <trans-unit id="Pod Fault" xml:space="preserve">
-        <source>Pod Fault</source>
-        <note>Highlight string for pod faults.</note>
-      </trans-unit>
-      <trans-unit id="Pod expiration advisory alarm" xml:space="preserve">
-        <source>Pod expiration advisory alarm</source>
-        <note>Description for expiration advisory alarm</note>
-      </trans-unit>
-      <trans-unit id="Pod expired" xml:space="preserve">
-        <source>Pod expired</source>
-        <note>Description for Pod expired pod fault</note>
-      </trans-unit>
-      <trans-unit id="Priming" xml:space="preserve">
-        <source>Priming</source>
-        <note>Delivery status when pod is priming
-   Pod status when priming</note>
-      </trans-unit>
-      <trans-unit id="Priming completed" xml:space="preserve">
-        <source>Priming completed</source>
-        <note>Pod state when priming completed</note>
-      </trans-unit>
-      <trans-unit id="Reminder initialized" xml:space="preserve">
-        <source>Reminder initialized</source>
-        <note>Pod pairing reminder initialized</note>
-      </trans-unit>
-      <trans-unit id="Scheduled basal" xml:space="preserve">
-        <source>Scheduled basal</source>
-        <note>Delivery status when scheduled basal is running</note>
-      </trans-unit>
-      <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
-        <source>Shutdown imminent alarm</source>
-        <note>Description for shutdown imminent alarm</note>
-      </trans-unit>
-      <trans-unit id="Suspended" xml:space="preserve">
-        <source>Suspended</source>
-        <note>Delivery status when insulin delivery is suspended</note>
-      </trans-unit>
-      <trans-unit id="Temp basal running" xml:space="preserve">
-        <source>Temp basal running</source>
-        <note>Delivery status when temp basal is running</note>
-      </trans-unit>
-      <trans-unit id="Unexpected message sequence number" xml:space="preserve">
-        <source>Unexpected message sequence number</source>
-        <note>Description for MessageError invalidSequence</note>
-      </trans-unit>
-      <trans-unit id="Unknown Value (%1$@) for type %2$@" xml:space="preserve">
-        <source>Unknown Value (%1$@) for type %2$@</source>
-        <note>Format string for description of MessageError unknownValue. (1: value) (2: Type)</note>
-      </trans-unit>
-      <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve">
-        <source>Unknown pod fault %1$03d</source>
-        <note>The format string for Unknown pod fault (1: The fault code value)</note>
-      </trans-unit>
-      <trans-unit id="Validation failed: %1$@" xml:space="preserve">
-        <source>Validation failed: %1$@</source>
-        <note>Format string for description of MessageError validationFailed. (1: description of validation failure)</note>
-      </trans-unit>
-      <trans-unit id="Waiting for pairing reminder" xml:space="preserve">
-        <source>Waiting for pairing reminder</source>
-        <note>Description waiting for pairing reminder</note>
-      </trans-unit>
-      <trans-unit id="oneNotUsed" xml:space="preserve">
-        <source>oneNotUsed</source>
-        <note>Pod state oneNotUsed</note>
-      </trans-unit>
-      <trans-unit id="threeNotUsed" xml:space="preserve">
-        <source>threeNotUsed</source>
-        <note>Pod state threeNotUsed</note>
-      </trans-unit>
-      <trans-unit id="twoNotUsed" xml:space="preserve">
-        <source>twoNotUsed</source>
-        <note>Pod state twoNotUsed</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="MinimedKit/Base.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
+    <file original="MinimedKit/Base.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
     </header>
@@ -212,12 +24,12 @@
       </trans-unit>
       <trans-unit id="AlarmClockReminder" xml:space="preserve">
         <source>AlarmClockReminder</source>
-        <target>HerätysKelloMuistutus</target>
+        <target>AlarmClockReminder</target>
         <note>The description of AlarmClockReminderPumpEvent</note>
       </trans-unit>
       <trans-unit id="AlarmSensor" xml:space="preserve">
         <source>AlarmSensor</source>
-        <target>HälytysSensori</target>
+        <target>AlarmSensor</target>
         <note>The description of AlarmSensorPumpEvent</note>
       </trans-unit>
       <trans-unit id="Alkaline" xml:space="preserve">
@@ -227,7 +39,7 @@
       </trans-unit>
       <trans-unit id="Basal Profile %1$@: %2$@ U/hour" xml:space="preserve">
         <source>Basal Profile %1$@: %2$@ U/hour</source>
-        <target>Basaaliprofiili %1$@: %2$@ U/h</target>
+        <target>Basaaliprofiili %1$@: %2$@ U/t</target>
         <note>The format string description of a BasalProfileStartPumpEvent. (1: The index of the profile)(2: The basal rate)</note>
       </trans-unit>
       <trans-unit id="Bolus in Progress" xml:space="preserve">
@@ -332,7 +144,7 @@
       </trans-unit>
       <trans-unit id="Pump Error" xml:space="preserve">
         <source>Pump Error</source>
-        <target>Pumppuvirhe</target>
+        <target>Pumpun virhe</target>
         <note>Error description</note>
       </trans-unit>
       <trans-unit id="Pump did not respond" xml:space="preserve">
@@ -402,7 +214,7 @@
       </trans-unit>
       <trans-unit id="Unknown pump model: %@" xml:space="preserve">
         <source>Unknown pump model: %@</source>
-        <target>Tuntematon pumppumalli: %@</target>
+        <target>Tuntematon pumpun malli: %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unknown response during %1$@: %2$@" xml:space="preserve">
@@ -647,7 +459,7 @@
       </trans-unit>
       <trans-unit id="Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option." xml:space="preserve">
         <source>Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option.</source>
-        <target>Pumpun annostelemat insuliinimäärät on mahdollista määrittää joko tulkitsemalla tapahtumahistoriaa tai arvioimalla pumppusäiliön insuliinimäärää ajan kuluessa. Tapahtumahistorian lukeminen antaa tarkemman kuvan tilanteesta ja mahdollistaa ajantasaisen tiedonsiirron Nightscoutiin, mutta toisaalta tämä kuluttaa pumpun paristoa nopeammin ja lisää radiovirheiden todennäköisyyttä siihen verrattuna, että luettaisiin ainoastaan pumppusäiliössä olevan insuliinin määrää. Jos valittua lähdettä ei voida mistä tahansa syystä käyttää, järjestelmä pyrkii käyttämään toista vaihtoehtoa.</target>
+        <target>Pumpun annostelemat insuliinimäärät on mahdollista määrittää joko tulkitsemalla tapahtumahistoriaa tai arvioimalla pumpun säiliön insuliinimäärää ajan kuluessa. Tapahtumahistorian lukeminen antaa tarkemman kuvan tilanteesta ja mahdollistaa ajantasaisen tiedonsiirron Nightscoutiin, mutta toisaalta tämä kuluttaa pumpun paristoa nopeammin ja lisää radiovirheiden todennäköisyyttä siihen verrattuna, että luettaisiin ainoastaan pumpun säiliössä olevan insuliinin määrää. Jos valittua lähdettä ei voida mistä tahansa syystä käyttää, järjestelmä pyrkii käyttämään toista vaihtoehtoa.</target>
         <note>Instructions on selecting an insulin data source</note>
       </trans-unit>
       <trans-unit id="Last Awake" xml:space="preserve">
@@ -677,7 +489,7 @@
       </trans-unit>
       <trans-unit id="On Idle" xml:space="preserve">
         <source>On Idle</source>
-        <target>Valmiustilassa</target>
+        <target>Lepotilassa</target>
         <note>The title of the cell showing the last idle</note>
       </trans-unit>
       <trans-unit id="On your pump, go to the Find Device screen and select &quot;Find Device&quot;.&#10;&#10;Main Menu &gt;&#10;Utilities &gt;&#10;Connect Devices &gt;&#10;Other Devices &gt;&#10;On &gt;&#10;Find Device" xml:space="preserve">
@@ -691,7 +503,7 @@ On &gt;
 Find Device</source>
         <target>Mene pumppusi Etsi laite -näytölle ja valitse "Etsi laite".
 
- Päävalikko &gt;
+Päävalikko &gt;
 Työkalut &gt;
 Yhdistä laitteet &gt;
 Muut laitteet &gt;
@@ -757,7 +569,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Retry" xml:space="preserve">
         <source>Retry</source>
-        <target>Yritä uudelleen</target>
+        <target>Uudelleen</target>
         <note>Button title to retry sentry setup</note>
       </trans-unit>
       <trans-unit id="RileyLink Statistics" xml:space="preserve">
@@ -794,7 +606,7 @@ Etsi laite</target>
       <trans-unit id="Suspended: %1$@&#10;" xml:space="preserve">
         <source>Suspended: %1$@
 </source>
-        <target>Annostelu pysäytetty: %1$@
+        <target>Pysäytetty: %1$@
 </target>
         <note>The format string describing pump suspended state: (1: suspended)</note>
       </trans-unit>
@@ -820,7 +632,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Uptime" xml:space="preserve">
         <source>Uptime</source>
-        <target>Toiminta-aika</target>
+        <target>Käyttöaika</target>
         <note>The title of the cell showing uptime</note>
       </trans-unit>
     </body>
@@ -1091,7 +903,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve">
         <source>Finish setup </source>
-        <target>Lopeta asennus</target>
+        <target>Lopeta asennus </target>
         <note>Description for finish setup</note>
       </trans-unit>
       <trans-unit id="Initialized" xml:space="preserve">
@@ -1262,16 +1074,17 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Pod Expired" xml:space="preserve">
         <source>Pod Expired</source>
+        <target>Pumppu vanhentunut</target>
         <note>Highlight string for pod expired (80hrs).</note>
       </trans-unit>
       <trans-unit id="Pod Fault" xml:space="preserve">
         <source>Pod Fault</source>
-        <target>Pumppuvirhe</target>
+        <target>Pumpun virhe</target>
         <note>Highlight string for pod faults.</note>
       </trans-unit>
       <trans-unit id="Pod Fault: %1$@" xml:space="preserve">
         <source>Pod Fault: %1$@</source>
-        <target>Pumppuvirhe: %1$@</target>
+        <target>Pumpun virhe: %1$@</target>
         <note>Format string for pod fault code</note>
       </trans-unit>
       <trans-unit id="Pod already paired" xml:space="preserve">
@@ -1447,7 +1260,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve">
         <source>Unknown pod fault %1$03d</source>
-        <target>Tuntematon pumppuvirhe %1$03d</target>
+        <target>Tuntematon pumpun virhe %1$03d</target>
         <note>The format string for Unknown pod fault (1: The fault code value)</note>
       </trans-unit>
       <trans-unit id="Validation failed: %1$@" xml:space="preserve">
@@ -1462,7 +1275,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Wait for existing temp basal to finish, or suspend to cancel" xml:space="preserve">
         <source>Wait for existing temp basal to finish, or suspend to cancel</source>
-        <target>Odota, että meneillään oleva tilapäinen basaali päättyy tai pysäytä pumppu kumotaksesi</target>
+        <target>Odota, että meneillään oleva tilapäinen basaali päättyy tai kumoa pysäyttämällä pumppu</target>
         <note>Recovery suggestion when operation could not be completed due to existing temp basal in progress</note>
       </trans-unit>
       <trans-unit id="Waiting for pairing reminder" xml:space="preserve">
@@ -1571,7 +1384,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="jVO-Ut-MhL.title" xml:space="preserve">
         <source>Pod Pairing</source>
-        <target>Yhdistäminen pumppuun</target>
+        <target>Pumpun yhdistäminen</target>
         <note>Class = "UINavigationItem"; title = "Pod Pairing"; ObjectID = "jVO-Ut-MhL";</note>
       </trans-unit>
       <trans-unit id="k1Y-x4-m0a.title" xml:space="preserve">
@@ -1601,7 +1414,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="vmF-Dc-3DS.text" xml:space="preserve">
         <source>Fill a new pod with insulin. Listen for 2 beeps from the pod during filling. Keep the RileyLink about 6 inches from the pod during pairing.</source>
-        <target>Täytä uusi pumppu insuliinilla. Odota, että kuulet täytön aikana kaksi pumpun piippausta. Pidä RileyLink pumpun vieressä yhdistämisen aikana.</target>
+        <target>Täytä uusi pumppu insuliinilla. Odota, että kuulet täytön aikana kaksi pumpun piippausta. Pidä RileyLink n. 15 cm päässä pumpusta yhdistämisen aikana.</target>
         <note>Class = "UILabel"; text = "Fill a new pod with insulin. Listen for 2 beeps from the pod during filling. Keep the RileyLink about 6 inches from the pod during pairing."; ObjectID = "vmF-Dc-3DS";</note>
       </trans-unit>
       <trans-unit id="yy1-xf-HdR.title" xml:space="preserve">
@@ -2227,7 +2040,7 @@ Jos et kuullut pumpun piippauksia, on todennäköistä, että pumpun kaiutin on 
       </trans-unit>
       <trans-unit id="Fetch CGM" xml:space="preserve">
         <source>Fetch CGM</source>
-        <target>Hae CGM-data</target>
+        <target>Hae CGM-tiedot</target>
         <note>The title text for the pull cgm Data cell</note>
       </trans-unit>
       <trans-unit id="Nightscout" xml:space="preserve">
@@ -2484,7 +2297,7 @@ Jos et kuullut pumpun piippauksia, on todennäköistä, että pumpun kaiutin on 
       </trans-unit>
       <trans-unit id="Uptime" xml:space="preserve">
         <source>Uptime</source>
-        <target>Päällä</target>
+        <target>Käyttöaika</target>
         <note>The title of the cell showing uptime</note>
       </trans-unit>
     </body>

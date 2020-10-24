@@ -368,7 +368,7 @@
       </trans-unit>
       <trans-unit id="Delete Pump" xml:space="preserve">
         <source>Delete Pump</source>
-        <target>Fjern pumpe</target>
+        <target>Slet pumpe</target>
         <note>Button title to delete pump
    Title text for the button to remove a pump from Loop</note>
       </trans-unit>
@@ -414,7 +414,7 @@
       </trans-unit>
       <trans-unit id="Fetch Enlite Glucose" xml:space="preserve">
         <source>Fetch Enlite Glucose</source>
-        <target>Hent seneste blodsukker</target>
+        <target>Hent Enlite blodsukker</target>
         <note>The title of the command to fetch recent glucose</note>
       </trans-unit>
       <trans-unit id="Fetch Recent History" xml:space="preserve">
@@ -449,7 +449,7 @@
       </trans-unit>
       <trans-unit id="Get Pump Model" xml:space="preserve">
         <source>Get Pump Model</source>
-        <target>Hent pumpe model</target>
+        <target>Hent pumpemodel</target>
         <note>The title of the command to get pump model</note>
       </trans-unit>
       <trans-unit id="Get Statistics…" xml:space="preserve">
@@ -569,7 +569,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Retry" xml:space="preserve">
         <source>Retry</source>
-        <target>Prøv igen</target>
+        <target>Forsøg igen</target>
         <note>Button title to retry sentry setup</note>
       </trans-unit>
       <trans-unit id="RileyLink Statistics" xml:space="preserve">
@@ -1039,7 +1039,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Please bring only original pod in range or deactivate original pod" xml:space="preserve">
         <source>Please bring only original pod in range or deactivate original pod</source>
-        <target>Hav kun den originale pod tæt på eller deaktivere original pod'e</target>
+        <target>Hav kun den originale pod tæt på eller deaktivere den original pod</target>
         <note>Recovery suggestion on unexpected pod change</note>
       </trans-unit>
       <trans-unit id="Please bring your pod closer to the RileyLink and try again" xml:space="preserve">
@@ -1074,6 +1074,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Pod Expired" xml:space="preserve">
         <source>Pod Expired</source>
+        <target>Pod udløbet</target>
         <note>Highlight string for pod expired (80hrs).</note>
       </trans-unit>
       <trans-unit id="Pod Fault" xml:space="preserve">
@@ -1093,7 +1094,7 @@ Find enhed</target>
       </trans-unit>
       <trans-unit id="Pod already primed" xml:space="preserve">
         <source>Pod already primed</source>
-        <target>Pod allerede klargjort</target>
+        <target>Pod allerede primet</target>
         <note>Error message shown when prime is attempted, but pod is already primed</note>
       </trans-unit>
       <trans-unit id="Pod expiration advisory alarm" xml:space="preserve">

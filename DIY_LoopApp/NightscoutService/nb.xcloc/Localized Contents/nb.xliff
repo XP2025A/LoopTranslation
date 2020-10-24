@@ -56,19 +56,20 @@
         <target>API hemmelighet</target>
         <note>The title of the Nightscout API secret</note>
       </trans-unit>
-      <trans-unit id="Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are ultimately what Loop uses to determine how much insulin to deliver. If you are new to Loop, work with your diabetes support team to come up with a plan for finding out what settings will work best for you." xml:space="preserve">
-        <source>Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are ultimately what Loop uses to determine how much insulin to deliver. If you are new to Loop, work with your diabetes support team to come up with a plan for finding out what settings will work best for you.</source>
-        <target>Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are ultimately what Loop uses to determine how much insulin to deliver. If you are new to Loop, work with your diabetes support team to come up with a plan for finding out what settings will work best for you.</target>
+      <trans-unit id="Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are a critical part of how Loop determines the right amount of insulin to deliver.&#10;&#10;If you are new to Loop, work with your diabetes support team to determine the settings that work best for you." xml:space="preserve">
+        <source>Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are a critical part of how Loop determines the right amount of insulin to deliver.
+
+If you are new to Loop, work with your diabetes support team to determine the settings that work best for you.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>Avbryt</target>
-        <note>No comment provided by engineer.</note>
+        <note>Cancel</note>
       </trans-unit>
       <trans-unit id="Checking..." xml:space="preserve">
         <source>Checking...</source>
-        <target>Checking...</target>
+        <target>Kontrollerer...</target>
         <note>Description of ServiceStatus of checking</note>
       </trans-unit>
       <trans-unit id="Delete Service" xml:space="preserve">
@@ -78,47 +79,46 @@
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target>Done</target>
+        <target>Ferdig</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="I'm Ready!" xml:space="preserve">
-        <source>I'm Ready!</source>
-        <target>I'm Ready!</target>
+      <trans-unit id="Let's Go!" xml:space="preserve">
+        <source>Let's Go!</source>
         <note>Button title for starting setup</note>
       </trans-unit>
       <trans-unit id="Login" xml:space="preserve">
         <source>Login</source>
-        <target>Login</target>
-        <note>No comment provided by engineer.</note>
+        <target>Pålogging</target>
+        <note>Login button</note>
       </trans-unit>
       <trans-unit id="Logout" xml:space="preserve">
         <source>Logout</source>
-        <target>Logout</target>
+        <target>Logg ut</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." xml:space="preserve">
         <source>Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later.</source>
-        <target>Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later.</target>
-        <note>No comment provided by engineer.</note>
+        <target>Loop kan fungere med Nightscout for å gi eksterne omsorgspersoner en måte å se hva gjør. Nightscout bruk er helt valgfri med Loop. Du kan alltids sette opp Nightscout senere.</target>
+        <note>Label for description of Nightscout</note>
       </trans-unit>
       <trans-unit id="Nightscout" xml:space="preserve">
         <source>Nightscout</source>
         <target>Nightscout</target>
-        <note>No comment provided by engineer.</note>
+        <note>Heading</note>
       </trans-unit>
       <trans-unit id="Nightscout Login" xml:space="preserve">
         <source>Nightscout Login</source>
-        <target>Nightscout Login</target>
-        <note>No comment provided by engineer.</note>
+        <target>Nightscout innlogging</target>
+        <note>Nightscout login view</note>
       </trans-unit>
       <trans-unit id="Not Available" xml:space="preserve">
         <source>Not Available</source>
-        <target>Not Available</target>
+        <target>Ikke tilgjengelig (Nightscout url er ikke satt)</target>
         <note>Error when nightscout service url is not set</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
-        <target>OK</target>
+        <target>Ok</target>
         <note>Description of ServiceStatus of checking</note>
       </trans-unit>
       <trans-unit id="Required" xml:space="preserve">
@@ -128,12 +128,12 @@
       </trans-unit>
       <trans-unit id="Save Settings" xml:space="preserve">
         <source>Save Settings</source>
-        <target>Save Settings</target>
+        <target>Lagre innstillinger</target>
         <note>Therapy settings save button title</note>
       </trans-unit>
       <trans-unit id="Setup Loop without Nightscout" xml:space="preserve">
         <source>Setup Loop without Nightscout</source>
-        <target>Setup Loop without Nightscout</target>
+        <target>Sette opp Loop uten bruk av Nightscout</target>
         <note>Button title for choosing onboarding without nightscout</note>
       </trans-unit>
       <trans-unit id="Site URL" xml:space="preserve">
@@ -148,23 +148,23 @@
       </trans-unit>
       <trans-unit id="Therapy Settings" xml:space="preserve">
         <source>Therapy Settings</source>
-        <target>Therapy Settings</target>
+        <target>Behandlings innstillinger</target>
         <note>Navigation view title</note>
       </trans-unit>
       <trans-unit id="URL" xml:space="preserve">
         <source>URL</source>
-        <target>URL</target>
+        <target>Nettadresse</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use Nightscout with Loop" xml:space="preserve">
         <source>Use Nightscout with Loop</source>
-        <target>Use Nightscout with Loop</target>
+        <target>Bruk Nightscout med Loop</target>
         <note>Button title for choosing onboarding with nightscout</note>
       </trans-unit>
       <trans-unit id="Welcome to Loop" xml:space="preserve">
         <source>Welcome to Loop</source>
-        <target>Welcome to Loop</target>
-        <note>No comment provided by engineer.</note>
+        <target>Velkommen til Loop</target>
+        <note>Welcome to Loop</note>
       </trans-unit>
       <trans-unit id="https://mysite.herokuapp.com" xml:space="preserve">
         <source>https://mysite.herokuapp.com</source>

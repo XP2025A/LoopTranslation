@@ -133,27 +133,27 @@
       </trans-unit>
       <trans-unit id="Sensor calibration is OK" xml:space="preserve">
         <source>Sensor calibration is OK</source>
-        <target>Anturin kalibrointi onnistui</target>
+        <target>Sensorin kalibrointi onnistui</target>
         <note>The description of sensor calibration state when sensor calibration is ok.</note>
       </trans-unit>
       <trans-unit id="Sensor is in unknown state %1$d" xml:space="preserve">
         <source>Sensor is in unknown state %1$d</source>
-        <target>Anturi on tuntemattomassa tilassa %1$d</target>
+        <target>Sensori on tuntemattomassa tilassa %1$d</target>
         <note>The description of sensor calibration state when raw value is unknown. (1: missing data details)</note>
       </trans-unit>
       <trans-unit id="Sensor is stopped" xml:space="preserve">
         <source>Sensor is stopped</source>
-        <target>Anturi on pysäytetty</target>
+        <target>Sensori on pysäytetty</target>
         <note>The description of sensor calibration state when sensor sensor is stopped.</note>
       </trans-unit>
       <trans-unit id="Sensor is warming up" xml:space="preserve">
         <source>Sensor is warming up</source>
-        <target>Anturi lämpenee</target>
+        <target>Sensori lämpenee</target>
         <note>The description of sensor calibration state when sensor sensor is warming up.</note>
       </trans-unit>
       <trans-unit id="Sensor needs calibration" xml:space="preserve">
         <source>Sensor needs calibration</source>
-        <target>Anturi tarvitsee kalibroinnin</target>
+        <target>Sensori tarvitsee kalibroinnin</target>
         <note>The description of sensor calibration state when sensor needs calibration.</note>
       </trans-unit>
       <trans-unit id="Unknown characteristic" xml:space="preserve">
@@ -431,7 +431,7 @@ Käytä omalla vastuullasi.</target>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>ResetTransmitter</source>
-        <target>NollaaLähetin</target>
+        <target>ResetTransmitter</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">

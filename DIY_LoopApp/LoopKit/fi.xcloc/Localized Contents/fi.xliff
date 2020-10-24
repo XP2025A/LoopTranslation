@@ -34,12 +34,12 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation.</source>
-        <target>Terveystietokannasta peräisin olevan aterian tietoja käytetään glukoosivaikutusten määrittämiseen. Terveys-tietokannan glukoositietoja käytetään graafeihin ja momentum-laskentaan.</target>
+        <target>Terveystietokannasta peräisin olevan aterian tietoja käytetään glukoosivaikutusten määrittämiseen. Terveystietokannan glukoositietoja käytetään graafeihin ja glukoosin liikkeen laskentaan.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</source>
-        <target>Sovellukseen syötetyt hiilihydraattiaterian tiedot tallennetaan Terveys-tietokantaan. Glukoositiedot tallennetaan turvallisesti HealthKitiin.</target>
+        <target>Sovellukseen syötetyt hiilihydraattiaterian tiedot tallennetaan Terveystietokantaan. Glukoositiedot tallennetaan turvallisesti HealthKitiin.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -134,7 +134,7 @@
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</source>
-        <target>Sovellukseen syötetyt hiilihydraattiaterian tiedot tallennetaan Terveys-tietokantaan. Glukoositiedot tallennetaan turvallisesti HealthKitiin.</target>
+        <target>Sovellukseen syötetyt hiilihydraattiaterian tiedot tallennetaan Terveystietokantaan. Glukoositiedot tallennetaan turvallisesti HealthKitiin.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -156,17 +156,17 @@
       </trans-unit>
       <trans-unit id="%@ Range" xml:space="preserve">
         <source>%@ Range</source>
-        <target>%@ alue</target>
+        <target>%@ -tavoite</target>
         <note>Format for correction range override therapy setting card</note>
       </trans-unit>
       <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is higher than what is typically recommended for most people.</source>
-        <target>Antamasi arvo on suurempi kuin useimmille ihmisille yleensä suositeltu arvo.</target>
+        <target>Antamasi arvo on suurempi kuin useimmille ihmisille yleensä suositeltava arvo.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="A value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is lower than what is typically recommended for most people.</source>
-        <target>Antamasi arvo on pienempi kuin useimmille ihmisille tyypillisesti suositeltava arvo.</target>
+        <target>Antamasi arvo on pienempi kuin useimmille ihmisille yleensä suositeltava arvo.</target>
         <note>Descriptive text for guardrail low value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Authorization Denied" xml:space="preserve">
@@ -211,7 +211,7 @@
       </trans-unit>
       <trans-unit id="Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
         <source>Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target>Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.</target>
+        <target>Korjausalue tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.</target>
         <note>Descriptive text for glucose target range</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
@@ -286,12 +286,12 @@
       </trans-unit>
       <trans-unit id="Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically." xml:space="preserve">
         <source>Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically.</source>
-        <target>Suurin sallittu basaalitaso on korkein tilapäinen basaalitaso, jonka Loop saa asettaa automaattisesti.</target>
+        <target>Suurin sallittu basaalitaso tarkoittaa korkeinta tilapäistä basaalitasoa, jonka Loop saa asettaa automaattisesti.</target>
         <note>Descriptive text for maximum basal rate</note>
       </trans-unit>
       <trans-unit id="Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." xml:space="preserve">
         <source>Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</source>
-        <target>Suurin sallittu bolus on suurin bolusmäärä, jonka voi antaa yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.</target>
+        <target>Suurin sallittu bolus tarkoittaa suurinta insuliiniannosta, jonka voi annostella yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.</target>
         <note>Descriptive text for maximum bolus</note>
       </trans-unit>
       <trans-unit id="Needs Attention" xml:space="preserve">
@@ -311,7 +311,7 @@
       </trans-unit>
       <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve">
         <source>One or more of the values you have entered is outside of what is typically recommended for most people.</source>
-        <target>Yksi tai useampi antamistasi arvoista on sen ulkopuolella, mitä useimmille ihmisille tyypillisesti suositellaan.</target>
+        <target>Yksi tai useampi antamistasi arvoista on sen ulkopuolella, mitä useimmille ihmisille yleensä suositellaan.</target>
         <note>Descriptive text for saving settings outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Please re-enable sharing in Health" xml:space="preserve">
@@ -341,7 +341,7 @@
       </trans-unit>
       <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target>Jotkut antamistasi arvoista on sen ulkopuolella, mitä useimmille ihmisille tyypillisesti suositellaan.</target>
+        <target>Jotkut antamistasi arvoista on sen ulkopuolella, mitä useimmille ihmisille yleensä suositellaan.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Suspend Threshold" xml:space="preserve">
@@ -351,12 +351,12 @@
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</source>
-        <target>Laske glukoositavoitetta väliaikaisesti ennen ateriaa vaikuttaaksesi aterian jälkeiseen glukoosinousuun.</target>
+        <target>Laske glukoositavoitetta väliaikaisesti ennen ateriaa vaikuttaaksesi aterian jälkeiseen glukoosin nousuun.</target>
         <note>Descriptive text for pre-meal correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end." xml:space="preserve">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end.</source>
-        <target>Laske glukoositavoitetta väliaikaisesti ennen ateriaa vaikuttaaksesi aterian jälkeiseen glukoosinousuun. Tämä alue voidaan asettaa mihin tahansa pysäytysrajan ja korjausalueen yläarvon välille.</target>
+        <target>Laske glukoositavoitetta väliaikaisesti ennen ateriaa vaikuttaaksesi aterian jälkeiseen glukoosin nousuun. Tämä alue voidaan asettaa mihin tahansa pysäytysrajan ja korjausalueen ylärajan välille.</target>
         <note>Description of pre-meal mode</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
@@ -366,7 +366,7 @@
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." xml:space="preserve">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end.</source>
-        <target>Nosta glukoositavoitetta tilapäisesti ennen liikuntaa, sen aikana tai sen jälkeen, jotta matalan glukoosin riski pienenee. Tämä alue voidaan asettaa mihin tahansa korjausalueen yläarvon ja 180 mg/dL (10 mmol/L) välille.</target>
+        <target>Nosta glukoositavoitetta tilapäisesti ennen liikuntaa, sen aikana tai sen jälkeen, jotta matalan glukoosin riski pienenee. Tämä alue voidaan asettaa mihin tahansa korjausalueen ylärajan ja 10 mmol/L välille.</target>
         <note>Description of workout mode</note>
       </trans-unit>
       <trans-unit id="The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." xml:space="preserve">
@@ -381,12 +381,12 @@
       </trans-unit>
       <trans-unit id="The value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
         <source>The value you have entered is lower than what is typically recommended for most people.</source>
-        <target>Antamasi arvo on pienempi kuin useimmille ihmisille tyypillisesti suositellaan.</target>
+        <target>Antamasi arvo on pienempi kuin useimmille ihmisille yleensä suositellaan.</target>
         <note>Descriptive text for guardrail low value warning</note>
       </trans-unit>
       <trans-unit id="The values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>The values you have entered are outside of what is typically recommended for most people.</source>
-        <target>Antamasi arvot ovat useimmille ihmisille tyypillisesti suositeltujen arvojen ulkopuolella.</target>
+        <target>Antamasi arvot ovat useimmille ihmisille yleensä suositeltujen arvojen ulkopuolella.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
@@ -426,7 +426,7 @@
       </trans-unit>
       <trans-unit id="When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus." xml:space="preserve">
         <source>When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus.</source>
-        <target>Kun glukoosin ennustetaan alittavan tämän arvon, sovellus suosittelee basaalitasoa 0 U/h, eikä suosittele bolusta.</target>
+        <target>Kun glukoosin ennustetaan alittavan tämän arvon, sovellus suosittelee basaalitasoa 0 U/t, eikä suosittele bolusta.</target>
         <note>Descriptive text for suspend threshold</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
@@ -441,12 +441,12 @@
       </trans-unit>
       <trans-unit id="Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." xml:space="preserve">
         <source>Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin.</source>
-        <target>Hiilihydraattisuhde on hiilihydraattien grammamäärä, jonka yksi yksikkö insuliinia kattaa.</target>
+        <target>Hiilihydraattisuhde tarkoittaa sitä, kuinka monta grammaa hiilihydraatteja yksi insuliiniyksikkö kattaa.</target>
         <note>Descriptive text for carb ratio</note>
       </trans-unit>
       <trans-unit id="Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin." xml:space="preserve">
         <source>Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin.</source>
-        <target>Insuliiniherkkyys on glukoosin lasku, jonka yksi yksikkö insuliinia odotetaan aiheuttavan.</target>
+        <target>Insuliiniherkkyys tarkoittaa sitä, kuinka paljon glukoosi laskee yhdellä insuliiniyksiköllä.</target>
         <note>Descriptive text for insulin sensitivity</note>
       </trans-unit>
       <trans-unit id="com.loudnate.CarbKit.deleteCarbEntryUnownedErrorDescription" xml:space="preserve">
@@ -498,7 +498,7 @@
     <body>
       <trans-unit id="7xi-Om-Y53.text" xml:space="preserve">
         <source>Authorize access to Health to continue</source>
-        <target>Salli pääsy Terveys-sovellukseen jatkaaksesi</target>
+        <target>Jatka sallimalla pääsy Terveys-sovellukseen</target>
         <note>Class = "UILabel"; text = "Authorize access to Health to continue"; ObjectID = "7xi-Om-Y53";</note>
       </trans-unit>
       <trans-unit id="8sx-XB-DRV.normalTitle" xml:space="preserve">
@@ -678,6 +678,7 @@
       </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
+        <target>%1$@ olettaa, että insuliini vaikuttaa aktiivisesti 6 tuntia. Valittavana on %2$@ eri mallia siitä, miten sovellus mittaa insuliinin vaikutushuipun.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
@@ -1041,6 +1042,7 @@
       </trans-unit>
       <trans-unit id="Enter %1$@ value" xml:space="preserve">
         <source>Enter %1$@ value</source>
+        <target>Syötä %1$@ arvo</target>
         <note>Format string for accessibility label for value entry. (1: value label)</note>
       </trans-unit>
       <trans-unit id="Enter a number of units" xml:space="preserve">
@@ -1070,7 +1072,7 @@
       </trans-unit>
       <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
         <source>For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target>Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.</target>
+        <target>Korjausalue tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.</target>
         <note>Information about correction range</note>
       </trans-unit>
       <trans-unit id="Get help with Therapy Settings" xml:space="preserve">
@@ -1126,7 +1128,7 @@
       </trans-unit>
       <trans-unit id="If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." xml:space="preserve">
         <source>If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL.</source>
-        <target>Jos olet käyttänyt jatkuvaa glukoosinseurantaa aiemmin, tavoitealue on todennäköisesti tuttu laajana glukoosiarvoalueena, jonka haluat hälytyksille, esimerkiksi 70–180 mg/dL tai 90–200 mg/dL.</target>
+        <target>Jos olet käyttänyt jatkuvaa glukoosinseurantaa aiemmin, tavoitealue on todennäköisesti tuttu laajana glukoosiarvoalueena, jonka haluat hälytyksille, esimerkiksi 4–10 mmol/L tai 5–11 mmol/L.</target>
         <note>Information about target range</note>
       </trans-unit>
       <trans-unit id="Insulin Sensitivities" xml:space="preserve">
@@ -1196,7 +1198,7 @@
       </trans-unit>
       <trans-unit id="Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range." xml:space="preserve">
         <source>Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range.</source>
-        <target>Suurin sallittu basaalitaso on korkein määrä basaali-insuliinille, jonka Loop saa asettaa automaattisesti tavoitellessaan korjausaluetta.</target>
+        <target>Suurin sallittu basaalitaso tarkoittaa suurinta basaali-insuliinin määrää, jonka Loop saa asettaa automaattisesti tavoitellessaan korjausaluetta.</target>
         <note>Information about maximum basal rate</note>
       </trans-unit>
       <trans-unit id="Maximum bolus" xml:space="preserve">
@@ -1206,7 +1208,7 @@
       </trans-unit>
       <trans-unit id="Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose." xml:space="preserve">
         <source>Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose.</source>
-        <target>Suurin sallittu bolus on suurin insuliiniannos, jonka Loop voi antaa yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.</target>
+        <target>Suurin sallittu bolus tarkoittaa suurinta insuliiniannosta, jonka Loop voi suositella annettavaksi yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.</target>
         <note>Information about maximum bolus</note>
       </trans-unit>
       <trans-unit id="Medium" xml:space="preserve">
@@ -1282,7 +1284,7 @@
       </trans-unit>
       <trans-unit id="Pre-meal temp adjust range" xml:space="preserve">
         <source>Pre-meal temp adjust range</source>
-        <target>Ennen ateriaa -alue</target>
+        <target>Ennen ateriaa -tavoite</target>
         <note>Title for pre-meal range information section</note>
       </trans-unit>
       <trans-unit id="Prescription" xml:space="preserve">
@@ -1297,7 +1299,7 @@
       </trans-unit>
       <trans-unit id="Pump Event" xml:space="preserve">
         <source>Pump Event</source>
-        <target>Pumpputapahtuma</target>
+        <target>Pumpun tapahtuma</target>
         <note>The title of the screen displaying a pump event</note>
       </trans-unit>
       <trans-unit id="Rapid-Acting – Adults" xml:space="preserve">
@@ -1332,7 +1334,7 @@
       </trans-unit>
       <trans-unit id="Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." xml:space="preserve">
         <source>Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen.</source>
-        <target>Tarkista alla olevat hoidon asetukset. Jos haluat muokata jotakin näistä asetuksista, napauta Takaisin.</target>
+        <target>Tarkista alla olevat hoitoasetukset. Jos haluat muokata jotakin näistä asetuksista, napauta Takaisin.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="Running" xml:space="preserve">
@@ -1368,7 +1370,7 @@
       </trans-unit>
       <trans-unit id="Save Correction Range Overrides?" xml:space="preserve">
         <source>Save Correction Range Overrides?</source>
-        <target>Tallenna korjausalueen ohitukset?</target>
+        <target>Tallenna korjausalueen ylitykset?</target>
         <note>Alert title for confirming correction range overrides outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Save Correction Range(s)?" xml:space="preserve">
@@ -1398,12 +1400,12 @@
       </trans-unit>
       <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target>Jotkut antamistasi arvoista ovat useimmille ihmisille tyypillisesti suositeltavien arvojen ulkopuolella.</target>
+        <target>Jotkut antamistasi arvoista ovat useimmille ihmisille yleensä suositeltavien arvojen ulkopuolella.</target>
         <note>Caption for guardrail warning when more than one threshold is crossed</note>
       </trans-unit>
       <trans-unit id="Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." xml:space="preserve">
         <source>Some users choose a value 2, 3, or 4 times their highest scheduled basal rate.</source>
-        <target>Jotkut käyttäjät valitsevat heidän korkeinta basaalitasoaan 2, 3 tai 4 kertaa suuremman arvon.</target>
+        <target>Useimmat käyttäjät valitsevat omaa korkeinta basaalitasoa 2, 3 tai 4 kertaa suuremman arvon.</target>
         <note>Information about typical maximum basal rates</note>
       </trans-unit>
       <trans-unit id="Start Time" xml:space="preserve">
@@ -1493,17 +1495,17 @@
       </trans-unit>
       <trans-unit id="The schedule starts at midnight and cannot contain a rate of 0 U/hr." xml:space="preserve">
         <source>The schedule starts at midnight and cannot contain a rate of 0 U/hr.</source>
-        <target>Aikataulu alkaa keskiyöstä, eikä se voi sisältää 0 U/t basaalitasoa.</target>
+        <target>Aikataulu alkaa keskiyöstä, eikä se voi sisältää basaalitasoa 0 U/t.</target>
         <note>Information about basal rate scheduling</note>
       </trans-unit>
       <trans-unit id="Therapy Settings" xml:space="preserve">
         <source>Therapy Settings</source>
-        <target>Hoidon asetukset</target>
+        <target>Hoitoasetukset</target>
         <note>Therapy Settings screen title</note>
       </trans-unit>
       <trans-unit id="Therapy Settings Support Placeholder" xml:space="preserve">
         <source>Therapy Settings Support Placeholder</source>
-        <target>Terapia-asetusten tuen paikkamerkki</target>
+        <target>Hoitoasetusten tuen paikkamerkki</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This model assumes peak insulin activity at 55 minutes." xml:space="preserve">
@@ -1605,12 +1607,12 @@
       </trans-unit>
       <trans-unit id="Workout temp adjust is the glucose value or range of values you want Loop to target during activity." xml:space="preserve">
         <source>Workout temp adjust is the glucose value or range of values you want Loop to target during activity.</source>
-        <target>Liikuntatila tarkoittaa glukoosiarvoa tai arvoaluetta, johon haluat Loopin tähtäävän liikunnan aikana.</target>
+        <target>Liikuntatavoite tarkoittaa glukoosiarvoa tai arvoaluetta, johon haluat Loopin tähtäävän liikunnan aikana.</target>
         <note>Information about workout range</note>
       </trans-unit>
       <trans-unit id="Workout temp adjust range" xml:space="preserve">
         <source>Workout temp adjust range</source>
-        <target>Liikuntatilan alue</target>
+        <target>Liikuntatavoite</target>
         <note>Title for workout range information section</note>
       </trans-unit>
       <trans-unit id="You can add different carb ratios for different times of day by using the ➕." xml:space="preserve">
@@ -1665,12 +1667,12 @@
       </trans-unit>
       <trans-unit id="Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." xml:space="preserve">
         <source>Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin.</source>
-        <target>Insuliiniherkkyysarvo (ISF) tarkoittaa glukoosin odotettua laskua, jonka yksi yksikkö insuliinia aiheuttaa.</target>
+        <target>Insuliiniherkkyys (ISF) tarkoittaa sitä, kuinka paljon glukoosin odotetaan laskevan yhdellä insuliiniyksiköllä.</target>
         <note>Description of insulin sensitivity factor</note>
       </trans-unit>
       <trans-unit id="Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." xml:space="preserve">
         <source>Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal.</source>
-        <target>Ennen ateriaa -tila tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin korjaavan aterian alkuun mennessä.</target>
+        <target>Ennen ateriaa -tavoite tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin tähtäävän aterian alkuun mennessä.</target>
         <note>Information about pre-meal range</note>
       </trans-unit>
       <trans-unit id="authentication-button-delete" xml:space="preserve">
@@ -1802,7 +1804,7 @@
       </trans-unit>
       <trans-unit id="Pump Error" xml:space="preserve">
         <source>Pump Error</source>
-        <target>Pumppuvirhe</target>
+        <target>Pumpun virhe</target>
         <note>Status highlight that a pump error occurred.</note>
       </trans-unit>
       <trans-unit id="Pump Occlusion" xml:space="preserve">

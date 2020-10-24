@@ -211,7 +211,7 @@
       </trans-unit>
       <trans-unit id="Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
         <source>Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target>Korrektionsområde er den blodsukkerværdi (eller værdiinterval), som du vil have Loop til at sigte efter når din basal insulin justeres.</target>
+        <target>Korrektionsområde er den blodsukkerværdi (eller værdiinterval), som du vil have Loop til at sigte efter når din basal justeres.</target>
         <note>Descriptive text for glucose target range</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
@@ -356,7 +356,8 @@
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end." xml:space="preserve">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end.</source>
-        <target>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end.</target>
+        <target>Sænker midlertidigt dit blodsukker mål før et måltid for at modvirke stigning i blodsukker efter måltidet.
+Dette område kan være mellem din suspenderingsgrænse til starten af dit normal korrektionsområde.</target>
         <note>Description of pre-meal mode</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
@@ -366,12 +367,12 @@
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." xml:space="preserve">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end.</source>
-        <target>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end.</target>
+        <target>Hæver midlertidigt dit blodsukkermål før, under eller efter fysisk aktivitet for at reducere risikoen for lavt blodsukker. Dette område kan sættes fra den højeste værdi i dit normale korrektionsområde til 10 mmol/L.</target>
         <note>Description of workout mode</note>
       </trans-unit>
       <trans-unit id="The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</source>
-        <target>Loop antager, at insulinen arbejder aktivt i 6 timer. Du kan vælge mellem forskellige modeller for, hvordan Loop måler insulinets maksimale aktivitet.</target>
+        <target>Loop antager, at insulinen arbejder aktivt i 6 timer. Du kan vælge mellem forskellige modeller for, hvordan Loop bruger insulinets maksimale effekt i sine beregninger.</target>
         <note>Descriptive text for insulin model</note>
       </trans-unit>
       <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
@@ -426,7 +427,7 @@
       </trans-unit>
       <trans-unit id="When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus." xml:space="preserve">
         <source>When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus.</source>
-        <target>Når dit blodsukker forventes at ligge under denne værdi, vil Loop anbefale en basalrate på 0 U/time og vil ikke anbefale en bolus.</target>
+        <target>Når dit blodsukker forventes at ligge under denne værdi, vil Loop anbefale en basalrate på 0 E/time og vil ikke anbefale en bolus.</target>
         <note>Descriptive text for suspend threshold</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
@@ -441,7 +442,7 @@
       </trans-unit>
       <trans-unit id="Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." xml:space="preserve">
         <source>Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin.</source>
-        <target>Kulhydratforhold er antallet af gram kulhydrat, der dækkes af én enhed insulin.</target>
+        <target>Kulhydratforhold er antallet af kulhydrater i gram, der dækkes af én enhed insulin.</target>
         <note>Descriptive text for carb ratio</note>
       </trans-unit>
       <trans-unit id="Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin." xml:space="preserve">
@@ -678,6 +679,7 @@
       </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
+        <target>%1$@ antager, at insulin er aktivt i 6 timer. Du kan vælge mellem %2$@ forskellige modeller for, hvordan Loop bruger insulinets maksimale effekt i sine beregninger.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
@@ -742,7 +744,7 @@
       </trans-unit>
       <trans-unit id="A correction range is different. This will be a narrower range." xml:space="preserve">
         <source>A correction range is different. This will be a narrower range.</source>
-        <target>Et korrektionsområde er anderledes. Dette vil være et snævere område.</target>
+        <target>Et korrektionsområde er anderledes. Dette vil være et snævere interval.</target>
         <note>Information about differences between target range and correction range</note>
       </trans-unit>
       <trans-unit id="A setting of 0 U means you will not be able to bolus." xml:space="preserve">
@@ -762,7 +764,7 @@
       </trans-unit>
       <trans-unit id="A value of 0 U/hr means you will be scheduled to receive no basal insulin." xml:space="preserve">
         <source>A value of 0 U/hr means you will be scheduled to receive no basal insulin.</source>
-        <target>En værdi på 0 U/time betyder, at du ikke vil modtage basal i den angivende tidesperiode.</target>
+        <target>En værdi på 0 E/time betyder, at du ikke vil modtage basal i den angivende tidesperiode.</target>
         <note>Warning text for basal rate of 0 U/hr</note>
       </trans-unit>
       <trans-unit id="Above dynamic data" xml:space="preserve">
@@ -969,7 +971,7 @@
       </trans-unit>
       <trans-unit id="Delivery limits are safety guardrails for your insulin delivery." xml:space="preserve">
         <source>Delivery limits are safety guardrails for your insulin delivery.</source>
-        <target>Afgivelsesgrænser er sikkerhedsgrænser for insulinafgivelsen.</target>
+        <target>Insulin-grænser er sikkerhedsgrænser for insulinafgivelsen.</target>
         <note>Information about delivery limits</note>
       </trans-unit>
       <trans-unit id="Disable Preset" xml:space="preserve">
@@ -1041,6 +1043,7 @@
       </trans-unit>
       <trans-unit id="Enter %1$@ value" xml:space="preserve">
         <source>Enter %1$@ value</source>
+        <target>Angiv %1$@ værdi</target>
         <note>Format string for accessibility label for value entry. (1: value label)</note>
       </trans-unit>
       <trans-unit id="Enter a number of units" xml:space="preserve">
@@ -1070,7 +1073,7 @@
       </trans-unit>
       <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
         <source>For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target>For dette område, skal du vælge den specifikke glukoseværdi (eller værdiinterval), som du vil have Loop til at sigte efter når Loop justere din basal insulin.</target>
+        <target>For dette område, skal du vælge det specifikke blodsukker (eller interval), som du vil have Loop til at sigte efter, når Loop justere din basal.</target>
         <note>Information about correction range</note>
       </trans-unit>
       <trans-unit id="Get help with Therapy Settings" xml:space="preserve">
@@ -1126,7 +1129,7 @@
       </trans-unit>
       <trans-unit id="If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." xml:space="preserve">
         <source>If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL.</source>
-        <target>Hvis du har brugt en CGM tidligere er du sandsynligvis bekendt med at få advarsler ud fra et glucoseområde, såsom 70-180 mg / dL eller 90-200 mg / dL.</target>
+        <target>Hvis du har brugt en CGM tidligere er du sandsynligvis bekendt med at få advarsler ud fra et blodsukker interval, såsom 5-10 mmol/L eller 6-12 mmol/L.</target>
         <note>Information about target range</note>
       </trans-unit>
       <trans-unit id="Insulin Sensitivities" xml:space="preserve">
@@ -1231,7 +1234,7 @@
       </trans-unit>
       <trans-unit id="New Entry" xml:space="preserve">
         <source>New Entry</source>
-        <target>Ny indtastning</target>
+        <target> </target>
         <note>Title for mini-modal to add a new schedule entry</note>
       </trans-unit>
       <trans-unit id="New Preset" xml:space="preserve">
@@ -1282,7 +1285,7 @@
       </trans-unit>
       <trans-unit id="Pre-meal temp adjust range" xml:space="preserve">
         <source>Pre-meal temp adjust range</source>
-        <target>Midlertidig Før-måltid justeringsområde</target>
+        <target>Før-måltid - Midlertidig korrektionsområde</target>
         <note>Title for pre-meal range information section</note>
       </trans-unit>
       <trans-unit id="Prescription" xml:space="preserve">
@@ -1483,17 +1486,17 @@
       </trans-unit>
       <trans-unit id="The rapid-acting adult model assumes peak activity at 75 minutes." xml:space="preserve">
         <source>The rapid-acting adult model assumes peak activity at 75 minutes.</source>
-        <target>Den rapid-acting adult model antager peak aktivitet på 75 minutter.</target>
+        <target>Den rapid-acting adult model antager maksimal effekt ved 75 minutter.</target>
         <note>Information about adult insulin model</note>
       </trans-unit>
       <trans-unit id="The rapid-acting child model assumes peak activity at 65 minutes." xml:space="preserve">
         <source>The rapid-acting child model assumes peak activity at 65 minutes.</source>
-        <target>Den rapid-acting adult model antager peak aktivitet på 65 minutter.</target>
+        <target>Den rapid-acting adult model antager maksimal effekt ved 65 minutter.</target>
         <note>Information about child insulin model</note>
       </trans-unit>
       <trans-unit id="The schedule starts at midnight and cannot contain a rate of 0 U/hr." xml:space="preserve">
         <source>The schedule starts at midnight and cannot contain a rate of 0 U/hr.</source>
-        <target>Tidsplanen starter ved midnat og kan ikke indeholde en dosis på 0 U/time.</target>
+        <target>Tidsplanen starter ved midnat og kan ikke indeholde en dosis på 0 E/time.</target>
         <note>Information about basal rate scheduling</note>
       </trans-unit>
       <trans-unit id="Therapy Settings" xml:space="preserve">
@@ -1513,12 +1516,12 @@
       </trans-unit>
       <trans-unit id="This model assumes peak insulin activity at 65 minutes." xml:space="preserve">
         <source>This model assumes peak insulin activity at 65 minutes.</source>
-        <target>Denne model forudsætter peak insulin aktivitet på 65 minutter.</target>
+        <target>Denne model forudsætter maksimal effekt ved 65 minutter.</target>
         <note>Subtitle of Rapid-Acting – Children preset</note>
       </trans-unit>
       <trans-unit id="This model assumes peak insulin activity at 75 minutes." xml:space="preserve">
         <source>This model assumes peak insulin activity at 75 minutes.</source>
-        <target>Denne model forudsætter peak insulin aktivitet på 75 minutter.</target>
+        <target>Denne model forudsætter maksimal effekt ved 75 minutter.</target>
         <note>Subtitle of Rapid-Acting – Adult preset</note>
       </trans-unit>
       <trans-unit id="This will typically be" xml:space="preserve">
@@ -1595,7 +1598,7 @@
       </trans-unit>
       <trans-unit id="Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable." xml:space="preserve">
         <source>Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable.</source>
-        <target>Arbejd sammen med sundhedspersonalet om at vælge en værdi, der er højere end din højeste planlagte basalrate, men så konservativ eller aggressiv som du føler dig tryg.</target>
+        <target>Arbejd sammen med sundhedspersonalet om at vælge en værdi, der er højere end din højeste planlagte basalrate, men så konservativ eller aggressiv som du føler dig tryg ved.</target>
         <note>Disclaimer</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
@@ -1605,12 +1608,12 @@
       </trans-unit>
       <trans-unit id="Workout temp adjust is the glucose value or range of values you want Loop to target during activity." xml:space="preserve">
         <source>Workout temp adjust is the glucose value or range of values you want Loop to target during activity.</source>
-        <target>Workout temp justere er glukose værdi eller interval af værdier, du ønsker Loop at målrette under aktivitet.</target>
+        <target>Træningsområde er det blodsukker du ønsker Loop skal sigte efter under træning.</target>
         <note>Information about workout range</note>
       </trans-unit>
       <trans-unit id="Workout temp adjust range" xml:space="preserve">
         <source>Workout temp adjust range</source>
-        <target>Midlertidigt område ved træning</target>
+        <target>Træning - Midlertidigt korrektionsområde</target>
         <note>Title for workout range information section</note>
       </trans-unit>
       <trans-unit id="You can add different carb ratios for different times of day by using the ➕." xml:space="preserve">
@@ -1660,7 +1663,7 @@
       </trans-unit>
       <trans-unit id="Your healthcare provider can help you choose a correction range that's right for you." xml:space="preserve">
         <source>Your healthcare provider can help you choose a correction range that's right for you.</source>
-        <target>Din læge kan hjælpe dig med at vælge et korrektionsområde, der passer til dig.</target>
+        <target> </target>
         <note>Disclaimer</note>
       </trans-unit>
       <trans-unit id="Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." xml:space="preserve">

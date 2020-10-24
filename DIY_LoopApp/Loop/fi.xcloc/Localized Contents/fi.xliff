@@ -183,7 +183,7 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>DoseMathTests</source>
-        <target>AnnosLaskelmaTestit</target>
+        <target>DoseMathTests</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to optimize delivery of Apple Watch complication updates during the time you are awake.</source>
-        <target>Terveystietokannasta peräisin olevan aterian tietoja käytetään glukoosivaikutusten määrittämiseen. Terveys-tietokannan glukoositietoja käytetään graafeissa ja momentum-laskelmiin. Terveystietokannan unitietoja käytetään Apple Watchin komplikaatiopäivitysten optimointiin silloin, kun olet hereillä.</target>
+        <target>Terveystietokannasta peräisin olevan aterian tietoja käytetään glukoosivaikutusten määrittämiseen. Terveystietokannan glukoositietoja käytetään graafeissa ja glukoosin liikkeen laskelmissa. Terveystietokannan unitietoja käytetään Apple Watchin komplikaatiopäivitysten optimointiin silloin, kun olet hereillä.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
     </body>
@@ -249,12 +249,12 @@
       </trans-unit>
       <trans-unit id="Active Carbs" xml:space="preserve">
         <source>Active Carbs</source>
-        <target>Aktiivinen hiilihydraatti</target>
+        <target>Akt. hiilari</target>
         <note>Widget label title describing the active carbs</note>
       </trans-unit>
       <trans-unit id="Active Insulin" xml:space="preserve">
         <source>Active Insulin</source>
-        <target>Aktiivinen insuliini</target>
+        <target>Akt. insuliini</target>
         <note>Widget label title describing the active insulin</note>
       </trans-unit>
       <trans-unit id="Eventually %1$@" xml:space="preserve">
@@ -306,7 +306,7 @@
     <body>
       <trans-unit id="9iF-xY-Bh4.text" xml:space="preserve">
         <source>Active Carbs</source>
-        <target>Ennuste 92 mg/dL</target>
+        <target>Aktiivinen hiilihydraatti</target>
         <note>Class = "UILabel"; text = "Active Carbs"; ObjectID = "9iF-xY-Bh4";</note>
       </trans-unit>
       <trans-unit id="UPi-dG-yYD.text" xml:space="preserve">
@@ -338,7 +338,7 @@
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Loop Status Extension</source>
-        <target>Loop Tila Laajennus</target>
+        <target>Loop Status Extension</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -380,12 +380,12 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to improve the Apple Watch complication.</source>
-        <target>Terveystietokannasta peräisin olevan aterian tietoja käytetään glukoosivaikutusten määrittämiseen. Terveys-tietokannan glukoositietoja käytetään graafeihin ja momentum-laskentaan. Terveys-tietokannan unitietoja käytetään Apple Watchin komplikaatioiden toiminnan optimointiin.</target>
+        <target>Terveystietokannasta peräisin olevan aterian tietoja käytetään glukoosivaikutusten määrittämiseen. Terveystietokannan glukoositietoja käytetään graafeissa ja glukoosin liikkeen laskennassa. Terveystietokannan unitietoja käytetään Apple Watchin komplikaatioiden toiminnan optimointiin.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Carbohydrate meal data entered in the app and on the watch is stored in the Health database. Glucose data retrieved from the CGM is stored securely in HealthKit.</source>
-        <target>Sovellukseen ja kelloon syötetyt hiilihydraattiateriatiedot tallennetaan Terveys-tietokantaan. Jatkuvan glukoosiseurannan tiedot tallennetaan turvallisesti HealthKitiin.</target>
+        <target>Sovellukseen ja kelloon syötetyt hiilihydraattiateriatiedot tallennetaan Terveystietokantaan. Jatkuvan glukoosiseurannan tiedot tallennetaan turvallisesti HealthKitiin.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -411,9 +411,9 @@
             Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.
             </source>
         <target>
-            Ilmoitukset näkyvät lukitulla näytöllä tai tulevat näkyviin, kun käytät muita sovelluksia
+            Ilmoitukset näkyvät lukitulla näytöllä tai tulevat näkyviin, kun käytät muita sovelluksia.
             
-            Ilmoitukset antavat tärkeää (appName) -sovelluksen tietoa ilman, että avaat sovellusta. Voit mukauttaa milloin ja miten haluat vastaanottaa nämä ilmoitukset.
+            Ilmoitukset antavat tärkeää (appName)-sovelluksen tietoa ilman, että avaat sovellusta. Voit mukauttaa milloin ja miten haluat vastaanottaa nämä ilmoitukset.
             </target>
         <note>Manage Notifications in Settings descriptive text</note>
       </trans-unit>
@@ -576,12 +576,12 @@ Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napautta
       </trans-unit>
       <trans-unit id="Active Carbs" xml:space="preserve">
         <source>Active Carbs</source>
-        <target>Aktiivinen hiilihydraatti</target>
+        <target>Akt. hiilari</target>
         <note>Title describing quantity of still-absorbing carbohydrates</note>
       </trans-unit>
       <trans-unit id="Active Insulin" xml:space="preserve">
         <source>Active Insulin</source>
-        <target>Aktiivinen insuliini</target>
+        <target>Akt. insuliini</target>
         <note>The title of the Insulin On-Board graph</note>
       </trans-unit>
       <trans-unit id="Active Insulin: %@" xml:space="preserve">
@@ -817,7 +817,7 @@ Unavailable</source>
       </trans-unit>
       <trans-unit id="Continuous Glucose Monitor" xml:space="preserve">
         <source>Continuous Glucose Monitor</source>
-        <target>Glukoosinseuranta (CGM)</target>
+        <target>Jatkuva glukoosinseuranta (CGM)</target>
         <note>The title of the continuous glucose monitor section in settings</note>
       </trans-unit>
       <trans-unit id="Correction Range" xml:space="preserve">
@@ -828,17 +828,17 @@ Unavailable</source>
       </trans-unit>
       <trans-unit id="Critical Event Log Ready" xml:space="preserve">
         <source>Critical Event Log Ready</source>
-        <target>Kriittisten tapahtumien loki valmis</target>
+        <target>Tärkeiden tapahtumien loki valmis</target>
         <note>Critical event log ready text</note>
       </trans-unit>
       <trans-unit id="Critical Event Logs" xml:space="preserve">
         <source>Critical Event Logs</source>
-        <target>Kriittisten tapahtumien loki</target>
+        <target>Tärkeiden tapahtumien loki</target>
         <note>Critical event log export title</note>
       </trans-unit>
       <trans-unit id="Critical Event Logs were not able to be exported." xml:space="preserve">
         <source>Critical Event Logs were not able to be exported.</source>
-        <target>Kriittisten tapahtumien lokia ei voitu viedä.</target>
+        <target>Tärkeiden tapahtumien lokia ei voitu viedä.</target>
         <note>Critical event log export error alert message</note>
       </trans-unit>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
@@ -944,7 +944,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Enter Bolus" xml:space="preserve">
         <source>Enter Bolus</source>
-        <target>Anna bolus</target>
+        <target>Syötä bolus</target>
         <note>Button text to begin entering a bolus</note>
       </trans-unit>
       <trans-unit id="Enter Fingerstick Glucose" xml:space="preserve">
@@ -989,7 +989,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Export Critical Event Logs" xml:space="preserve">
         <source>Export Critical Event Logs</source>
-        <target>Vie kriittisten tapahtumien loki</target>
+        <target>Vie tärkeiden tapahtumien loki</target>
         <note>The title of the export critical event logs in support</note>
       </trans-unit>
       <trans-unit id="Export-%1$@" xml:space="preserve">
@@ -1009,7 +1009,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Fingerstick Glucose" xml:space="preserve">
         <source>Fingerstick Glucose</source>
-        <target>Mitattu glukoosiarvo</target>
+        <target>Mitattu glukoosi</target>
         <note>Label for manual glucose entry row on bolus screen</note>
       </trans-unit>
       <trans-unit id="For %1$@" xml:space="preserve">
@@ -1156,12 +1156,12 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Manage Critical Alerts in Settings" xml:space="preserve">
         <source>Manage Critical Alerts in Settings</source>
-        <target>Tärkeiden hälytysten hallinta asetuksissa</target>
+        <target>Tärkeiden hälytysten hallinta Asetuksissa</target>
         <note>Manage Critical Alerts in Settings button text</note>
       </trans-unit>
       <trans-unit id="Manage Notifications in Settings" xml:space="preserve">
         <source>Manage Notifications in Settings</source>
-        <target>Ilmoitusten hallinta asetuksissa</target>
+        <target>Ilmoitusten hallinta Asetuksissa</target>
         <note>Manage Notifications in Settings button text</note>
       </trans-unit>
       <trans-unit id="Meal Bolus" xml:space="preserve">
@@ -1211,7 +1211,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="No Recent Pump Data" xml:space="preserve">
         <source>No Recent Pump Data</source>
-        <target>Ei viimeaikaisia pumpputietoja</target>
+        <target>Ei viimeaikaisia pumpun tietoja</target>
         <note>Title for bolus screen notice when pump data is missing or stale</note>
       </trans-unit>
       <trans-unit id="No connected devices, or failure during device connection" xml:space="preserve">
@@ -1253,7 +1253,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Preparing Critical Event Logs" xml:space="preserve">
         <source>Preparing Critical Event Logs</source>
-        <target>Valmistellaan kriittisten tapahtumien lokia</target>
+        <target>Valmistellaan tärkeiden tapahtumien lokia</target>
         <note>Preparing critical event log text</note>
       </trans-unit>
       <trans-unit id="Pump" xml:space="preserve">
@@ -1288,7 +1288,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Pump data is %1$@ old" xml:space="preserve">
         <source>Pump data is %1$@ old</source>
-        <target>Pumpputieto on %1$@ vanha</target>
+        <target>Pumpun tiedot ovat %1$@ vanhat</target>
         <note>The error message when pump data is too old to be used. (1: pump data age in minutes)</note>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
@@ -1411,7 +1411,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Tap to Stop" xml:space="preserve">
         <source>Tap to Stop</source>
-        <target>Pysäytä napauttamalla</target>
+        <target>Pysäytä</target>
         <note>Message presented in the status row instructing the user to tap this row to stop a bolus</note>
       </trans-unit>
       <trans-unit id="The bolus recommendation has updated. Please reconfirm the bolus amount." xml:space="preserve">
@@ -1441,7 +1441,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Therapy Settings" xml:space="preserve">
         <source>Therapy Settings</source>
-        <target>Hoidon asetukset</target>
+        <target>Hoitoasetukset</target>
         <note>Title text for button to Therapy Settings</note>
       </trans-unit>
       <trans-unit id="Try Again" xml:space="preserve">
@@ -1481,7 +1481,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Use Workout Glucose Targets" xml:space="preserve">
         <source>Use Workout Glucose Targets</source>
-        <target>Käytä liikuntatilan glukoositavoitetteita</target>
+        <target>Käytä liikuntatilan glukoositavoitetta</target>
         <note>The title of the alert controller used to select a duration for workout targets</note>
       </trans-unit>
       <trans-unit id="Walsh" xml:space="preserve">
@@ -1496,7 +1496,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Workout Targets" xml:space="preserve">
         <source>Workout Targets</source>
-        <target>Liikuntatavoitteet</target>
+        <target>Liikuntatavoite</target>
         <note>The label of the workout mode toggle button</note>
       </trans-unit>
       <trans-unit id="Your glucose is below or predicted to go below your suspend threshold, %@." xml:space="preserve">
@@ -1663,7 +1663,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="SQx-au-ZcM.text" xml:space="preserve">
         <source>g Active Carbs</source>
-        <target>g aktiivinen hiilihydraatti</target>
+        <target>g akt. hiilari</target>
         <note>Class = "UILabel"; text = "g Active Carbs"; ObjectID = "SQx-au-ZcM";</note>
       </trans-unit>
       <trans-unit id="Tz7-80-bJ7.title" xml:space="preserve">

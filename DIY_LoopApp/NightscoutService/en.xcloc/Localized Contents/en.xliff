@@ -56,15 +56,19 @@
         <target>API Secret</target>
         <note>The title of the Nightscout API secret</note>
       </trans-unit>
-      <trans-unit id="Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are ultimately what Loop uses to determine how much insulin to deliver. If you are new to Loop, work with your diabetes support team to come up with a plan for finding out what settings will work best for you." xml:space="preserve">
-        <source>Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are ultimately what Loop uses to determine how much insulin to deliver. If you are new to Loop, work with your diabetes support team to come up with a plan for finding out what settings will work best for you.</source>
-        <target>Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are ultimately what Loop uses to determine how much insulin to deliver. If you are new to Loop, work with your diabetes support team to come up with a plan for finding out what settings will work best for you.</target>
+      <trans-unit id="Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are a critical part of how Loop determines the right amount of insulin to deliver.&#10;&#10;If you are new to Loop, work with your diabetes support team to determine the settings that work best for you." xml:space="preserve">
+        <source>Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are a critical part of how Loop determines the right amount of insulin to deliver.
+
+If you are new to Loop, work with your diabetes support team to determine the settings that work best for you.</source>
+        <target>Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are a critical part of how Loop determines the right amount of insulin to deliver.
+
+If you are new to Loop, work with your diabetes support team to determine the settings that work best for you.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>Cancel</target>
-        <note>No comment provided by engineer.</note>
+        <note>Cancel</note>
       </trans-unit>
       <trans-unit id="Checking..." xml:space="preserve">
         <source>Checking...</source>
@@ -81,15 +85,15 @@
         <target>Done</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="I'm Ready!" xml:space="preserve">
-        <source>I'm Ready!</source>
-        <target>I'm Ready!</target>
+      <trans-unit id="Let's Go!" xml:space="preserve">
+        <source>Let's Go!</source>
+        <target>Let's Go!</target>
         <note>Button title for starting setup</note>
       </trans-unit>
       <trans-unit id="Login" xml:space="preserve">
         <source>Login</source>
         <target>Login</target>
-        <note>No comment provided by engineer.</note>
+        <note>Login button</note>
       </trans-unit>
       <trans-unit id="Logout" xml:space="preserve">
         <source>Logout</source>
@@ -99,17 +103,17 @@
       <trans-unit id="Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." xml:space="preserve">
         <source>Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later.</source>
         <target>Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later.</target>
-        <note>No comment provided by engineer.</note>
+        <note>Label for description of Nightscout</note>
       </trans-unit>
       <trans-unit id="Nightscout" xml:space="preserve">
         <source>Nightscout</source>
         <target>Nightscout</target>
-        <note>No comment provided by engineer.</note>
+        <note>Heading</note>
       </trans-unit>
       <trans-unit id="Nightscout Login" xml:space="preserve">
         <source>Nightscout Login</source>
         <target>Nightscout Login</target>
-        <note>No comment provided by engineer.</note>
+        <note>Nightscout login view</note>
       </trans-unit>
       <trans-unit id="Not Available" xml:space="preserve">
         <source>Not Available</source>
@@ -164,7 +168,7 @@
       <trans-unit id="Welcome to Loop" xml:space="preserve">
         <source>Welcome to Loop</source>
         <target>Welcome to Loop</target>
-        <note>No comment provided by engineer.</note>
+        <note>Welcome to Loop</note>
       </trans-unit>
       <trans-unit id="https://mysite.herokuapp.com" xml:space="preserve">
         <source>https://mysite.herokuapp.com</source>

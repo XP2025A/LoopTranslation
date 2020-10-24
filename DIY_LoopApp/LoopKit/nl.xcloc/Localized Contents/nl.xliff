@@ -678,6 +678,7 @@
       </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
+        <target>%1$@ gaat ervan uit dat insuline 6 uur actief werkt. Je kunt kiezen uit %2$@ verschillende modellen voor hoe de app de piekactiviteit van de insuline meet.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
@@ -1041,6 +1042,7 @@
       </trans-unit>
       <trans-unit id="Enter %1$@ value" xml:space="preserve">
         <source>Enter %1$@ value</source>
+        <target>Voer %1$@ waarde in</target>
         <note>Format string for accessibility label for value entry. (1: value label)</note>
       </trans-unit>
       <trans-unit id="Enter a number of units" xml:space="preserve">
@@ -1398,7 +1400,7 @@
       </trans-unit>
       <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target>Some of the values you have entered are outside of what is typically recommended for most people.</target>
+        <target>Sommige van de waarden die u hebt ingevoerd vallen buiten wat algemeen wordt aanbevolen.</target>
         <note>Caption for guardrail warning when more than one threshold is crossed</note>
       </trans-unit>
       <trans-unit id="Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." xml:space="preserve">

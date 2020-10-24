@@ -211,7 +211,7 @@
       </trans-unit>
       <trans-unit id="Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
         <source>Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target>Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</target>
+        <target>Korreksjonsområdet er den verdien (eller området) du vil at Loop skal korrigere blodsukkeret til ved å justere basalinsulinet.</target>
         <note>Descriptive text for glucose target range</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
@@ -256,7 +256,7 @@
       </trans-unit>
       <trans-unit id="Insulin Sensitivities" xml:space="preserve">
         <source>Insulin Sensitivities</source>
-        <target>Insulin Sensitivities</target>
+        <target>Insulinfølsomhet</target>
         <note>Title text for insulin sensitivity</note>
       </trans-unit>
       <trans-unit id="Invalid Configuration" xml:space="preserve">
@@ -271,7 +271,7 @@
       </trans-unit>
       <trans-unit id="Make sure your pump is within communication range of your phone." xml:space="preserve">
         <source>Make sure your pump is within communication range of your phone.</source>
-        <target>Make sure your pump is within communication range of your phone.</target>
+        <target>Kontroller at pumpen er innenfor kommunikasjonsområdet til telefonen.</target>
         <note>Recovery suggestion for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate" xml:space="preserve">
@@ -311,7 +311,7 @@
       </trans-unit>
       <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve">
         <source>One or more of the values you have entered is outside of what is typically recommended for most people.</source>
-        <target>One or more of the values you have entered is outside of what is typically recommended for most people.</target>
+        <target>En eller flere av verdiene du har satt er utenfor hva som vanligvis er anbefalt.</target>
         <note>Descriptive text for saving settings outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Please re-enable sharing in Health" xml:space="preserve">
@@ -321,7 +321,7 @@
       </trans-unit>
       <trans-unit id="Pre-Meal" xml:space="preserve">
         <source>Pre-Meal</source>
-        <target>Pre-Meal</target>
+        <target>Pre-Måltid</target>
         <note>Title for pre-meal mode</note>
       </trans-unit>
       <trans-unit id="Rising" xml:space="preserve">
@@ -341,52 +341,52 @@
       </trans-unit>
       <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target>Some of the values you have entered are outside of what is typically recommended for most people.</target>
+        <target>Noen av verdiene du har satt er utenfor det som vanligvis er anbefalt.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Suspend Threshold" xml:space="preserve">
         <source>Suspend Threshold</source>
-        <target>Suspend Threshold</target>
+        <target>Grense for Insulinstopp</target>
         <note>Title text for suspend threshold</note>
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</source>
-        <target>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</target>
+        <target>Senker blodsukkermål midlertidig før et måltid for å unngå post-måltid blodsukkertopper.</target>
         <note>Descriptive text for pre-meal correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end." xml:space="preserve">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end.</source>
-        <target>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end.</target>
+        <target>Senker blodsukkermål midlertidig før et måltid for å unngå post-måltid blodsukkertopper. Korreksjonsområdet kan settes alt fra insulinstoppgrense på den ene siden, til den høyeste verdien av ditt korreksjonsområde på den andre.</target>
         <note>Description of pre-meal mode</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</source>
-        <target>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</target>
+        <target>Øk blodsukkermålet før, under eller etter fysisk aktivitet for å redusere risikoen for føling.</target>
         <note>Descriptive text for workout correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." xml:space="preserve">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end.</source>
-        <target>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end.</target>
+        <target>Øk blodsukkermålet før, under eller etter fysisk aktivitet for å redusere risikoen for føling. Korreksjonsområdet kan settes alt fra den høyeste verdien av ditt korreksjonsområde på den ene siden, til 10 mmol/L på den andre.</target>
         <note>Description of workout mode</note>
       </trans-unit>
       <trans-unit id="The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</source>
-        <target>The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</target>
+        <target>Appen antar at insulin fungerer aktivt i 6 timer. Du kan velge mellom ulike modeller for hvordan appen måler insulinets toppaktivitet.</target>
         <note>Descriptive text for insulin model</note>
       </trans-unit>
       <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
         <source>The value you have entered is higher than what is typically recommended for most people.</source>
-        <target>The value you have entered is higher than what is typically recommended for most people.</target>
+        <target>Verdien du har satt er høyere enn det som vanligvis er anbefalt.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
       <trans-unit id="The value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
         <source>The value you have entered is lower than what is typically recommended for most people.</source>
-        <target>The value you have entered is lower than what is typically recommended for most people.</target>
+        <target>Verdien du har satt er lavere enn det som vanligvis er anbefalt.</target>
         <note>Descriptive text for guardrail low value warning</note>
       </trans-unit>
       <trans-unit id="The values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>The values you have entered are outside of what is typically recommended for most people.</source>
-        <target>The values you have entered are outside of what is typically recommended for most people.</target>
+        <target>Verdien du har satt er utenfor det som vanligvis er anbefalt.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
@@ -401,7 +401,7 @@
       </trans-unit>
       <trans-unit id="Uncertain Delivery" xml:space="preserve">
         <source>Uncertain Delivery</source>
-        <target>Uncertain Delivery</target>
+        <target>Ukjent bolusstatus</target>
         <note>Error description for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Unit" xml:space="preserve">
@@ -678,6 +678,7 @@
       </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
+        <target>%1$@ antar at insulin fungerer aktivt i 6 timer. Du kan velge mellom %2$@ ulike modeller for hvordan appen måler insulinets toppaktivitet.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
@@ -702,7 +703,7 @@
       </trans-unit>
       <trans-unit id="%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve">
         <source>%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</source>
-        <target>%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</target>
+        <target>%@ antar at insulinet den har levert arbeider aktivt for å senke glukosen i 6 timer. Denne innstillingen kan ikke endres.</target>
         <note>Information about insulin action duration</note>
       </trans-unit>
       <trans-unit id="%@%% of normal insulin" xml:space="preserve">
@@ -727,7 +728,7 @@
       </trans-unit>
       <trans-unit id="(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve">
         <source>(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</source>
-        <target>(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</target>
+        <target>(appNavn) antar at insulinet den har levert arbeider aktivt for å senke glukosen i 6 timer. Denne innstillingen kan ikke endres.</target>
         <note>Information about insulin action duration</note>
       </trans-unit>
       <trans-unit id="-" xml:space="preserve">
@@ -737,42 +738,42 @@
       </trans-unit>
       <trans-unit id="A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do" xml:space="preserve">
         <source>A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do</source>
-        <target>A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do</target>
+        <target>Et kort hvis tekst vil deles over flere linjer hvis jeg fortsetter å skrive langt nok - dette burde være nok</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="A correction range is different. This will be a narrower range." xml:space="preserve">
         <source>A correction range is different. This will be a narrower range.</source>
-        <target>A correction range is different. This will be a narrower range.</target>
+        <target>Et korreksjonsområde er annerledes. Dette vil være et smalere område.</target>
         <note>Information about differences between target range and correction range</note>
       </trans-unit>
       <trans-unit id="A setting of 0 U means you will not be able to bolus." xml:space="preserve">
         <source>A setting of 0 U means you will not be able to bolus.</source>
-        <target>A setting of 0 U means you will not be able to bolus.</target>
+        <target>En innstilling på 0 IE betyr at du ikke vil være i stand til å gi bolus.</target>
         <note>Caption text for zero maximum bolus setting warning</note>
       </trans-unit>
       <trans-unit id="A setting of 0 U/hr means Loop will not automatically administer insulin." xml:space="preserve">
         <source>A setting of 0 U/hr means Loop will not automatically administer insulin.</source>
-        <target>A setting of 0 U/hr means Loop will not automatically administer insulin.</target>
+        <target>En innstilling på 0 IE/t betyr at Loop ikke vil administrere insulin.</target>
         <note>Caption text for low maximum basal rate warning</note>
       </trans-unit>
       <trans-unit id="A simple card" xml:space="preserve">
         <source>A simple card</source>
-        <target>A simple card</target>
+        <target>Et enkelt kort</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="A value of 0 U/hr means you will be scheduled to receive no basal insulin." xml:space="preserve">
         <source>A value of 0 U/hr means you will be scheduled to receive no basal insulin.</source>
-        <target>A value of 0 U/hr means you will be scheduled to receive no basal insulin.</target>
+        <target>En verdi på 0 IE/t betyr at du ikke vil motta noe basalinsulin.</target>
         <note>Warning text for basal rate of 0 U/hr</note>
       </trans-unit>
       <trans-unit id="Above dynamic data" xml:space="preserve">
         <source>Above dynamic data</source>
-        <target>Above dynamic data</target>
+        <target>Over dynamiske data</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Above the save button" xml:space="preserve">
         <source>Above the save button</source>
-        <target>Above the save button</target>
+        <target>Over Lagre-knappen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Absorption Time" xml:space="preserve">
@@ -782,7 +783,7 @@
       </trans-unit>
       <trans-unit id="Action Button" xml:space="preserve">
         <source>Action Button</source>
-        <target>Action Button</target>
+        <target>Utførelsesknapp</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Activity" xml:space="preserve">
@@ -792,7 +793,7 @@
       </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
-        <target>Add</target>
+        <target>Legg til</target>
         <note>Button text to confirm adding a new schedule item</note>
       </trans-unit>
       <trans-unit id="Add Account" xml:space="preserve">
@@ -817,12 +818,12 @@
       </trans-unit>
       <trans-unit id="Authenticate to save therapy setting" xml:space="preserve">
         <source>Authenticate to save therapy setting</source>
-        <target>Authenticate to save therapy setting</target>
+        <target>Autentiserer for å lagre behandlingsinnstillingen</target>
         <note>Authentication hint string for therapy settings</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target>Basal Rates</target>
+        <target>Basalrate</target>
         <note>Title text for multi-value basal rate warning</note>
       </trans-unit>
       <trans-unit id="Basal, bolus, and correction insulin dose amounts are decreased by %@%%." xml:space="preserve">
@@ -842,12 +843,12 @@
       </trans-unit>
       <trans-unit id="Below dynamic data" xml:space="preserve">
         <source>Below dynamic data</source>
-        <target>Below dynamic data</target>
+        <target>Under dynamiske data</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Bottom" xml:space="preserve">
         <source>Bottom</source>
-        <target>Bottom</target>
+        <target>Nederst</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Bottom component" xml:space="preserve">
@@ -872,7 +873,7 @@
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve">
         <source>Carb Ratios</source>
-        <target>Carb Ratios</target>
+        <target>Karbohydratforhold</target>
         <note>Title text for multi-value carb ratio warning</note>
       </trans-unit>
       <trans-unit id="Changes will only apply this time you enable the override. The default settings of %@ will not be affected." xml:space="preserve">
@@ -882,7 +883,7 @@
       </trans-unit>
       <trans-unit id="Changes will only apply this time you enable the preset. The default settings of %@ will not be affected." xml:space="preserve">
         <source>Changes will only apply this time you enable the preset. The default settings of %@ will not be affected.</source>
-        <target>Changes will only apply this time you enable the preset. The default settings of %@ will not be affected.</target>
+        <target>Endringene vil kun gjelde for denne gangen når du aktiverer forhåndsinstillingen. Standardinstillinger for %@ vil ikke bli påvirket.</target>
         <note>Footer text for customizing from a preset (1: preset name)</note>
       </trans-unit>
       <trans-unit id="Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." xml:space="preserve">
@@ -892,13 +893,13 @@
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
-        <target>Close</target>
+        <target>Lukk</target>
         <note>Button text to close a modal
    Text to close informational page</note>
       </trans-unit>
       <trans-unit id="Completed." xml:space="preserve">
         <source>Completed.</source>
-        <target>Completed.</target>
+        <target>Fullført.</target>
         <note>Accessibility label for ProgressIndicatorView when showIndeterminantProgress</note>
       </trans-unit>
       <trans-unit id="Condition" xml:space="preserve">
@@ -908,7 +909,7 @@
       </trans-unit>
       <trans-unit id="Confirm Setting" xml:space="preserve">
         <source>Confirm Setting</source>
-        <target>Confirm Setting</target>
+        <target>Bekreft</target>
         <note>The button text for confirming the setting</note>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
@@ -918,7 +919,7 @@
       </trans-unit>
       <trans-unit id="Correction Values" xml:space="preserve">
         <source>Correction Values</source>
-        <target>Correction Values</target>
+        <target>Korreksjonsverdier</target>
         <note>Title text for multi-value correction value warning</note>
       </trans-unit>
       <trans-unit id="Correction range is the blood glucose range that you would like Loop to correct to." xml:space="preserve">
@@ -938,7 +939,7 @@
       </trans-unit>
       <trans-unit id="Custom Preset" xml:space="preserve">
         <source>Custom Preset</source>
-        <target>Custom Preset</target>
+        <target>Egendefinert innstilling</target>
         <note>The title for the custom preset entry screen
    The title for the custom preset selection screen</note>
       </trans-unit>
@@ -949,7 +950,7 @@
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
-        <target>Delete</target>
+        <target>Slett</target>
         <note>Test for table cell delete button</note>
       </trans-unit>
       <trans-unit id="Delete Account" xml:space="preserve">
@@ -974,12 +975,12 @@
       </trans-unit>
       <trans-unit id="Disable Preset" xml:space="preserve">
         <source>Disable Preset</source>
-        <target>Disable Preset</target>
+        <target>Deaktiver forhåndsinnstilling</target>
         <note>The text for the custom preset disable button</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target>Done</target>
+        <target>Ferdig</target>
         <note>Text for dismiss button
    Text for done button</note>
       </trans-unit>
@@ -990,17 +991,17 @@
       </trans-unit>
       <trans-unit id="Dynamic component #%@" xml:space="preserve">
         <source>Dynamic component #%@</source>
-        <target>Dynamic component #%@</target>
+        <target>Dynamisk komponent #%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Dynamic data %@" xml:space="preserve">
         <source>Dynamic data %@</source>
-        <target>Dynamic data %@</target>
+        <target>Dynamisk data %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
-        <target>Edit</target>
+        <target>Rediger</target>
         <note>Text for edit button
    The title for the enabled custom preset editing screen</note>
       </trans-unit>
@@ -1041,6 +1042,7 @@
       </trans-unit>
       <trans-unit id="Enter %1$@ value" xml:space="preserve">
         <source>Enter %1$@ value</source>
+        <target>Angi %1$@ verdi</target>
         <note>Format string for accessibility label for value entry. (1: value label)</note>
       </trans-unit>
       <trans-unit id="Enter a number of units" xml:space="preserve">
@@ -1070,38 +1072,38 @@
       </trans-unit>
       <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
         <source>For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target>For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</target>
+        <target>Korreksjonsområdet er den verdien (eller området) du vil at Loop skal korrigere blodsukkeret til.</target>
         <note>Information about correction range</note>
       </trans-unit>
       <trans-unit id="Get help with Therapy Settings" xml:space="preserve">
         <source>Get help with Therapy Settings</source>
-        <target>Get help with Therapy Settings</target>
+        <target>Få hjelp med behandlingsinnstillinger</target>
         <note>Support button for Therapy Settings</note>
       </trans-unit>
       <trans-unit id="Go Back" xml:space="preserve">
         <source>Go Back</source>
-        <target>Go Back</target>
+        <target>Tilbake</target>
         <note>Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range
    Text for go back action on confirmation alert</note>
       </trans-unit>
       <trans-unit id="High Basal Rate" xml:space="preserve">
         <source>High Basal Rate</source>
-        <target>High Basal Rate</target>
+        <target>Høy basalrate</target>
         <note>Title text for the high basal rate warning</note>
       </trans-unit>
       <trans-unit id="High Carb Ratio" xml:space="preserve">
         <source>High Carb Ratio</source>
-        <target>High Carb Ratio</target>
+        <target>Høyt karbohydratforhold</target>
         <note>Title text for the high carb ratio warning</note>
       </trans-unit>
       <trans-unit id="High Correction Value" xml:space="preserve">
         <source>High Correction Value</source>
-        <target>High Correction Value</target>
+        <target>Høy korreksjonsverdi</target>
         <note>Title text for the high correction value warning</note>
       </trans-unit>
       <trans-unit id="High Insulin Sensitivity" xml:space="preserve">
         <source>High Insulin Sensitivity</source>
-        <target>High Insulin Sensitivity</target>
+        <target>Høy insulinsensitivitet</target>
         <note>Title text for the high insulin sensitivity warning</note>
       </trans-unit>
       <trans-unit id="High Maximum Basal Rate" xml:space="preserve">
@@ -1116,22 +1118,22 @@
       </trans-unit>
       <trans-unit id="High Suspend Threshold" xml:space="preserve">
         <source>High Suspend Threshold</source>
-        <target>High Suspend Threshold</target>
+        <target>Høy Grense for insulinstopp</target>
         <note>Title text for the high suspend threshold warning</note>
       </trans-unit>
       <trans-unit id="If these settings look good to you, tap Save Settings to continue." xml:space="preserve">
         <source>If these settings look good to you, tap Save Settings to continue.</source>
-        <target>If these settings look good to you, tap Save Settings to continue.</target>
+        <target>Hvis disse innstillingene ser bra ut, trykk på Lagre innstillingene for å fortsette.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." xml:space="preserve">
         <source>If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL.</source>
-        <target>If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL.</target>
+        <target>Hvis du har brukt en CGM før, er du sannsynligvis kjent med målområdet som et bredt spekter av verdier du ønsker for glukosevarsler, for eksempel 3,9-10,0 mmol/L eller 5,0-11,1 mmol/L.</target>
         <note>Information about target range</note>
       </trans-unit>
       <trans-unit id="Insulin Sensitivities" xml:space="preserve">
         <source>Insulin Sensitivities</source>
-        <target>Insulin Sensitivities</target>
+        <target>Insulinsensitivitet</target>
         <note>Title text for multi-value insulin sensitivity warning</note>
       </trans-unit>
       <trans-unit id="Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." xml:space="preserve">
@@ -1141,27 +1143,27 @@
       </trans-unit>
       <trans-unit id="Loop supports 1 to 48 rates per day." xml:space="preserve">
         <source>Loop supports 1 to 48 rates per day.</source>
-        <target>Loop supports 1 to 48 rates per day.</target>
+        <target>Loop støtter 1 til 48 basalrater per døgn.</target>
         <note>Information about max number of basal rates</note>
       </trans-unit>
       <trans-unit id="Low Basal Rate" xml:space="preserve">
         <source>Low Basal Rate</source>
-        <target>Low Basal Rate</target>
+        <target>Lav basalrate</target>
         <note>Title text for the low basal rate warning</note>
       </trans-unit>
       <trans-unit id="Low Carb Ratio" xml:space="preserve">
         <source>Low Carb Ratio</source>
-        <target>Low Carb Ratio</target>
+        <target>Lavt karbohydratforhold</target>
         <note>Title text for the low carb ratio warning</note>
       </trans-unit>
       <trans-unit id="Low Correction Value" xml:space="preserve">
         <source>Low Correction Value</source>
-        <target>Low Correction Value</target>
+        <target>Lav korreksjonsverdi</target>
         <note>Title text for the low correction value warning</note>
       </trans-unit>
       <trans-unit id="Low Insulin Sensitivity" xml:space="preserve">
         <source>Low Insulin Sensitivity</source>
-        <target>Low Insulin Sensitivity</target>
+        <target>Lav insulinfølsomhet</target>
         <note>Title text for the low insulin sensitivity warning</note>
       </trans-unit>
       <trans-unit id="Low Maximum Basal Rate" xml:space="preserve">
@@ -1176,7 +1178,7 @@
       </trans-unit>
       <trans-unit id="Low Suspend Threshold" xml:space="preserve">
         <source>Low Suspend Threshold</source>
-        <target>Low Suspend Threshold</target>
+        <target>Lav grense for insulinstopp</target>
         <note>Title text for the low suspend threshold warning</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate" xml:space="preserve">
@@ -1196,7 +1198,7 @@
       </trans-unit>
       <trans-unit id="Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range." xml:space="preserve">
         <source>Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range.</source>
-        <target>Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range.</target>
+        <target>Maksimal basalhastighet er den maksimale automatisk justerte basalhastigheten som Loop har lov til å gi for å bidra til å nå korreksjonsområdet ditt.</target>
         <note>Information about maximum basal rate</note>
       </trans-unit>
       <trans-unit id="Maximum bolus" xml:space="preserve">
@@ -1206,7 +1208,7 @@
       </trans-unit>
       <trans-unit id="Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose." xml:space="preserve">
         <source>Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose.</source>
-        <target>Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose.</target>
+        <target>Maksimal bolus er den høyeste insulindosen som du vil tillate Loop å anbefale på én gang for å dekke karbohydrater eller få ned høy glukose.</target>
         <note>Information about maximum bolus</note>
       </trans-unit>
       <trans-unit id="Medium" xml:space="preserve">
@@ -1216,7 +1218,7 @@
       </trans-unit>
       <trans-unit id="Middle" xml:space="preserve">
         <source>Middle</source>
-        <target>Middle</target>
+        <target>Middels</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="More Info" xml:space="preserve">
@@ -1241,7 +1243,7 @@
       </trans-unit>
       <trans-unit id="No Basal Insulin" xml:space="preserve">
         <source>No Basal Insulin</source>
-        <target>No Basal Insulin</target>
+        <target>Ingen basal insulin</target>
         <note>Title text for the zero basal rate warning</note>
       </trans-unit>
       <trans-unit id="Other" xml:space="preserve">
@@ -1302,12 +1304,12 @@
       </trans-unit>
       <trans-unit id="Rapid-Acting – Adults" xml:space="preserve">
         <source>Rapid-Acting – Adults</source>
-        <target>Rapid-Acting – Adults</target>
+        <target>Hurtigvirkende - Voksen</target>
         <note>Title of insulin model preset - rapid acting adult</note>
       </trans-unit>
       <trans-unit id="Rapid-Acting – Children" xml:space="preserve">
         <source>Rapid-Acting – Children</source>
-        <target>Rapid-Acting – Children</target>
+        <target>Hurtigvirkende - Barn</target>
         <note>Title of insulin model preset - rapid acting children</note>
       </trans-unit>
       <trans-unit id="Required" xml:space="preserve">
@@ -1327,12 +1329,12 @@
       </trans-unit>
       <trans-unit id="Review and Save Settings" xml:space="preserve">
         <source>Review and Save Settings</source>
-        <target>Review and Save Settings</target>
+        <target>Se gjennom og lagre innstillinger</target>
         <note>title for summary description section</note>
       </trans-unit>
       <trans-unit id="Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." xml:space="preserve">
         <source>Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen.</source>
-        <target>Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen.</target>
+        <target>Se gjennom innstillingene dine nedenfor. Om du vil endre noen av disse, trykk "tilbake" for å gå til det skjermbildet.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="Running" xml:space="preserve">
@@ -1358,7 +1360,7 @@
       </trans-unit>
       <trans-unit id="Save Basal Rates?" xml:space="preserve">
         <source>Save Basal Rates?</source>
-        <target>Save Basal Rates?</target>
+        <target>Lagre Basalrate?</target>
         <note>Alert title for confirming basal rates outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Save Carb Ratios?" xml:space="preserve">
@@ -1383,12 +1385,12 @@
       </trans-unit>
       <trans-unit id="Save Insulin Sensitivities?" xml:space="preserve">
         <source>Save Insulin Sensitivities?</source>
-        <target>Save Insulin Sensitivities?</target>
+        <target>Lagre Insulinsensitivitet?</target>
         <note>Alert title for confirming insulin sensitivities outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Save Suspend Threshold?" xml:space="preserve">
         <source>Save Suspend Threshold?</source>
-        <target>Save Suspend Threshold?</target>
+        <target>Lagre Grense for insulinstopp?</target>
         <note>Alert title for confirming a suspend threshold outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Slow" xml:space="preserve">
@@ -1398,12 +1400,12 @@
       </trans-unit>
       <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target>Some of the values you have entered are outside of what is typically recommended for most people.</target>
+        <target>Noen av verdiene er utenfor hva som vanligvis er anbefalt.</target>
         <note>Caption for guardrail warning when more than one threshold is crossed</note>
       </trans-unit>
       <trans-unit id="Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." xml:space="preserve">
         <source>Some users choose a value 2, 3, or 4 times their highest scheduled basal rate.</source>
-        <target>Some users choose a value 2, 3, or 4 times their highest scheduled basal rate.</target>
+        <target>Noen brukere velger en verdi 2, 3 eller 4 ganger høyere en deres høyeste programmerte basalrate.</target>
         <note>Information about typical maximum basal rates</note>
       </trans-unit>
       <trans-unit id="Start Time" xml:space="preserve">
@@ -1523,7 +1525,7 @@
       </trans-unit>
       <trans-unit id="This will typically be" xml:space="preserve">
         <source>This will typically be</source>
-        <target>This will typically be</target>
+        <target>Dette vil typisk være</target>
         <note>Information about pre-meal range relative to correction range
    Information about workout range relative to correction range</note>
       </trans-unit>
@@ -1559,7 +1561,7 @@
       </trans-unit>
       <trans-unit id="Unable to Save" xml:space="preserve">
         <source>Unable to Save</source>
-        <target>Unable to Save</target>
+        <target>Kunne ikke lagre</target>
         <note>Alert title when error occurs while saving a schedule</note>
       </trans-unit>
       <trans-unit id="Units" xml:space="preserve">
@@ -1575,7 +1577,7 @@
       </trans-unit>
       <trans-unit id="Value" xml:space="preserve">
         <source>Value</source>
-        <target>Value</target>
+        <target>Verdi</target>
         <note>Placeholder text until value is entered</note>
       </trans-unit>
       <trans-unit id="Verifying" xml:space="preserve">
@@ -1595,7 +1597,7 @@
       </trans-unit>
       <trans-unit id="Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable." xml:space="preserve">
         <source>Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable.</source>
-        <target>Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable.</target>
+        <target>Få hjelp av helsepersonell for å velge en verdi som er høyere enn din høyeste programmerte basalrate, men så konservativ eller aggressiv som du er komfortabel med.</target>
         <note>Disclaimer</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
@@ -1850,7 +1852,7 @@ Without communication, the app cannot continue to send commands for insulin deli
       </trans-unit>
       <trans-unit id="Back" xml:space="preserve">
         <source>Back</source>
-        <target>Back</target>
+        <target>Tilbake</target>
         <note>Back button text on DeliveryUncertaintyRecoveryView</note>
       </trans-unit>
       <trans-unit id="CGM Settings" xml:space="preserve">

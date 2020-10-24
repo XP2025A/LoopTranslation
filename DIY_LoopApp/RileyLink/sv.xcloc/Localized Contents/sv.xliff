@@ -778,7 +778,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Sending button press…" xml:space="preserve">
         <source>Sending button press…</source>
-        <target>Skicka knapptryckning…</target>
+        <target>Skickar knapptryckning…</target>
         <note>Progress message for sending button press to pump.</note>
       </trans-unit>
       <trans-unit id="Signal Strength" xml:space="preserve">
@@ -805,12 +805,12 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Tune Radio Frequency" xml:space="preserve">
         <source>Tune Radio Frequency</source>
-        <target>Radiofrekvens</target>
+        <target>Ställ in radiofrekvens</target>
         <note>The title of the command to re-tune the radio</note>
       </trans-unit>
       <trans-unit id="Tuning radio…" xml:space="preserve">
         <source>Tuning radio…</source>
-        <target>Justera radio…</target>
+        <target>Ställer in radio…</target>
         <note>Progress message for tuning radio</note>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
@@ -842,12 +842,12 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="A6i-Cb-baR.text" xml:space="preserve">
         <source>Other Devices</source>
-        <target>Annan enhet</target>
+        <target>Andra enheter</target>
         <note>Class = "UILabel"; text = "Other Devices"; ObjectID = "A6i-Cb-baR";</note>
       </trans-unit>
       <trans-unit id="Bdb-j4-WcR.text" xml:space="preserve">
         <source>Do not change the time using your pumpʼs menu.</source>
-        <target>Ändra inte tiden med din pumps menyer.</target>
+        <target>Ändra inte tiden i din pumps menyer.</target>
         <note>Class = "UILabel"; text = "Do not change the time using your pumpʼs menu."; ObjectID = "Bdb-j4-WcR";</note>
       </trans-unit>
       <trans-unit id="Fps-h3-V4K.title" xml:space="preserve">
@@ -862,12 +862,12 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="HuY-fE-vM8.text" xml:space="preserve">
         <source>If you travel to a different time zone for an extended period of time, you can change the pumpʼs time zone at any time in Loopʼs Settings screen.</source>
-        <target>Om du reser till annan tidszon under en längre tid, kan du ändra tidszonen närsomhelst i Loops inställningar.</target>
+        <target>Om du reser till annan tidszon under en längre tid, kan du närsomhelst ändra tidszonen i Loops inställningar.</target>
         <note>Class = "UILabel"; text = "If you travel to a different time zone for an extended period of time, you can change the pumpʼs time zone at any time in Loopʼs Settings screen."; ObjectID = "HuY-fE-vM8";</note>
       </trans-unit>
       <trans-unit id="IQ5-53-x9s.text" xml:space="preserve">
         <source>Loop will keep your pumpʼs clock synchronized with your phone in the time zone youʼre in now.</source>
-        <target>Loop kommer att synkronisera pumpens klocka med din telefon i tidszonen du befinner dig nu.</target>
+        <target>Loop kommer att synkronisera pumpens klocka med din telefon i den tidszon du nu befinner dig i.</target>
         <note>Class = "UILabel"; text = "Loop will keep your pumpʼs clock synchronized with your phone in the time zone youʼre in now."; ObjectID = "IQ5-53-x9s";</note>
       </trans-unit>
       <trans-unit id="Nwf-TJ-KmJ.title" xml:space="preserve">
@@ -1071,7 +1071,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Empty response from pod" xml:space="preserve">
         <source>Empty response from pod</source>
-        <target>Inget svar från pod</target>
+        <target>Inget svar från podd</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
       <trans-unit id="Error event logged, shutting down" xml:space="preserve">
@@ -1232,12 +1232,12 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Please bring your pod closer to the RileyLink and try again" xml:space="preserve">
         <source>Please bring your pod closer to the RileyLink and try again</source>
-        <target>För din pod närmare din RileyLink och försök igen</target>
+        <target>För din podd närmare din RileyLink och försök igen</target>
         <note>Recovery suggestion when no response is received from pod</note>
       </trans-unit>
       <trans-unit id="Please pair a new pod" xml:space="preserve">
         <source>Please pair a new pod</source>
-        <target>Var god parkoppla ny pod</target>
+        <target>Var god parkoppla ny podd</target>
         <note>Recover suggestion shown when no pod is paired</note>
       </trans-unit>
       <trans-unit id="Please reposition the RileyLink further from the pod" xml:space="preserve">
@@ -1257,11 +1257,12 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Pod Expiration Notice" xml:space="preserve">
         <source>Pod Expiration Notice</source>
-        <target>Notis om utgångsdatum för pod</target>
+        <target>Notis om utgångsdatum för podd</target>
         <note>The title for pod expiration notification</note>
       </trans-unit>
       <trans-unit id="Pod Expired" xml:space="preserve">
         <source>Pod Expired</source>
+        <target>Poddens utgångsdatum passerat</target>
         <note>Highlight string for pod expired (80hrs).</note>
       </trans-unit>
       <trans-unit id="Pod Fault" xml:space="preserve">
@@ -1276,22 +1277,22 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Pod already paired" xml:space="preserve">
         <source>Pod already paired</source>
-        <target>Pod redan parkopplad</target>
+        <target>Podd redan parkopplad</target>
         <note>Error message shown when user cannot pair because pod is already paired</note>
       </trans-unit>
       <trans-unit id="Pod already primed" xml:space="preserve">
         <source>Pod already primed</source>
-        <target>Pod redan fylld</target>
+        <target>Podd redan fylld</target>
         <note>Error message shown when prime is attempted, but pod is already primed</note>
       </trans-unit>
       <trans-unit id="Pod expiration advisory alarm" xml:space="preserve">
         <source>Pod expiration advisory alarm</source>
-        <target>Larm för utgångsdatum för pod</target>
+        <target>Larm för utgångsdatum för podd</target>
         <note>Description for expiration advisory alarm</note>
       </trans-unit>
       <trans-unit id="Pod expired" xml:space="preserve">
         <source>Pod expired</source>
-        <target>Pod har utgått</target>
+        <target>Poddens utgångsdatum passerat</target>
         <note>Description for Pod expired pod fault</note>
       </trans-unit>
       <trans-unit id="Pod is not in a state ready for cannula insertion." xml:space="preserve">
@@ -1326,13 +1327,13 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Priming" xml:space="preserve">
         <source>Priming</source>
-        <target>Pod fylls på</target>
+        <target>Podd fylls på</target>
         <note>Delivery status when pod is priming
    Pod status when priming</note>
       </trans-unit>
       <trans-unit id="Priming completed" xml:space="preserve">
         <source>Priming completed</source>
-        <target>Infusionskateter har förfyllts</target>
+        <target>Podd har fyllts färdigt med insulin</target>
         <note>Pod state when priming completed</note>
       </trans-unit>
       <trans-unit id="Ready for basal programming" xml:space="preserve">
@@ -1342,7 +1343,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Ready to insert cannula" xml:space="preserve">
         <source>Ready to insert cannula</source>
-        <target>Klar att föra in kanyl</target>
+        <target>Redo att föra in kanyl</target>
         <note>Pod state when ready for cannula insertion</note>
       </trans-unit>
       <trans-unit id="Reminder initialized" xml:space="preserve">
@@ -1412,7 +1413,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Time to replace your pod! Your pod will expire in %1$@" xml:space="preserve">
         <source>Time to replace your pod! Your pod will expire in %1$@</source>
-        <target>Byt din pod! Din pod går ut om %1$@</target>
+        <target>Byt din podd! Din podd går ut om %1$@</target>
         <note>The format string for pod expiration notification body (1: time until expiration)</note>
       </trans-unit>
       <trans-unit id="Try again" xml:space="preserve">
@@ -1437,7 +1438,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Unexpected response from pod" xml:space="preserve">
         <source>Unexpected response from pod</source>
-        <target>Oväntat svar från din pod</target>
+        <target>Oväntat svar från din podd</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
       <trans-unit id="Unknown Value (%1$@) for type %2$@" xml:space="preserve">
@@ -1581,12 +1582,12 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="nDb-R5-e02.title" xml:space="preserve">
         <source>Setup Complete</source>
-        <target>Konfigurationen färdig</target>
+        <target>Inställning färdig</target>
         <note>Class = "UINavigationItem"; title = "Setup Complete"; ObjectID = "nDb-R5-e02";</note>
       </trans-unit>
       <trans-unit id="rcC-ke-lUP.footerTitle" xml:space="preserve">
         <source>NOTE: If cannula sticks out, press cancel.</source>
-        <target>OBS: Om kanylen redan sticker ut, tryck Avbryt.</target>
+        <target>OBS: Om kanylen sticker ut, tryck Avbryt.</target>
         <note>Class = "UITableViewSection"; footerTitle = "NOTE: If cannula sticks out, press cancel."; ObjectID = "rcC-ke-lUP";</note>
       </trans-unit>
       <trans-unit id="rcC-ke-lUP.headerTitle" xml:space="preserve">
@@ -1876,7 +1877,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Expires" xml:space="preserve">
         <source>Expires</source>
-        <target>Utgår</target>
+        <target>Går ut</target>
         <note>The title of the cell showing the pod expiration</note>
       </trans-unit>
       <trans-unit id="Fault" xml:space="preserve">
@@ -2041,7 +2042,7 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
       <trans-unit id="Pulse Count: %1$d&#10;" xml:space="preserve">
         <source>Pulse Count: %1$d
 </source>
-        <target>Pulse Count: %1$d
+        <target>Pulsantal: %1$d
 </target>
         <note>The format string for Pulse Count (1: pulse count)</note>
       </trans-unit>
@@ -2097,7 +2098,7 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
       </trans-unit>
       <trans-unit id="Reservoir" xml:space="preserve">
         <source>Reservoir</source>
-        <target>Reservoar</target>
+        <target>Insulinreservoar</target>
         <note>The title of the cell showing reservoir status</note>
       </trans-unit>
       <trans-unit id="Reservoir Level: %1$@ U&#10;" xml:space="preserve">
@@ -2109,7 +2110,7 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
       </trans-unit>
       <trans-unit id="Retry Pod Deactivation" xml:space="preserve">
         <source>Retry Pod Deactivation</source>
-        <target>Försök inaktivera podden igen</target>
+        <target>Försök att inaktivera podd igen</target>
         <note>Button title for retrying pod deactivation</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -2207,7 +2208,7 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
       </trans-unit>
       <trans-unit id="Add Minimed Pump" xml:space="preserve">
         <source>Add Minimed Pump</source>
-        <target>Lägg till Minimed Pump</target>
+        <target>Lägg till Minimed-pump</target>
         <note>Title text for button to set up a new minimed pump</note>
       </trans-unit>
       <trans-unit id="Configuration" xml:space="preserve">
@@ -2277,7 +2278,7 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
       </trans-unit>
       <trans-unit id="http://mysite.herokuapp.com" xml:space="preserve">
         <source>http://mysite.herokuapp.com</source>
-        <target>https://min-nightscoutsida.herokuapp.com</target>
+        <target>https://min_nightscoutsida.herokuapp.com</target>
         <note>The placeholder text for the nightscout site URL credential</note>
       </trans-unit>
     </body>
@@ -2348,7 +2349,7 @@ Om du inte hörde några pip från din podd, är det troligt att piezohögtalare
       </trans-unit>
       <trans-unit id="Pump did not respond in time" xml:space="preserve">
         <source>Pump did not respond in time</source>
-        <target>Pumpen svarade inte inom utsatt tid</target>
+        <target>Pumpen svarade inte i tid</target>
         <note>Response timeout error description</note>
       </trans-unit>
       <trans-unit id="Response %@ is invalid" xml:space="preserve">
