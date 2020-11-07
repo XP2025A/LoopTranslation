@@ -1,7 +1,8 @@
 abspath=$(cd "$(dirname "$0")"; pwd -P)
 parentpath=$(cd "$(dirname "$abspath")"; pwd -P)
-projectpath="$parentpath/LoopWorkspace"
-translationpath=""$parentpath//LoopTranslation/DIY_LoopApp""
+looppath=$(cd "$(dirname "$parentpath")"; pwd -P)
+projectpath="$looppath/LoopWorkspace"
+translationpath=""$looppath//LoopTranslation/DIY_LoopApp""
 IFS=":"
 languages="en:da:de:es:fi:fr:it:ja:nb:nl:pl:pt-BR:ro:ru:sv:vi:zh-Hans"
 
