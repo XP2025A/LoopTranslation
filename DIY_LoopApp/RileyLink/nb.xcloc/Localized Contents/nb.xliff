@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Crypto/en.lproj/InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -14,7 +14,7 @@
   </file>
   <file original="en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="nb">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id=" (inactive)" xml:space="preserve">
@@ -202,7 +202,7 @@
   </file>
   <file original="MinimedKit/Base.lproj/Localizable.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="A bolus is already in progress" xml:space="preserve">
@@ -277,17 +277,17 @@
       </trans-unit>
       <trans-unit id="Glucose page failed crc check" xml:space="preserve">
         <source>Glucose page failed crc check</source>
-        <target>Glucose page failed crc check</target>
+        <target>Glukosesiden mislyktes med crc sjekk</target>
         <note>Error description for glucose page failing crc check</note>
       </trans-unit>
       <trans-unit id="History page does not exist" xml:space="preserve">
         <source>History page does not exist</source>
-        <target>History page does not exist</target>
+        <target>Historie siden eksisterer ikke</target>
         <note>Pump error code when invalid history page is requested</note>
       </trans-unit>
       <trans-unit id="History page failed crc check" xml:space="preserve">
         <source>History page failed crc check</source>
-        <target>History page failed crc check</target>
+        <target>Historikksiden mislyktes med crc kontroll</target>
         <note>Error description for history page failing crc check</note>
       </trans-unit>
       <trans-unit id="Invalid response during %1$@: %2$@" xml:space="preserve">
@@ -387,12 +387,12 @@
       </trans-unit>
       <trans-unit id="Unknown glucose record type: %$1@" xml:space="preserve">
         <source>Unknown glucose record type: %$1@</source>
-        <target>Unknown glucose record type: %$1@</target>
+        <target>Ukjent glukoseopptakstype: %$1@</target>
         <note>Format string for error description for an unknown record type in a glucose page. (1: event type number)</note>
       </trans-unit>
       <trans-unit id="Unknown history record type: %$1@" xml:space="preserve">
         <source>Unknown history record type: %$1@</source>
-        <target>Unknown history record type: %$1@</target>
+        <target>Ukjent historieopptakstype: %$1@</target>
         <note>Format string for error description for an unknown record type in a history page. (1: event type number)</note>
       </trans-unit>
       <trans-unit id="Unknown pump error code: %1$@" xml:space="preserve">
@@ -419,7 +419,7 @@
   </file>
   <file original="MinimedKit/en.lproj/InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -431,7 +431,7 @@
   </file>
   <file original="MinimedKitPlugin/en.lproj/InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -443,7 +443,7 @@
   </file>
   <file original="MinimedKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="%1$@  %2$@/%3$@  %4$@" xml:space="preserve">
@@ -687,14 +687,14 @@ Connect Devices &gt;
 Other Devices &gt;
 On &gt;
 Find Device</source>
-        <target>On your pump, go to the Find Device screen and select "Find Device".
+        <target>Gå til skjermbildet Finn enhet på pumpen og velg "Finn enhet".
 
-Main Menu &gt;
-Utilities &gt;
-Connect Devices &gt;
-Other Devices &gt;
-On &gt;
-Find Device</target>
+Hovedmenyen &gt;
+Verktøy &gt;
+Koble til enheter &gt;
+Andre enheter &gt;
+På &gt;
+Finn enhet</target>
         <note>Pump find device instruction</note>
       </trans-unit>
       <trans-unit id="Preferred Data Source" xml:space="preserve">
@@ -825,7 +825,7 @@ Find Device</target>
   </file>
   <file original="MinimedKitUI/Base.lproj/MinimedPumpManager.storyboard" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="0MV-2k-Dty.title" xml:space="preserve">
@@ -947,7 +947,7 @@ Find Device</target>
   </file>
   <file original="MinimedKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -959,7 +959,7 @@ Find Device</target>
   </file>
   <file original="NightscoutUploadKit/en.lproj/InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -971,7 +971,7 @@ Find Device</target>
   </file>
   <file original="OmniKit/en.lproj/InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -983,7 +983,7 @@ Find Device</target>
   </file>
   <file original="OmniKit/en.lproj/Localizable.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id=" (inactive)" xml:space="preserve">
@@ -1009,7 +1009,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Basal initialized" xml:space="preserve">
         <source>Basal initialized</source>
-        <target>Basal initialized</target>
+        <target>Basal initialisert</target>
         <note>Pod state when basal initialized</note>
       </trans-unit>
       <trans-unit id="Below 50 units" xml:space="preserve">
@@ -1049,12 +1049,12 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Command error %1$u" xml:space="preserve">
         <source>Command error %1$u</source>
-        <target>Command error %1$u</target>
+        <target>Kommandofeil %1$u</target>
         <note>Format string for invalid message error code (1: error code number)</note>
       </trans-unit>
       <trans-unit id="Crosstalk possible. Please move to a new location and try again" xml:space="preserve">
         <source>Crosstalk possible. Please move to a new location and try again</source>
-        <target>Crosstalk possible. Please move to a new location and try again</target>
+        <target>Crosstalk mulig. Gå til en ny posisjon og prøv igjen</target>
         <note>Recovery suggestion when unexpected address received</note>
       </trans-unit>
       <trans-unit id="Deactivated" xml:space="preserve">
@@ -1119,7 +1119,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Invalid CRC" xml:space="preserve">
         <source>Invalid CRC</source>
-        <target>Invalid CRC</target>
+        <target>Ugyldig CRC</target>
         <note>Description for MessageError invalidCrc</note>
       </trans-unit>
       <trans-unit id="Invalid address 0x%x. Expected 0x%x" xml:space="preserve">
@@ -1149,7 +1149,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Memory initialized" xml:space="preserve">
         <source>Memory initialized</source>
-        <target>Memory initialized</target>
+        <target>Minnet er initialisert</target>
         <note>Pod memory initialized</note>
       </trans-unit>
       <trans-unit id="No Insulin" xml:space="preserve">
@@ -1220,7 +1220,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Parsing Error: " xml:space="preserve">
         <source>Parsing Error: </source>
-        <target>Parsing Error: </target>
+        <target>Feiltolkning: </target>
         <note>Description for MessageError parsingError</note>
       </trans-unit>
       <trans-unit id="Please bring only original pod in range or deactivate original pod" xml:space="preserve">
@@ -1310,7 +1310,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Pod sent ack instead of response" xml:space="preserve">
         <source>Pod sent ack instead of response</source>
-        <target>Pod sent ack instead of response</target>
+        <target>Pod sendte ack i stedet for respons</target>
         <note>Error message shown when pod sends ack instead of response</note>
       </trans-unit>
       <trans-unit id="Pod setup window expired" xml:space="preserve">
@@ -1331,7 +1331,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Priming completed" xml:space="preserve">
         <source>Priming completed</source>
-        <target>Priming completed</target>
+        <target>Fylling ferdig</target>
         <note>Pod state when priming completed</note>
       </trans-unit>
       <trans-unit id="Ready for basal programming" xml:space="preserve">
@@ -1346,7 +1346,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Reminder initialized" xml:space="preserve">
         <source>Reminder initialized</source>
-        <target>Reminder initialized</target>
+        <target>Påminnelse initialisert</target>
         <note>Pod pairing reminder initialized</note>
       </trans-unit>
       <trans-unit id="Resume: %1$@ %2$@" xml:space="preserve">
@@ -1426,12 +1426,12 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Unexpected message sequence number" xml:space="preserve">
         <source>Unexpected message sequence number</source>
-        <target>Unexpected message sequence number</target>
+        <target>Uventet sekvensnummer for melding</target>
         <note>Description for MessageError invalidSequence</note>
       </trans-unit>
       <trans-unit id="Unexpected pod change" xml:space="preserve">
         <source>Unexpected pod change</source>
-        <target>Unexpected pod change</target>
+        <target>Uventet endring av pod</target>
         <note>Format string for unexpected pod change</note>
       </trans-unit>
       <trans-unit id="Unexpected response from pod" xml:space="preserve">
@@ -1488,7 +1488,7 @@ Find Device</target>
   </file>
   <file original="OmniKitPlugin/en.lproj/InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1500,7 +1500,7 @@ Find Device</target>
   </file>
   <file original="OmniKitUI/Base.lproj/OmnipodPumpManager.storyboard" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="1LF-te-Bdd.headerTitle" xml:space="preserve">
@@ -1612,7 +1612,7 @@ Find Device</target>
   </file>
   <file original="OmniKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1624,7 +1624,7 @@ Find Device</target>
   </file>
   <file original="OmniKitUI/en.lproj/Localizable.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="%1$@ minutes" xml:space="preserve">
@@ -1805,7 +1805,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Diagnostics" xml:space="preserve">
         <source>Diagnostics</source>
-        <target>Diagnostics</target>
+        <target>Diagnostikk</target>
         <note>The title of the configuration section in settings</note>
       </trans-unit>
       <trans-unit id="Disable Bolus Beeps" xml:space="preserve">
@@ -1850,7 +1850,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Error emitting completion confirmation beep" xml:space="preserve">
         <source>Error emitting completion confirmation beep</source>
-        <target>Error emitting completion confirmation beep</target>
+        <target>Feil under utsendelse av fullføringsbekreftelsessignal</target>
         <note>The alert title for emitting completion beep error</note>
       </trans-unit>
       <trans-unit id="Error enabling bolus beeps" xml:space="preserve">
@@ -1886,7 +1886,7 @@ Find Device</target>
       <trans-unit id="Fault time: %1$@&#10;" xml:space="preserve">
         <source>Fault time: %1$@
 </source>
-        <target>Fault time: %1$@
+        <target>Feil tid: %1$@
 </target>
         <note>The format string for fault time: (1: fault time string)</note>
       </trans-unit>
@@ -1993,9 +1993,9 @@ Find Device</target>
         <source>Play test beeps command sent successfully.
 
 If you did not hear any beeps from your pod, it's likely that the piezo speaker in your pod is broken.</source>
-        <target>Play test beeps command sent successfully.
+        <target>Spill test pip kommando er vellykket sendt.
 
-If you did not hear any beeps from your pod, it's likely that the piezo speaker in your pod is broken.</target>
+Hvis du ikke hørte pipene fra poden din, er det sannsynlig at piezo høyttaleren i poden din er ødelagt.</target>
         <note>Success message for play test beeps.</note>
       </trans-unit>
       <trans-unit id="Pod Active: %1$@&#10;" xml:space="preserve">
@@ -2012,7 +2012,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       </trans-unit>
       <trans-unit id="Pod Details" xml:space="preserve">
         <source>Pod Details</source>
-        <target>Pod Details</target>
+        <target>Pod detaljer</target>
         <note>The title of the device information section in settings</note>
       </trans-unit>
       <trans-unit id="Pod Settings" xml:space="preserve">
@@ -2023,7 +2023,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       <trans-unit id="Previous pod progress: %1$@&#10;" xml:space="preserve">
         <source>Previous pod progress: %1$@
 </source>
-        <target>Previous pod progress: %1$@
+        <target>Tidligere pod pågår: %1$@
 </target>
         <note>The format string for previous pod progress: (1: previous pod progress string)</note>
       </trans-unit>
@@ -2040,7 +2040,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       <trans-unit id="Pulse Count: %1$d&#10;" xml:space="preserve">
         <source>Pulse Count: %1$d
 </source>
-        <target>Pulse Count: %1$d
+        <target>Antall pulser: %1$d
 </target>
         <note>The format string for Pulse Count (1: pulse count)</note>
       </trans-unit>
@@ -2063,20 +2063,24 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       </trans-unit>
       <trans-unit id="Read Pulse Log" xml:space="preserve">
         <source>Read Pulse Log</source>
-        <target>Read Pulse Log</target>
+        <target>Les pulslogg</target>
         <note>The title of the command to read the pulse log</note>
       </trans-unit>
       <trans-unit id="Reading Pulse Log…" xml:space="preserve">
         <source>Reading Pulse Log…</source>
-        <target>Reading Pulse Log…</target>
+        <target>Leser pulslogg…</target>
         <note>Progress message for reading pulse log.</note>
       </trans-unit>
       <trans-unit id="Receiver Low Gain: %1$@&#10;" xml:space="preserve">
         <source>Receiver Low Gain: %1$@
 </source>
-        <target>Receiver Low Gain: %1$@
+        <target>Mottaker lav forsterkning: %1$@
 </target>
         <note>The format string for receiverLowGain: (1: receiverLowGain)</note>
+      </trans-unit>
+      <trans-unit id="Recheck Cannula Insertion" xml:space="preserve">
+        <source>Recheck Cannula Insertion</source>
+        <note>Button title to recheck cannula insertion during setup</note>
       </trans-unit>
       <trans-unit id="Remaining" xml:space="preserve">
         <source>Remaining</source>
@@ -2181,7 +2185,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
   </file>
   <file original="RileyLink/Base.lproj/Localizable.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="%@ dB" xml:space="preserve">
@@ -2251,7 +2255,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
       </trans-unit>
       <trans-unit id="RileyLink Testing" xml:space="preserve">
         <source>RileyLink Testing</source>
-        <target>RileyLink Testing</target>
+        <target>RileyLink-testing</target>
         <note>Title for RileyLink Testing main view controller</note>
       </trans-unit>
       <trans-unit id="Setup Omnipod" xml:space="preserve">
@@ -2283,7 +2287,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
   </file>
   <file original="RileyLink/en.lproj/InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -2305,7 +2309,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
   </file>
   <file original="RileyLink/en.lproj/LoopKit.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve">
@@ -2317,7 +2321,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
   </file>
   <file original="RileyLinkBLEKit/Base.lproj/Localizable.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="Data exceeded maximum size of %@ bytes" xml:space="preserve">
@@ -2384,7 +2388,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
   </file>
   <file original="RileyLinkBLEKit/en.lproj/InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -2396,7 +2400,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
   </file>
   <file original="RileyLinkKit/en.lproj/InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -2408,7 +2412,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
   </file>
   <file original="RileyLinkKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="%@ dB" xml:space="preserve">
@@ -2490,7 +2494,7 @@ If you did not hear any beeps from your pod, it's likely that the piezo speaker 
   </file>
   <file original="RileyLinkKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
