@@ -1307,77 +1307,77 @@ Zoek Apparaat</target>
     <body>
       <trans-unit id=" (inactive)" xml:space="preserve">
         <source> (inactive)</source>
-        <target state="needs-translation"> (inactive)</target>
+        <target state="translated"> (Inactief)</target>
         <note>Description for an inactive alert modifier</note>
       </trans-unit>
       <trans-unit id="Activation time exceeded" xml:space="preserve">
         <source>Activation time exceeded</source>
-        <target state="needs-translation">Activation time exceeded</target>
+        <target state="translated">Activeringstijd overschreden</target>
         <note>Pod state when activation not completed in the time allowed</note>
       </trans-unit>
       <trans-unit id="Auto-off alarm" xml:space="preserve">
         <source>Auto-off alarm</source>
-        <target state="needs-translation">Auto-off alarm</target>
+        <target state="translated">Auto-uit alarm</target>
         <note>Description for auto-off alarm</note>
       </trans-unit>
       <trans-unit id="Basal initialized" xml:space="preserve">
         <source>Basal initialized</source>
-        <target state="needs-translation">Basal initialized</target>
+        <target state="translated">Basaal geïnitialiseerd</target>
         <note>Pod state when basal initialized</note>
       </trans-unit>
       <trans-unit id="Below 50 units" xml:space="preserve">
         <source>Below 50 units</source>
-        <target state="needs-translation">Below 50 units</target>
+        <target state="translated">Minder dan 50 eenheden</target>
         <note>Pod state when running below fifty units</note>
       </trans-unit>
       <trans-unit id="Bolus in progress" xml:space="preserve">
         <source>Bolus in progress</source>
-        <target state="needs-translation">Bolus in progress</target>
+        <target state="translated">Bolus in uitvoering</target>
         <note>Error message shown when operation could not be completed due to existing bolus in progress</note>
       </trans-unit>
       <trans-unit id="Bolus: %1$@U %2$@ %3$@ %4$@" xml:space="preserve">
         <source>Bolus: %1$@U %2$@ %3$@ %4$@</source>
-        <target state="needs-translation">Bolus: %1$@U %2$@ %3$@ %4$@</target>
+        <target state="translated">Bolus: %1$@U %2$@ %3$@ %4$@</target>
         <note>The format string describing a bolus. (1: The amount delivered)(2: Start time of the dose)(3: duration)(4: scheduled certainty)</note>
       </trans-unit>
       <trans-unit id="Bolusing" xml:space="preserve">
         <source>Bolusing</source>
-        <target state="needs-translation">Bolusing</target>
+        <target state="translated">Bolussen</target>
         <note>Delivery status when bolusing</note>
       </trans-unit>
       <trans-unit id="Bolusing with temp basal" xml:space="preserve">
         <source>Bolusing with temp basal</source>
-        <target state="needs-translation">Bolusing with temp basal</target>
+        <target state="translated">Bolus met tijdelijk basaal</target>
         <note>Delivery status when bolusing and temp basal is running</note>
       </trans-unit>
       <trans-unit id="Cannula inserting" xml:space="preserve">
         <source>Cannula inserting</source>
-        <target state="needs-translation">Cannula inserting</target>
+        <target state="translated">Canule wordt geplaatst</target>
         <note>Pod state when inserting cannula</note>
       </trans-unit>
       <trans-unit id="Certain" xml:space="preserve">
         <source>Certain</source>
-        <target state="needs-translation">Certain</target>
+        <target state="translated">Zeker</target>
         <note>String describing a dose that was certainly scheduled</note>
       </trans-unit>
       <trans-unit id="Deactivated" xml:space="preserve">
         <source>Deactivated</source>
-        <target state="needs-translation">Deactivated</target>
+        <target state="translated">Gedeactiveerd</target>
         <note>Pod state when pod has been deactivated</note>
       </trans-unit>
       <trans-unit id="Empty reservoir" xml:space="preserve">
         <source>Empty reservoir</source>
-        <target state="needs-translation">Empty reservoir</target>
+        <target state="translated">Leeg reservoir</target>
         <note>Description for Empty reservoir pod fault</note>
       </trans-unit>
       <trans-unit id="Empty response from pod" xml:space="preserve">
         <source>Empty response from pod</source>
-        <target state="needs-translation">Empty response from pod</target>
+        <target state="translated">Geen reactie van pod</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
       <trans-unit id="Error event logged, shutting down" xml:space="preserve">
         <source>Error event logged, shutting down</source>
-        <target state="needs-translation">Error event logged, shutting down</target>
+        <target state="translated">Fout geconstateerd, sluit af</target>
         <note>Pod state error event logged shutting down</note>
       </trans-unit>
       <trans-unit id="Expiration alert" xml:space="preserve">
