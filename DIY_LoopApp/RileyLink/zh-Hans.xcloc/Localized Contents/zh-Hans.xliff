@@ -2203,13 +2203,10 @@ Find Device</target>
         <target>提示音测试中</target>
         <note>Progress message for play test beeps.</note>
       </trans-unit>
-      <trans-unit id="Play test beeps command sent successfully.&#10;&#10;If you did not hear any beeps from your pod, it's likely that the piezo speaker in your pod is broken." xml:space="preserve">
+      <trans-unit id="Play test beeps command sent successfully.&#10;&#10;If you did not hear any beeps from your pod, the piezo speaker in your pod may be broken or disabled." xml:space="preserve">
         <source>Play test beeps command sent successfully.
 
-If you did not hear any beeps from your pod, it's likely that the piezo speaker in your pod is broken.</source>
-        <target>Play test beeps command sent successfully.
-
-If you did not hear any beeps from your pod, it's likely that the piezo speaker in your pod is broken.</target>
+If you did not hear any beeps from your pod, the piezo speaker in your pod may be broken or disabled.</source>
         <note>Success message for play test beeps.</note>
       </trans-unit>
       <trans-unit id="Pod Active: %1$@&#10;" xml:space="preserve">
