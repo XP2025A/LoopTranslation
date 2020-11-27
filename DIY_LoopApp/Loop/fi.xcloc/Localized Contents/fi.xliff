@@ -5,14 +5,59 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
+      <trans-unit id="9KhaIS" xml:space="preserve">
+        <source>I've set the preset</source>
+        <target state="needs-translation">I've set the preset</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="80eo5o" xml:space="preserve" approved="yes">
         <source>Add Carb Entry</source>
         <target state="final">Lisää hiilihydraatteja</target>
         <note/>
       </trans-unit>
+      <trans-unit id="I4OZy8" xml:space="preserve">
+        <source>Enable Override Preset</source>
+        <target state="needs-translation">Enable Override Preset</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="OcNxIj" xml:space="preserve" approved="yes">
         <source>Add Carb Entry</source>
         <target state="final">Lisää hiilihydraatteja</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="XNNmtH" xml:space="preserve">
+        <source>Enable preset in Loop</source>
+        <target state="needs-translation">Enable preset in Loop</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ZZ3mtM" xml:space="preserve">
+        <source>Enable an override preset in Loop</source>
+        <target state="needs-translation">Enable an override preset in Loop</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="b085BW" xml:space="preserve">
+        <source>I wasn't able to set the preset.</source>
+        <target state="needs-translation">I wasn't able to set the preset.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lYMuWV" xml:space="preserve">
+        <source>Override Name</source>
+        <target state="needs-translation">Override Name</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="nDKAmn" xml:space="preserve">
+        <source>What's the name of the override you'd like to set?</source>
+        <target state="needs-translation">What's the name of the override you'd like to set?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="oLQSsJ" xml:space="preserve">
+        <source>Enable '${overrideName}' Override Preset</source>
+        <target state="needs-translation">Enable '${overrideName}' Override Preset</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="yBzwCL" xml:space="preserve">
+        <source>Override Selection</source>
+        <target state="needs-translation">Override Selection</target>
         <note/>
       </trans-unit>
       <trans-unit id="yc02Yq" xml:space="preserve" approved="yes">
@@ -139,6 +184,11 @@
         <target state="final">Ennustettu glukoosi klo %1$@ on %2$@.</target>
         <note>Message when offering bolus recommendation even though bg is below range and minBG is in future. (1: glucose time)(2: glucose number)</note>
       </trans-unit>
+      <trans-unit id="Predicted glucose of %1$@ is below your glucose safety limit setting." xml:space="preserve">
+        <source>Predicted glucose of %1$@ is below your glucose safety limit setting.</source>
+        <target state="needs-translation">Predicted glucose of %1$@ is below your glucose safety limit setting.</target>
+        <note>Notice message when recommending bolus when BG is below the glucose safety limit. (1: glucose value)</note>
+      </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve" approved="yes">
         <source>Predicted glucose of %1$@ is below your suspend threshold setting.</source>
         <target state="final">Ennustettu glukoosi %1$@ on pysäytysrajan alapuolella.</target>
@@ -214,6 +264,35 @@
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to optimize delivery of Apple Watch complication updates during the time you are awake.</source>
         <target state="final">Terveystietokannasta peräisin olevan aterian tietoja käytetään glukoosivaikutusten määrittämiseen. Terveystietokannan glukoositietoja käytetään graafeissa ja glukoosin liikkeen laskelmissa. Terveystietokannan unitietoja käytetään Apple Watchin komplikaatiopäivitysten optimointiin silloin, kun olet hereillä.</target>
         <note>Privacy - Health Share Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Loop Intent Extension/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Loop Intent Extension</source>
+        <target state="needs-translation">Loop Intent Extension</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Loop Intent Extension</source>
+        <target state="needs-translation">Loop Intent Extension</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Loop Intent Extension/en.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+    </header>
+    <body>
+      <trans-unit id="%1$@ v%2$@" xml:space="preserve">
+        <source>%1$@ v%2$@</source>
+        <target state="needs-translation">%1$@ v%2$@</target>
+        <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
     </body>
   </file>
@@ -388,6 +467,11 @@
         <target state="final">Sovellukseen ja kelloon syötetyt hiilihydraattiateriatiedot tallennetaan Terveystietokantaan. Jatkuvan glukoosiseurannan tiedot tallennetaan turvallisesti HealthKitiin.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
+      <trans-unit id="NSSiriUsageDescription" xml:space="preserve">
+        <source>Loop uses Siri to allow you to set override presets with your voice.</source>
+        <target state="needs-translation">Loop uses Siri to allow you to set override presets with your voice.</target>
+        <note>Privacy - Siri Usage Description</note>
+      </trans-unit>
     </body>
   </file>
   <file original="Loop/Base.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
@@ -427,6 +511,16 @@
         <target state="final"> (odot.: %@)</target>
         <note>The string format appended to active insulin that describes pending insulin. (1: pending insulin)</note>
       </trans-unit>
+      <trans-unit id=" Pre-meal Preset" xml:space="preserve">
+        <source> Pre-meal Preset</source>
+        <target state="needs-translation"> Pre-meal Preset</target>
+        <note>Status row title for premeal override enabled (leading space is to separate from symbol)</note>
+      </trans-unit>
+      <trans-unit id=" Workout Preset" xml:space="preserve">
+        <source> Workout Preset</source>
+        <target state="needs-translation"> Workout Preset</target>
+        <note>Status row title for workout override enabled (leading space is to separate from symbol)</note>
+      </trans-unit>
       <trans-unit id="%1$@ %2$@" xml:space="preserve" approved="yes">
         <source>%1$@ %2$@</source>
         <target state="final">%1$@ %2$@</target>
@@ -456,6 +550,15 @@
         <source>%1$@ U/hour @ %2$@</source>
         <target state="final">%1$@ U/t klo %2$@</target>
         <note>The format for recommended temp basal rate and time. (1: localized rate number)(2: localized time)</note>
+      </trans-unit>
+      <trans-unit id="%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.&#10;&#10;" xml:space="preserve">
+        <source>%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
+
+</source>
+        <target state="needs-translation">%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
+
+</target>
+        <note>Alert message for closed loop off informational modal. (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.&#10;You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options." xml:space="preserve" approved="yes">
         <source>%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.
@@ -504,11 +607,6 @@ Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napautta
         <target state="final">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
-      <trans-unit id="--" xml:space="preserve" approved="yes">
-        <source>--</source>
-        <target state="final">--</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="15 min glucose regression coefficient (b₁), continued with decay over 30 min" xml:space="preserve" approved="yes">
         <source>15 min glucose regression coefficient (b₁), continued with decay over 30 min</source>
         <target state="final">15 min glukoosin regressiokerroin (b₁), hiipuen 30 min kuluessa</target>
@@ -523,6 +621,11 @@ Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napautta
         <source>A few seconds remaining</source>
         <target state="final">Muutama sekunti jäljellä</target>
         <note>Estimated remaining duration with a few seconds</note>
+      </trans-unit>
+      <trans-unit id="A manual glucose entry must be between %1$@ and %2$@" xml:space="preserve">
+        <source>A manual glucose entry must be between %1$@ and %2$@</source>
+        <target state="needs-translation">A manual glucose entry must be between %1$@ and %2$@</target>
+        <note>Alert message for a manual glucose entry out of range error. (1: acceptable lower bound) (2: acceptable upper bound)</note>
       </trans-unit>
       <trans-unit id="A manual glucose entry must be between %@ and %@" xml:space="preserve" approved="yes">
         <source>A manual glucose entry must be between %1$@ and %2$@</source>
@@ -615,6 +718,11 @@ Voit odottaa muutaman minuutin nähdäksesi ratkeaako ongelma, tai voit napautta
         <source>Add Service</source>
         <target state="final">Lisää palvelu</target>
         <note>Title text for button to set up a service</note>
+      </trans-unit>
+      <trans-unit id="Adjusted for" xml:space="preserve">
+        <source>Adjusted for</source>
+        <target state="needs-translation">Adjusted for</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Alert Permissions" xml:space="preserve" approved="yes">
         <source>Alert Permissions</source>
@@ -749,6 +857,11 @@ Unavailable</source>
         <note>Back button text for bolus screen to return to carb entry screen
    Label for carb entry row on bolus screen</note>
       </trans-unit>
+      <trans-unit id="Carb Entry Too Large" xml:space="preserve">
+        <source>Carb Entry Too Large</source>
+        <target state="needs-translation">Carb Entry Too Large</target>
+        <note>Alert title for a carb entry too large error</note>
+      </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve" approved="yes">
         <source>Carb Ratios</source>
         <target state="final">Hiilihydraattisuhteet</target>
@@ -805,6 +918,16 @@ Unavailable</source>
         <target state="final">Suljettu säätö</target>
         <note>The title text for the looping enabled switch cell</note>
       </trans-unit>
+      <trans-unit id="Closed Loop OFF" xml:space="preserve">
+        <source>Closed Loop OFF</source>
+        <target state="needs-translation">Closed Loop OFF</target>
+        <note>Alert title for closed loop off informational modal</note>
+      </trans-unit>
+      <trans-unit id="Closed Loop requires an active CGM Sensor Session" xml:space="preserve">
+        <source>Closed Loop requires an active CGM Sensor Session</source>
+        <target state="needs-translation">Closed Loop requires an active CGM Sensor Session</target>
+        <note>The description text for the looping enabled switch cell when closed loop is not allowed</note>
+      </trans-unit>
       <trans-unit id="Configuration" xml:space="preserve" approved="yes">
         <source>Configuration</source>
         <target state="final">Määritykset</target>
@@ -841,6 +964,11 @@ Unavailable</source>
         <target state="final">Tärkeiden tapahtumien lokia ei voitu viedä.</target>
         <note>Critical event log export error alert message</note>
       </trans-unit>
+      <trans-unit id="Current Glucose" xml:space="preserve">
+        <source>Current Glucose</source>
+        <target state="needs-translation">Current Glucose</target>
+        <note>Label for glucose entry row on simple bolus screen</note>
+      </trans-unit>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve" approved="yes">
         <source>Current glucose of %1$@ is below correction range.</source>
         <target state="final">Nykyinen glukoosi %1$@ on korjausalueen alapuolella.</target>
@@ -860,11 +988,6 @@ Unavailable</source>
         <source>Customer Token</source>
         <target state="final">Asiakastunniste</target>
         <note>The title of the Loggly customer token credential</note>
-      </trans-unit>
-      <trans-unit id="Date" xml:space="preserve" approved="yes">
-        <source>Date</source>
-        <target state="final">Aika</target>
-        <note>Title of the carb entry date picker cell</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve" approved="yes">
         <source>Delete</source>
@@ -924,7 +1047,9 @@ Unavailable</source>
       <trans-unit id="Dismiss" xml:space="preserve" approved="yes">
         <source>Dismiss</source>
         <target state="final">Ohita</target>
-        <note>Default alert dismissal</note>
+        <note>Default alert dismissal
+   Dismiss button for the invalid adverse event report URL alert.
+   The button label of the action used to dismiss an error alert</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve" approved="yes">
         <source>Done</source>
@@ -956,6 +1081,11 @@ Bluetooth</source>
         <source>Enter a blood glucose from a meter for a recommended bolus amount.</source>
         <target state="final">Syötä sormenpäästä mitattu glukoosiarvo saadaksesi suositellun bolusmäärän.</target>
         <note>Caption for bolus screen notice when glucose data is missing or stale</note>
+      </trans-unit>
+      <trans-unit id="Enter glucose safety limit" xml:space="preserve">
+        <source>Enter glucose safety limit</source>
+        <target state="needs-translation">Enter glucose safety limit</target>
+        <note>The placeholder text instructing users to enter a glucose safety limit</note>
       </trans-unit>
       <trans-unit id="Enter suspend threshold" xml:space="preserve" approved="yes">
         <source>Enter suspend threshold</source>
@@ -1104,6 +1234,11 @@ Bluetooth</source>
         <target state="final">Insuliinivaikutus</target>
         <note>Details for missing data error when insulin effects are missing</note>
       </trans-unit>
+      <trans-unit id="Invalid Adverse Event Report URL" xml:space="preserve">
+        <source>Invalid Adverse Event Report URL</source>
+        <target state="needs-translation">Invalid Adverse Event Report URL</target>
+        <note>Alert title when the adverse event report URL cannot be constructed properly.</note>
+      </trans-unit>
       <trans-unit id="Invalid data: %1$@" xml:space="preserve" approved="yes">
         <source>Invalid data: %1$@</source>
         <target state="final">Virheellinen tieto: %1$@</target>
@@ -1204,6 +1339,11 @@ Bluetooth</source>
         <target state="final">Pumppua ei ole määritetty</target>
         <note>Alert title for a missing pump error</note>
       </trans-unit>
+      <trans-unit id="No Recent Glucose" xml:space="preserve">
+        <source>No Recent Glucose</source>
+        <target state="needs-translation">No Recent Glucose</target>
+        <note>The title of the cell indicating that there is no recent glucose</note>
+      </trans-unit>
       <trans-unit id="No Recent Glucose Data" xml:space="preserve" approved="yes">
         <source>No Recent Glucose Data</source>
         <target state="final">Ei viimeaikaisia glukoositietoja</target>
@@ -1222,7 +1362,8 @@ Bluetooth</source>
       <trans-unit id="OK" xml:space="preserve" approved="yes">
         <source>OK</source>
         <target state="final">OK</target>
-        <note>The title of the notification action to acknowledge a device alert</note>
+        <note>Alert acknowledgment OK button
+   The title of the notification action to acknowledge a device alert</note>
       </trans-unit>
       <trans-unit id="Override Presets" xml:space="preserve" approved="yes">
         <source>Override Presets</source>
@@ -1238,6 +1379,11 @@ Bluetooth</source>
         <source>Predicted glucose at %1$@ is %2$@.</source>
         <target state="final">Ennustettu glukoosi klo %1$@ on %2$@.</target>
         <note>Message when offering bolus recommendation even though bg is below range and minBG is in future. (1: glucose time)(2: glucose number)</note>
+      </trans-unit>
+      <trans-unit id="Predicted glucose of %1$@ is below your glucose safety limit setting." xml:space="preserve">
+        <source>Predicted glucose of %1$@ is below your glucose safety limit setting.</source>
+        <target state="needs-translation">Predicted glucose of %1$@ is below your glucose safety limit setting.</target>
+        <note>Notice message when recommending bolus when BG is below the glucose safety limit. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve" approved="yes">
         <source>Predicted glucose of %1$@ is below your suspend threshold setting.</source>
@@ -1319,7 +1465,8 @@ Todellinen: %2$@ (%3$@)</target>
       <trans-unit id="Recommended Bolus" xml:space="preserve" approved="yes">
         <source>Recommended Bolus</source>
         <target state="final">Suositeltu bolus</target>
-        <note>Label for recommended bolus row on bolus screen</note>
+        <note>Label for recommended bolus row on bolus screen
+   Label for recommended bolus row on simple bolus screen</note>
       </trans-unit>
       <trans-unit id="Recommended Bolus: %@ Units" xml:space="preserve" approved="yes">
         <source>Recommended Bolus: %@ Units</source>
@@ -1366,6 +1513,16 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="final">Näyttää Loopin viimeisimmän virheen</target>
         <note>Loop Completion HUD accessibility hint</note>
       </trans-unit>
+      <trans-unit id="Simple Bolus Calculator" xml:space="preserve">
+        <source>Simple Bolus Calculator</source>
+        <target state="needs-translation">Simple Bolus Calculator</target>
+        <note>Title of simple bolus view when not displaying meal entry</note>
+      </trans-unit>
+      <trans-unit id="Simple Meal Calculator" xml:space="preserve">
+        <source>Simple Meal Calculator</source>
+        <target state="needs-translation">Simple Meal Calculator</target>
+        <note>Title of simple bolus view when displaying meal entry</note>
+      </trans-unit>
       <trans-unit id="Site URL" xml:space="preserve" approved="yes">
         <source>Site URL</source>
         <target state="final">URL</target>
@@ -1404,6 +1561,11 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="final">Määritä pumppu napauttamalla tästä</target>
         <note>Descriptive text for button to add pump device</note>
       </trans-unit>
+      <trans-unit id="Tap to Add" xml:space="preserve">
+        <source>Tap to Add</source>
+        <target state="needs-translation">Tap to Add</target>
+        <note>The subtitle of the cell displaying an action to add a manually measurement glucose value</note>
+      </trans-unit>
       <trans-unit id="Tap to Resume" xml:space="preserve" approved="yes">
         <source>Tap to Resume</source>
         <target state="final">Jatka annostelua</target>
@@ -1414,6 +1576,11 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="final">Pysäytä</target>
         <note>Message presented in the status row instructing the user to tap this row to stop a bolus</note>
       </trans-unit>
+      <trans-unit id="The adverse event report URL could not be constructed properly." xml:space="preserve">
+        <source>The adverse event report URL could not be constructed properly.</source>
+        <target state="needs-translation">The adverse event report URL could not be constructed properly.</target>
+        <note>Alert message when the adverse event report URL cannot be constructed properly.</note>
+      </trans-unit>
       <trans-unit id="The bolus recommendation has updated. Please reconfirm the bolus amount." xml:space="preserve" approved="yes">
         <source>The bolus recommendation has updated. Please reconfirm the bolus amount.</source>
         <target state="final">Bolussuositus on päivittynyt. Vahvista bolus uudelleen.</target>
@@ -1423,6 +1590,16 @@ Todellinen: %2$@ (%3$@)</target>
         <source>The legacy model used by Loop, allowing customization of action duration.</source>
         <target state="final">Loopin vanha insuliinimalli, jossa voi muokata insuliinin vaikutusaikaa.</target>
         <note>Subtitle description of Walsh insulin model setting</note>
+      </trans-unit>
+      <trans-unit id="The maximum allowed amount is %1$@ grams" xml:space="preserve">
+        <source>The maximum allowed amount is %1$@ grams</source>
+        <target state="needs-translation">The maximum allowed amount is %1$@ grams</target>
+        <note>Alert body displayed for quantity greater than max (1: maximum quantity in grams)</note>
+      </trans-unit>
+      <trans-unit id="The maximum bolus amount is %1$@ U." xml:space="preserve">
+        <source>The maximum bolus amount is %1$@ U.</source>
+        <target state="needs-translation">The maximum bolus amount is %1$@ U.</target>
+        <note>Format string for maximum bolus exceeded alert (1: maximumBolusAmount)</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ U." xml:space="preserve" approved="yes">
         <source>The maximum bolus amount is %@ U.</source>
@@ -1443,6 +1620,16 @@ Todellinen: %2$@ (%3$@)</target>
         <source>Therapy Settings</source>
         <target state="final">Hoitoasetukset</target>
         <note>Title text for button to Therapy Settings</note>
+      </trans-unit>
+      <trans-unit id="Time" xml:space="preserve">
+        <source>Time</source>
+        <target state="needs-translation">Time</target>
+        <note>Title of the carb entry date picker cell</note>
+      </trans-unit>
+      <trans-unit id="Time Change Detected" xml:space="preserve">
+        <source>Time Change Detected</source>
+        <target state="needs-translation">Time Change Detected</target>
+        <note>Time change alert title</note>
       </trans-unit>
       <trans-unit id="Try Again" xml:space="preserve" approved="yes">
         <source>Try Again</source>
@@ -1479,9 +1666,29 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="final">Käynnissä olevaa bolusta ei voitu pysäyttää. Siirrä iPhone lähemmäksi pumppua ja yritä uudelleen. Tarkista tiedot insuliinin annosteluhistoriasta ja seuraa glukoosia tarkasti.</target>
         <note>The alert body for an error while canceling a bolus</note>
       </trans-unit>
+      <trans-unit id="Until I enter carbs" xml:space="preserve">
+        <source>Until I enter carbs</source>
+        <target state="needs-translation">Until I enter carbs</target>
+        <note>The title of a target alert action specifying pre-meal targets duration for 1 hour or until the user enters carbs (whichever comes first).</note>
+      </trans-unit>
+      <trans-unit id="Until I turn off" xml:space="preserve">
+        <source>Until I turn off</source>
+        <target state="needs-translation">Until I turn off</target>
+        <note>The title of a target alert action specifying workout targets duration until it is turned off by the user</note>
+      </trans-unit>
+      <trans-unit id="Use Pre-Meal Preset" xml:space="preserve">
+        <source>Use Pre-Meal Preset</source>
+        <target state="needs-translation">Use Pre-Meal Preset</target>
+        <note>The title of the alert controller used to select a duration for pre-meal targets</note>
+      </trans-unit>
       <trans-unit id="Use Workout Glucose Targets" xml:space="preserve" approved="yes">
         <source>Use Workout Glucose Targets</source>
         <target state="final">Käytä liikuntatilan glukoositavoitetta</target>
+        <note>The title of the alert controller used to select a duration for workout targets</note>
+      </trans-unit>
+      <trans-unit id="Use Workout Preset" xml:space="preserve">
+        <source>Use Workout Preset</source>
+        <target state="needs-translation">Use Workout Preset</target>
         <note>The title of the alert controller used to select a duration for workout targets</note>
       </trans-unit>
       <trans-unit id="Walsh" xml:space="preserve" approved="yes">
@@ -1489,25 +1696,59 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="final">Walsh</target>
         <note>Title of insulin model setting</note>
       </trans-unit>
+      <trans-unit id="When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
+        <source>When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</source>
+        <target state="needs-translation">When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</target>
+        <note>Explanation of glucose safety limit</note>
+      </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve" approved="yes">
         <source>When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</source>
         <target state="final">Kun nykyinen tai ennustettu glukoosi on pysäytysrajan alapuolella, Loop ei suosittele bolusta ja suosittelee aina tilapäiseksi basaaliksi 0 yksikköä tunnissa.</target>
         <note>Explanation of suspend threshold</note>
+      </trans-unit>
+      <trans-unit id="When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump." xml:space="preserve">
+        <source>When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump.</source>
+        <target state="needs-translation">When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump.</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Workout Targets" xml:space="preserve" approved="yes">
         <source>Workout Targets</source>
         <target state="final">Liikuntatavoite</target>
         <note>The label of the workout mode toggle button</note>
       </trans-unit>
-      <trans-unit id="Your glucose is below or predicted to go below your suspend threshold, %@." xml:space="preserve" approved="yes">
-        <source>Your glucose is below or predicted to go below your suspend threshold, %@.</source>
-        <target state="final">Glukoosi on alle tai sen ennustetaan alittavan pysäytysrajan %@.</target>
-        <note>Caption for bolus screen notice when no bolus is recommended due to prediction dropping below suspend threshold</note>
+      <trans-unit id="Workout Temp Adjust Still On" xml:space="preserve">
+        <source>Workout Temp Adjust Still On</source>
+        <target state="needs-translation">Workout Temp Adjust Still On</target>
+        <note>Workout override still on reminder alert title</note>
+      </trans-unit>
+      <trans-unit id="Workout Temp Adjust has been turned on for more than 24 hours. Make sure you still want it enabled, or turn it off in the app." xml:space="preserve">
+        <source>Workout Temp Adjust has been turned on for more than 24 hours. Make sure you still want it enabled, or turn it off in the app.</source>
+        <target state="needs-translation">Workout Temp Adjust has been turned on for more than 24 hours. Make sure you still want it enabled, or turn it off in the app.</target>
+        <note>Workout override still on reminder alert body.</note>
+      </trans-unit>
+      <trans-unit id="Your glucose is below or predicted to go below your glucose safety limit, %@." xml:space="preserve">
+        <source>Your glucose is below or predicted to go below your glucose safety limit, %@.</source>
+        <target state="needs-translation">Your glucose is below or predicted to go below your glucose safety limit, %@.</target>
+        <note>Caption for bolus screen notice when no bolus is recommended due to prediction dropping below glucose safety limit</note>
+      </trans-unit>
+      <trans-unit id="Your glucose is below your glucose safety limit, %1$@." xml:space="preserve">
+        <source>Your glucose is below your glucose safety limit, %1$@.</source>
+        <target state="needs-translation">Your glucose is below your glucose safety limit, %1$@.</target>
+        <note>Format string for bolus screen notice when no bolus is recommended due input value below glucose safety limit. (1: suspendThreshold)</note>
       </trans-unit>
       <trans-unit id="Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating." xml:space="preserve" approved="yes">
         <source>Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating.</source>
         <target state="final">Glukoosi nousee nopeasti. Tarkista, että kaikki syömäsi hiilihydraatit on kirjattu. Jos olet kirjannut hiilihydraatteja, tarkista, että antamasi aika vastaa ruokailun aloitusaikaa.</target>
         <note>Warning to ensure the carb entry is accurate</note>
+      </trans-unit>
+      <trans-unit id="Your phone’s time has been changed. %1$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.&#10;&#10;Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Automatically is enabled. Failure to resolve could lead to serious under-delivery or over-delivery of insulin." xml:space="preserve">
+        <source>Your phone’s time has been changed. %1$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.
+
+Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Automatically is enabled. Failure to resolve could lead to serious under-delivery or over-delivery of insulin.</source>
+        <target state="needs-translation">Your phone’s time has been changed. %1$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.
+
+Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Automatically is enabled. Failure to resolve could lead to serious under-delivery or over-delivery of insulin.</target>
+        <note>Time change alert body. (1: app name)</note>
       </trans-unit>
       <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve" approved="yes">
         <source>Your pump data is stale. Loop cannot recommend a bolus amount.</source>
@@ -1573,6 +1814,21 @@ Todellinen: %2$@ (%3$@)</target>
         <source>until %@</source>
         <target state="final">%@ asti</target>
         <note>The format for the description of a temporary override end date</note>
+      </trans-unit>
+      <trans-unit id="–" xml:space="preserve">
+        <source>–</source>
+        <target state="needs-translation">–</target>
+        <note>String denoting lack of a recommended bolus amount in the simple bolus calculator</note>
+      </trans-unit>
+      <trans-unit id="– –" xml:space="preserve">
+        <source>– –</source>
+        <target state="needs-translation">– –</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="– – –" xml:space="preserve">
+        <source>– – –</source>
+        <target state="needs-translation">– – –</target>
+        <note>No glucose value representation (3 dashes for mg/dL)</note>
       </trans-unit>
     </body>
   </file>
@@ -1809,6 +2065,46 @@ Todellinen: %2$@ (%3$@)</target>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
+      <trans-unit id="&#10;%1$@ has not completed a loop successfully in over 15 minutes.&#10;&#10;Tap your CGM and insulin pump status icons for more information. %1$@ will continue trying to complete a loop, but check for potential communication issues with your pump and CGM." xml:space="preserve">
+        <source>
+%1$@ has not completed a loop successfully in over 15 minutes.
+
+Tap your CGM and insulin pump status icons for more information. %1$@ will continue trying to complete a loop, but check for potential communication issues with your pump and CGM.</source>
+        <target state="needs-translation">
+%1$@ has not completed a loop successfully in over 15 minutes.
+
+Tap your CGM and insulin pump status icons for more information. %1$@ will continue trying to complete a loop, but check for potential communication issues with your pump and CGM.</target>
+        <note>Red loop message (1: app name) (2: app name)</note>
+      </trans-unit>
+      <trans-unit id="&#10;%1$@ has not completed a loop successfully in the past 5-15 minutes.&#10;&#10;Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM." xml:space="preserve">
+        <source>
+%1$@ has not completed a loop successfully in the past 5-15 minutes.
+
+Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM.</source>
+        <target state="needs-translation">
+%1$@ has not completed a loop successfully in the past 5-15 minutes.
+
+Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM.</target>
+        <note>Yellow loop message (1: app name) (2: app name)</note>
+      </trans-unit>
+      <trans-unit id="&#10;%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.&#10;&#10;Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin." xml:space="preserve">
+        <source>
+%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
+
+Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin.</source>
+        <target state="needs-translation">
+%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
+
+Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin.</target>
+        <note>Green closed loop OFF message (1: app name)</note>
+      </trans-unit>
+      <trans-unit id="&#10;%1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes." xml:space="preserve">
+        <source>
+%1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes.</source>
+        <target state="needs-translation">
+%1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes.</target>
+        <note>Green closed loop ON message (1: app name)</note>
+      </trans-unit>
       <trans-unit id="%1$@ at %2$@" xml:space="preserve" approved="yes">
         <source>%1$@ at %2$@</source>
         <target state="final">%1$@ klo %2$@</target>
@@ -1818,6 +2114,11 @@ Todellinen: %2$@ (%3$@)</target>
         <source>%1$@ units per hour at %2$@</source>
         <target state="final">%1$@ yksikköä tunnissa klo %2$@</target>
         <note>Accessibility format string describing the basal rate. (1: localized basal rate value)(2: last updated time)</note>
+      </trans-unit>
+      <trans-unit id="%1$@ v%2$@" xml:space="preserve">
+        <source>%1$@ v%2$@</source>
+        <target state="needs-translation">%1$@ v%2$@</target>
+        <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
       <trans-unit id="%1$@/min" xml:space="preserve" approved="yes">
         <source>%1$@/min</source>
@@ -1834,6 +2135,16 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="final">%@</target>
         <note>Format string describing the time interval since the last completion date. (1: The localized date components</note>
       </trans-unit>
+      <trans-unit id="Closed Loop OFF" xml:space="preserve">
+        <source>Closed Loop OFF</source>
+        <target state="needs-translation">Closed Loop OFF</target>
+        <note>Title of green open loop OFF message</note>
+      </trans-unit>
+      <trans-unit id="Closed Loop ON" xml:space="preserve">
+        <source>Closed Loop ON</source>
+        <target state="needs-translation">Closed Loop ON</target>
+        <note>Title of green closed loop ON message</note>
+      </trans-unit>
       <trans-unit id="Closed loop" xml:space="preserve" approved="yes">
         <source>Closed loop</source>
         <target state="final">Suljettu säätö</target>
@@ -1848,6 +2159,12 @@ Todellinen: %2$@ (%3$@)</target>
         <source>LOW</source>
         <target state="final">MATALA</target>
         <note>String displayed instead of a glucose value below the CGM range</note>
+      </trans-unit>
+      <trans-unit id="Loop Failure" xml:space="preserve">
+        <source>Loop Failure</source>
+        <target state="needs-translation">Loop Failure</target>
+        <note>Title of red loop message
+   Title of yellow loop message</note>
       </trans-unit>
       <trans-unit id="Loop ran %@ ago" xml:space="preserve" approved="yes">
         <source>Loop ran %@ ago</source>
@@ -1904,6 +2221,11 @@ Todellinen: %2$@ (%3$@)</target>
         <target state="final">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
+      <trans-unit id="– – –" xml:space="preserve">
+        <source>– – –</source>
+        <target state="needs-translation">– – –</target>
+        <note>No glucose value representation (3 dashes for mg/dL)</note>
+      </trans-unit>
     </body>
   </file>
   <file original="WatchApp Extension/Base.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
@@ -1920,6 +2242,11 @@ Todellinen: %2$@ (%3$@)</target>
         <source>%@</source>
         <target state="final">%@</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="---" xml:space="preserve">
+        <source>---</source>
+        <target state="needs-translation">---</target>
+        <note>No glucose value representation (3 dashes for mg/dL; no spaces as this will get truncated in the watch complication)</note>
       </trans-unit>
       <trans-unit id="Active Carbs" xml:space="preserve" approved="yes">
         <source>Active Carbs</source>
@@ -2102,6 +2429,11 @@ to bolus</source>
         <target state="final">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
+      <trans-unit id="– – –" xml:space="preserve">
+        <source>– – –</source>
+        <target state="needs-translation">– – –</target>
+        <note>No glucose value representation (3 dashes for mg/dL)</note>
+      </trans-unit>
     </body>
   </file>
   <file original="WatchApp Extension/en.lproj/ckcomplication.strings" source-language="en" target-language="fi" datatype="plaintext">
@@ -2155,20 +2487,20 @@ to bolus</source>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
-      <trans-unit id="CsQ-fc-KLC.text" xml:space="preserve" approved="yes">
-        <source>—</source>
-        <target state="final">—</target>
-        <note>Class = "WKInterfaceLabel"; text = "—"; ObjectID = "CsQ-fc-KLC";</note>
+      <trans-unit id="CsQ-fc-KLC.text" xml:space="preserve">
+        <source>–</source>
+        <target state="needs-translation">–</target>
+        <note>Class = "WKInterfaceLabel"; text = "–"; ObjectID = "CsQ-fc-KLC";</note>
       </trans-unit>
-      <trans-unit id="Dt1-kz-jMZ.text" xml:space="preserve" approved="yes">
-        <source>---</source>
-        <target state="final">---</target>
-        <note>Class = "WKInterfaceLabel"; text = "---"; ObjectID = "Dt1-kz-jMZ";</note>
+      <trans-unit id="Dt1-kz-jMZ.text" xml:space="preserve">
+        <source>– – –</source>
+        <target state="needs-translation">– – –</target>
+        <note>Class = "WKInterfaceLabel"; text = "– – –"; ObjectID = "Dt1-kz-jMZ";</note>
       </trans-unit>
-      <trans-unit id="IRi-4t-ESO.text" xml:space="preserve" approved="yes">
-        <source>—</source>
-        <target state="final">—</target>
-        <note>Class = "WKInterfaceLabel"; text = "—"; ObjectID = "IRi-4t-ESO";</note>
+      <trans-unit id="IRi-4t-ESO.text" xml:space="preserve">
+        <source>–</source>
+        <target state="needs-translation">–</target>
+        <note>Class = "WKInterfaceLabel"; text = "–"; ObjectID = "IRi-4t-ESO";</note>
       </trans-unit>
       <trans-unit id="JXa-s1-PJx.text" xml:space="preserve" approved="yes">
         <source>Running</source>
@@ -2180,10 +2512,10 @@ to bolus</source>
         <target state="final">OTSIKKO</target>
         <note>Class = "WKInterfaceLabel"; text = "TITLE"; ObjectID = "MZU-QV-PtZ";</note>
       </trans-unit>
-      <trans-unit id="Mhe-aR-kQQ.text" xml:space="preserve" approved="yes">
-        <source>—</source>
-        <target state="final">—</target>
-        <note>Class = "WKInterfaceLabel"; text = "—"; ObjectID = "Mhe-aR-kQQ";</note>
+      <trans-unit id="Mhe-aR-kQQ.text" xml:space="preserve">
+        <source>–</source>
+        <target state="needs-translation">–</target>
+        <note>Class = "WKInterfaceLabel"; text = "–"; ObjectID = "Mhe-aR-kQQ";</note>
       </trans-unit>
       <trans-unit id="T4U-wP-dSW.text" xml:space="preserve" approved="yes">
         <source>Label</source>
@@ -2260,10 +2592,10 @@ to bolus</source>
         <target state="final">AKT. HIILARI</target>
         <note>Class = "WKInterfaceLabel"; text = "ACTIVE CARBS"; ObjectID = "ycL-5X-a05";</note>
       </trans-unit>
-      <trans-unit id="yl8-ZP-c3l.text" xml:space="preserve" approved="yes">
-        <source>---</source>
-        <target state="final">---</target>
-        <note>Class = "WKInterfaceLabel"; text = "---"; ObjectID = "yl8-ZP-c3l";</note>
+      <trans-unit id="yl8-ZP-c3l.text" xml:space="preserve">
+        <source>– – –</source>
+        <target state="needs-translation">– – –</target>
+        <note>Class = "WKInterfaceLabel"; text = "– – –"; ObjectID = "yl8-ZP-c3l";</note>
       </trans-unit>
       <trans-unit id="zO8-x6-bZd.text" xml:space="preserve" approved="yes">
         <source>Label</source>
