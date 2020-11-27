@@ -154,6 +154,11 @@
         <target state="final">%1$@ E bolus er måske ikke gennemført</target>
         <note>Describes an uncertain bolus failure (1: size of the bolus in units)</note>
       </trans-unit>
+      <trans-unit id="%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." xml:space="preserve">
+        <source>%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.</source>
+        <target state="needs-translation">%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.</target>
+        <note>Descriptive format string for glucose safety limit (1: app name)</note>
+      </trans-unit>
       <trans-unit id="%@ Range" xml:space="preserve" approved="yes">
         <source>%@ Range</source>
         <target state="final">%@ område</target>
@@ -174,10 +179,20 @@
         <target state="final">Tilladelse nægtet</target>
         <note>The error description describing when Health sharing was denied</note>
       </trans-unit>
+      <trans-unit id="Basal" xml:space="preserve">
+        <source>Basal</source>
+        <target state="needs-translation">Basal</target>
+        <note>Title for basal dose type</note>
+      </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
         <source>Basal Rates</source>
         <target state="final">Basalrater</target>
         <note>Title text for basal rates</note>
+      </trans-unit>
+      <trans-unit id="Bolus" xml:space="preserve">
+        <source>Bolus</source>
+        <target state="needs-translation">Bolus</target>
+        <note>Title for bolus dose type</note>
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve" approved="yes">
         <source>Carb Ratios</source>
@@ -248,6 +263,11 @@
         <source>Flat</source>
         <target state="final">Flad</target>
         <note>Glucose trend flat</note>
+      </trans-unit>
+      <trans-unit id="Glucose Safety Limit" xml:space="preserve">
+        <source>Glucose Safety Limit</source>
+        <target state="needs-translation">Glucose Safety Limit</target>
+        <note>Title text for glucose safety limit</note>
       </trans-unit>
       <trans-unit id="Insulin Model" xml:space="preserve" approved="yes">
         <source>Insulin Model</source>
@@ -324,6 +344,11 @@
         <target state="final">Før-Måltid</target>
         <note>Title for pre-meal mode</note>
       </trans-unit>
+      <trans-unit id="Resumed" xml:space="preserve">
+        <source>Resumed</source>
+        <target state="needs-translation">Resumed</target>
+        <note>Title for resume dose type</note>
+      </trans-unit>
       <trans-unit id="Rising" xml:space="preserve" approved="yes">
         <source>Rising</source>
         <target state="final">Stiger</target>
@@ -344,20 +369,24 @@
         <target state="final">Nogle af de værdier, du har angivet, ligger uden for det, der typisk anbefales til de fleste.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
-      <trans-unit id="Suspend Threshold" xml:space="preserve" approved="yes">
-        <source>Suspend Threshold</source>
-        <target state="final">Suspenderingsgrænse</target>
-        <note>Title text for suspend threshold</note>
+      <trans-unit id="Suspended" xml:space="preserve">
+        <source>Suspended</source>
+        <target state="needs-translation">Suspended</target>
+        <note>Title for suspend dose type</note>
+      </trans-unit>
+      <trans-unit id="Temp Basal" xml:space="preserve">
+        <source>Temp Basal</source>
+        <target state="needs-translation">Temp Basal</target>
+        <note>Title for temp basal dose type</note>
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve" approved="yes">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</source>
         <target state="final">Sænker midlertidigt dit blodsukker mål før et måltid for at modvirke stigning i blodsukker efter måltidet.</target>
         <note>Descriptive text for pre-meal correction range override</note>
       </trans-unit>
-      <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end." xml:space="preserve" approved="yes">
-        <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end.</source>
-        <target state="final">Sænker midlertidigt dit blodsukker mål før et måltid for at modvirke stigning i blodsukker efter måltidet.
-Dette område kan være mellem din suspenderingsgrænse til starten af dit normal korrektionsområde.</target>
+      <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your glucose safety limit on the low end to the top of your regular correction range on the high end." xml:space="preserve">
+        <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your glucose safety limit on the low end to the top of your regular correction range on the high end.</source>
+        <target state="needs-translation">Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your glucose safety limit on the low end to the top of your regular correction range on the high end.</target>
         <note>Description of pre-meal mode</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve" approved="yes">
@@ -424,11 +453,6 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <source>Units/hour</source>
         <target state="final">Enheder/time</target>
         <note>The long unit display string for international units of insulin per hour</note>
-      </trans-unit>
-      <trans-unit id="When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus." xml:space="preserve" approved="yes">
-        <source>When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus.</source>
-        <target state="final">Når dit blodsukker forventes at ligge under denne værdi, vil Loop anbefale en basalrate på 0 E/time og vil ikke anbefale en bolus.</target>
-        <note>Descriptive text for suspend threshold</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve" approved="yes">
         <source>Workout</source>
@@ -677,6 +701,11 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <note>The format for an override preset cell. (1: symbol)(2: name)
    The format for an override symbol and name (1: symbol)(2: name)</note>
       </trans-unit>
+      <trans-unit id="%1$@ U" xml:space="preserve">
+        <source>%1$@ U</source>
+        <target state="needs-translation">%1$@ U</target>
+        <note>Reservoir entry (1: volume value)</note>
+      </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve" approved="yes">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
         <target state="final">%1$@ antager, at insulin er aktivt i 6 timer. Du kan vælge mellem %2$@ forskellige modeller for, hvordan Loop bruger insulinets maksimale effekt i sine beregninger.</target>
@@ -691,6 +720,11 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <source>%1$@ – %2$@ %3$@</source>
         <target state="final">%1$@ – %2$@ %3$@</target>
         <note>The format for a glucose target range. (1: min target)(2: max target)(3: glucose unit)</note>
+      </trans-unit>
+      <trans-unit id="%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@" xml:space="preserve">
+        <source>%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</source>
+        <target state="needs-translation">%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</target>
+        <note>Description of a basal, bolus, or temp basal dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)</note>
       </trans-unit>
       <trans-unit id="%1$d percent complete." xml:space="preserve" approved="yes">
         <source>%1$d percent complete.</source>
@@ -747,16 +781,6 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <target state="final">Et korrektionsområde er anderledes. Dette vil være et snævere interval.</target>
         <note>Information about differences between target range and correction range</note>
       </trans-unit>
-      <trans-unit id="A setting of 0 U means you will not be able to bolus." xml:space="preserve" approved="yes">
-        <source>A setting of 0 U means you will not be able to bolus.</source>
-        <target state="final">En indstilling på 0 U betyder, at du ikke vil være i stand til at bolus.</target>
-        <note>Caption text for zero maximum bolus setting warning</note>
-      </trans-unit>
-      <trans-unit id="A setting of 0 U/hr means Loop will not automatically administer insulin." xml:space="preserve" approved="yes">
-        <source>A setting of 0 U/hr means Loop will not automatically administer insulin.</source>
-        <target state="final">En indstilling på 0 U/hr betyder Loop vil ikke automatisk administrere insulin.</target>
-        <note>Caption text for low maximum basal rate warning</note>
-      </trans-unit>
       <trans-unit id="A simple card" xml:space="preserve" approved="yes">
         <source>A simple card</source>
         <target state="final">Et simpelt kort</target>
@@ -786,6 +810,11 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <source>Action Button</source>
         <target state="final">Handlingsknap</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Active Duration" xml:space="preserve">
+        <source>Active Duration</source>
+        <target state="needs-translation">Active Duration</target>
+        <note>The text for the override history duration</note>
       </trans-unit>
       <trans-unit id="Activity" xml:space="preserve" approved="yes">
         <source>Activity</source>
@@ -1029,7 +1058,7 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
       <trans-unit id="Enable" xml:space="preserve" approved="yes">
         <source>Enable</source>
         <target state="final">Aktiver</target>
-        <note>The button text for enabling a custom preset</note>
+        <note>The button text for enabling a temporary override</note>
       </trans-unit>
       <trans-unit id="Enable Indefinitely" xml:space="preserve" approved="yes">
         <source>Enable Indefinitely</source>
@@ -1040,6 +1069,11 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <source>Enabled</source>
         <target state="final">Aktiveret</target>
         <note>The detail text describing an enabled setting</note>
+      </trans-unit>
+      <trans-unit id="End Time" xml:space="preserve">
+        <source>End Time</source>
+        <target state="needs-translation">End Time</target>
+        <note>The text for the override start time</note>
       </trans-unit>
       <trans-unit id="Enter %1$@ value" xml:space="preserve" approved="yes">
         <source>Enter %1$@ value</source>
@@ -1055,6 +1089,11 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <source>Enter a rate in units per hour</source>
         <target state="final">Indtast en dosis i enheder pr time</target>
         <note>The placeholder text instructing users how to enter a maximum basal rate</note>
+      </trans-unit>
+      <trans-unit id="Event History" xml:space="preserve">
+        <source>Event History</source>
+        <target state="needs-translation">Event History</target>
+        <note>Segmented button title for insulin delivery log event history</note>
       </trans-unit>
       <trans-unit id="Example" xml:space="preserve" approved="yes">
         <source>Example</source>
@@ -1102,6 +1141,11 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <target state="final">Høj korrektionsværdi</target>
         <note>Title text for the high correction value warning</note>
       </trans-unit>
+      <trans-unit id="High Glucose Safety Limit" xml:space="preserve">
+        <source>High Glucose Safety Limit</source>
+        <target state="needs-translation">High Glucose Safety Limit</target>
+        <note>Title text for the high glucose safety limit warning</note>
+      </trans-unit>
       <trans-unit id="High Insulin Sensitivity" xml:space="preserve" approved="yes">
         <source>High Insulin Sensitivity</source>
         <target state="final">Høj insulin følsomhed</target>
@@ -1117,10 +1161,20 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <target state="final">Maksimal bolus</target>
         <note>Title text for high maximum bolus warning</note>
       </trans-unit>
-      <trans-unit id="High Suspend Threshold" xml:space="preserve" approved="yes">
-        <source>High Suspend Threshold</source>
-        <target state="final">Høj suspenderingsgrænse</target>
-        <note>Title text for the high suspend threshold warning</note>
+      <trans-unit id="High Pre-Meal Value" xml:space="preserve">
+        <source>High Pre-Meal Value</source>
+        <target state="needs-translation">High Pre-Meal Value</target>
+        <note>Title text for the low pre-meal value warning</note>
+      </trans-unit>
+      <trans-unit id="High Workout Value" xml:space="preserve">
+        <source>High Workout Value</source>
+        <target state="needs-translation">High Workout Value</target>
+        <note>Title text for the high workout value warning</note>
+      </trans-unit>
+      <trans-unit id="History" xml:space="preserve">
+        <source>History</source>
+        <target state="needs-translation">History</target>
+        <note>The text for the override history</note>
       </trans-unit>
       <trans-unit id="If these settings look good to you, tap Save Settings to continue." xml:space="preserve" approved="yes">
         <source>If these settings look good to you, tap Save Settings to continue.</source>
@@ -1162,6 +1216,11 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <target state="final">Lav korrektionsværdi</target>
         <note>Title text for the low correction value warning</note>
       </trans-unit>
+      <trans-unit id="Low Glucose Safety Limit" xml:space="preserve">
+        <source>Low Glucose Safety Limit</source>
+        <target state="needs-translation">Low Glucose Safety Limit</target>
+        <note>Title text for the low glucose safety limit warning</note>
+      </trans-unit>
       <trans-unit id="Low Insulin Sensitivity" xml:space="preserve" approved="yes">
         <source>Low Insulin Sensitivity</source>
         <target state="final">Lav insulin følsomhed</target>
@@ -1177,10 +1236,15 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <target state="final">Lav maksimal bolus</target>
         <note>Title text for low maximum bolus warning</note>
       </trans-unit>
-      <trans-unit id="Low Suspend Threshold" xml:space="preserve" approved="yes">
-        <source>Low Suspend Threshold</source>
-        <target state="final">Lav suspenderingsgrænse</target>
-        <note>Title text for the low suspend threshold warning</note>
+      <trans-unit id="Low Pre-Meal Value" xml:space="preserve">
+        <source>Low Pre-Meal Value</source>
+        <target state="needs-translation">Low Pre-Meal Value</target>
+        <note>Title text for the low pre-meal value warning</note>
+      </trans-unit>
+      <trans-unit id="Low Workout Value" xml:space="preserve">
+        <source>Low Workout Value</source>
+        <target state="needs-translation">Low Workout Value</target>
+        <note>Title text for the low workout value warning</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate" xml:space="preserve" approved="yes">
         <source>Maximum Basal Rate</source>
@@ -1258,6 +1322,11 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <target state="final">Totalt insulin behov</target>
         <note>The title text for the insulin sensitivity scaling setting</note>
       </trans-unit>
+      <trans-unit id="Override History" xml:space="preserve">
+        <source>Override History</source>
+        <target state="needs-translation">Override History</target>
+        <note>Title for override history view</note>
+      </trans-unit>
       <trans-unit id="Override Presets" xml:space="preserve" approved="yes">
         <source>Override Presets</source>
         <target state="final">Overrides presets</target>
@@ -1283,6 +1352,11 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <target state="final">Før-måltid</target>
         <note>Title for the pre-meal override range</note>
       </trans-unit>
+      <trans-unit id="Pre-Meal Values" xml:space="preserve">
+        <source>Pre-Meal Values</source>
+        <target state="needs-translation">Pre-Meal Values</target>
+        <note>Title text for multi-value pre-meal value warning</note>
+      </trans-unit>
       <trans-unit id="Pre-meal temp adjust range" xml:space="preserve" approved="yes">
         <source>Pre-meal temp adjust range</source>
         <target state="final">Før-måltid - Midlertidig korrektionsområde</target>
@@ -1303,6 +1377,11 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <target state="final">Pumpe hændelse</target>
         <note>The title of the screen displaying a pump event</note>
       </trans-unit>
+      <trans-unit id="Pump Inoperable" xml:space="preserve">
+        <source>Pump Inoperable</source>
+        <target state="needs-translation">Pump Inoperable</target>
+        <note>Title text for suspend resume button when the basal delivery state is not set</note>
+      </trans-unit>
       <trans-unit id="Rapid-Acting – Adults" xml:space="preserve" approved="yes">
         <source>Rapid-Acting – Adults</source>
         <target state="final">Hurtigt-virkende (Rapid) – Voksne</target>
@@ -1317,6 +1396,11 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <source>Required</source>
         <target state="final">Påkrævet</target>
         <note>The default placeholder string for a credential</note>
+      </trans-unit>
+      <trans-unit id="Reservoir" xml:space="preserve">
+        <source>Reservoir</source>
+        <target state="needs-translation">Reservoir</target>
+        <note>Segmented button title for insulin delivery log reservoir history</note>
       </trans-unit>
       <trans-unit id="Resume Delivery" xml:space="preserve" approved="yes">
         <source>Resume Delivery</source>
@@ -1369,11 +1453,6 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <target state="final">Gem kulhydratforhold?</target>
         <note>Alert title for confirming carb ratios outside the recommended range</note>
       </trans-unit>
-      <trans-unit id="Save Correction Range Overrides?" xml:space="preserve" approved="yes">
-        <source>Save Correction Range Overrides?</source>
-        <target state="final">Gem korrektionsområde overrides?</target>
-        <note>Alert title for confirming correction range overrides outside the recommended range</note>
-      </trans-unit>
       <trans-unit id="Save Correction Range(s)?" xml:space="preserve" approved="yes">
         <source>Save Correction Range(s)?</source>
         <target state="final">Gem korrektionsområde(er)?</target>
@@ -1384,15 +1463,25 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <target state="final">Gem insulin-grænser?</target>
         <note>Alert title for confirming delivery limits outside the recommended range</note>
       </trans-unit>
+      <trans-unit id="Save Glucose Safety Limit?" xml:space="preserve">
+        <source>Save Glucose Safety Limit?</source>
+        <target state="needs-translation">Save Glucose Safety Limit?</target>
+        <note>Alert title for confirming a glucose safety limit outside the recommended range</note>
+      </trans-unit>
       <trans-unit id="Save Insulin Sensitivities?" xml:space="preserve" approved="yes">
         <source>Save Insulin Sensitivities?</source>
         <target state="final">Gem insulinfølsomheder?</target>
         <note>Alert title for confirming insulin sensitivities outside the recommended range</note>
       </trans-unit>
-      <trans-unit id="Save Suspend Threshold?" xml:space="preserve" approved="yes">
-        <source>Save Suspend Threshold?</source>
-        <target state="final">Gem suspenderingsgrænse?</target>
-        <note>Alert title for confirming a suspend threshold outside the recommended range</note>
+      <trans-unit id="Save Pre-Meal Range?" xml:space="preserve">
+        <source>Save Pre-Meal Range?</source>
+        <target state="needs-translation">Save Pre-Meal Range?</target>
+        <note>Alert title for confirming pre-meal range overrides outside the recommended range</note>
+      </trans-unit>
+      <trans-unit id="Save Workout Range?" xml:space="preserve">
+        <source>Save Workout Range?</source>
+        <target state="needs-translation">Save Workout Range?</target>
+        <note>Alert title for confirming workout range overrides outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Slow" xml:space="preserve" approved="yes">
         <source>Slow</source>
@@ -1586,6 +1675,11 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <target state="final">Verificerer</target>
         <note>Label indicating validation is occurring</note>
       </trans-unit>
+      <trans-unit id="View Override" xml:space="preserve">
+        <source>View Override</source>
+        <target state="needs-translation">View Override</target>
+        <note>The title for the override editing screen</note>
+      </trans-unit>
       <trans-unit id="Walsh" xml:space="preserve" approved="yes">
         <source>Walsh</source>
         <target state="final">Walsh</target>
@@ -1605,6 +1699,11 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <source>Workout</source>
         <target state="final">Træning</target>
         <note>Title for the workout override range</note>
+      </trans-unit>
+      <trans-unit id="Workout Values" xml:space="preserve">
+        <source>Workout Values</source>
+        <target state="needs-translation">Workout Values</target>
+        <note>Title text for multi-value workout value warning</note>
       </trans-unit>
       <trans-unit id="Workout temp adjust is the glucose value or range of values you want Loop to target during activity." xml:space="preserve" approved="yes">
         <source>Workout temp adjust is the glucose value or range of values you want Loop to target during activity.</source>
@@ -1742,20 +1841,40 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <note>Information about pre-meal range relative to correction range
    Information about workout range relative to correction range</note>
       </trans-unit>
+      <trans-unit id="···" xml:space="preserve">
+        <source>···</source>
+        <target state="needs-translation">···</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="–" xml:space="preserve" approved="yes">
         <source>–</source>
         <target state="final">–</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="—" xml:space="preserve" approved="yes">
-        <source>—</source>
-        <target state="final">—</target>
         <note>The detail text representing no value</note>
       </trans-unit>
       <trans-unit id="－" xml:space="preserve" approved="yes">
         <source>－</source>
         <target state="final">-</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="🍽" xml:space="preserve">
+        <source>🍽</source>
+        <target state="needs-translation">🍽</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="🍽 Pre-Meal" xml:space="preserve">
+        <source>🍽 Pre-Meal</source>
+        <target state="needs-translation">🍽 Pre-Meal</target>
+        <note>Premeal override preset title</note>
+      </trans-unit>
+      <trans-unit id="🏃‍♂️" xml:space="preserve">
+        <source>🏃‍♂️</source>
+        <target state="needs-translation">🏃‍♂️</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="🏃‍♂️ Workout" xml:space="preserve">
+        <source>🏃‍♂️ Workout</source>
+        <target state="needs-translation">🏃‍♂️ Workout</target>
+        <note>Workout override preset title</note>
       </trans-unit>
     </body>
   </file>
@@ -1802,6 +1921,11 @@ Dette område kan være mellem din suspenderingsgrænse til starten af dit norma
         <source>No Insulin</source>
         <target state="final">Ingen insulin</target>
         <note>Status highlight that a pump is out of insulin.</note>
+      </trans-unit>
+      <trans-unit id="Pump Battery Dead" xml:space="preserve">
+        <source>Pump Battery Dead</source>
+        <target state="needs-translation">Pump Battery Dead</target>
+        <note>Status highlight that pump has a dead battery.</note>
       </trans-unit>
       <trans-unit id="Pump Error" xml:space="preserve" approved="yes">
         <source>Pump Error</source>
