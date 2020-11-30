@@ -2085,10 +2085,10 @@ trykk på statusikonene for CGM og insulinpumpen hvis du vil ha mer informasjon.
 %1$@ has not completed a loop successfully in the past 5-15 minutes.
 
 Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM.</source>
-        <target state="needs-translation">
-%1$@ has not completed a loop successfully in the past 5-15 minutes.
+        <target state="translated">
+%1$@ har ikke fullført en loop på over 15 minutter.
 
-Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM.</target>
+trykk på statusikonene for CGM og insulinpumpen hvis du vil ha mer informasjon. %2$@ fortsette å prøve å fullføre en løkke, men se etter potensielle kommunikasjonsproblemer med pumpen og CGM.</target>
         <note>Yellow loop message (1: app name) (2: app name)</note>
       </trans-unit>
       <trans-unit id="&#10;%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.&#10;&#10;Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin." xml:space="preserve">
@@ -2096,17 +2096,17 @@ Tap your CGM and insulin pump status icons for more information. %2$@ will conti
 %1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
 
 Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin.</source>
-        <target state="needs-translation">
-%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
+        <target state="translated">
+%1$@ i drift med Lukket Loop i AV-posisjon. Pumpen og CGM vil fortsette å fungere, men basalinsulinet justeres ikke automatisk.
 
-Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin.</target>
+på Innstillinger for å slå lukket sløyfe PÅ hvis du ønsker at appen skal automatisere insulinet ditt.</target>
         <note>Green closed loop OFF message (1: app name)</note>
       </trans-unit>
       <trans-unit id="&#10;%1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes." xml:space="preserve">
         <source>
 %1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes.</source>
-        <target state="needs-translation">
-%1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes.</target>
+        <target state="translated">
+%1$@ i drift med Lukket Loop i PÅ-posisjon. Din siste sløyfe var vellykket i løpet av de siste 5 minuttene.</target>
         <note>Green closed loop ON message (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ at %2$@" xml:space="preserve">
@@ -2121,7 +2121,7 @@ Tap Settings to toggle Closed Loop ON if you wish for the app to automate your i
       </trans-unit>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
       <trans-unit id="%1$@/min" xml:space="preserve">
@@ -2141,12 +2141,12 @@ Tap Settings to toggle Closed Loop ON if you wish for the app to automate your i
       </trans-unit>
       <trans-unit id="Closed Loop OFF" xml:space="preserve">
         <source>Closed Loop OFF</source>
-        <target state="needs-translation">Closed Loop OFF</target>
+        <target state="translated">Lukket Loop AV</target>
         <note>Title of green open loop OFF message</note>
       </trans-unit>
       <trans-unit id="Closed Loop ON" xml:space="preserve">
         <source>Closed Loop ON</source>
-        <target state="needs-translation">Closed Loop ON</target>
+        <target state="translated">Lukket Loop PÅ</target>
         <note>Title of green closed loop ON message</note>
       </trans-unit>
       <trans-unit id="Closed loop" xml:space="preserve">
@@ -2166,7 +2166,7 @@ Tap Settings to toggle Closed Loop ON if you wish for the app to automate your i
       </trans-unit>
       <trans-unit id="Loop Failure" xml:space="preserve">
         <source>Loop Failure</source>
-        <target state="needs-translation">Loop Failure</target>
+        <target state="translated">Loop feilet</target>
         <note>Title of red loop message
    Title of yellow loop message</note>
       </trans-unit>
@@ -2227,7 +2227,7 @@ Tap Settings to toggle Closed Loop ON if you wish for the app to automate your i
       </trans-unit>
       <trans-unit id="– – –" xml:space="preserve">
         <source>– – –</source>
-        <target state="needs-translation">– – –</target>
+        <target state="translated">– – –</target>
         <note>No glucose value representation (3 dashes for mg/dL)</note>
       </trans-unit>
     </body>
@@ -2249,7 +2249,7 @@ Tap Settings to toggle Closed Loop ON if you wish for the app to automate your i
       </trans-unit>
       <trans-unit id="---" xml:space="preserve">
         <source>---</source>
-        <target state="needs-translation">---</target>
+        <target state="translated">---</target>
         <note>No glucose value representation (3 dashes for mg/dL; no spaces as this will get truncated in the watch complication)</note>
       </trans-unit>
       <trans-unit id="Active Carbs" xml:space="preserve">
@@ -2435,7 +2435,7 @@ to bolus</source>
       </trans-unit>
       <trans-unit id="– – –" xml:space="preserve">
         <source>– – –</source>
-        <target state="needs-translation">– – –</target>
+        <target state="translated">– – –</target>
         <note>No glucose value representation (3 dashes for mg/dL)</note>
       </trans-unit>
     </body>
@@ -2493,17 +2493,17 @@ to bolus</source>
     <body>
       <trans-unit id="CsQ-fc-KLC.text" xml:space="preserve">
         <source>–</source>
-        <target state="needs-translation">–</target>
+        <target state="translated">–</target>
         <note>Class = "WKInterfaceLabel"; text = "–"; ObjectID = "CsQ-fc-KLC";</note>
       </trans-unit>
       <trans-unit id="Dt1-kz-jMZ.text" xml:space="preserve">
         <source>– – –</source>
-        <target state="needs-translation">– – –</target>
+        <target state="translated">– – –</target>
         <note>Class = "WKInterfaceLabel"; text = "– – –"; ObjectID = "Dt1-kz-jMZ";</note>
       </trans-unit>
       <trans-unit id="IRi-4t-ESO.text" xml:space="preserve">
         <source>–</source>
-        <target state="needs-translation">–</target>
+        <target state="translated">–</target>
         <note>Class = "WKInterfaceLabel"; text = "–"; ObjectID = "IRi-4t-ESO";</note>
       </trans-unit>
       <trans-unit id="JXa-s1-PJx.text" xml:space="preserve">
@@ -2518,7 +2518,7 @@ to bolus</source>
       </trans-unit>
       <trans-unit id="Mhe-aR-kQQ.text" xml:space="preserve">
         <source>–</source>
-        <target state="needs-translation">–</target>
+        <target state="translated">–</target>
         <note>Class = "WKInterfaceLabel"; text = "–"; ObjectID = "Mhe-aR-kQQ";</note>
       </trans-unit>
       <trans-unit id="T4U-wP-dSW.text" xml:space="preserve">
@@ -2598,7 +2598,7 @@ to bolus</source>
       </trans-unit>
       <trans-unit id="yl8-ZP-c3l.text" xml:space="preserve">
         <source>– – –</source>
-        <target state="needs-translation">– – –</target>
+        <target state="translated">– – –</target>
         <note>Class = "WKInterfaceLabel"; text = "– – –"; ObjectID = "yl8-ZP-c3l";</note>
       </trans-unit>
       <trans-unit id="zO8-x6-bZd.text" xml:space="preserve">
