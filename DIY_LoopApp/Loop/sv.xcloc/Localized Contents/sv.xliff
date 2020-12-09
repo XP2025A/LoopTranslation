@@ -554,7 +554,7 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
         <source>%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
 
 </source>
-        <target state="needs-translation">%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
+        <target state="translated">%1$@ körs nu i öppet läge. Din pump och CGM kommer fortsätter att köras, men dina basaldoser kommer inte att justeras automatiskt. 
 
 </target>
         <note>Alert message for closed loop off informational modal. (1: app name)</note>
@@ -623,7 +623,7 @@ Du kan vänta flera minuter för att se om problemet löser sig eller klicka på
       </trans-unit>
       <trans-unit id="A manual glucose entry must be between %1$@ and %2$@" xml:space="preserve">
         <source>A manual glucose entry must be between %1$@ and %2$@</source>
-        <target state="needs-translation">A manual glucose entry must be between %1$@ and %2$@</target>
+        <target state="translated">Ett manuellt inmatat glukosvärde måste vara mellan %1$@ och %2$@</target>
         <note>Alert message for a manual glucose entry out of range error. (1: acceptable lower bound) (2: acceptable upper bound)</note>
       </trans-unit>
       <trans-unit id="A manual glucose entry must be between %@ and %@" xml:space="preserve" approved="yes">
@@ -858,7 +858,7 @@ Unavailable</source>
       </trans-unit>
       <trans-unit id="Carb Entry Too Large" xml:space="preserve">
         <source>Carb Entry Too Large</source>
-        <target state="needs-translation">Carb Entry Too Large</target>
+        <target state="translated">Kolhydratmängd för stor</target>
         <note>Alert title for a carb entry too large error</note>
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve" approved="yes">
@@ -919,12 +919,12 @@ Unavailable</source>
       </trans-unit>
       <trans-unit id="Closed Loop OFF" xml:space="preserve">
         <source>Closed Loop OFF</source>
-        <target state="needs-translation">Closed Loop OFF</target>
+        <target state="translated">Stängd Loop är av</target>
         <note>Alert title for closed loop off informational modal</note>
       </trans-unit>
       <trans-unit id="Closed Loop requires an active CGM Sensor Session" xml:space="preserve">
         <source>Closed Loop requires an active CGM Sensor Session</source>
-        <target state="needs-translation">Closed Loop requires an active CGM Sensor Session</target>
+        <target state="translated">Stängd Loop kräver en aktiv CGM-sensorsession</target>
         <note>The description text for the looping enabled switch cell when closed loop is not allowed</note>
       </trans-unit>
       <trans-unit id="Configuration" xml:space="preserve" approved="yes">
@@ -1083,7 +1083,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Enter glucose safety limit" xml:space="preserve">
         <source>Enter glucose safety limit</source>
-        <target state="needs-translation">Enter glucose safety limit</target>
+        <target state="translated">Ange tröskelvärde för blodsocker</target>
         <note>The placeholder text instructing users to enter a glucose safety limit</note>
       </trans-unit>
       <trans-unit id="Enter suspend threshold" xml:space="preserve" approved="yes">
@@ -1381,7 +1381,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your glucose safety limit setting." xml:space="preserve">
         <source>Predicted glucose of %1$@ is below your glucose safety limit setting.</source>
-        <target state="needs-translation">Predicted glucose of %1$@ is below your glucose safety limit setting.</target>
+        <target state="translated">Förväntat blodsocker på %1$@ är under ditt tröskelvärde.</target>
         <note>Notice message when recommending bolus when BG is below the glucose safety limit. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve" approved="yes">
@@ -1622,7 +1622,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Time" xml:space="preserve">
         <source>Time</source>
-        <target state="needs-translation">Time</target>
+        <target state="translated">Tid</target>
         <note>Title of the carb entry date picker cell</note>
       </trans-unit>
       <trans-unit id="Time Change Detected" xml:space="preserve">
@@ -1667,12 +1667,12 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Until I enter carbs" xml:space="preserve">
         <source>Until I enter carbs</source>
-        <target state="needs-translation">Until I enter carbs</target>
+        <target state="translated">Tills jag anger kolhydrater</target>
         <note>The title of a target alert action specifying pre-meal targets duration for 1 hour or until the user enters carbs (whichever comes first).</note>
       </trans-unit>
       <trans-unit id="Until I turn off" xml:space="preserve">
         <source>Until I turn off</source>
-        <target state="needs-translation">Until I turn off</target>
+        <target state="translated">Tills jag stänger av</target>
         <note>The title of a target alert action specifying workout targets duration until it is turned off by the user</note>
       </trans-unit>
       <trans-unit id="Use Pre-Meal Preset" xml:space="preserve">
