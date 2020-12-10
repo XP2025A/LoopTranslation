@@ -154,6 +154,11 @@
         <target state="translated">%1$@ U bolo potrebbe non aver avuto successo</target>
         <note>Describes an uncertain bolus failure (1: size of the bolus in units)</note>
       </trans-unit>
+      <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." xml:space="preserve">
+        <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</source>
+        <target state="needs-translation">%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</target>
+        <note>Descriptive text for insulin model (1: app name)</note>
+      </trans-unit>
       <trans-unit id="%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." xml:space="preserve">
         <source>%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.</source>
         <target state="needs-translation">%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.</target>
@@ -224,10 +229,10 @@
         <target state="needs-translation">Correction Range</target>
         <note>Title text for glucose target range</note>
       </trans-unit>
-      <trans-unit id="Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
-        <source>Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target state="needs-translation">Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</target>
-        <note>Descriptive text for glucose target range</note>
+      <trans-unit id="Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." xml:space="preserve">
+        <source>Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.</source>
+        <target state="needs-translation">Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.</target>
+        <note>Descriptive text for glucose target range (1: app name)</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
         <source>Delivery Limits</source>
@@ -299,19 +304,19 @@
         <target state="needs-translation">Maximum Basal Rate</target>
         <note>Title text for maximum basal rate configuration</note>
       </trans-unit>
+      <trans-unit id="Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically." xml:space="preserve">
+        <source>Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically.</source>
+        <target state="needs-translation">Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically.</target>
+        <note>Descriptive text for maximum basal rate (1: app name)</note>
+      </trans-unit>
       <trans-unit id="Maximum Bolus" xml:space="preserve">
         <source>Maximum Bolus</source>
         <target state="needs-translation">Maximum Bolus</target>
         <note>Title text for maximum bolus configuration</note>
       </trans-unit>
-      <trans-unit id="Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically." xml:space="preserve">
-        <source>Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically.</source>
-        <target state="needs-translation">Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically.</target>
-        <note>Descriptive text for maximum basal rate</note>
-      </trans-unit>
-      <trans-unit id="Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." xml:space="preserve">
-        <source>Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</source>
-        <target state="needs-translation">Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</target>
+      <trans-unit id="Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." xml:space="preserve">
+        <source>Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</source>
+        <target state="needs-translation">Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</target>
         <note>Descriptive text for maximum bolus</note>
       </trans-unit>
       <trans-unit id="Needs Attention" xml:space="preserve">
@@ -384,25 +389,10 @@
         <target state="needs-translation">Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</target>
         <note>Descriptive text for pre-meal correction range override</note>
       </trans-unit>
-      <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your glucose safety limit on the low end to the top of your regular correction range on the high end." xml:space="preserve">
-        <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your glucose safety limit on the low end to the top of your regular correction range on the high end.</source>
-        <target state="needs-translation">Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your glucose safety limit on the low end to the top of your regular correction range on the high end.</target>
-        <note>Description of pre-meal mode</note>
-      </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</source>
         <target state="needs-translation">Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</target>
         <note>Descriptive text for workout correction range override</note>
-      </trans-unit>
-      <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." xml:space="preserve">
-        <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end.</source>
-        <target state="needs-translation">Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end.</target>
-        <note>Description of workout mode</note>
-      </trans-unit>
-      <trans-unit id="The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." xml:space="preserve">
-        <source>The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</source>
-        <target state="needs-translation">The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</target>
-        <note>Descriptive text for insulin model</note>
       </trans-unit>
       <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
         <source>The value you have entered is higher than what is typically recommended for most people.</source>
@@ -459,19 +449,19 @@
         <target state="needs-translation">Workout</target>
         <note>Title for workout mode</note>
       </trans-unit>
-      <trans-unit id="Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
-        <source>Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="needs-translation">Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</target>
+      <trans-unit id="Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
+        <source>Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
+        <target state="needs-translation">Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</target>
         <note>Descriptive text for basal rate</note>
       </trans-unit>
-      <trans-unit id="Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." xml:space="preserve">
-        <source>Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin.</source>
-        <target state="needs-translation">Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin.</target>
+      <trans-unit id="Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin." xml:space="preserve">
+        <source>Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin.</source>
+        <target state="needs-translation">Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin.</target>
         <note>Descriptive text for carb ratio</note>
       </trans-unit>
-      <trans-unit id="Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin." xml:space="preserve">
-        <source>Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin.</source>
-        <target state="needs-translation">Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin.</target>
+      <trans-unit id="Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin." xml:space="preserve">
+        <source>Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin.</source>
+        <target state="needs-translation">Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin.</target>
         <note>Descriptive text for insulin sensitivity</note>
       </trans-unit>
       <trans-unit id="com.loudnate.CarbKit.deleteCarbEntryUnownedErrorDescription" xml:space="preserve">
@@ -711,6 +701,11 @@
         <target state="needs-translation">%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
+      <trans-unit id="%1$@ or your Glucose Safety Limit, whichever is higher" xml:space="preserve">
+        <source>%1$@ or your Glucose Safety Limit, whichever is higher</source>
+        <target state="needs-translation">%1$@ or your Glucose Safety Limit, whichever is higher</target>
+        <note>Lower bound workout information text format (1: app name)</note>
+      </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
         <source>%1$@ units remaining at %2$@</source>
         <target state="needs-translation">%1$@ units remaining at %2$@</target>
@@ -724,7 +719,8 @@
       <trans-unit id="%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@" xml:space="preserve">
         <source>%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</source>
         <target state="needs-translation">%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</target>
-        <note>Description of a basal, bolus, or temp basal dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)</note>
+        <note>Description of a basal temp basal dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)
+   Description of a bolus dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)</note>
       </trans-unit>
       <trans-unit id="%1$d percent complete." xml:space="preserve">
         <source>%1$d percent complete.</source>
@@ -771,15 +767,15 @@
         <target state="needs-translation">-</target>
         <note>Separator between min and max glucose values</note>
       </trans-unit>
+      <trans-unit id="A Correction Range is different. This will be a narrower range." xml:space="preserve">
+        <source>A Correction Range is different. This will be a narrower range.</source>
+        <target state="needs-translation">A Correction Range is different. This will be a narrower range.</target>
+        <note>Information about differences between target range and correction range</note>
+      </trans-unit>
       <trans-unit id="A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do" xml:space="preserve">
         <source>A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do</source>
         <target state="needs-translation">A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do</target>
         <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="A correction range is different. This will be a narrower range." xml:space="preserve">
-        <source>A correction range is different. This will be a narrower range.</source>
-        <target state="needs-translation">A correction range is different. This will be a narrower range.</target>
-        <note>Information about differences between target range and correction range</note>
       </trans-unit>
       <trans-unit id="A simple card" xml:space="preserve">
         <source>A simple card</source>
@@ -998,9 +994,9 @@
         <target state="needs-translation">Delivery Limits</target>
         <note>Title text for crossed thresholds guardrail warning</note>
       </trans-unit>
-      <trans-unit id="Delivery limits are safety guardrails for your insulin delivery." xml:space="preserve">
-        <source>Delivery limits are safety guardrails for your insulin delivery.</source>
-        <target state="needs-translation">Delivery limits are safety guardrails for your insulin delivery.</target>
+      <trans-unit id="Delivery Limits are safety guardrails for your insulin delivery." xml:space="preserve">
+        <source>Delivery Limits are safety guardrails for your insulin delivery.</source>
+        <target state="needs-translation">Delivery Limits are safety guardrails for your insulin delivery.</target>
         <note>Information about delivery limits</note>
       </trans-unit>
       <trans-unit id="Disable Preset" xml:space="preserve">
@@ -1110,10 +1106,10 @@
         <target state="needs-translation">Fiasp</target>
         <note>Title of insulin model preset - fiasp</note>
       </trans-unit>
-      <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." xml:space="preserve">
-        <source>For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</source>
-        <target state="needs-translation">For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.</target>
-        <note>Information about correction range</note>
+      <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin." xml:space="preserve">
+        <source>For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin.</source>
+        <target state="needs-translation">For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin.</target>
+        <note>Information about correction range format (1: app name)</note>
       </trans-unit>
       <trans-unit id="Get help with Therapy Settings" xml:space="preserve">
         <source>Get help with Therapy Settings</source>
@@ -1196,6 +1192,16 @@
         <target state="translated">La sensibilità all’insulina descrive il modo in cui la tua glicemia dovrebbe rispondere a una dose di insulina pari a 1 Unità. In caso di valori inferiori, al superamento del target verrà somministrata più insulina. Valori troppo bassi possono causare livelli di glicemia pericolosamente bassi.</target>
         <note>The description shown on the insulin sensitivity schedule interface.</note>
       </trans-unit>
+      <trans-unit id="Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@" xml:space="preserve">
+        <source>Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@</source>
+        <target state="needs-translation">Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@</target>
+        <note>Description of an interrupted bolus dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: programmed value (? if no value), 4: unit)</note>
+      </trans-unit>
+      <trans-unit id="It can be set as low as %1$@. It can be set as high as %2$@." xml:space="preserve">
+        <source>It can be set as low as %1$@. It can be set as high as %2$@.</source>
+        <target state="needs-translation">It can be set as low as %1$@. It can be set as high as %2$@.</target>
+        <note>Guardrail info text format</note>
+      </trans-unit>
       <trans-unit id="Loop supports 1 to 48 rates per day." xml:space="preserve">
         <source>Loop supports 1 to 48 rates per day.</source>
         <target state="needs-translation">Loop supports 1 to 48 rates per day.</target>
@@ -1251,29 +1257,29 @@
         <target state="translated">Profilo Basale Massimo</target>
         <note>The title text for the maximum basal rate value</note>
       </trans-unit>
+      <trans-unit id="Maximum Basal Rate is the maximum automatically adjusted basal rate that %@ is allowed to enact to help reach your correction range." xml:space="preserve">
+        <source>Maximum Basal Rate is the maximum automatically adjusted basal rate that %@ is allowed to enact to help reach your correction range.</source>
+        <target state="needs-translation">Maximum Basal Rate is the maximum automatically adjusted basal rate that %@ is allowed to enact to help reach your correction range.</target>
+        <note>Information about maximum basal rate</note>
+      </trans-unit>
+      <trans-unit id="Maximum Basal Rate is the maximum automatically adjusted basal rate that (appName) is allowed to enact to help reach your correction range." xml:space="preserve">
+        <source>Maximum Basal Rate is the maximum automatically adjusted basal rate that (appName) is allowed to enact to help reach your correction range.</source>
+        <target state="needs-translation">Maximum Basal Rate is the maximum automatically adjusted basal rate that (appName) is allowed to enact to help reach your correction range.</target>
+        <note>Information about maximum basal rate</note>
+      </trans-unit>
       <trans-unit id="Maximum Bolus" xml:space="preserve">
         <source>Maximum Bolus</source>
         <target state="translated">Bolo Massimo</target>
         <note>The title text for the maximum bolus value</note>
       </trans-unit>
-      <trans-unit id="Maximum basal rate" xml:space="preserve">
-        <source>Maximum basal rate</source>
-        <target state="needs-translation">Maximum basal rate</target>
-        <note>Maximum basal rate title</note>
+      <trans-unit id="Maximum Bolus is the highest bolus amount that you will allow %@ to recommend at one time to cover carbs or bring down high glucose." xml:space="preserve">
+        <source>Maximum Bolus is the highest bolus amount that you will allow %@ to recommend at one time to cover carbs or bring down high glucose.</source>
+        <target state="needs-translation">Maximum Bolus is the highest bolus amount that you will allow %@ to recommend at one time to cover carbs or bring down high glucose.</target>
+        <note>Information about maximum bolus</note>
       </trans-unit>
-      <trans-unit id="Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range." xml:space="preserve">
-        <source>Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range.</source>
-        <target state="needs-translation">Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range.</target>
-        <note>Information about maximum basal rate</note>
-      </trans-unit>
-      <trans-unit id="Maximum bolus" xml:space="preserve">
-        <source>Maximum bolus</source>
-        <target state="needs-translation">Maximum bolus</target>
-        <note>Maximum bolus title</note>
-      </trans-unit>
-      <trans-unit id="Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose." xml:space="preserve">
-        <source>Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose.</source>
-        <target state="needs-translation">Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose.</target>
+      <trans-unit id="Maximum Bolus is the highest bolus amount that you will allow (appName) to recommend at one time to cover carbs or bring down high glucose." xml:space="preserve">
+        <source>Maximum Bolus is the highest bolus amount that you will allow (appName) to recommend at one time to cover carbs or bring down high glucose.</source>
+        <target state="needs-translation">Maximum Bolus is the highest bolus amount that you will allow (appName) to recommend at one time to cover carbs or bring down high glucose.</target>
         <note>Information about maximum bolus</note>
       </trans-unit>
       <trans-unit id="Medium" xml:space="preserve">
@@ -1356,11 +1362,6 @@
         <source>Pre-Meal Values</source>
         <target state="needs-translation">Pre-Meal Values</target>
         <note>Title text for multi-value pre-meal value warning</note>
-      </trans-unit>
-      <trans-unit id="Pre-meal temp adjust range" xml:space="preserve">
-        <source>Pre-meal temp adjust range</source>
-        <target state="needs-translation">Pre-meal temp adjust range</target>
-        <note>Title for pre-meal range information section</note>
       </trans-unit>
       <trans-unit id="Prescription" xml:space="preserve">
         <source>Prescription</source>
@@ -1553,6 +1554,16 @@
         <target state="translated">Intervallo target</target>
         <note>The text for the override target range setting</note>
       </trans-unit>
+      <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve">
+        <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</source>
+        <target state="needs-translation">Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</target>
+        <note>Description of pre-meal mode</note>
+      </trans-unit>
+      <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
+        <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</source>
+        <target state="needs-translation">Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</target>
+        <note>Description of workout mode</note>
+      </trans-unit>
       <trans-unit id="Temporary Override" xml:space="preserve">
         <source>Temporary Override</source>
         <target state="translated">Regolazione manuale temporanea</target>
@@ -1700,20 +1711,15 @@
         <target state="translated">Allenarsi</target>
         <note>Title for the workout override range</note>
       </trans-unit>
+      <trans-unit id="Workout Range is the glucose value or range of values you want %1$@ to target during activity. This range will be in effect when you activate the Workout Preset button." xml:space="preserve">
+        <source>Workout Range is the glucose value or range of values you want %1$@ to target during activity. This range will be in effect when you activate the Workout Preset button.</source>
+        <target state="needs-translation">Workout Range is the glucose value or range of values you want %1$@ to target during activity. This range will be in effect when you activate the Workout Preset button.</target>
+        <note>Information about workout range format (1: app name)</note>
+      </trans-unit>
       <trans-unit id="Workout Values" xml:space="preserve">
         <source>Workout Values</source>
         <target state="needs-translation">Workout Values</target>
         <note>Title text for multi-value workout value warning</note>
-      </trans-unit>
-      <trans-unit id="Workout temp adjust is the glucose value or range of values you want Loop to target during activity." xml:space="preserve">
-        <source>Workout temp adjust is the glucose value or range of values you want Loop to target during activity.</source>
-        <target state="needs-translation">Workout temp adjust is the glucose value or range of values you want Loop to target during activity.</target>
-        <note>Information about workout range</note>
-      </trans-unit>
-      <trans-unit id="Workout temp adjust range" xml:space="preserve">
-        <source>Workout temp adjust range</source>
-        <target state="needs-translation">Workout temp adjust range</target>
-        <note>Title for workout range information section</note>
       </trans-unit>
       <trans-unit id="You can add different carb ratios for different times of day by using the ➕." xml:space="preserve">
         <source>You can add different carb ratios for different times of day by using the ➕.</source>
@@ -1755,25 +1761,25 @@
         <target state="needs-translation">You can edit the setting by tapping into the line item.</target>
         <note>Description of how to edit setting</note>
       </trans-unit>
-      <trans-unit id="Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
-        <source>Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="needs-translation">Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</target>
+      <trans-unit id="Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
+        <source>Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
+        <target state="needs-translation">Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</target>
         <note>Information about basal rates</note>
       </trans-unit>
-      <trans-unit id="Your healthcare provider can help you choose a correction range that's right for you." xml:space="preserve">
-        <source>Your healthcare provider can help you choose a correction range that's right for you.</source>
-        <target state="needs-translation">Your healthcare provider can help you choose a correction range that's right for you.</target>
-        <note>Disclaimer</note>
-      </trans-unit>
-      <trans-unit id="Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." xml:space="preserve">
-        <source>Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin.</source>
-        <target state="needs-translation">Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin.</target>
+      <trans-unit id="Your Insulin Sensitivity Factor (ISF) is the drop in glucose expected from one unit of insulin." xml:space="preserve">
+        <source>Your Insulin Sensitivity Factor (ISF) is the drop in glucose expected from one unit of insulin.</source>
+        <target state="needs-translation">Your Insulin Sensitivity Factor (ISF) is the drop in glucose expected from one unit of insulin.</target>
         <note>Description of insulin sensitivity factor</note>
       </trans-unit>
-      <trans-unit id="Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." xml:space="preserve">
-        <source>Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal.</source>
-        <target state="needs-translation">Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal.</target>
-        <note>Information about pre-meal range</note>
+      <trans-unit id="Your Pre-Meal Range should be the glucose value (or range of values) you want %1$@ to target by the time you take your first bite of your meal. This range will be in effect when you activate the Pre-Meal Preset button." xml:space="preserve">
+        <source>Your Pre-Meal Range should be the glucose value (or range of values) you want %1$@ to target by the time you take your first bite of your meal. This range will be in effect when you activate the Pre-Meal Preset button.</source>
+        <target state="needs-translation">Your Pre-Meal Range should be the glucose value (or range of values) you want %1$@ to target by the time you take your first bite of your meal. This range will be in effect when you activate the Pre-Meal Preset button.</target>
+        <note>Information about pre-meal range format (1: app name)</note>
+      </trans-unit>
+      <trans-unit id="Your healthcare provider can help you choose a Correction Range that's right for you." xml:space="preserve">
+        <source>Your healthcare provider can help you choose a Correction Range that's right for you.</source>
+        <target state="needs-translation">Your healthcare provider can help you choose a Correction Range that's right for you.</target>
+        <note>Disclaimer</note>
       </trans-unit>
       <trans-unit id="authentication-button-delete" xml:space="preserve">
         <source>authentication-button-delete</source>
@@ -1835,11 +1841,16 @@
         <target state="needs-translation">%1$@%2$@</target>
         <note>Format string for combining localized numeric value and unit without spacing. (1: numeric value)(2: unit)</note>
       </trans-unit>
-      <trans-unit id="than your correction range" xml:space="preserve">
-        <source>than your correction range</source>
-        <target state="needs-translation">than your correction range</target>
+      <trans-unit id="than your Correction Range." xml:space="preserve">
+        <source>than your Correction Range.</source>
+        <target state="needs-translation">than your Correction Range.</target>
         <note>Information about pre-meal range relative to correction range
    Information about workout range relative to correction range</note>
+      </trans-unit>
+      <trans-unit id="your Glucose Safety Limit" xml:space="preserve">
+        <source>your Glucose Safety Limit</source>
+        <target state="needs-translation">your Glucose Safety Limit</target>
+        <note>Lower bound pre-meal information text</note>
       </trans-unit>
       <trans-unit id="···" xml:space="preserve">
         <source>···</source>
