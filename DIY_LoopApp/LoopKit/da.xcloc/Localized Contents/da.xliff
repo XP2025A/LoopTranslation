@@ -156,7 +156,7 @@
       </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</source>
-        <target state="needs-translation">%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</target>
+        <target state="translated">%1$@ antager at insulin virker aktivt i 6 timer. Du kan vælge mellem forskellige modeller for, hvordan Loop måler insulinets maksimale aktivitet.</target>
         <note>Descriptive text for insulin model (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." xml:space="preserve">
@@ -231,7 +231,7 @@
       </trans-unit>
       <trans-unit id="Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." xml:space="preserve">
         <source>Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.</source>
-        <target state="needs-translation">Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.</target>
+        <target state="translated">Korrektionsinterval er den blodsukkerværdi (eller værdiinterval), som du vil have %1$@ til at sigte efter når din basal justeres og hjælpe dig med at beregne dine bolusser.</target>
         <note>Descriptive text for glucose target range (1: app name)</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve" approved="yes">
@@ -306,7 +306,7 @@
       </trans-unit>
       <trans-unit id="Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically." xml:space="preserve">
         <source>Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically.</source>
-        <target state="needs-translation">Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically.</target>
+        <target state="translated">Maksimal basalrate er den højeste, midlertidige basalrate %1$@ kan indstille automatisk.</target>
         <note>Descriptive text for maximum basal rate (1: app name)</note>
       </trans-unit>
       <trans-unit id="Maximum Bolus" xml:space="preserve" approved="yes">
@@ -316,7 +316,7 @@
       </trans-unit>
       <trans-unit id="Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." xml:space="preserve">
         <source>Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</source>
-        <target state="needs-translation">Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</target>
+        <target state="translated">Maksimal bolus er den højeste bolus mængde du kan afgive på én gang, i forbindelse med indtastning af kulhydrater eller en korrektionsbolus.</target>
         <note>Descriptive text for maximum bolus</note>
       </trans-unit>
       <trans-unit id="Needs Attention" xml:space="preserve" approved="yes">
@@ -451,17 +451,17 @@
       </trans-unit>
       <trans-unit id="Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
         <source>Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="needs-translation">Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</target>
+        <target state="translated">En basalrate, er det antal af enheder i timen, som du skal bruge for at dække dit basale insulinbehov.</target>
         <note>Descriptive text for basal rate</note>
       </trans-unit>
       <trans-unit id="Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin." xml:space="preserve">
         <source>Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin.</source>
-        <target state="needs-translation">Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin.</target>
+        <target state="translated">Kulhydratforhold er antallet af kulhydrater i gram, der dækkes af én enhed insulin.</target>
         <note>Descriptive text for carb ratio</note>
       </trans-unit>
       <trans-unit id="Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin." xml:space="preserve">
         <source>Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin.</source>
-        <target state="needs-translation">Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin.</target>
+        <target state="translated">Insulinfølsomhed henviser til det fald i blodsukker, der forventes fra én insulinenhed.</target>
         <note>Descriptive text for insulin sensitivity</note>
       </trans-unit>
       <trans-unit id="com.loudnate.CarbKit.deleteCarbEntryUnownedErrorDescription" xml:space="preserve" approved="yes">
@@ -703,7 +703,7 @@
       </trans-unit>
       <trans-unit id="%1$@ or your Glucose Safety Limit, whichever is higher" xml:space="preserve">
         <source>%1$@ or your Glucose Safety Limit, whichever is higher</source>
-        <target state="needs-translation">%1$@ or your Glucose Safety Limit, whichever is higher</target>
+        <target state="translated">%1$@ eller din glukose sikkerhedsgrænse, afhængigt af hvad der er højest</target>
         <note>Lower bound workout information text format (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve" approved="yes">
@@ -769,7 +769,7 @@
       </trans-unit>
       <trans-unit id="A Correction Range is different. This will be a narrower range." xml:space="preserve">
         <source>A Correction Range is different. This will be a narrower range.</source>
-        <target state="needs-translation">A Correction Range is different. This will be a narrower range.</target>
+        <target state="translated">Et korrektionsområde er anderledes. Dette vil være et snævere interval.</target>
         <note>Information about differences between target range and correction range</note>
       </trans-unit>
       <trans-unit id="A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do" xml:space="preserve" approved="yes">
@@ -996,7 +996,7 @@
       </trans-unit>
       <trans-unit id="Delivery Limits are safety guardrails for your insulin delivery." xml:space="preserve">
         <source>Delivery Limits are safety guardrails for your insulin delivery.</source>
-        <target state="needs-translation">Delivery Limits are safety guardrails for your insulin delivery.</target>
+        <target state="translated">Insulin-grænser er sikkerhedsgrænser for insulinafgivelsen.</target>
         <note>Information about delivery limits</note>
       </trans-unit>
       <trans-unit id="Disable Preset" xml:space="preserve" approved="yes">
@@ -1108,7 +1108,7 @@
       </trans-unit>
       <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin." xml:space="preserve">
         <source>For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin.</source>
-        <target state="needs-translation">For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin.</target>
+        <target state="translated">For dette område, skal du vælge det specifikke blodsukker (eller interval), som du vil have %1$@ til at sigte efter, når din basal justeres.</target>
         <note>Information about correction range format (1: app name)</note>
       </trans-unit>
       <trans-unit id="Get help with Therapy Settings" xml:space="preserve" approved="yes">
@@ -1194,12 +1194,12 @@
       </trans-unit>
       <trans-unit id="Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@" xml:space="preserve">
         <source>Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@</source>
-        <target state="needs-translation">Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@</target>
+        <target state="translated">Afbrudt %1$@: &lt;b&gt;%2$@&lt;/b&gt; af %3$@ %4$@</target>
         <note>Description of an interrupted bolus dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: programmed value (? if no value), 4: unit)</note>
       </trans-unit>
       <trans-unit id="It can be set as low as %1$@. It can be set as high as %2$@." xml:space="preserve">
         <source>It can be set as low as %1$@. It can be set as high as %2$@.</source>
-        <target state="needs-translation">It can be set as low as %1$@. It can be set as high as %2$@.</target>
+        <target state="translated">Det kan sættes så lavt som %1$@. Det kan sættes så højt som %2$@.</target>
         <note>Guardrail info text format</note>
       </trans-unit>
       <trans-unit id="Loop supports 1 to 48 rates per day." xml:space="preserve" approved="yes">
@@ -1259,12 +1259,12 @@
       </trans-unit>
       <trans-unit id="Maximum Basal Rate is the maximum automatically adjusted basal rate that %@ is allowed to enact to help reach your correction range." xml:space="preserve">
         <source>Maximum Basal Rate is the maximum automatically adjusted basal rate that %@ is allowed to enact to help reach your correction range.</source>
-        <target state="needs-translation">Maximum Basal Rate is the maximum automatically adjusted basal rate that %@ is allowed to enact to help reach your correction range.</target>
+        <target state="translated">Maksimal basalrate er den maksimale automatisk justerede basalrate, som %@ har lov til at sætte for at hjælpe med at nå dit korrektionsområde.</target>
         <note>Information about maximum basal rate</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate is the maximum automatically adjusted basal rate that (appName) is allowed to enact to help reach your correction range." xml:space="preserve">
         <source>Maximum Basal Rate is the maximum automatically adjusted basal rate that (appName) is allowed to enact to help reach your correction range.</source>
-        <target state="needs-translation">Maximum Basal Rate is the maximum automatically adjusted basal rate that (appName) is allowed to enact to help reach your correction range.</target>
+        <target state="translated">Maksimal basalrate er den maksimale automatisk justerede basalrate, som (appName) har lov til at sætte for at hjælpe med at nå dit korrektionsområde.</target>
         <note>Information about maximum basal rate</note>
       </trans-unit>
       <trans-unit id="Maximum Bolus" xml:space="preserve" approved="yes">
@@ -1274,12 +1274,12 @@
       </trans-unit>
       <trans-unit id="Maximum Bolus is the highest bolus amount that you will allow %@ to recommend at one time to cover carbs or bring down high glucose." xml:space="preserve">
         <source>Maximum Bolus is the highest bolus amount that you will allow %@ to recommend at one time to cover carbs or bring down high glucose.</source>
-        <target state="needs-translation">Maximum Bolus is the highest bolus amount that you will allow %@ to recommend at one time to cover carbs or bring down high glucose.</target>
+        <target state="translated">Maksimal bolus er den højeste bolus, som du vil tillade %@ at anbefale på én gang for at dække kulhydrater eller nedbringe højt blodsukker.</target>
         <note>Information about maximum bolus</note>
       </trans-unit>
       <trans-unit id="Maximum Bolus is the highest bolus amount that you will allow (appName) to recommend at one time to cover carbs or bring down high glucose." xml:space="preserve">
         <source>Maximum Bolus is the highest bolus amount that you will allow (appName) to recommend at one time to cover carbs or bring down high glucose.</source>
-        <target state="needs-translation">Maximum Bolus is the highest bolus amount that you will allow (appName) to recommend at one time to cover carbs or bring down high glucose.</target>
+        <target state="translated">Maksimal bolus er den højeste bolus, som du vil tillade (appName) at anbefale på én gang for at dække kulhydrater eller nedbringe højt blodsukker.</target>
         <note>Information about maximum bolus</note>
       </trans-unit>
       <trans-unit id="Medium" xml:space="preserve" approved="yes">
@@ -1556,12 +1556,12 @@
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</source>
-        <target state="needs-translation">Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</target>
+        <target state="translated">Sænker midlertidigt dit blodsukker mål før et måltid for at modvirke stigning i blodsukker efter måltidet.</target>
         <note>Description of pre-meal mode</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</source>
-        <target state="needs-translation">Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</target>
+        <target state="translated">Hæver midlertidigt dit blodsukkermål før, under eller efter fysisk aktivitet for at reducere risikoen for lavt blodsukker.</target>
         <note>Description of workout mode</note>
       </trans-unit>
       <trans-unit id="Temporary Override" xml:space="preserve" approved="yes">
@@ -1713,7 +1713,7 @@
       </trans-unit>
       <trans-unit id="Workout Range is the glucose value or range of values you want %1$@ to target during activity. This range will be in effect when you activate the Workout Preset button." xml:space="preserve">
         <source>Workout Range is the glucose value or range of values you want %1$@ to target during activity. This range will be in effect when you activate the Workout Preset button.</source>
-        <target state="needs-translation">Workout Range is the glucose value or range of values you want %1$@ to target during activity. This range will be in effect when you activate the Workout Preset button.</target>
+        <target state="translated">Træningsområde er den blodsukkerværdi eller værdiinterval, du ønsker %1$@ at målrette under aktivitet. Dette interval vil bruges, når du aktiverer knappen som forudindstilling for træning.</target>
         <note>Information about workout range format (1: app name)</note>
       </trans-unit>
       <trans-unit id="Workout Values" xml:space="preserve">
@@ -1763,22 +1763,22 @@
       </trans-unit>
       <trans-unit id="Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
         <source>Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="needs-translation">Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</target>
+        <target state="translated">En basalrate, er det antal af enheder i timen, som du skal bruge for at dække dit basale insulinbehov.</target>
         <note>Information about basal rates</note>
       </trans-unit>
       <trans-unit id="Your Insulin Sensitivity Factor (ISF) is the drop in glucose expected from one unit of insulin." xml:space="preserve">
         <source>Your Insulin Sensitivity Factor (ISF) is the drop in glucose expected from one unit of insulin.</source>
-        <target state="needs-translation">Your Insulin Sensitivity Factor (ISF) is the drop in glucose expected from one unit of insulin.</target>
+        <target state="translated">Insulinfølsomhed (ISF) henviser til det fald i blodsukkeret, der forventes fra én insulinenhed.</target>
         <note>Description of insulin sensitivity factor</note>
       </trans-unit>
       <trans-unit id="Your Pre-Meal Range should be the glucose value (or range of values) you want %1$@ to target by the time you take your first bite of your meal. This range will be in effect when you activate the Pre-Meal Preset button." xml:space="preserve">
         <source>Your Pre-Meal Range should be the glucose value (or range of values) you want %1$@ to target by the time you take your first bite of your meal. This range will be in effect when you activate the Pre-Meal Preset button.</source>
-        <target state="needs-translation">Your Pre-Meal Range should be the glucose value (or range of values) you want %1$@ to target by the time you take your first bite of your meal. This range will be in effect when you activate the Pre-Meal Preset button.</target>
+        <target state="translated">Dit før-måltid-område bør være den glukoseværdi (eller værdiinterval), du vil have %1$@ til at målrette efter det tidspunkt, du starter med at spise. Dette interval vil bruges, når du aktiverer knappen før-måltid.</target>
         <note>Information about pre-meal range format (1: app name)</note>
       </trans-unit>
       <trans-unit id="Your healthcare provider can help you choose a Correction Range that's right for you." xml:space="preserve">
         <source>Your healthcare provider can help you choose a Correction Range that's right for you.</source>
-        <target state="needs-translation">Your healthcare provider can help you choose a Correction Range that's right for you.</target>
+        <target state="translated">Din læge kan hjælpe dig med at vælge en korrektionsområde, der passer til dig.</target>
         <note>Disclaimer</note>
       </trans-unit>
       <trans-unit id="authentication-button-delete" xml:space="preserve" approved="yes">
@@ -1843,13 +1843,13 @@
       </trans-unit>
       <trans-unit id="than your Correction Range." xml:space="preserve">
         <source>than your Correction Range.</source>
-        <target state="needs-translation">than your Correction Range.</target>
+        <target state="translated">end dit korrektionsområde.</target>
         <note>Information about pre-meal range relative to correction range
    Information about workout range relative to correction range</note>
       </trans-unit>
       <trans-unit id="your Glucose Safety Limit" xml:space="preserve">
         <source>your Glucose Safety Limit</source>
-        <target state="needs-translation">your Glucose Safety Limit</target>
+        <target state="translated">din sikkerhedsgrænse for blodsukker</target>
         <note>Lower bound pre-meal information text</note>
       </trans-unit>
       <trans-unit id="···" xml:space="preserve">
