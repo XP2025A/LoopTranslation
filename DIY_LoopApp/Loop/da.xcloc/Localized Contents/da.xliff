@@ -1046,7 +1046,7 @@ Unavailable</source>
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve" approved="yes">
         <source>Dismiss</source>
-        <target state="final">Afvise</target>
+        <target state="final">Luk</target>
         <note>Default alert dismissal
    Dismiss button for the invalid adverse event report URL alert.
    The button label of the action used to dismiss an error alert</note>
@@ -2102,7 +2102,7 @@ Tryk på Indstillinger for at slå Lukket Loop ON til, hvis du ønsker, at appen
         <source>
 %1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes.</source>
         <target state="translated">
-%1$@ fungerer med Lukket loop i ON-positionen. Din sidste loop lykkedes inden for de sidste 5 minutter.</target>
+%1$@ er sat til Lukket loop. Det sidste loop lykkedes inden for de sidste 5 minutter.</target>
         <note>Green closed loop ON message (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ at %2$@" xml:space="preserve" approved="yes">
