@@ -720,7 +720,7 @@ Du kan vänta flera minuter för att se om problemet löser sig eller klicka på
       </trans-unit>
       <trans-unit id="Adjusted for" xml:space="preserve">
         <source>Adjusted for</source>
-        <target state="needs-translation">Adjusted for</target>
+        <target state="translated">Justerad för</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Alert Permissions" xml:space="preserve">
@@ -1627,7 +1627,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Time Change Detected" xml:space="preserve">
         <source>Time Change Detected</source>
-        <target state="needs-translation">Time Change Detected</target>
+        <target state="translated">Tidsförändring upptäckt</target>
         <note>Time change alert title</note>
       </trans-unit>
       <trans-unit id="Try Again" xml:space="preserve" approved="yes">
@@ -1744,9 +1744,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <source>Your phone’s time has been changed. %1$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.
 
 Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Automatically is enabled. Failure to resolve could lead to serious under-delivery or over-delivery of insulin.</source>
-        <target state="needs-translation">Your phone’s time has been changed. %1$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.
+        <target state="translated">Tiden på telefonen har ändrats. %1$@ behöver rätt tidsangivelse för att för att kunna göra förutsägelser av ditt blodsocker och justera insulindosen därefter. 
 
-Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Automatically is enabled. Failure to resolve could lead to serious under-delivery or over-delivery of insulin.</target>
+Kontrollera dina iPhone-inställningar (Allmänt / Datum och tid) and verifiera att 'Ställ in automatiskt' är på. Felaktig inställning kan leda till allvarlig överdosering eller till för låg insulindosering.</target>
         <note>Time change alert body. (1: app name)</note>
       </trans-unit>
       <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve" approved="yes">
@@ -2069,10 +2069,10 @@ Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Au
 %1$@ has not completed a loop successfully in over 15 minutes.
 
 Tap your CGM and insulin pump status icons for more information. %1$@ will continue trying to complete a loop, but check for potential communication issues with your pump and CGM.</source>
-        <target state="needs-translation">
-%1$@ has not completed a loop successfully in over 15 minutes.
+        <target state="translated">
+%1$@ har inte kunnat köra Loop på över 15 minuter.
 
-Tap your CGM and insulin pump status icons for more information. %1$@ will continue trying to complete a loop, but check for potential communication issues with your pump and CGM.</target>
+Tryck på ikonerna för CGM och insulinpump för mer information. %1$@ kommer att fortsätta att försöka slutföra en loop, men kontrollera potentiella kommunikationsproblem med din pump och CGM.</target>
         <note>Red loop message (1: app name) (2: app name)</note>
       </trans-unit>
       <trans-unit id="&#10;%1$@ has not completed a loop successfully in the past 5-15 minutes.&#10;&#10;Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM." xml:space="preserve">
@@ -2080,10 +2080,10 @@ Tap your CGM and insulin pump status icons for more information. %1$@ will conti
 %1$@ has not completed a loop successfully in the past 5-15 minutes.
 
 Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM.</source>
-        <target state="needs-translation">
-%1$@ has not completed a loop successfully in the past 5-15 minutes.
+        <target state="translated">
+%1$@ har inte kunnat köra Loop på 5-15 minuter.
 
-Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM.</target>
+Tryck på ikonerna för CGM och insulinpump för mer information. %2$@ kommer att fortsätta att försöka slutföra en loop, men undersök potentiella kommunikationsproblem med din pump och CGM.</target>
         <note>Yellow loop message (1: app name) (2: app name)</note>
       </trans-unit>
       <trans-unit id="&#10;%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.&#10;&#10;Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin." xml:space="preserve">
@@ -2091,17 +2091,17 @@ Tap your CGM and insulin pump status icons for more information. %2$@ will conti
 %1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
 
 Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin.</source>
-        <target state="needs-translation">
-%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
+        <target state="translated">
+%1$@ körs med Loop i öppet läge. Din pump och CGM kommer att fortsätta fungera, men ditt basalinsulin kommer inte att kunna justeras automatiskt.
 
-Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin.</target>
+Tryck på Inställningar för att växla till 'Sluten loop' om du vill att appen ska automatisera din insulintillförsel.</target>
         <note>Green closed loop OFF message (1: app name)</note>
       </trans-unit>
       <trans-unit id="&#10;%1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes." xml:space="preserve">
         <source>
 %1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes.</source>
-        <target state="needs-translation">
-%1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes.</target>
+        <target state="translated">
+%1$@ körs med 'Sluten loop' PÅ. Din sista loop lyckades inom de senaste 5 minuterna.</target>
         <note>Green closed loop ON message (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ at %2$@" xml:space="preserve" approved="yes">
