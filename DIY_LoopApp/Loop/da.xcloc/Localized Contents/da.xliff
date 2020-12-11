@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="9KhaIS" xml:space="preserve">
         <source>I've set the preset</source>
-        <target state="translated">Jeg har angivet forudindstillingen</target>
+        <target state="translated">Jeg har angivet Preset</target>
         <note/>
       </trans-unit>
       <trans-unit id="80eo5o" xml:space="preserve" approved="yes">
@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="I4OZy8" xml:space="preserve">
         <source>Enable Override Preset</source>
-        <target state="translated">Aktiver forudindstilling</target>
+        <target state="translated">Aktiver Preset</target>
         <note/>
       </trans-unit>
       <trans-unit id="OcNxIj" xml:space="preserve" approved="yes">
@@ -27,17 +27,17 @@
       </trans-unit>
       <trans-unit id="XNNmtH" xml:space="preserve">
         <source>Enable preset in Loop</source>
-        <target state="translated">Aktiver forudindstilling i Loop</target>
+        <target state="translated">Aktiver Preset i Loop</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZZ3mtM" xml:space="preserve">
         <source>Enable an override preset in Loop</source>
-        <target state="translated">Aktiver en forudindstilling i Loop</target>
+        <target state="translated">Aktiver en Preset i Loop</target>
         <note/>
       </trans-unit>
       <trans-unit id="b085BW" xml:space="preserve">
         <source>I wasn't able to set the preset.</source>
-        <target state="translated">Jeg var ikke i stand til at indstille forudindstillingen.</target>
+        <target state="translated">Jeg var ikke i stand til at indstille Preset.</target>
         <note/>
       </trans-unit>
       <trans-unit id="lYMuWV" xml:space="preserve">
@@ -52,7 +52,7 @@
       </trans-unit>
       <trans-unit id="oLQSsJ" xml:space="preserve">
         <source>Enable '${overrideName}' Override Preset</source>
-        <target state="translated">Aktiver '${overrideName}' override forudindstilling</target>
+        <target state="translated">Aktiver '${overrideName}' Preset</target>
         <note/>
       </trans-unit>
       <trans-unit id="yBzwCL" xml:space="preserve">
@@ -513,12 +513,12 @@
       </trans-unit>
       <trans-unit id=" Pre-meal Preset" xml:space="preserve">
         <source> Pre-meal Preset</source>
-        <target state="translated"> Forudindstilling for måltid</target>
+        <target state="translated">Før-Måltid Preset</target>
         <note>Status row title for premeal override enabled (leading space is to separate from symbol)</note>
       </trans-unit>
       <trans-unit id=" Workout Preset" xml:space="preserve">
         <source> Workout Preset</source>
-        <target state="translated"> Forudindstilling for træning</target>
+        <target state="translated"> Preset for træning</target>
         <note>Status row title for workout override enabled (leading space is to separate from symbol)</note>
       </trans-unit>
       <trans-unit id="%1$@ %2$@" xml:space="preserve" approved="yes">
@@ -1204,7 +1204,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Insulin Delivery" xml:space="preserve" approved="yes">
         <source>Insulin Delivery</source>
-        <target state="final">Insulinafgivelse</target>
+        <target state="final">Afgivet insulin</target>
         <note>The title of the insulin delivery graph</note>
       </trans-unit>
       <trans-unit id="Insulin Model" xml:space="preserve" approved="yes">
@@ -1339,14 +1339,14 @@ Bluetooth</source>
         <target state="final">Ingen pumpe konfigureret</target>
         <note>Alert title for a missing pump error</note>
       </trans-unit>
-      <trans-unit id="No Recent Glucose" xml:space="preserve">
+      <trans-unit id="No Recent Glucose" xml:space="preserve" approved="yes">
         <source>No Recent Glucose</source>
-        <target state="translated">Mangler blodsukker data</target>
+        <target state="final">Mangler BS-måling</target>
         <note>The title of the cell indicating that there is no recent glucose</note>
       </trans-unit>
       <trans-unit id="No Recent Glucose Data" xml:space="preserve" approved="yes">
         <source>No Recent Glucose Data</source>
-        <target state="final">Mangler blodsukker data</target>
+        <target state="final">Mangler BS-måling</target>
         <note>Title for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
       <trans-unit id="No Recent Pump Data" xml:space="preserve" approved="yes">
@@ -1676,9 +1676,9 @@ Faktisk: %2$@ (%3$@)</target>
         <target state="translated">Indtil jeg slukker</target>
         <note>The title of a target alert action specifying workout targets duration until it is turned off by the user</note>
       </trans-unit>
-      <trans-unit id="Use Pre-Meal Preset" xml:space="preserve">
+      <trans-unit id="Use Pre-Meal Preset" xml:space="preserve" approved="yes">
         <source>Use Pre-Meal Preset</source>
-        <target state="translated">Brug forudindstilling Før Måltid</target>
+        <target state="final">Brug Før-Måltid</target>
         <note>The title of the alert controller used to select a duration for pre-meal targets</note>
       </trans-unit>
       <trans-unit id="Use Workout Glucose Targets" xml:space="preserve" approved="yes">
@@ -1688,7 +1688,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Use Workout Preset" xml:space="preserve">
         <source>Use Workout Preset</source>
-        <target state="translated">Brug forudindstilling for træning</target>
+        <target state="translated">Brug Preset for træning</target>
         <note>The title of the alert controller used to select a duration for workout targets</note>
       </trans-unit>
       <trans-unit id="Walsh" xml:space="preserve" approved="yes">
