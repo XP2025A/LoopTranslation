@@ -2087,12 +2087,12 @@ Tap your CGM and insulin pump status icons for more information. %2$@ will conti
 Tryk på dine CGM- og insulinpumpestatusikoner for at få flere oplysninger. %2$@ vil fortsætte med at forsøge at fuldføre en loop, men hold øje med potentielle kommunikationsproblemer med din pumpe og CGM.</target>
         <note>Yellow loop message (1: app name) (2: app name)</note>
       </trans-unit>
-      <trans-unit id="&#10;%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.&#10;&#10;Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin." xml:space="preserve">
+      <trans-unit id="&#10;%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.&#10;&#10;Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin." xml:space="preserve" approved="yes">
         <source>
 %1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
 
 Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin.</source>
-        <target state="translated">
+        <target state="final">
 %1$@ fungerer med Lukket loop i OFF-positionen. Pumpen og CGM fortsætter driften, men din basalinsulin justeres ikke automatisk.
 
 Tryk på Indstillinger for at slå Lukket Loop ON til, hvis du ønsker, at appen skal automatisere din insulin.</target>
