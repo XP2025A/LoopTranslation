@@ -27,12 +27,12 @@
       </trans-unit>
       <trans-unit id="XNNmtH" xml:space="preserve">
         <source>Enable preset in Loop</source>
-        <target state="translated">Aktivera förinställning i Loop</target>
+        <target state="translated">Aktivera förval i Loop</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZZ3mtM" xml:space="preserve">
         <source>Enable an override preset in Loop</source>
-        <target state="translated">Aktivera en undantagsförinställning i Loop</target>
+        <target state="translated">Aktivera ett undantagsförval i Loop</target>
         <note/>
       </trans-unit>
       <trans-unit id="b085BW" xml:space="preserve">
@@ -469,7 +469,7 @@
       </trans-unit>
       <trans-unit id="NSSiriUsageDescription" xml:space="preserve">
         <source>Loop uses Siri to allow you to set override presets with your voice.</source>
-        <target state="translated">Loop använder Siri för att låta dig ställa in undantagsförval med rösten.</target>
+        <target state="translated">Loop använder Siri för att låta dig ställa in undantag med rösten.</target>
         <note>Privacy - Siri Usage Description</note>
       </trans-unit>
     </body>
@@ -917,14 +917,14 @@ Unavailable</source>
         <target state="final">Sluten loop</target>
         <note>The title text for the looping enabled switch cell</note>
       </trans-unit>
-      <trans-unit id="Closed Loop OFF" xml:space="preserve">
+      <trans-unit id="Closed Loop OFF" xml:space="preserve" approved="yes">
         <source>Closed Loop OFF</source>
-        <target state="translated">Stängd Loop är av</target>
+        <target state="final">Sluten Loop är av</target>
         <note>Alert title for closed loop off informational modal</note>
       </trans-unit>
-      <trans-unit id="Closed Loop requires an active CGM Sensor Session" xml:space="preserve">
+      <trans-unit id="Closed Loop requires an active CGM Sensor Session" xml:space="preserve" approved="yes">
         <source>Closed Loop requires an active CGM Sensor Session</source>
-        <target state="translated">Stängd Loop kräver en aktiv CGM-sensorsession</target>
+        <target state="final">Sluten Loop kräver en aktiv CGM-sensor</target>
         <note>The description text for the looping enabled switch cell when closed loop is not allowed</note>
       </trans-unit>
       <trans-unit id="Configuration" xml:space="preserve" approved="yes">
@@ -1695,9 +1695,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="final">Walsh</target>
         <note>Title of insulin model setting</note>
       </trans-unit>
-      <trans-unit id="When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
+      <trans-unit id="When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve" approved="yes">
         <source>When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</source>
-        <target state="translated">När nuvarande eller förväntat blodglukosvärde är under tröskelvärde kommer Loop inte att rekommendera en bolus, och kommer också alltid att föreslå en temporär basal på 0 enheter per timme.</target>
+        <target state="final">När nuvarande eller förväntat blodglukosvärde är under tröskelvärde kommer Loop inte att rekommendera en bolus, och kommer också alltid att föreslå en temporär basal på 0 enheter per timme.</target>
         <note>Explanation of glucose safety limit</note>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve" approved="yes">
@@ -1705,9 +1705,9 @@ Faktiskt: %2$@ (%3$@)</target>
         <target state="final">När nuvarande eller förväntat framtida blodglukosvärde är under tröskelvärde kommer Loop inte att rekommendera en bolus, och dessutom alltid att föreslå en temporär basal på 0 enheter per timme.</target>
         <note>Explanation of suspend threshold</note>
       </trans-unit>
-      <trans-unit id="When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump." xml:space="preserve">
+      <trans-unit id="When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump." xml:space="preserve" approved="yes">
         <source>When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump.</source>
-        <target state="translated">När läget sluten Loop inte används, kommer appen använda en förenklad bolusdoskalkylator likt den en vanlig pump använder.</target>
+        <target state="final">När läget sluten Loop inte används, kommer appen använda en förenklad bolusdoskalkylator likt den en vanlig pump använder.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Workout Targets" xml:space="preserve" approved="yes">
@@ -2070,9 +2070,9 @@ Kontrollera dina iPhone-inställningar (Allmänt / Datum och tid) and verifiera 
 
 Tap your CGM and insulin pump status icons for more information. %1$@ will continue trying to complete a loop, but check for potential communication issues with your pump and CGM.</source>
         <target state="translated">
-%1$@ har inte kunnat köra Loop på över 15 minuter.
+%1$@ har inte kunnat slutföra en loop på över 15 minuter.
 
-Tryck på ikonerna för CGM och insulinpump för mer information. %1$@ kommer att fortsätta att försöka slutföra en loop, men kontrollera potentiella kommunikationsproblem med din pump och CGM.</target>
+Tryck på ikonerna för CGM och insulinpump för mer information. %1$@ kommer att fortsätta att försöka slutföra en loop, men kontrollera potentiella kommunikationsproblem med din pump och CGM under tiden.</target>
         <note>Red loop message (1: app name) (2: app name)</note>
       </trans-unit>
       <trans-unit id="&#10;%1$@ has not completed a loop successfully in the past 5-15 minutes.&#10;&#10;Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM." xml:space="preserve">
@@ -2081,18 +2081,18 @@ Tryck på ikonerna för CGM och insulinpump för mer information. %1$@ kommer at
 
 Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM.</source>
         <target state="translated">
-%1$@ har inte kunnat köra Loop på 5-15 minuter.
+%1$@ har inte kunnat slutföra en loop på 5-15 minuter.
 
-Tryck på ikonerna för CGM och insulinpump för mer information. %2$@ kommer att fortsätta att försöka slutföra en loop, men undersök potentiella kommunikationsproblem med din pump och CGM.</target>
+Tryck på ikonerna för CGM och insulinpump för mer information. %2$@ kommer att fortsätta att försöka slutföra en loop, men undersök potentiella kommunikationsproblem med din pump och CGM under tiden.</target>
         <note>Yellow loop message (1: app name) (2: app name)</note>
       </trans-unit>
-      <trans-unit id="&#10;%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.&#10;&#10;Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin." xml:space="preserve">
+      <trans-unit id="&#10;%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.&#10;&#10;Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin." xml:space="preserve" approved="yes">
         <source>
 %1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
 
 Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin.</source>
-        <target state="translated">
-%1$@ körs med Loop i öppet läge. Din pump och CGM kommer att fortsätta fungera, men ditt basalinsulin kommer inte att kunna justeras automatiskt.
+        <target state="final">
+%1$@ körs nu med Loop i öppet läge. Din pump och CGM kommer att fortsätta fungera, men ditt basalinsulin kommer inte att kunna justeras automatiskt.
 
 Tryck på Inställningar för att växla till 'Sluten loop' om du vill att appen ska automatisera din insulintillförsel.</target>
         <note>Green closed loop OFF message (1: app name)</note>
@@ -2101,7 +2101,7 @@ Tryck på Inställningar för att växla till 'Sluten loop' om du vill att appen
         <source>
 %1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes.</source>
         <target state="translated">
-%1$@ körs med 'Sluten loop' PÅ. Din sista loop lyckades inom de senaste 5 minuterna.</target>
+%1$@ körs med 'Sluten loop' PÅ. Din senaste loop slutfördes inom de senaste 5 minuterna.</target>
         <note>Green closed loop ON message (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ at %2$@" xml:space="preserve" approved="yes">
@@ -2159,9 +2159,9 @@ Tryck på Inställningar för att växla till 'Sluten loop' om du vill att appen
         <target state="final">LÅGT</target>
         <note>String displayed instead of a glucose value below the CGM range</note>
       </trans-unit>
-      <trans-unit id="Loop Failure" xml:space="preserve">
+      <trans-unit id="Loop Failure" xml:space="preserve" approved="yes">
         <source>Loop Failure</source>
-        <target state="translated">Loopfel</target>
+        <target state="final">Loopfel</target>
         <note>Title of red loop message
    Title of yellow loop message</note>
       </trans-unit>
