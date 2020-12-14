@@ -279,7 +279,7 @@
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
         <source>%1$@ units remaining at %2$@</source>
-        <target state="needs-translation">%1$@ units remaining at %2$@</target>
+        <target state="translated">%1$@ enheter återstår kl. %2$@</target>
         <note>Accessibility format string for (1: localized volume)(2: time)</note>
       </trans-unit>
       <trans-unit id="%1$@%2$@%3$@" xml:space="preserve">
@@ -294,7 +294,7 @@
       </trans-unit>
       <trans-unit id="%@U" xml:space="preserve">
         <source>%@U</source>
-        <target state="needs-translation">%@U</target>
+        <target state="translated">%@E</target>
         <note>Format string for reservoir volume. (1: The localized volume)</note>
       </trans-unit>
       <trans-unit id="Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure." xml:space="preserve" approved="yes">
@@ -1317,137 +1317,137 @@ Hitta enhet</target>
     <body>
       <trans-unit id=" (inactive)" xml:space="preserve">
         <source> (inactive)</source>
-        <target state="needs-translation"> (inactive)</target>
+        <target state="translated"> (inaktiv)</target>
         <note>Description for an inactive alert modifier</note>
       </trans-unit>
       <trans-unit id="Activation time exceeded" xml:space="preserve">
         <source>Activation time exceeded</source>
-        <target state="needs-translation">Activation time exceeded</target>
+        <target state="translated">Tid för aktivering överskriden</target>
         <note>Pod state when activation not completed in the time allowed</note>
       </trans-unit>
       <trans-unit id="Auto-off alarm" xml:space="preserve">
         <source>Auto-off alarm</source>
-        <target state="needs-translation">Auto-off alarm</target>
+        <target state="translated">Auto-av larm</target>
         <note>Description for auto-off alarm</note>
       </trans-unit>
       <trans-unit id="Basal initialized" xml:space="preserve">
         <source>Basal initialized</source>
-        <target state="needs-translation">Basal initialized</target>
+        <target state="translated">Basal initierad</target>
         <note>Pod state when basal initialized</note>
       </trans-unit>
       <trans-unit id="Below 50 units" xml:space="preserve">
         <source>Below 50 units</source>
-        <target state="needs-translation">Below 50 units</target>
+        <target state="translated">Under 50 enheter</target>
         <note>Pod state when running below fifty units</note>
       </trans-unit>
       <trans-unit id="Bolus in progress" xml:space="preserve">
         <source>Bolus in progress</source>
-        <target state="needs-translation">Bolus in progress</target>
+        <target state="translated">Bolus pågår</target>
         <note>Error message shown when operation could not be completed due to existing bolus in progress</note>
       </trans-unit>
       <trans-unit id="Bolus: %1$@U %2$@ %3$@ %4$@" xml:space="preserve">
         <source>Bolus: %1$@U %2$@ %3$@ %4$@</source>
-        <target state="needs-translation">Bolus: %1$@U %2$@ %3$@ %4$@</target>
+        <target state="translated">Bolus: %1$@E %2$@ %3$@ %4$@</target>
         <note>The format string describing a bolus. (1: The amount delivered)(2: Start time of the dose)(3: duration)(4: scheduled certainty)</note>
       </trans-unit>
       <trans-unit id="Bolusing" xml:space="preserve">
         <source>Bolusing</source>
-        <target state="needs-translation">Bolusing</target>
+        <target state="translated">Ger bolus</target>
         <note>Delivery status when bolusing</note>
       </trans-unit>
       <trans-unit id="Bolusing with temp basal" xml:space="preserve">
         <source>Bolusing with temp basal</source>
-        <target state="needs-translation">Bolusing with temp basal</target>
+        <target state="translated">Ger bolus med pågående temporär basal</target>
         <note>Delivery status when bolusing and temp basal is running</note>
       </trans-unit>
       <trans-unit id="Cannula inserting" xml:space="preserve">
         <source>Cannula inserting</source>
-        <target state="needs-translation">Cannula inserting</target>
+        <target state="translated">Kanyl förs in</target>
         <note>Pod state when inserting cannula</note>
       </trans-unit>
       <trans-unit id="Certain" xml:space="preserve">
         <source>Certain</source>
-        <target state="needs-translation">Certain</target>
+        <target state="translated">Säker</target>
         <note>String describing a dose that was certainly scheduled</note>
       </trans-unit>
       <trans-unit id="Deactivated" xml:space="preserve">
         <source>Deactivated</source>
-        <target state="needs-translation">Deactivated</target>
+        <target state="translated">Inaktiverad</target>
         <note>Pod state when pod has been deactivated</note>
       </trans-unit>
       <trans-unit id="Empty reservoir" xml:space="preserve">
         <source>Empty reservoir</source>
-        <target state="needs-translation">Empty reservoir</target>
+        <target state="translated">Tom reservoar</target>
         <note>Description for Empty reservoir pod fault</note>
       </trans-unit>
       <trans-unit id="Empty response from pod" xml:space="preserve">
         <source>Empty response from pod</source>
-        <target state="needs-translation">Empty response from pod</target>
+        <target state="translated">Inget svar från podd</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
       <trans-unit id="Error event logged, shutting down" xml:space="preserve">
         <source>Error event logged, shutting down</source>
-        <target state="needs-translation">Error event logged, shutting down</target>
+        <target state="translated">Felhändelse loggad, stänger ned</target>
         <note>Pod state error event logged shutting down</note>
       </trans-unit>
       <trans-unit id="Expiration alert" xml:space="preserve">
         <source>Expiration alert</source>
-        <target state="needs-translation">Expiration alert</target>
+        <target state="translated">Larm om utgångsdatum</target>
         <note>Description for expiration alert</note>
       </trans-unit>
       <trans-unit id="Fault event occurred" xml:space="preserve">
         <source>Fault event occurred</source>
-        <target state="needs-translation">Fault event occurred</target>
+        <target state="translated">Felhändelse inträffade</target>
         <note>Pod state when fault event has occurred</note>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve">
         <source>Finish setup </source>
-        <target state="needs-translation">Finish setup </target>
+        <target state="translated">Gör färdigt podddinställningen </target>
         <note>Description for finish setup</note>
       </trans-unit>
       <trans-unit id="Initialized" xml:space="preserve">
         <source>Initialized</source>
-        <target state="needs-translation">Initialized</target>
+        <target state="translated">Initierad</target>
         <note>Pod inititialized</note>
       </trans-unit>
       <trans-unit id="Inserting cannula" xml:space="preserve">
         <source>Inserting cannula</source>
-        <target state="needs-translation">Inserting cannula</target>
+        <target state="translated">Kanyl förs in</target>
         <note>Pod state when inserting cannula</note>
       </trans-unit>
       <trans-unit id="Internal pod fault %1$03d" xml:space="preserve">
         <source>Internal pod fault %1$03d</source>
-        <target state="needs-translation">Internal pod fault %1$03d</target>
+        <target state="translated">Internt poddfel %1$03d</target>
         <note>The format string for Internal pod fault (1: The fault code value)</note>
       </trans-unit>
       <trans-unit id="InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@" xml:space="preserve">
         <source>InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@</source>
-        <target state="needs-translation">InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@</target>
+        <target state="translated">AvbrutenBolus: %1$@ E (%2$@ E schemalagd) %3$@ %4$@ %5$@</target>
         <note>The format string describing a bolus that was interrupted. (1: The amount delivered)(2: The amount scheduled)(3: Start time of the dose)(4: duration)(5: scheduled certainty)</note>
       </trans-unit>
       <trans-unit id="Invalid CRC" xml:space="preserve">
         <source>Invalid CRC</source>
-        <target state="needs-translation">Invalid CRC</target>
+        <target state="translated">Ogiltigt CRC</target>
         <note>Description for MessageError invalidCrc</note>
       </trans-unit>
       <trans-unit id="Invalid address: (%1$@)" xml:space="preserve">
         <source>Invalid address: (%1$@)</source>
-        <target state="needs-translation">Invalid address: (%1$@)</target>
+        <target state="translated">Ogiltig adress: (%1$@)</target>
         <note>Description for MessageError invalidSequence</note>
       </trans-unit>
       <trans-unit id="Low reservoir" xml:space="preserve">
         <source>Low reservoir</source>
-        <target state="needs-translation">Low reservoir</target>
+        <target state="translated">Låg reservoarvolym</target>
         <note>Pod state when running with fifty or less units</note>
       </trans-unit>
       <trans-unit id="Low reservoir advisory alarm" xml:space="preserve">
         <source>Low reservoir advisory alarm</source>
-        <target state="needs-translation">Low reservoir advisory alarm</target>
+        <target state="translated">Larm vid låg reservoarvolym</target>
         <note>Description for low reservoir alarm</note>
       </trans-unit>
       <trans-unit id="Make sure your RileyLink is nearby and powered on" xml:space="preserve">
         <source>Make sure your RileyLink is nearby and powered on</source>
-        <target state="needs-translation">Make sure your RileyLink is nearby and powered on</target>
+        <target state="translated">Säkerställ att din RileyLink är nära och påslagen</target>
         <note>Recovery suggestion when no RileyLink is available</note>
       </trans-unit>
       <trans-unit id="Memory initialized" xml:space="preserve">
@@ -1719,17 +1719,17 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="oneNotUsed" xml:space="preserve">
         <source>oneNotUsed</source>
-        <target state="needs-translation">oneNotUsed</target>
+        <target state="translated">oneNotUsed</target>
         <note>Pod state oneNotUsed</note>
       </trans-unit>
       <trans-unit id="threeNotUsed" xml:space="preserve">
         <source>threeNotUsed</source>
-        <target state="needs-translation">threeNotUsed</target>
+        <target state="translated">threeNotUsed</target>
         <note>Pod state threeNotUsed</note>
       </trans-unit>
       <trans-unit id="twoNotUsed" xml:space="preserve">
         <source>twoNotUsed</source>
-        <target state="needs-translation">twoNotUsed</target>
+        <target state="translated">twoNotUsed</target>
         <note>Pod state twoNotUsed</note>
       </trans-unit>
     </body>
