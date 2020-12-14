@@ -277,6 +277,11 @@
 </target>
         <note>The format string describing number of basal schedule entries: (1: number of entries)</note>
       </trans-unit>
+      <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
+        <source>%1$@ units remaining at %2$@</source>
+        <target state="needs-translation">%1$@ units remaining at %2$@</target>
+        <note>Accessibility format string for (1: localized volume)(2: time)</note>
+      </trans-unit>
       <trans-unit id="%1$@%2$@%3$@" xml:space="preserve">
         <source>%1$@%2$@%3$@</source>
         <target state="needs-translation">%1$@%2$@%3$@</target>
@@ -286,6 +291,11 @@
         <source>%@ dB</source>
         <target state="needs-translation">%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
+      </trans-unit>
+      <trans-unit id="%@U" xml:space="preserve">
+        <source>%@U</source>
+        <target state="needs-translation">%@U</target>
+        <note>Format string for reservoir volume. (1: The localized volume)</note>
       </trans-unit>
       <trans-unit id="Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure." xml:space="preserve">
         <source>Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure.</source>
