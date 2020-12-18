@@ -156,12 +156,12 @@
       </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</source>
-        <target state="needs-translation">%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</target>
+        <target state="translated">%1$@ presupune că insulina acționează timp de 6 ore. Puteți alege din modele diferite pentru modul în care aplicația determina vârful de acțiune al insulinei.</target>
         <note>Descriptive text for insulin model (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." xml:space="preserve">
         <source>%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.</source>
-        <target state="needs-translation">%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.</target>
+        <target state="translated">%1$@ va livra bazala şi bolusul recomandat numai dacă glucoza este estimată a fi peste această limită pentru următoarele trei ore.</target>
         <note>Descriptive format string for glucose safety limit (1: app name)</note>
       </trans-unit>
       <trans-unit id="%@ Range" xml:space="preserve">
@@ -186,7 +186,7 @@
       </trans-unit>
       <trans-unit id="Basal" xml:space="preserve">
         <source>Basal</source>
-        <target state="needs-translation">Basal</target>
+        <target state="translated">Bazală</target>
         <note>Title for basal dose type</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
@@ -196,7 +196,7 @@
       </trans-unit>
       <trans-unit id="Bolus" xml:space="preserve">
         <source>Bolus</source>
-        <target state="needs-translation">Bolus</target>
+        <target state="translated">Bolus</target>
         <note>Title for bolus dose type</note>
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve">
@@ -231,7 +231,7 @@
       </trans-unit>
       <trans-unit id="Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." xml:space="preserve">
         <source>Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.</source>
-        <target state="needs-translation">Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.</target>
+        <target state="translated">Intervalul de corecție este valoarea glicemiei (sau intervalul de valori) spre care doriți ca %1$@ să țintească în ajustarea insulinei bazale si in calculul bolusurilor.</target>
         <note>Descriptive text for glucose target range (1: app name)</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve" approved="yes">
@@ -271,7 +271,7 @@
       </trans-unit>
       <trans-unit id="Glucose Safety Limit" xml:space="preserve">
         <source>Glucose Safety Limit</source>
-        <target state="needs-translation">Glucose Safety Limit</target>
+        <target state="translated">Limita de siguranță a glicemiei</target>
         <note>Title text for glucose safety limit</note>
       </trans-unit>
       <trans-unit id="Insulin Model" xml:space="preserve" approved="yes">
@@ -351,7 +351,7 @@
       </trans-unit>
       <trans-unit id="Resumed" xml:space="preserve">
         <source>Resumed</source>
-        <target state="needs-translation">Resumed</target>
+        <target state="translated">Reluat</target>
         <note>Title for resume dose type</note>
       </trans-unit>
       <trans-unit id="Rising" xml:space="preserve" approved="yes">
@@ -376,12 +376,12 @@
       </trans-unit>
       <trans-unit id="Suspended" xml:space="preserve">
         <source>Suspended</source>
-        <target state="needs-translation">Suspended</target>
+        <target state="translated">Suspendat</target>
         <note>Title for suspend dose type</note>
       </trans-unit>
       <trans-unit id="Temp Basal" xml:space="preserve">
         <source>Temp Basal</source>
-        <target state="needs-translation">Temp Basal</target>
+        <target state="translated">Bazală temporară</target>
         <note>Title for temp basal dose type</note>
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve">
@@ -693,7 +693,7 @@
       </trans-unit>
       <trans-unit id="%1$@ U" xml:space="preserve">
         <source>%1$@ U</source>
-        <target state="needs-translation">%1$@ U</target>
+        <target state="translated">%1$@ U</target>
         <note>Reservoir entry (1: volume value)</note>
       </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
@@ -703,7 +703,7 @@
       </trans-unit>
       <trans-unit id="%1$@ or your Glucose Safety Limit, whichever is higher" xml:space="preserve">
         <source>%1$@ or your Glucose Safety Limit, whichever is higher</source>
-        <target state="needs-translation">%1$@ or your Glucose Safety Limit, whichever is higher</target>
+        <target state="translated">%1$@ sau limita dvs. de siguranță, oricare dintre acestea este mai mare</target>
         <note>Lower bound workout information text format (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve" approved="yes">
@@ -718,7 +718,7 @@
       </trans-unit>
       <trans-unit id="%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@" xml:space="preserve">
         <source>%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</source>
-        <target state="needs-translation">%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</target>
+        <target state="translated">%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</target>
         <note>Description of a basal temp basal dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)
    Description of a bolus dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)</note>
       </trans-unit>
@@ -809,7 +809,7 @@
       </trans-unit>
       <trans-unit id="Active Duration" xml:space="preserve">
         <source>Active Duration</source>
-        <target state="needs-translation">Active Duration</target>
+        <target state="translated">Durata activă</target>
         <note>The text for the override history duration</note>
       </trans-unit>
       <trans-unit id="Activity" xml:space="preserve">
@@ -1068,7 +1068,7 @@
       </trans-unit>
       <trans-unit id="End Time" xml:space="preserve">
         <source>End Time</source>
-        <target state="needs-translation">End Time</target>
+        <target state="translated">Timp de încheiere</target>
         <note>The text for the override start time</note>
       </trans-unit>
       <trans-unit id="Enter %1$@ value" xml:space="preserve">
@@ -1088,7 +1088,7 @@
       </trans-unit>
       <trans-unit id="Event History" xml:space="preserve">
         <source>Event History</source>
-        <target state="needs-translation">Event History</target>
+        <target state="translated">Istoric evenimente</target>
         <note>Segmented button title for insulin delivery log event history</note>
       </trans-unit>
       <trans-unit id="Example" xml:space="preserve" approved="yes">
@@ -1169,7 +1169,7 @@
       </trans-unit>
       <trans-unit id="History" xml:space="preserve">
         <source>History</source>
-        <target state="needs-translation">History</target>
+        <target state="translated">Istoric</target>
         <note>The text for the override history</note>
       </trans-unit>
       <trans-unit id="If these settings look good to you, tap Save Settings to continue." xml:space="preserve">
@@ -1244,12 +1244,12 @@
       </trans-unit>
       <trans-unit id="Low Pre-Meal Value" xml:space="preserve">
         <source>Low Pre-Meal Value</source>
-        <target state="needs-translation">Low Pre-Meal Value</target>
+        <target state="translated">Valoare mica preprandiala</target>
         <note>Title text for the low pre-meal value warning</note>
       </trans-unit>
       <trans-unit id="Low Workout Value" xml:space="preserve">
         <source>Low Workout Value</source>
-        <target state="needs-translation">Low Workout Value</target>
+        <target state="translated">Valoare mica antrenament</target>
         <note>Title text for the low workout value warning</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate" xml:space="preserve">
@@ -1330,7 +1330,7 @@
       </trans-unit>
       <trans-unit id="Override History" xml:space="preserve">
         <source>Override History</source>
-        <target state="needs-translation">Override History</target>
+        <target state="translated">Suprascrie istoricul</target>
         <note>Title for override history view</note>
       </trans-unit>
       <trans-unit id="Override Presets" xml:space="preserve">
@@ -1360,7 +1360,7 @@
       </trans-unit>
       <trans-unit id="Pre-Meal Values" xml:space="preserve">
         <source>Pre-Meal Values</source>
-        <target state="needs-translation">Pre-Meal Values</target>
+        <target state="translated">Valori preprandiale</target>
         <note>Title text for multi-value pre-meal value warning</note>
       </trans-unit>
       <trans-unit id="Prescription" xml:space="preserve">
@@ -1380,7 +1380,7 @@
       </trans-unit>
       <trans-unit id="Pump Inoperable" xml:space="preserve">
         <source>Pump Inoperable</source>
-        <target state="needs-translation">Pump Inoperable</target>
+        <target state="translated">Pompă inoperabilă</target>
         <note>Title text for suspend resume button when the basal delivery state is not set</note>
       </trans-unit>
       <trans-unit id="Rapid-Acting – Adults" xml:space="preserve" approved="yes">
@@ -1400,7 +1400,7 @@
       </trans-unit>
       <trans-unit id="Reservoir" xml:space="preserve">
         <source>Reservoir</source>
-        <target state="needs-translation">Reservoir</target>
+        <target state="translated">Rezervor</target>
         <note>Segmented button title for insulin delivery log reservoir history</note>
       </trans-unit>
       <trans-unit id="Resume Delivery" xml:space="preserve" approved="yes">
@@ -1466,7 +1466,7 @@
       </trans-unit>
       <trans-unit id="Save Glucose Safety Limit?" xml:space="preserve">
         <source>Save Glucose Safety Limit?</source>
-        <target state="needs-translation">Save Glucose Safety Limit?</target>
+        <target state="translated">Salvați limita de siguranță pentru glicemie?</target>
         <note>Alert title for confirming a glucose safety limit outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Save Insulin Sensitivities?" xml:space="preserve">
@@ -1481,7 +1481,7 @@
       </trans-unit>
       <trans-unit id="Save Workout Range?" xml:space="preserve">
         <source>Save Workout Range?</source>
-        <target state="needs-translation">Save Workout Range?</target>
+        <target state="translated">Salvați intervalul țintă pentru antrenament?</target>
         <note>Alert title for confirming workout range overrides outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Slow" xml:space="preserve" approved="yes">
@@ -1688,7 +1688,7 @@
       </trans-unit>
       <trans-unit id="View Override" xml:space="preserve">
         <source>View Override</source>
-        <target state="needs-translation">View Override</target>
+        <target state="translated">Vizualizare suprascriere</target>
         <note>The title for the override editing screen</note>
       </trans-unit>
       <trans-unit id="Walsh" xml:space="preserve" approved="yes">
@@ -1718,7 +1718,7 @@
       </trans-unit>
       <trans-unit id="Workout Values" xml:space="preserve">
         <source>Workout Values</source>
-        <target state="needs-translation">Workout Values</target>
+        <target state="translated">Valori antrenament</target>
         <note>Title text for multi-value workout value warning</note>
       </trans-unit>
       <trans-unit id="You can add different carb ratios for different times of day by using the ➕." xml:space="preserve">
@@ -1843,18 +1843,18 @@
       </trans-unit>
       <trans-unit id="than your Correction Range." xml:space="preserve">
         <source>than your Correction Range.</source>
-        <target state="needs-translation">than your Correction Range.</target>
+        <target state="translated">față de intervalul de corecții.</target>
         <note>Information about pre-meal range relative to correction range
    Information about workout range relative to correction range</note>
       </trans-unit>
       <trans-unit id="your Glucose Safety Limit" xml:space="preserve">
         <source>your Glucose Safety Limit</source>
-        <target state="needs-translation">your Glucose Safety Limit</target>
+        <target state="translated">limita de siguranță a glicemiei</target>
         <note>Lower bound pre-meal information text</note>
       </trans-unit>
       <trans-unit id="···" xml:space="preserve">
         <source>···</source>
-        <target state="needs-translation">···</target>
+        <target state="translated">···</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="–" xml:space="preserve" approved="yes">
@@ -1869,22 +1869,22 @@
       </trans-unit>
       <trans-unit id="🍽" xml:space="preserve">
         <source>🍽</source>
-        <target state="needs-translation">🍽</target>
+        <target state="translated">🍽</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="🍽 Pre-Meal" xml:space="preserve">
         <source>🍽 Pre-Meal</source>
-        <target state="needs-translation">🍽 Pre-Meal</target>
+        <target state="translated">🍽 Preprandial</target>
         <note>Premeal override preset title</note>
       </trans-unit>
       <trans-unit id="🏃‍♂️" xml:space="preserve">
         <source>🏃‍♂️</source>
-        <target state="needs-translation">🏃‍♂️</target>
+        <target state="translated">🏃‍♂️</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="🏃‍♂️ Workout" xml:space="preserve">
         <source>🏃‍♂️ Workout</source>
-        <target state="needs-translation">🏃‍♂️ Workout</target>
+        <target state="translated">🏃‍♂️ Antrenament</target>
         <note>Workout override preset title</note>
       </trans-unit>
     </body>
@@ -1935,7 +1935,7 @@
       </trans-unit>
       <trans-unit id="Pump Battery Dead" xml:space="preserve">
         <source>Pump Battery Dead</source>
-        <target state="needs-translation">Pump Battery Dead</target>
+        <target state="translated">Baterie epuizata pompa</target>
         <note>Status highlight that pump has a dead battery.</note>
       </trans-unit>
       <trans-unit id="Pump Error" xml:space="preserve" approved="yes">
