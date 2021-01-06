@@ -161,7 +161,7 @@
       </trans-unit>
       <trans-unit id="%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." xml:space="preserve">
         <source>%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.</source>
-        <target state="needs-translation">%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.</target>
+        <target state="translated">%1$@ délivrera de l'insuline basale et recommandera l'insuline de bolus uniquement si la prédiction de votre glycémie est supérieure à cette limite pour les trois prochaines heures.</target>
         <note>Descriptive format string for glucose safety limit (1: app name)</note>
       </trans-unit>
       <trans-unit id="%@ Range" xml:space="preserve">
@@ -331,7 +331,7 @@
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target state="translated">OK</target>
         <note>Sensor state description for the valid state</note>
       </trans-unit>
       <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve">
@@ -411,7 +411,7 @@
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
         <source>U</source>
-        <target state="needs-translation">U</target>
+        <target state="translated">U</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
       <trans-unit id="U/hr" xml:space="preserve">
@@ -481,12 +481,12 @@
       </trans-unit>
       <trans-unit id="mg/dL/U" xml:space="preserve">
         <source>mg/dL/U</source>
-        <target state="needs-translation">mg/dL/U</target>
+        <target state="translated">mg/dL/U</target>
         <note>The short unit display string for milligrams per deciliter per U</note>
       </trans-unit>
       <trans-unit id="mmol/L" xml:space="preserve">
         <source>mmol/L</source>
-        <target state="needs-translation">mmol/L</target>
+        <target state="translated">mmol/L</target>
         <note>The short unit display string for millimoles per liter</note>
       </trans-unit>
       <trans-unit id="mmol/L/U" xml:space="preserve">
@@ -693,7 +693,7 @@
       </trans-unit>
       <trans-unit id="%1$@ U" xml:space="preserve">
         <source>%1$@ U</source>
-        <target state="needs-translation">%1$@ U</target>
+        <target state="translated">%1$@ U</target>
         <note>Reservoir entry (1: volume value)</note>
       </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
@@ -729,7 +729,7 @@
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
-        <target state="needs-translation">%@</target>
+        <target state="translated">%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve">
@@ -744,17 +744,17 @@
       </trans-unit>
       <trans-unit id="%@, " xml:space="preserve">
         <source>%@, </source>
-        <target state="needs-translation">%@, </target>
+        <target state="translated">%@, </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
         <source>%@.</source>
-        <target state="needs-translation">%@.</target>
+        <target state="translated">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
       <trans-unit id="%@U" xml:space="preserve">
         <source>%@U</source>
-        <target state="needs-translation">%@U</target>
+        <target state="translated">%@U</target>
         <note>Format string for reservoir volume. (1: The localized volume)</note>
       </trans-unit>
       <trans-unit id="(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve">
@@ -930,12 +930,12 @@
       </trans-unit>
       <trans-unit id="Condition" xml:space="preserve">
         <source>Condition</source>
-        <target state="needs-translation">Condition</target>
+        <target state="translated">Condition</target>
         <note>The title for the override emoji condition section</note>
       </trans-unit>
       <trans-unit id="Confirm Setting" xml:space="preserve">
         <source>Confirm Setting</source>
-        <target state="needs-translation">Confirm Setting</target>
+        <target state="translated">Confirmer le réglage</target>
         <note>The button text for confirming the setting</note>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
@@ -1103,7 +1103,7 @@
       </trans-unit>
       <trans-unit id="Fiasp" xml:space="preserve">
         <source>Fiasp</source>
-        <target state="needs-translation">Fiasp</target>
+        <target state="translated">Fiasp</target>
         <note>Title of insulin model preset - fiasp</note>
       </trans-unit>
       <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin." xml:space="preserve">
@@ -1199,7 +1199,7 @@
       </trans-unit>
       <trans-unit id="It can be set as low as %1$@. It can be set as high as %2$@." xml:space="preserve">
         <source>It can be set as low as %1$@. It can be set as high as %2$@.</source>
-        <target state="needs-translation">It can be set as low as %1$@. It can be set as high as %2$@.</target>
+        <target state="translated">Il peut être défini entre %1$@ et %2$@.</target>
         <note>Guardrail info text format</note>
       </trans-unit>
       <trans-unit id="Loop supports 1 to 48 rates per day." xml:space="preserve">
@@ -1753,12 +1753,12 @@
       </trans-unit>
       <trans-unit id="You can edit a setting by tapping into any line item." xml:space="preserve">
         <source>You can edit a setting by tapping into any line item.</source>
-        <target state="needs-translation">You can edit a setting by tapping into any line item.</target>
+        <target state="translated">Vous pouvez modifier une paramètre de l'élément en appuyant n'importe ou sur sa ligne.</target>
         <note>Description of how to edit setting</note>
       </trans-unit>
       <trans-unit id="You can edit the setting by tapping into the line item." xml:space="preserve">
         <source>You can edit the setting by tapping into the line item.</source>
-        <target state="needs-translation">You can edit the setting by tapping into the line item.</target>
+        <target state="translated">Vous pouvez modifier la valeur de l'élément en appuyant n'importe ou sur sa ligne.</target>
         <note>Description of how to edit setting</note>
       </trans-unit>
       <trans-unit id="Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
@@ -1998,7 +1998,7 @@ Without communication, the app cannot continue to send commands for insulin deli
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
       <trans-unit id="Comms Recovery" xml:space="preserve">
@@ -2023,12 +2023,12 @@ Without communication, the app cannot continue to send commands for insulin deli
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target state="translated">OK</target>
         <note>Button title to acknowledge error</note>
       </trans-unit>
       <trans-unit id="Pump Settings" xml:space="preserve">
         <source>Pump Settings</source>
-        <target state="needs-translation">Pump Settings</target>
+        <target state="translated">Paramètres de la pompe</target>
         <note>Title for Pump simulator settings</note>
       </trans-unit>
       <trans-unit id="Recover Simulator" xml:space="preserve">
