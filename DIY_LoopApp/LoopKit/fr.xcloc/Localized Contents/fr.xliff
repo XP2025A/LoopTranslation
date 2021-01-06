@@ -161,7 +161,7 @@
       </trans-unit>
       <trans-unit id="%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." xml:space="preserve">
         <source>%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.</source>
-        <target state="translated">%1$@ délivrera de l'insuline basale et recommandera l'insuline de bolus uniquement si la prédiction de votre glycémie est supérieure à cette limite pour les trois prochaines heures.</target>
+        <target state="translated">%1$@ délivrera l'insuline basale et recommandera l'insuline de bolus uniquement si la prédiction de votre glycémie est supérieure à cette limite pour les trois prochaines heures.</target>
         <note>Descriptive format string for glucose safety limit (1: app name)</note>
       </trans-unit>
       <trans-unit id="%@ Range" xml:space="preserve">
@@ -226,17 +226,17 @@
       </trans-unit>
       <trans-unit id="Correction Range" xml:space="preserve">
         <source>Correction Range</source>
-        <target state="needs-translation">Correction Range</target>
+        <target state="translated">Plage de correction</target>
         <note>Title text for glucose target range</note>
       </trans-unit>
       <trans-unit id="Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." xml:space="preserve">
         <source>Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.</source>
-        <target state="needs-translation">Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.</target>
+        <target state="translated">La plage de correction est la valeur de glucose (ou la plage de valeurs) que vous voulez que %1$@ vise en ajustant votre insuline basale et en vous aidant à calculer vos bolus.</target>
         <note>Descriptive text for glucose target range (1: app name)</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
         <source>Delivery Limits</source>
-        <target state="needs-translation">Delivery Limits</target>
+        <target state="translated">Limites d'Administration</target>
         <note>Title text for delivery limits</note>
       </trans-unit>
       <trans-unit id="Device Refused" xml:space="preserve">
@@ -276,12 +276,12 @@
       </trans-unit>
       <trans-unit id="Insulin Model" xml:space="preserve">
         <source>Insulin Model</source>
-        <target state="needs-translation">Insulin Model</target>
+        <target state="translated">Modèle d'insuline</target>
         <note>Title text for insulin model</note>
       </trans-unit>
       <trans-unit id="Insulin Sensitivities" xml:space="preserve">
         <source>Insulin Sensitivities</source>
-        <target state="needs-translation">Insulin Sensitivities</target>
+        <target state="translated">Facteurs de sensibilité à l'insuline</target>
         <note>Title text for insulin sensitivity</note>
       </trans-unit>
       <trans-unit id="Invalid Configuration" xml:space="preserve">
@@ -296,27 +296,27 @@
       </trans-unit>
       <trans-unit id="Make sure your pump is within communication range of your phone." xml:space="preserve">
         <source>Make sure your pump is within communication range of your phone.</source>
-        <target state="needs-translation">Make sure your pump is within communication range of your phone.</target>
+        <target state="translated">Assurez-vous que votre pompe soit à portée de communication de votre téléphone.</target>
         <note>Recovery suggestion for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate" xml:space="preserve">
         <source>Maximum Basal Rate</source>
-        <target state="needs-translation">Maximum Basal Rate</target>
+        <target state="translated">Taux Basal Maximum</target>
         <note>Title text for maximum basal rate configuration</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically." xml:space="preserve">
         <source>Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically.</source>
-        <target state="needs-translation">Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically.</target>
+        <target state="translated">Le débit Basal Maximum est le débit de basal temporaire le plus élevé que %1$@ est autorisé à administrer automatiquement.</target>
         <note>Descriptive text for maximum basal rate (1: app name)</note>
       </trans-unit>
       <trans-unit id="Maximum Bolus" xml:space="preserve">
         <source>Maximum Bolus</source>
-        <target state="needs-translation">Maximum Bolus</target>
+        <target state="translated">Bolus Maximum</target>
         <note>Title text for maximum bolus configuration</note>
       </trans-unit>
       <trans-unit id="Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." xml:space="preserve">
         <source>Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</source>
-        <target state="needs-translation">Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</target>
+        <target state="translated">Le bolus maximum est la quantité de bolus la plus élevée que vous pouvez délivrer en une fois pour couvrir les glucides ou abaisser le taux de glucose élevé.</target>
         <note>Descriptive text for maximum bolus</note>
       </trans-unit>
       <trans-unit id="Needs Attention" xml:space="preserve">
@@ -336,7 +336,7 @@
       </trans-unit>
       <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve">
         <source>One or more of the values you have entered is outside of what is typically recommended for most people.</source>
-        <target state="needs-translation">One or more of the values you have entered is outside of what is typically recommended for most people.</target>
+        <target state="translated">Une ou plusieurs des valeurs que vous avez entrées sont en dehors de ce qui est généralement recommandé pour la plupart des personnes.</target>
         <note>Descriptive text for saving settings outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Please re-enable sharing in Health" xml:space="preserve">
@@ -346,12 +346,12 @@
       </trans-unit>
       <trans-unit id="Pre-Meal" xml:space="preserve">
         <source>Pre-Meal</source>
-        <target state="needs-translation">Pre-Meal</target>
+        <target state="translated">Pré-Repas</target>
         <note>Title for pre-meal mode</note>
       </trans-unit>
       <trans-unit id="Resumed" xml:space="preserve">
         <source>Resumed</source>
-        <target state="needs-translation">Resumed</target>
+        <target state="translated">Reprendre</target>
         <note>Title for resume dose type</note>
       </trans-unit>
       <trans-unit id="Rising" xml:space="preserve">
@@ -371,22 +371,22 @@
       </trans-unit>
       <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="needs-translation">Some of the values you have entered are outside of what is typically recommended for most people.</target>
+        <target state="translated">Des valeurs que vous avez entrées sont en dehors de ce qui est généralement recommandé pour la plupart des personnes.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Suspended" xml:space="preserve">
         <source>Suspended</source>
-        <target state="needs-translation">Suspended</target>
+        <target state="translated">Suspendu</target>
         <note>Title for suspend dose type</note>
       </trans-unit>
       <trans-unit id="Temp Basal" xml:space="preserve">
         <source>Temp Basal</source>
-        <target state="needs-translation">Temp Basal</target>
+        <target state="translated">Débit basal temporaire</target>
         <note>Title for temp basal dose type</note>
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</source>
-        <target state="needs-translation">Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</target>
+        <target state="translated">Diminuez temporairement votre cible de glycémie avant un repas pour influer sur les pics de glucose post-repas.</target>
         <note>Descriptive text for pre-meal correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
