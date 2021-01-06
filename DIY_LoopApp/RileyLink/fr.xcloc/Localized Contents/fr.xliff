@@ -1568,7 +1568,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Pod is not in a state ready for cannula insertion." xml:space="preserve">
         <source>Pod is not in a state ready for cannula insertion.</source>
-        <target state="needs-translation">Pod is not in a state ready for cannula insertion.</target>
+        <target state="translated">Le pod n’est pas prêt pour l’insertion de la canule.</target>
         <note>Error message when cannula insertion fails because the pod is in an unexpected state</note>
       </trans-unit>
       <trans-unit id="Pod is not in a state ready for priming." xml:space="preserve">
@@ -1599,12 +1599,12 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Ready for basal programming" xml:space="preserve">
         <source>Ready for basal programming</source>
-        <target state="needs-translation">Ready for basal programming</target>
+        <target state="translated">Prêt pour la programmation de la basale</target>
         <note>Pod state when ready for basal programming</note>
       </trans-unit>
       <trans-unit id="Ready to insert cannula" xml:space="preserve">
         <source>Ready to insert cannula</source>
-        <target state="needs-translation">Ready to insert cannula</target>
+        <target state="translated">Prêt à insérer la canule</target>
         <note>Pod state when ready for cannula insertion</note>
       </trans-unit>
       <trans-unit id="Reminder initialized" xml:space="preserve">
@@ -1928,7 +1928,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="%@+ U" xml:space="preserve">
         <source>%@+ U</source>
-        <target state="needs-translation">%@+ U</target>
+        <target state="translated">%@+ U</target>
         <note>Format string for reservoir reading when above or equal to maximum reading. (1: The localized amount)</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
@@ -2108,7 +2108,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Error enabling confirmation beeps" xml:space="preserve">
         <source>Error enabling confirmation beeps</source>
-        <target state="needs-translation">Error enabling confirmation beeps</target>
+        <target state="translated">Erreur lors de l'activation des bips de confirmation</target>
         <note>The alert title for enable confirmation beeps error</note>
       </trans-unit>
       <trans-unit id="Expiration Reminder" xml:space="preserve">
@@ -2301,12 +2301,12 @@ If you did not hear any beeps from your pod, the piezo speaker in your pod may b
       </trans-unit>
       <trans-unit id="Read Pod Status" xml:space="preserve">
         <source>Read Pod Status</source>
-        <target state="needs-translation">Read Pod Status</target>
+        <target state="translated">Lire l’état de la pompe</target>
         <note>The title of the command to read the pod status</note>
       </trans-unit>
       <trans-unit id="Read Pod Status…" xml:space="preserve">
         <source>Read Pod Status…</source>
-        <target state="needs-translation">Read Pod Status…</target>
+        <target state="translated">Lire l’état de la pompe…</target>
         <note>Progress message for reading Pod status.</note>
       </trans-unit>
       <trans-unit id="Read Pulse Log" xml:space="preserve">
@@ -2620,7 +2620,7 @@ If you did not hear any beeps from your pod, the piezo speaker in your pod may b
       </trans-unit>
       <trans-unit id="RileyLink is not connected" xml:space="preserve">
         <source>RileyLink is not connected</source>
-        <target state="needs-translation">RileyLink is not connected</target>
+        <target state="translated">RileyLink n'est pas connecté</target>
         <note>Not ready error description</note>
       </trans-unit>
       <trans-unit id="The RileyLink was temporarily disconnected" xml:space="preserve">
