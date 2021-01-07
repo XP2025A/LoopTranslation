@@ -156,7 +156,7 @@
       </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</source>
-        <target state="translated">%1$@ suppose que l'insuline fonctionne activement pendant 6 heures. Vous pouvez choisir parmi modèles différents pour mesurer le pic d'activité de l'insuline.</target>
+        <target state="translated">%1$@ est basé sur une activité de l'insuline pendant 6 heures. Vous pouvez choisir parmi différents modèles pour mesurer le pic d'activité de l'insuline.</target>
         <note>Descriptive text for insulin model (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." xml:space="preserve">
@@ -698,7 +698,7 @@
       </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
-        <target state="translated">%1$@ suppose que l'insuline fonctionne activement pendant 6 heures. Vous pouvez choisir parmi %2$@ modèles différents pour mesurer le pic d'activité de l'insuline.</target>
+        <target state="translated">%1$@ est basé sur une activité de l'insuline pendant 6 heures. Vous pouvez choisir parmi %2$@ modèles différents pour mesurer le pic d'activité de l'insuline.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%1$@ or your Glucose Safety Limit, whichever is higher" xml:space="preserve">
@@ -734,7 +734,7 @@
       </trans-unit>
       <trans-unit id="%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve">
         <source>%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</source>
-        <target state="needs-translation">%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</target>
+        <target state="translated">%@ suppose que l'insuline qu'elle a délivrée travaille activement à réduire votre glycémie pendant 6 heures. Ce paramètre ne peut pas être modifié.</target>
         <note>Information about insulin action duration</note>
       </trans-unit>
       <trans-unit id="%@%% of normal insulin" xml:space="preserve">
@@ -759,7 +759,7 @@
       </trans-unit>
       <trans-unit id="(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve">
         <source>(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</source>
-        <target state="needs-translation">(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</target>
+        <target state="translated">(appName) se base sur une activité de l'insuline pendant 6 heures pour réduire votre glycémie. Ce paramètre ne peut pas être modifié.</target>
         <note>Information about insulin action duration</note>
       </trans-unit>
       <trans-unit id="-" xml:space="preserve">
@@ -1385,12 +1385,12 @@
       </trans-unit>
       <trans-unit id="Rapid-Acting – Adults" xml:space="preserve">
         <source>Rapid-Acting – Adults</source>
-        <target state="needs-translation">Rapid-Acting – Adults</target>
+        <target state="translated">Action rapide - Adulte</target>
         <note>Title of insulin model preset - rapid acting adult</note>
       </trans-unit>
       <trans-unit id="Rapid-Acting – Children" xml:space="preserve">
         <source>Rapid-Acting – Children</source>
-        <target state="needs-translation">Rapid-Acting – Children</target>
+        <target state="translated">Action rapide - Enfant</target>
         <note>Title of insulin model preset - rapid acting children</note>
       </trans-unit>
       <trans-unit id="Required" xml:space="preserve">
@@ -1586,12 +1586,12 @@
       </trans-unit>
       <trans-unit id="The rapid-acting adult model assumes peak activity at 75 minutes." xml:space="preserve">
         <source>The rapid-acting adult model assumes peak activity at 75 minutes.</source>
-        <target state="needs-translation">The rapid-acting adult model assumes peak activity at 75 minutes.</target>
+        <target state="translated">Ce modèle "Action rapide-Adulte" est basé sur une activité maximale de l’insuline vers 75 minutes.</target>
         <note>Information about adult insulin model</note>
       </trans-unit>
       <trans-unit id="The rapid-acting child model assumes peak activity at 65 minutes." xml:space="preserve">
         <source>The rapid-acting child model assumes peak activity at 65 minutes.</source>
-        <target state="needs-translation">The rapid-acting child model assumes peak activity at 65 minutes.</target>
+        <target state="translated">Ce modèle "Action rapide-Enfant" est basé sur une activité maximale de l’insuline vers 65 minutes.</target>
         <note>Information about child insulin model</note>
       </trans-unit>
       <trans-unit id="The schedule starts at midnight and cannot contain a rate of 0 U/hr." xml:space="preserve">
@@ -1611,17 +1611,17 @@
       </trans-unit>
       <trans-unit id="This model assumes peak insulin activity at 55 minutes." xml:space="preserve">
         <source>This model assumes peak insulin activity at 55 minutes.</source>
-        <target state="needs-translation">This model assumes peak insulin activity at 55 minutes.</target>
+        <target state="translated">Ce modèle est basé sur une activité maximale de l’insuline vers 55 minutes.</target>
         <note>Subtitle of Fiasp preset</note>
       </trans-unit>
       <trans-unit id="This model assumes peak insulin activity at 65 minutes." xml:space="preserve">
         <source>This model assumes peak insulin activity at 65 minutes.</source>
-        <target state="needs-translation">This model assumes peak insulin activity at 65 minutes.</target>
+        <target state="translated">Ce modèle est basé sur une activité maximale de l’insuline vers 65 minutes.</target>
         <note>Subtitle of Rapid-Acting – Children preset</note>
       </trans-unit>
       <trans-unit id="This model assumes peak insulin activity at 75 minutes." xml:space="preserve">
         <source>This model assumes peak insulin activity at 75 minutes.</source>
-        <target state="needs-translation">This model assumes peak insulin activity at 75 minutes.</target>
+        <target state="translated">Ce modèle est basé sur une activité maximale de l’insuline vers 75 minutes.</target>
         <note>Subtitle of Rapid-Acting – Adult preset</note>
       </trans-unit>
       <trans-unit id="This will typically be" xml:space="preserve">
