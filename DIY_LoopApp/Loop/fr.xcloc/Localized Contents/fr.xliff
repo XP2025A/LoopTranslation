@@ -74,7 +74,7 @@
     <body>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
       <trans-unit id="Add Carb Entry" xml:space="preserve">
@@ -114,7 +114,7 @@
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="Range" xml:space="preserve">
@@ -129,7 +129,7 @@
       </trans-unit>
       <trans-unit id="Time in Range" xml:space="preserve">
         <source>Time in Range</source>
-        <target state="needs-translation">Time in Range</target>
+        <target state="translated">Durée dans la cible</target>
         <note>Lesson title</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
@@ -649,12 +649,12 @@ Vous pouvez attendre plusieurs minutes pour voir si le problème résout ou appu
       </trans-unit>
       <trans-unit id="API Key" xml:space="preserve">
         <source>API Key</source>
-        <target state="needs-translation">API Key</target>
+        <target state="translated">Clé API</target>
         <note>The title of the amplitude API key credential</note>
       </trans-unit>
       <trans-unit id="API Secret" xml:space="preserve">
         <source>API Secret</source>
-        <target state="needs-translation">API Secret</target>
+        <target state="translated">Code secret API</target>
         <note>The title of the nightscout API secret credential</note>
       </trans-unit>
       <trans-unit id="Absorption Time" xml:space="preserve">
@@ -721,7 +721,7 @@ Vous pouvez attendre plusieurs minutes pour voir si le problème résout ou appu
       </trans-unit>
       <trans-unit id="Adjusted for" xml:space="preserve">
         <source>Adjusted for</source>
-        <target state="needs-translation">Adjusted for</target>
+        <target state="translated">Ajusté pour</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Alert Permissions" xml:space="preserve">
@@ -931,7 +931,7 @@ indisponible</target>
       </trans-unit>
       <trans-unit id="Configuration" xml:space="preserve">
         <source>Configuration</source>
-        <target state="needs-translation">Configuration</target>
+        <target state="translated">Configuration</target>
         <note>The title of the configuration section in settings</note>
       </trans-unit>
       <trans-unit id="Configuration Error: %1$@" xml:space="preserve">
@@ -1635,17 +1635,17 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Try Again" xml:space="preserve">
         <source>Try Again</source>
-        <target state="needs-translation">Try Again</target>
+        <target state="translated">Réessayer</target>
         <note>Critical event log export error alert try again button</note>
       </trans-unit>
       <trans-unit id="Turn on Bluetooth to receive alerts, alarms or sensor glucose readings." xml:space="preserve">
         <source>Turn on Bluetooth to receive alerts, alarms or sensor glucose readings.</source>
-        <target state="needs-translation">Turn on Bluetooth to receive alerts, alarms or sensor glucose readings.</target>
+        <target state="translated">Activez le Bluetooth pour recevoir des alertes, alarmes ou les données de capteurs de glycémie.</target>
         <note>Bluetooth off foreground alert body</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
         <source>U</source>
-        <target state="needs-translation">U</target>
+        <target state="translated">U</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
       <trans-unit id="Unable To Reach Pump" xml:space="preserve">
@@ -1665,7 +1665,7 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Unable to stop the bolus in progress. Move your iPhone closer to the pump and try again. Check your insulin delivery history for details, and monitor your glucose closely." xml:space="preserve">
         <source>Unable to stop the bolus in progress. Move your iPhone closer to the pump and try again. Check your insulin delivery history for details, and monitor your glucose closely.</source>
-        <target state="needs-translation">Unable to stop the bolus in progress. Move your iPhone closer to the pump and try again. Check your insulin delivery history for details, and monitor your glucose closely.</target>
+        <target state="translated">Impossible d'arrêter le bolus en cours. Déplacez votre iPhone plus près de la pompe et réessayez. Vérifiez votre historique de distribution d'insuline pour plus de détails et surveillez votre glycémie de près.</target>
         <note>The alert body for an error while canceling a bolus</note>
       </trans-unit>
       <trans-unit id="Until I enter carbs" xml:space="preserve">
@@ -1695,7 +1695,7 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Walsh" xml:space="preserve">
         <source>Walsh</source>
-        <target state="needs-translation">Walsh</target>
+        <target state="translated">Walsh</target>
         <note>Title of insulin model setting</note>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
@@ -2104,7 +2104,7 @@ Appuyez sur Paramètres pour activer/désactiver la boucle fermée si vous souha
         <source>
 %1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes.</source>
         <target state="translated">
-%1$@ fonctionne en mode "Boucle fermée". Votre dernière boucle a réussi au cours des 5 dernières minutes.</target>
+%1$@ fonctionne en mode "Boucle fermée". Votre dernière boucle réussie s'est correctement effectuée au cours des 5 dernières minutes.</target>
         <note>Green closed loop ON message (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ at %2$@" xml:space="preserve">
