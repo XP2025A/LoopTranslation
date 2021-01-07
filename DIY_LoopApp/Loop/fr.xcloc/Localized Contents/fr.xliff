@@ -94,12 +94,12 @@
       </trans-unit>
       <trans-unit id="Maximum" xml:space="preserve">
         <source>Maximum</source>
-        <target state="needs-translation">Maximum</target>
+        <target state="translated">Maximum</target>
         <note>Placeholder for upper range entry</note>
       </trans-unit>
       <trans-unit id="Minimum" xml:space="preserve">
         <source>Minimum</source>
-        <target state="needs-translation">Minimum</target>
+        <target state="translated">Minimum</target>
         <note>Placeholder for lower range entry</note>
       </trans-unit>
       <trans-unit id="Modal Day" xml:space="preserve">
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id="Weeks" xml:space="preserve">
         <source>Weeks</source>
-        <target state="needs-translation">Weeks</target>
+        <target state="translated">Semaines</target>
         <note>Unit string for a count of calendar weeks</note>
       </trans-unit>
       <trans-unit id="dB" xml:space="preserve">
@@ -154,7 +154,7 @@
       </trans-unit>
       <trans-unit id="g" xml:space="preserve">
         <source>g</source>
-        <target state="needs-translation">g</target>
+        <target state="translated">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
       <trans-unit id="mg/dL" xml:space="preserve">
@@ -291,7 +291,7 @@
     <body>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
     </body>
@@ -313,7 +313,7 @@
       </trans-unit>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
       <trans-unit id="? U" xml:space="preserve">
@@ -373,7 +373,7 @@
       </trans-unit>
       <trans-unit id="mmol/L" xml:space="preserve">
         <source>mmol/L</source>
-        <target state="needs-translation">mmol/L</target>
+        <target state="translated">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
     </body>
@@ -395,12 +395,12 @@
       </trans-unit>
       <trans-unit id="Vgf-p1-2QP.text" xml:space="preserve">
         <source>0 U</source>
-        <target state="needs-translation">0 U</target>
+        <target state="translated">0 U</target>
         <note>Class = "UILabel"; text = "0 U"; ObjectID = "Vgf-p1-2QP";</note>
       </trans-unit>
       <trans-unit id="dPp-lJ-5sh.text" xml:space="preserve">
         <source>0 g</source>
-        <target state="needs-translation">0 g</target>
+        <target state="translated">0 g</target>
         <note>Class = "UILabel"; text = "0 g"; ObjectID = "dPp-lJ-5sh";</note>
       </trans-unit>
     </body>
@@ -412,7 +412,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Loop</source>
-        <target state="needs-translation">Loop</target>
+        <target state="translated">Loop</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -429,17 +429,17 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Loop</source>
-        <target state="needs-translation">Loop</target>
+        <target state="translated">Loop</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>$(PRODUCT_NAME)</source>
-        <target state="needs-translation">$(PRODUCT_NAME)</target>
+        <target state="translated">$(PRODUCT_NAME)</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">
         <source>Bluetooth is used to communicate with insulin pump and continuous glucose monitor devices.</source>
-        <target state="needs-translation">Bluetooth is used to communicate with insulin pump and continuous glucose monitor devices.</target>
+        <target state="translated">Le bluetooth est utilisé pour communiquer avec la pompe à insuline et les dispositifs de surveillance continue de glucose.</target>
         <note>Privacy - Bluetooth Always Usage Description</note>
       </trans-unit>
       <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve">
@@ -454,7 +454,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>Face ID is used to authenticate insulin bolus and to save changes to therapy settings.</source>
-        <target state="needs-translation">Face ID is used to authenticate insulin bolus and to save changes to therapy settings.</target>
+        <target state="translated">Face ID est utilisé pour authentifier l’insuline de bolus et pour enregistrer les changements dans les paramètres de thérapie.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
@@ -483,8 +483,8 @@
         <source>
             Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.
             </source>
-        <target state="needs-translation">
-            Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.
+        <target state="translated">
+            Les alertes critiques joueront toujours un son et apparaîtront sur l'écran de verrouillage même si votre iPhone est mis en sourdine ou si le mode Ne pas déranger est activé.
             </target>
         <note>Manage Notifications in Settings descriptive text</note>
       </trans-unit>
@@ -494,10 +494,10 @@
             
             Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.
             </source>
-        <target state="needs-translation">
-            Notifications appear on your Lock screen or pop up while you’re using other apps.
+        <target state="translated">
+            Les notifications apparaissent sur votre écran de verrouillage ou apparaissent lorsque vous utilisez d'autres applications.
             
-            Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.
+            Les notifications vous donnent des informations importantes sur l'application (appName) sans vous obliger à ouvrir l'application. Vous pouvez personnaliser quand et comment vous souhaitez recevoir ces notifications.
             </target>
         <note>Manage Notifications in Settings descriptive text</note>
       </trans-unit>
@@ -523,17 +523,17 @@
       </trans-unit>
       <trans-unit id="%1$@ %2$@" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string combining carb entry quantity and absorption time emoji</note>
       </trans-unit>
       <trans-unit id="%1$@ %2$@/U" xml:space="preserve">
         <source>%1$@ %2$@/U</source>
-        <target state="needs-translation">%1$@ %2$@/U</target>
+        <target state="translated">%1$@ %2$@/U</target>
         <note>Format string for carb ratio average. (1: value)(2: carb unit)</note>
       </trans-unit>
       <trans-unit id="%1$@ + %2$@" xml:space="preserve">
         <source>%1$@ + %2$@</source>
-        <target state="needs-translation">%1$@ + %2$@</target>
+        <target state="translated">%1$@ + %2$@</target>
         <note>Formats (1: carb start time) and (2: carb absorption duration)</note>
       </trans-unit>
       <trans-unit id="%1$@ U left" xml:space="preserve">
@@ -555,7 +555,7 @@
         <source>%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
 
 </source>
-        <target state="needs-translation">%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
+        <target state="translated">%1$@ fonctionne en mode "Boucle Ouverte". Votre pompe et votre MGC continueront à fonctionner, mais votre insuline de base ne s'ajustera pas dynamiquement.
 
 </target>
         <note>Alert message for closed loop off informational modal. (1: app name)</note>
@@ -563,13 +563,13 @@
       <trans-unit id="%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.&#10;You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options." xml:space="preserve">
         <source>%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.
 You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options.</source>
-        <target state="needs-translation">%1$@ is unable to communicate with your insulin pump. The app will continue trying to reach your pump, but insulin delivery information cannot be updated and no automation can continue.
-You can wait several minutes to see if the issue resolves or tap the button below to learn more about other options.</target>
+        <target state="translated">%1$@ est incapable de communiquer avec votre pompe à insuline. L'application va continuer à essayer d'atteindre votre pompe, mais les informations relatives à la distribution d'insuline ne peuvent pas être mises à jour et aucune automatisation ne peut continuer.
+Vous pouvez attendre plusieurs minutes pour voir si le problème résout ou appuyez sur le bouton ci-dessous pour en savoir plus sur d'autres options.</target>
         <note>Message for alert shown when delivery status is uncertain. (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
       <trans-unit id="%1$@ – %2$@ %3$@" xml:space="preserve">
@@ -599,7 +599,7 @@ You can wait several minutes to see if the issue resolves or tap the button belo
       </trans-unit>
       <trans-unit id="%@ remaining" xml:space="preserve">
         <source>%@ remaining</source>
-        <target state="needs-translation">%@ remaining</target>
+        <target state="translated">%@ restant</target>
         <note>Estimated remaining duration with more than a minute</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
@@ -921,12 +921,12 @@ indisponible</target>
       </trans-unit>
       <trans-unit id="Closed Loop OFF" xml:space="preserve">
         <source>Closed Loop OFF</source>
-        <target state="needs-translation">Closed Loop OFF</target>
+        <target state="translated">Boucle Ouverte</target>
         <note>Alert title for closed loop off informational modal</note>
       </trans-unit>
       <trans-unit id="Closed Loop requires an active CGM Sensor Session" xml:space="preserve">
         <source>Closed Loop requires an active CGM Sensor Session</source>
-        <target state="needs-translation">Closed Loop requires an active CGM Sensor Session</target>
+        <target state="translated">La boucle fermée nécessite l'activation d'un capteur CGM</target>
         <note>The description text for the looping enabled switch cell when closed loop is not allowed</note>
       </trans-unit>
       <trans-unit id="Configuration" xml:space="preserve">
@@ -1007,7 +1007,7 @@ indisponible</target>
       </trans-unit>
       <trans-unit id="Delete Service" xml:space="preserve">
         <source>Delete Service</source>
-        <target state="needs-translation">Delete Service</target>
+        <target state="translated">Supprimer le service</target>
         <note>Button title to delete a service</note>
       </trans-unit>
       <trans-unit id="Delete Testing CGM Data" xml:space="preserve">
@@ -1047,14 +1047,14 @@ indisponible</target>
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
         <source>Dismiss</source>
-        <target state="needs-translation">Dismiss</target>
+        <target state="translated">Fermer</target>
         <note>Default alert dismissal
    Dismiss button for the invalid adverse event report URL alert.
    The button label of the action used to dismiss an error alert</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target state="needs-translation">Done</target>
+        <target state="translated">Terminé</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Enable&#10;Bluetooth" xml:space="preserve">
@@ -1131,17 +1131,17 @@ bluetooth</target>
       </trans-unit>
       <trans-unit id="Failed to Resume Insulin Delivery" xml:space="preserve">
         <source>Failed to Resume Insulin Delivery</source>
-        <target state="needs-translation">Failed to Resume Insulin Delivery</target>
+        <target state="translated">Échec de la reprise de la distribution d'Insuline</target>
         <note>The alert title for a resume error</note>
       </trans-unit>
       <trans-unit id="Fiasp" xml:space="preserve">
         <source>Fiasp</source>
-        <target state="needs-translation">Fiasp</target>
+        <target state="translated">Fiasp</target>
         <note>Title of insulin model preset</note>
       </trans-unit>
       <trans-unit id="Fingerstick Glucose" xml:space="preserve">
         <source>Fingerstick Glucose</source>
-        <target state="needs-translation">Fingerstick Glucose</target>
+        <target state="translated">Glycémie capillaire</target>
         <note>Label for manual glucose entry row on bolus screen</note>
       </trans-unit>
       <trans-unit id="For %1$@" xml:space="preserve">
@@ -1166,7 +1166,7 @@ bluetooth</target>
       </trans-unit>
       <trans-unit id="Glucose Data Now Available" xml:space="preserve">
         <source>Glucose Data Now Available</source>
-        <target state="needs-translation">Glucose Data Now Available</target>
+        <target state="translated">Les données de glucose sont non disponibles</target>
         <note>Alert title when glucose data returns while on bolus screen</note>
       </trans-unit>
       <trans-unit id="Glucose Entry Out of Range" xml:space="preserve">
@@ -1217,7 +1217,7 @@ bluetooth</target>
       </trans-unit>
       <trans-unit id="Insulin Pump" xml:space="preserve">
         <source>Insulin Pump</source>
-        <target state="needs-translation">Insulin Pump</target>
+        <target state="translated">Pompe à insuline</target>
         <note>Descriptive text for Insulin Pump</note>
       </trans-unit>
       <trans-unit id="Insulin Sensitivities" xml:space="preserve">
@@ -1228,7 +1228,7 @@ bluetooth</target>
       </trans-unit>
       <trans-unit id="Insulin Suspended" xml:space="preserve">
         <source>Insulin Suspended</source>
-        <target state="needs-translation">Insulin Suspended</target>
+        <target state="translated">Insuline suspendue</target>
         <note>The title of the cell indicating the pump is suspended</note>
       </trans-unit>
       <trans-unit id="Insulin effects" xml:space="preserve">
@@ -1258,7 +1258,7 @@ bluetooth</target>
       </trans-unit>
       <trans-unit id="Learn More" xml:space="preserve">
         <source>Learn More</source>
-        <target state="needs-translation">Learn More</target>
+        <target state="translated">En savoir plus</target>
         <note>OK button title for alert shown when delivery status is uncertain</note>
       </trans-unit>
       <trans-unit id="Less than a minute remaining" xml:space="preserve">
@@ -1338,17 +1338,17 @@ bluetooth</target>
       </trans-unit>
       <trans-unit id="No Pump Configured" xml:space="preserve">
         <source>No Pump Configured</source>
-        <target state="needs-translation">No Pump Configured</target>
+        <target state="translated">Pas de pompe configurée</target>
         <note>Alert title for a missing pump error</note>
       </trans-unit>
       <trans-unit id="No Recent Glucose" xml:space="preserve">
         <source>No Recent Glucose</source>
-        <target state="needs-translation">No Recent Glucose</target>
+        <target state="translated">Pas de Glycémie récente</target>
         <note>The title of the cell indicating that there is no recent glucose</note>
       </trans-unit>
       <trans-unit id="No Recent Glucose Data" xml:space="preserve">
         <source>No Recent Glucose Data</source>
-        <target state="needs-translation">No Recent Glucose Data</target>
+        <target state="translated">Pas de Glycémie récente</target>
         <note>Title for bolus screen notice when glucose data is missing or stale</note>
       </trans-unit>
       <trans-unit id="No Recent Pump Data" xml:space="preserve">
@@ -1363,7 +1363,7 @@ bluetooth</target>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target state="translated">OK</target>
         <note>Alert acknowledgment OK button
    The title of the notification action to acknowledge a device alert</note>
       </trans-unit>
@@ -1441,7 +1441,7 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="Rapid-Acting – Adults" xml:space="preserve">
@@ -1550,17 +1550,17 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Tap here to set up a CGM" xml:space="preserve">
         <source>Tap here to set up a CGM</source>
-        <target state="needs-translation">Tap here to set up a CGM</target>
+        <target state="translated">Appuyez ici pour configurer un lecteur de glycémie</target>
         <note>Descriptive text for button to add CGM device</note>
       </trans-unit>
       <trans-unit id="Tap here to set up a Service" xml:space="preserve">
         <source>Tap here to set up a Service</source>
-        <target state="needs-translation">Tap here to set up a Service</target>
+        <target state="translated">Appuyez ici pour configurer un service</target>
         <note>The descriptive text of the add service button in settings</note>
       </trans-unit>
       <trans-unit id="Tap here to set up a pump" xml:space="preserve">
         <source>Tap here to set up a pump</source>
-        <target state="needs-translation">Tap here to set up a pump</target>
+        <target state="translated">Appuyez ici pour paramétrer une pompe</target>
         <note>Descriptive text for button to add pump device</note>
       </trans-unit>
       <trans-unit id="Tap to Add" xml:space="preserve">
@@ -1710,7 +1710,7 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump." xml:space="preserve">
         <source>When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump.</source>
-        <target state="needs-translation">When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump.</target>
+        <target state="translated">En dehors du mode Boucle fermée, l'application utilise un calcul de bolus simplifié comme pour une pompe classique.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Workout Targets" xml:space="preserve">
@@ -1747,9 +1747,9 @@ Actuel: %2$@ (%3$@)</target>
         <source>Your phone’s time has been changed. %1$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.
 
 Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Automatically is enabled. Failure to resolve could lead to serious under-delivery or over-delivery of insulin.</source>
-        <target state="needs-translation">Your phone’s time has been changed. %1$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.
+        <target state="translated">L'heure de votre téléphone a été modifiée. %1$@ a besoin d'enregistrements de temps précis pour faire des prédictions sur votre glucose et ajuster votre insuline en conséquence.
 
-Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Automatically is enabled. Failure to resolve could lead to serious under-delivery or over-delivery of insulin.</target>
+Vérifiez dans vos paramètres iPhone (Général / Date &amp; Heure) et que "Réglage automatique" soit activé. Un défaut de résolution pourrait entraîner de graves sous dosage ou surdosage d'insuline.</target>
         <note>Time change alert body. (1: app name)</note>
       </trans-unit>
       <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve">
@@ -2094,17 +2094,17 @@ Tap your CGM and insulin pump status icons for more information. %2$@ will conti
 %1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
 
 Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin.</source>
-        <target state="needs-translation">
-%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
+        <target state="translated">
+%1$@ fonctionne en mode "Boucle ouverte". Votre pompe et votre MGC continueront à fonctionner, mais votre debit basal ne s'ajustera pas dynamiquement.
 
-Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin.</target>
+Appuyez sur Paramètres pour activer/désactiver la boucle fermée si vous souhaitez que l'application automatise votre insuline.</target>
         <note>Green closed loop OFF message (1: app name)</note>
       </trans-unit>
       <trans-unit id="&#10;%1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes." xml:space="preserve">
         <source>
 %1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes.</source>
-        <target state="needs-translation">
-%1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes.</target>
+        <target state="translated">
+%1$@ fonctionne en mode "Boucle fermée". Votre dernière boucle a réussi au cours des 5 dernières minutes.</target>
         <note>Green closed loop ON message (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ at %2$@" xml:space="preserve">
@@ -2139,12 +2139,12 @@ Tap Settings to toggle Closed Loop ON if you wish for the app to automate your i
       </trans-unit>
       <trans-unit id="Closed Loop OFF" xml:space="preserve">
         <source>Closed Loop OFF</source>
-        <target state="needs-translation">Closed Loop OFF</target>
+        <target state="translated">Boucle Ouverte</target>
         <note>Title of green open loop OFF message</note>
       </trans-unit>
       <trans-unit id="Closed Loop ON" xml:space="preserve">
         <source>Closed Loop ON</source>
-        <target state="needs-translation">Closed Loop ON</target>
+        <target state="translated">Boucle Fermée</target>
         <note>Title of green closed loop ON message</note>
       </trans-unit>
       <trans-unit id="Closed loop" xml:space="preserve">
@@ -2164,7 +2164,7 @@ Tap Settings to toggle Closed Loop ON if you wish for the app to automate your i
       </trans-unit>
       <trans-unit id="Loop Failure" xml:space="preserve">
         <source>Loop Failure</source>
-        <target state="needs-translation">Loop Failure</target>
+        <target state="translated">Défaillance de la boucle</target>
         <note>Title of red loop message
    Title of yellow loop message</note>
       </trans-unit>
