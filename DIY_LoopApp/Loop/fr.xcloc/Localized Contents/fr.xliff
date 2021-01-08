@@ -1027,12 +1027,12 @@ indisponible</target>
       </trans-unit>
       <trans-unit id="Deliver" xml:space="preserve">
         <source>Deliver</source>
-        <target state="needs-translation">Deliver</target>
+        <target state="translated">Administrer</target>
         <note>Button text to deliver a bolus</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
         <source>Delivery Limits</source>
-        <target state="translated">Limites de Administration</target>
+        <target state="translated">Limites d'Administration</target>
         <note>Title text for delivery limits</note>
       </trans-unit>
       <trans-unit id="Diabetes Treatment" xml:space="preserve">
@@ -1384,7 +1384,7 @@ bluetooth</target>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your glucose safety limit setting." xml:space="preserve">
         <source>Predicted glucose of %1$@ is below your glucose safety limit setting.</source>
-        <target state="translated">La glycémie estimée de %1$@ est sous le seuil mini de la limite de sécurité.</target>
+        <target state="translated">La glycémie estimée à %1$@ est sous le seuil de suspension.</target>
         <note>Notice message when recommending bolus when BG is below the glucose safety limit. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve">
@@ -1492,7 +1492,7 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Save and Deliver" xml:space="preserve">
         <source>Save and Deliver</source>
-        <target state="needs-translation">Save and Deliver</target>
+        <target state="translated">Enregistrer et Administrer</target>
         <note>Button text to save carbs and/or manual glucose entry and deliver a bolus</note>
       </trans-unit>
       <trans-unit id="Save without Bolusing" xml:space="preserve">
