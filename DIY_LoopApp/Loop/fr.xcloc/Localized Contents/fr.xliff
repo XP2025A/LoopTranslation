@@ -1101,7 +1101,7 @@ bluetooth</target>
       </trans-unit>
       <trans-unit id="Error Exporting Logs" xml:space="preserve">
         <source>Error Exporting Logs</source>
-        <target state="needs-translation">Error Exporting Logs</target>
+        <target state="translated">Erreur lors de l'exportation des Logs</target>
         <note>Critical event log export error alert title</note>
       </trans-unit>
       <trans-unit id="Error Resuming" xml:space="preserve">
@@ -1121,7 +1121,7 @@ bluetooth</target>
       </trans-unit>
       <trans-unit id="Export Critical Event Logs" xml:space="preserve">
         <source>Export Critical Event Logs</source>
-        <target state="needs-translation">Export Critical Event Logs</target>
+        <target state="translated">Exporter les journaux d'événements critiques</target>
         <note>The title of the export critical event logs in support</note>
       </trans-unit>
       <trans-unit id="Export-%1$@" xml:space="preserve">
@@ -1171,7 +1171,7 @@ bluetooth</target>
       </trans-unit>
       <trans-unit id="Glucose Entry Out of Range" xml:space="preserve">
         <source>Glucose Entry Out of Range</source>
-        <target state="needs-translation">Glucose Entry Out of Range</target>
+        <target state="translated">Glycémie hors norme</target>
         <note>Alert title for a manual glucose entry out of range error</note>
       </trans-unit>
       <trans-unit id="Glucose Momentum" xml:space="preserve">
@@ -1288,7 +1288,7 @@ bluetooth</target>
       </trans-unit>
       <trans-unit id="Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus." xml:space="preserve">
         <source>Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus.</source>
-        <target state="needs-translation">Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus.</target>
+        <target state="translated">Loop ne fonctionnera pas correctement tant que le Bluetooth n'est pas activé. Vous ne recevrez pas de lectures de glucose, ou pouvez de bolus. Vous ne recevrez pas de lectures de glucose, ou ne pourrez pas effectuer de bolus.</target>
         <note>Bluetooth off background alert body.</note>
       </trans-unit>
       <trans-unit id="Manage Critical Alerts in Settings" xml:space="preserve">
@@ -1384,7 +1384,7 @@ bluetooth</target>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your glucose safety limit setting." xml:space="preserve">
         <source>Predicted glucose of %1$@ is below your glucose safety limit setting.</source>
-        <target state="needs-translation">Predicted glucose of %1$@ is below your glucose safety limit setting.</target>
+        <target state="translated">La glycémie estimée de %1$@ est sous le seuil mini de la limite de sécurité.</target>
         <note>Notice message when recommending bolus when BG is below the glucose safety limit. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve">
@@ -1401,7 +1401,7 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Preparing Critical Event Logs" xml:space="preserve">
         <source>Preparing Critical Event Logs</source>
-        <target state="needs-translation">Preparing Critical Event Logs</target>
+        <target state="translated">Préparation des journaux d’événements critiques</target>
         <note>Preparing critical event log text</note>
       </trans-unit>
       <trans-unit id="Pump" xml:space="preserve">
@@ -1595,17 +1595,17 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The maximum allowed amount is %1$@ grams" xml:space="preserve">
         <source>The maximum allowed amount is %1$@ grams</source>
-        <target state="needs-translation">The maximum allowed amount is %1$@ grams</target>
+        <target state="translated">La quantité maximale autorisée est de %1$@ grammes</target>
         <note>Alert body displayed for quantity greater than max (1: maximum quantity in grams)</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %1$@ U." xml:space="preserve">
         <source>The maximum bolus amount is %1$@ U.</source>
-        <target state="needs-translation">The maximum bolus amount is %1$@ U.</target>
+        <target state="translated">La quantité maximum du bolus est de %1$@ U.</target>
         <note>Format string for maximum bolus exceeded alert (1: maximumBolusAmount)</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ U." xml:space="preserve">
         <source>The maximum bolus amount is %@ U.</source>
-        <target state="needs-translation">The maximum bolus amount is %@ U.</target>
+        <target state="translated">La quantité maximum du bolus est de %@ U.</target>
         <note>Alert message for a maximum bolus validation error (1: max bolus value)</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ Units" xml:space="preserve">
@@ -1615,7 +1615,7 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The maximum bolus setting must be configured before a bolus can be delivered." xml:space="preserve">
         <source>The maximum bolus setting must be configured before a bolus can be delivered.</source>
-        <target state="needs-translation">The maximum bolus setting must be configured before a bolus can be delivered.</target>
+        <target state="translated">Le réglage de bolus maximum doit être configuré avant qu’un bolus puisse être effectué.</target>
         <note>Alert message for a missing maximum bolus setting error</note>
       </trans-unit>
       <trans-unit id="Therapy Settings" xml:space="preserve">
@@ -1650,17 +1650,17 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Unable To Reach Pump" xml:space="preserve">
         <source>Unable To Reach Pump</source>
-        <target state="needs-translation">Unable To Reach Pump</target>
+        <target state="translated">Impossible de contacter la pompe</target>
         <note>Title for alert shown when delivery status is uncertain</note>
       </trans-unit>
       <trans-unit id="Unable to Save Carb Entry" xml:space="preserve">
         <source>Unable to Save Carb Entry</source>
-        <target state="needs-translation">Unable to Save Carb Entry</target>
+        <target state="translated">Impossible d'enregistrer la saisie des Glucides</target>
         <note>Alert title for a carb entry persistence error</note>
       </trans-unit>
       <trans-unit id="Unable to Save Manual Glucose Entry" xml:space="preserve">
         <source>Unable to Save Manual Glucose Entry</source>
-        <target state="needs-translation">Unable to Save Manual Glucose Entry</target>
+        <target state="translated">Impossible d’enregistrer la glycémie saisie</target>
         <note>Alert title for a manual glucose entry persistence error</note>
       </trans-unit>
       <trans-unit id="Unable to stop the bolus in progress. Move your iPhone closer to the pump and try again. Check your insulin delivery history for details, and monitor your glucose closely." xml:space="preserve">
@@ -1670,7 +1670,7 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Until I enter carbs" xml:space="preserve">
         <source>Until I enter carbs</source>
-        <target state="needs-translation">Until I enter carbs</target>
+        <target state="translated">Jusqu'à l'apport de glucides</target>
         <note>The title of a target alert action specifying pre-meal targets duration for 1 hour or until the user enters carbs (whichever comes first).</note>
       </trans-unit>
       <trans-unit id="Until I turn off" xml:space="preserve">
@@ -1680,7 +1680,7 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Use Pre-Meal Preset" xml:space="preserve">
         <source>Use Pre-Meal Preset</source>
-        <target state="needs-translation">Use Pre-Meal Preset</target>
+        <target state="translated">Préréglage de Pré-repas</target>
         <note>The title of the alert controller used to select a duration for pre-meal targets</note>
       </trans-unit>
       <trans-unit id="Use Workout Glucose Targets" xml:space="preserve">
@@ -1690,7 +1690,7 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Use Workout Preset" xml:space="preserve">
         <source>Use Workout Preset</source>
-        <target state="needs-translation">Use Workout Preset</target>
+        <target state="translated">Préréglage de l'entraînement</target>
         <note>The title of the alert controller used to select a duration for workout targets</note>
       </trans-unit>
       <trans-unit id="Walsh" xml:space="preserve">
@@ -1700,7 +1700,7 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
         <source>When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</source>
-        <target state="needs-translation">When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</target>
+        <target state="translated">Lorsque la glycémie actuelle ou prévue est inférieure au seuil de suspension, Loop ne recommandera pas de bolus et recommandera toujours un débit basal temporaire de 0 unité par heure.</target>
         <note>Explanation of glucose safety limit</note>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
@@ -1735,12 +1735,12 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Your glucose is below your glucose safety limit, %1$@." xml:space="preserve">
         <source>Your glucose is below your glucose safety limit, %1$@.</source>
-        <target state="needs-translation">Your glucose is below your glucose safety limit, %1$@.</target>
+        <target state="translated">Votre glycémie est inférieure au seuil de suspension, %1$@.</target>
         <note>Format string for bolus screen notice when no bolus is recommended due input value below glucose safety limit. (1: suspendThreshold)</note>
       </trans-unit>
       <trans-unit id="Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating." xml:space="preserve">
         <source>Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating.</source>
-        <target state="needs-translation">Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating.</target>
+        <target state="translated">Votre glycémie augmente rapidement. Vérifiez que tous les glucides que vous avez mangés ont été correctement enregistrés. Si vous avez enregistré des glucides, vérifiez que l'heure correspond bien au debut de votre manger.</target>
         <note>Warning to ensure the carb entry is accurate</note>
       </trans-unit>
       <trans-unit id="Your phone’s time has been changed. %1$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.&#10;&#10;Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Automatically is enabled. Failure to resolve could lead to serious under-delivery or over-delivery of insulin." xml:space="preserve">
