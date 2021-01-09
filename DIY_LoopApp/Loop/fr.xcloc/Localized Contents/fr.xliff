@@ -464,7 +464,7 @@
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Carbohydrate meal data entered in the app and on the watch is stored in the Health database. Glucose data retrieved from the CGM is stored securely in HealthKit.</source>
-        <target state="translated">Les données sur les repas glucidiques saisies dans l'application et sur la montre sont stockées dans la base de données Health. Les données de glucose extraites du CGM sont stockées de manière sécurisée dans HealthKit.</target>
+        <target state="translated">Les données glucidiques sur les repas saisies dans l'application et sur la montre sont stockées dans la base de données Health. Les données de glycémie extraites du CGM sont stockées de manière sécurisée dans HealthKit.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
       <trans-unit id="NSSiriUsageDescription" xml:space="preserve">
@@ -2072,10 +2072,10 @@ Vérifiez dans vos paramètres iPhone (Général / Date &amp; Heure) et que "Ré
 %1$@ has not completed a loop successfully in over 15 minutes.
 
 Tap your CGM and insulin pump status icons for more information. %1$@ will continue trying to complete a loop, but check for potential communication issues with your pump and CGM.</source>
-        <target state="needs-translation">
-%1$@ has not completed a loop successfully in over 15 minutes.
+        <target state="translated">
+%1$@ n’a pas correctement terminé une boucle avec succès depuis plus de 15 minutes.
 
-Tap your CGM and insulin pump status icons for more information. %1$@ will continue trying to complete a loop, but check for potential communication issues with your pump and CGM.</target>
+appuyez sur vos icônes d’état CGM et pompe à insuline pour plus d’informations. %1$@ continuera d’essayer de compléter une boucle, mais vérifiez les problèmes de communication potentiels avec votre pompe et CGM.</target>
         <note>Red loop message (1: app name) (2: app name)</note>
       </trans-unit>
       <trans-unit id="&#10;%1$@ has not completed a loop successfully in the past 5-15 minutes.&#10;&#10;Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM." xml:space="preserve">
