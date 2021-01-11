@@ -40,9 +40,9 @@
         <target state="translated">Nu am putut seta presetarea.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="lYMuWV" xml:space="preserve">
+      <trans-unit id="lYMuWV" xml:space="preserve" approved="yes">
         <source>Override Name</source>
-        <target state="translated">Suprascrie numele</target>
+        <target state="final">Suprascrie numele</target>
         <note/>
       </trans-unit>
       <trans-unit id="nDKAmn" xml:space="preserve">
@@ -55,9 +55,9 @@
         <target state="translated">Activare suprascriere presetare '${overrideName}'</target>
         <note/>
       </trans-unit>
-      <trans-unit id="yBzwCL" xml:space="preserve">
+      <trans-unit id="yBzwCL" xml:space="preserve" approved="yes">
         <source>Override Selection</source>
-        <target state="translated">Suprascrie selecția</target>
+        <target state="final">Suprascrie selecția</target>
         <note/>
       </trans-unit>
       <trans-unit id="yc02Yq" xml:space="preserve" approved="yes">
@@ -289,9 +289,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
     </header>
     <body>
-      <trans-unit id="%1$@ v%2$@" xml:space="preserve">
+      <trans-unit id="%1$@ v%2$@" xml:space="preserve" approved="yes">
         <source>%1$@ v%2$@</source>
-        <target state="translated">%1$@ v%2$@</target>
+        <target state="final">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
     </body>
@@ -506,9 +506,9 @@
         <target state="translated"> </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id=" (pending: %@)" xml:space="preserve">
+      <trans-unit id=" (pending: %@)" xml:space="preserve" approved="yes">
         <source> (pending: %@)</source>
-        <target state="translated"> (urmează a fi administrate: %@)</target>
+        <target state="final"> (urmează a fi administrate: %@)</target>
         <note>The string format appended to active insulin that describes pending insulin. (1: pending insulin)</note>
       </trans-unit>
       <trans-unit id=" Pre-meal Preset" xml:space="preserve">
@@ -516,9 +516,9 @@
         <target state="translated"> Presetare înainte de masă</target>
         <note>Status row title for premeal override enabled (leading space is to separate from symbol)</note>
       </trans-unit>
-      <trans-unit id=" Workout Preset" xml:space="preserve">
+      <trans-unit id=" Workout Preset" xml:space="preserve" approved="yes">
         <source> Workout Preset</source>
-        <target state="translated"> Presetare antrenament</target>
+        <target state="final"> Presetare antrenament</target>
         <note>Status row title for workout override enabled (leading space is to separate from symbol)</note>
       </trans-unit>
       <trans-unit id="%1$@ %2$@" xml:space="preserve" approved="yes">
@@ -597,9 +597,9 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="final">%@ absorbiți</target>
         <note>Formats absorbed carb value</note>
       </trans-unit>
-      <trans-unit id="%@ remaining" xml:space="preserve">
+      <trans-unit id="%@ remaining" xml:space="preserve" approved="yes">
         <source>%@ remaining</source>
-        <target state="translated">%@ rămase</target>
+        <target state="final">%@ rămase</target>
         <note>Estimated remaining duration with more than a minute</note>
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve" approved="yes">
@@ -617,9 +617,9 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="translated">Comparație pe 30 min a glicemiei anticipate față de cea observată, continuată cu o diminuare pe 60 min.</target>
         <note>Description of the prediction input effect for retrospective correction</note>
       </trans-unit>
-      <trans-unit id="A few seconds remaining" xml:space="preserve">
+      <trans-unit id="A few seconds remaining" xml:space="preserve" approved="yes">
         <source>A few seconds remaining</source>
-        <target state="translated">Câteva secunde rămase</target>
+        <target state="final">Câteva secunde rămase</target>
         <note>Estimated remaining duration with a few seconds</note>
       </trans-unit>
       <trans-unit id="A manual glucose entry must be between %1$@ and %2$@" xml:space="preserve">
@@ -719,9 +719,9 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="final">Adaugă Serviciu</target>
         <note>Title text for button to set up a service</note>
       </trans-unit>
-      <trans-unit id="Adjusted for" xml:space="preserve">
+      <trans-unit id="Adjusted for" xml:space="preserve" approved="yes">
         <source>Adjusted for</source>
-        <target state="translated">Ajustat pentru</target>
+        <target state="final">Ajustat pentru</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Alert Permissions" xml:space="preserve">
