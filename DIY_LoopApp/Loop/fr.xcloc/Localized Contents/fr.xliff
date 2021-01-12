@@ -124,7 +124,7 @@
       </trans-unit>
       <trans-unit id="Start Date" xml:space="preserve">
         <source>Start Date</source>
-        <target state="translated">Date de commencement</target>
+        <target state="translated">Date de départ</target>
         <note>Title of config entry</note>
       </trans-unit>
       <trans-unit id="Time in Range" xml:space="preserve">
@@ -181,7 +181,7 @@
       </trans-unit>
       <trans-unit id="Predicted glucose at %1$@ is %2$@." xml:space="preserve">
         <source>Predicted glucose at %1$@ is %2$@.</source>
-        <target state="translated">Glycémie de %2$@ prédite pour %1$@.</target>
+        <target state="translated">Glycémie de %2$@ prédite à %1$@.</target>
         <note>Message when offering bolus recommendation even though bg is below range and minBG is in future. (1: glucose time)(2: glucose number)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your glucose safety limit setting." xml:space="preserve">
@@ -191,7 +191,7 @@
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve">
         <source>Predicted glucose of %1$@ is below your suspend threshold setting.</source>
-        <target state="translated">Prédiction de la glycémie à %1$@ sous le seuil de suspension défini.</target>
+        <target state="translated">Prédiction de la glycémie à %1$@ sous votre seuil de suspension défini.</target>
         <note>Notice message when recommending bolus when BG is below the suspend threshold. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="IOB %1$@ U" xml:space="preserve">
         <source>IOB %1$@ U</source>
-        <target state="translated">IOB %1$@ U</target>
+        <target state="translated">IOB (insuline active) %1$@ U</target>
         <note>The subtitle format describing units of active insulin. (1: localized insulin value description)</note>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
@@ -385,12 +385,12 @@
     <body>
       <trans-unit id="9iF-xY-Bh4.text" xml:space="preserve">
         <source>Active Carbs</source>
-        <target state="translated">Éventuellement 92 mg/dL</target>
+        <target state="translated">Glucides actifs</target>
         <note>Class = "UILabel"; text = "Active Carbs"; ObjectID = "9iF-xY-Bh4";</note>
       </trans-unit>
       <trans-unit id="UPi-dG-yYD.text" xml:space="preserve">
         <source>Active Insulin</source>
-        <target state="translated">IOB 1.0 U</target>
+        <target state="translated">Insuline active</target>
         <note>Class = "UILabel"; text = "Active Insulin"; ObjectID = "UPi-dG-yYD";</note>
       </trans-unit>
       <trans-unit id="Vgf-p1-2QP.text" xml:space="preserve">
@@ -1720,17 +1720,17 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Workout Temp Adjust Still On" xml:space="preserve">
         <source>Workout Temp Adjust Still On</source>
-        <target state="translated">Ajustement temporaire pour les exercices toujours en cours</target>
+        <target state="translated">Ajustement temporaire pour l'entrainement toujours en cours</target>
         <note>Workout override still on reminder alert title</note>
       </trans-unit>
       <trans-unit id="Workout Temp Adjust has been turned on for more than 24 hours. Make sure you still want it enabled, or turn it off in the app." xml:space="preserve">
         <source>Workout Temp Adjust has been turned on for more than 24 hours. Make sure you still want it enabled, or turn it off in the app.</source>
-        <target state="needs-translation">Workout Temp Adjust has been turned on for more than 24 hours. Make sure you still want it enabled, or turn it off in the app.</target>
+        <target state="translated">L'ajustement temporaire pour l'entrainement a été activé il y a plus de 24 heures. Assurez vous que vous souhaitez toujours qu'il soit activé, ou désactivé le dans l'application.</target>
         <note>Workout override still on reminder alert body.</note>
       </trans-unit>
       <trans-unit id="Your glucose is below or predicted to go below your glucose safety limit, %@." xml:space="preserve">
         <source>Your glucose is below or predicted to go below your glucose safety limit, %@.</source>
-        <target state="needs-translation">Your glucose is below or predicted to go below your glucose safety limit, %@.</target>
+        <target state="translated">Votre glycémie est en-dessous ou prévue pour aller en dessous de votre limite de sécurité de glycémie, %@.</target>
         <note>Caption for bolus screen notice when no bolus is recommended due to prediction dropping below glucose safety limit</note>
       </trans-unit>
       <trans-unit id="Your glucose is below your glucose safety limit, %1$@." xml:space="preserve">
@@ -1754,12 +1754,12 @@ Vérifiez dans vos paramètres iPhone (Général / Date &amp; Heure) et que "Ré
       </trans-unit>
       <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve">
         <source>Your pump data is stale. Loop cannot recommend a bolus amount.</source>
-        <target state="needs-translation">Your pump data is stale. Loop cannot recommend a bolus amount.</target>
+        <target state="translated">Les données de votre pompe sont obsolètes. Loop ne peut pas recommander un bolus.</target>
         <note>Caption for bolus screen notice when pump data is missing or stale</note>
       </trans-unit>
       <trans-unit id="at %@" xml:space="preserve">
         <source>at %@</source>
-        <target state="needs-translation">at %@</target>
+        <target state="translated">à %@</target>
         <note>Format fragment for a specific time</note>
       </trans-unit>
       <trans-unit id="carb-entry-title-add" xml:space="preserve">
@@ -1799,7 +1799,7 @@ Vérifiez dans vos paramètres iPhone (Général / Date &amp; Heure) et que "Ré
       </trans-unit>
       <trans-unit id="prediction-description-retrospective-correction" xml:space="preserve">
         <source>prediction-description-retrospective-correction</source>
-        <target state="needs-translation">prediction-description-retrospective-correction</target>
+        <target state="translated">prédiction-description-rétrospective-correction</target>
         <note>Format string describing retrospective glucose prediction comparison. (1: Predicted glucose)(2: Actual glucose)(3: difference)</note>
       </trans-unit>
       <trans-unit id="since %@" xml:space="preserve">
@@ -2040,7 +2040,7 @@ Vérifiez dans vos paramètres iPhone (Général / Date &amp; Heure) et que "Ré
     <body>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
     </body>
@@ -2119,17 +2119,17 @@ Appuyez sur Paramètres pour activer/désactiver la boucle fermée si vous souha
       </trans-unit>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
       <trans-unit id="%1$@/min" xml:space="preserve">
         <source>%1$@/min</source>
-        <target state="needs-translation">%1$@/min</target>
+        <target state="translated">%1$@/min</target>
         <note>Format string describing glucose units per minute (1: glucose unit string)</note>
       </trans-unit>
       <trans-unit id="%@ U" xml:space="preserve">
         <source>%@ U</source>
-        <target state="needs-translation">%@ U</target>
+        <target state="translated">%@ U</target>
         <note>The format string describing the basal rate.</note>
       </trans-unit>
       <trans-unit id="%@ ago" xml:space="preserve">
@@ -2247,7 +2247,7 @@ Appuyez sur Paramètres pour activer/désactiver la boucle fermée si vous souha
       </trans-unit>
       <trans-unit id="---" xml:space="preserve">
         <source>---</source>
-        <target state="needs-translation">---</target>
+        <target state="translated">---</target>
         <note>No glucose value representation (3 dashes for mg/dL; no spaces as this will get truncated in the watch complication)</note>
       </trans-unit>
       <trans-unit id="Active Carbs" xml:space="preserve">
@@ -2262,12 +2262,12 @@ Appuyez sur Paramètres pour activer/désactiver la boucle fermée si vous souha
       </trans-unit>
       <trans-unit id="Add Carb Entry" xml:space="preserve">
         <source>Add Carb Entry</source>
-        <target state="needs-translation">Add Carb Entry</target>
+        <target state="translated">Ajouter des glucides</target>
         <note>Title of the user activity for adding carbs</note>
       </trans-unit>
       <trans-unit id="Bolus" xml:space="preserve">
         <source>Bolus</source>
-        <target state="needs-translation">Bolus</target>
+        <target state="translated">Bolus</target>
         <note>Button text to confirm manual bolus on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Bolus Failed" xml:space="preserve">
@@ -2277,12 +2277,12 @@ Appuyez sur Paramètres pour activer/désactiver la boucle fermée si vous souha
       </trans-unit>
       <trans-unit id="Bolus Recommendation Updated" xml:space="preserve">
         <source>Bolus Recommendation Updated</source>
-        <target state="needs-translation">Bolus Recommendation Updated</target>
+        <target state="translated">Recommandation de Bolus mise à jour</target>
         <note>Alert title for updated bolus recommendation on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
         <source>Continue</source>
-        <target state="needs-translation">Continue</target>
+        <target state="translated">Continuer</target>
         <note>Button text to continue from carb entry to bolus entry on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
@@ -2299,7 +2299,7 @@ Appuyez sur Paramètres pour activer/désactiver la boucle fermée si vous souha
       </trans-unit>
       <trans-unit id="Make sure your iPhone is nearby and try again." xml:space="preserve">
         <source>Make sure your iPhone is nearby and try again.</source>
-        <target state="needs-translation">Make sure your iPhone is nearby and try again.</target>
+        <target state="translated">Assurez-vous que votre iPhone est à proximité et réessayez.</target>
         <note>The recovery message displayed after a bolus attempt fails
    The recovery message displayed after a potential carb entry send attempt fails</note>
       </trans-unit>
@@ -2310,17 +2310,17 @@ Appuyez sur Paramètres pour activer/désactiver la boucle fermée si vous souha
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target state="translated">OK</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Off" xml:space="preserve">
         <source>Off</source>
-        <target state="needs-translation">Off</target>
+        <target state="translated">Désactivé</target>
         <note>Label for off button</note>
       </trans-unit>
       <trans-unit id="On" xml:space="preserve">
         <source>On</source>
-        <target state="needs-translation">On</target>
+        <target state="translated">Activé</target>
         <note>Label for on button</note>
       </trans-unit>
       <trans-unit id="Override" xml:space="preserve">
@@ -2330,27 +2330,27 @@ Appuyez sur Paramètres pour activer/désactiver la boucle fermée si vous souha
       </trans-unit>
       <trans-unit id="Please reconfirm the bolus amount." xml:space="preserve">
         <source>Please reconfirm the bolus amount.</source>
-        <target state="needs-translation">Please reconfirm the bolus amount.</target>
+        <target state="translated">Veuillez reconfirmer le bolus.</target>
         <note>Alert message for updated bolus recommendation on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Pre-Meal" xml:space="preserve">
         <source>Pre-Meal</source>
-        <target state="needs-translation">Pre-Meal</target>
+        <target state="translated">Pré-repas</target>
         <note>Title for sheet to enable/disable pre-meal on watch</note>
       </trans-unit>
       <trans-unit id="Preset" xml:space="preserve">
         <source>Preset</source>
-        <target state="needs-translation">Preset</target>
+        <target state="translated">Préréglage</target>
         <note>The text for the Watch button for enabling a custom preset</note>
       </trans-unit>
       <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
         <source>%1$@ %2$@</source>
-        <target state="needs-translation">%1$@ %2$@</target>
+        <target state="translated">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
       <trans-unit id="REC: %@ U" xml:space="preserve">
         <source>REC: %@ U</source>
-        <target state="needs-translation">REC: %@ U</target>
+        <target state="translated">REC : %@ U</target>
         <note>Recommended bolus amount label on Apple Watch</note>
       </trans-unit>
       <trans-unit id="REC: Calculating..." xml:space="preserve">
@@ -2370,12 +2370,12 @@ Appuyez sur Paramètres pour activer/désactiver la boucle fermée si vous souha
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Sauvegarder</target>
         <note>Button text to confirm carb entry without bolusing on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Save &amp; Bolus" xml:space="preserve">
         <source>Save &amp; Bolus</source>
-        <target state="needs-translation">Save &amp; Bolus</target>
+        <target state="translated">Sauvegarder &amp; envoyer Bolus</target>
         <note>Button text to confirm carb entry and bolus on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Send Failed" xml:space="preserve">
@@ -2387,13 +2387,12 @@ Appuyez sur Paramètres pour activer/désactiver la boucle fermée si vous souha
       <trans-unit id="Turn Digital Crown&#10;to bolus" xml:space="preserve">
         <source>Turn Digital Crown
 to bolus</source>
-        <target state="needs-translation">Turn Digital Crown
-to bolus</target>
+        <target state="translated">Tourner la Digital Crown pour envoyer le bolus</target>
         <note>Help text for bolus confirmation on Apple Watch</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
         <source>U</source>
-        <target state="needs-translation">U</target>
+        <target state="translated">U</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
       <trans-unit id="U/hr" xml:space="preserve">
@@ -2403,7 +2402,7 @@ to bolus</target>
       </trans-unit>
       <trans-unit id="Unable to Reach iPhone" xml:space="preserve">
         <source>Unable to Reach iPhone</source>
-        <target state="needs-translation">Unable to Reach iPhone</target>
+        <target state="translated">Impossible d’atteindre l’iPhone</target>
         <note>The title of the alert controller displayed after a potential carb entry send attempt fails</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
@@ -2413,7 +2412,7 @@ to bolus</target>
       </trans-unit>
       <trans-unit id="dB" xml:space="preserve">
         <source>dB</source>
-        <target state="needs-translation">dB</target>
+        <target state="translated">dB</target>
         <note>The short unit display string for decibles</note>
       </trans-unit>
       <trans-unit id="g" xml:space="preserve">
@@ -2475,7 +2474,7 @@ to bolus</target>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Loop</source>
-        <target state="needs-translation">Loop</target>
+        <target state="translated">Loop</target>
         <note>(No Comment)</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
