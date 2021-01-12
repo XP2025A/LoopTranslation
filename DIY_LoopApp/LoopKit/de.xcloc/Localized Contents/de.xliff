@@ -7,17 +7,17 @@
     <body>
       <trans-unit id="7bK-jq-Zjz.title" xml:space="preserve">
         <source>UI Tests</source>
-        <target state="needs-translation">UI Tests</target>
+        <target state="translated">UI-Tests</target>
         <note>Class = "UITableViewController"; title = "UI Tests"; ObjectID = "7bK-jq-Zjz";</note>
       </trans-unit>
       <trans-unit id="Arm-wq-HPj.text" xml:space="preserve">
         <source>Title</source>
-        <target state="needs-translation">Title</target>
+        <target state="translated">Titel</target>
         <note>Class = "UILabel"; text = "Title"; ObjectID = "Arm-wq-HPj";</note>
       </trans-unit>
       <trans-unit id="RMx-3f-FxP.title" xml:space="preserve">
         <source>UI Tests</source>
-        <target state="needs-translation">UI Tests</target>
+        <target state="translated">UI-Tests</target>
         <note>Class = "UINavigationController"; title = "UI Tests"; ObjectID = "RMx-3f-FxP";</note>
       </trans-unit>
     </body>
@@ -29,17 +29,17 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>LoopKit Example</source>
-        <target state="needs-translation">LoopKit Example</target>
+        <target state="translated">LoopKit-Beispiel</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation.</source>
-        <target state="needs-translation">Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation.</target>
+        <target state="translated">Die Essensdaten aus der Health-Datenbank werden verwendet, um Blutzuckereffekte zu bestimmen. Glukosedaten aus der Integritätsdatenbank werden für die Graphik- und Impulsberechnung verwendet.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</source>
-        <target state="needs-translation">Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</target>
+        <target state="translated">Die in der App eingegebenen Kohlenhydrat-Essensdaten werden in der Health-Datenbank gespeichert. Blutzuckerdaten werden sicher in HealthKit gespeichert.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -61,7 +61,7 @@
       </trans-unit>
       <trans-unit id="Carbs" xml:space="preserve">
         <source>Carbs</source>
-        <target state="needs-translation">Carbs</target>
+        <target state="translated">KH</target>
         <note>The title for the cell navigating to the carbs screen</note>
       </trans-unit>
       <trans-unit id="Correction Range" xml:space="preserve">
@@ -97,12 +97,12 @@
       </trans-unit>
       <trans-unit id="Reservoir" xml:space="preserve">
         <source>Reservoir</source>
-        <target state="needs-translation">Reservoir</target>
+        <target state="translated">Reservoir</target>
         <note>The title for the cell navigating to the reservoir screen</note>
       </trans-unit>
       <trans-unit id="Reset" xml:space="preserve">
         <source>Reset</source>
-        <target state="needs-translation">Reset</target>
+        <target state="translated">Zurücksetzen</target>
         <note>Title for the cell resetting the data manager</note>
       </trans-unit>
       <trans-unit id="Sync With Pump" xml:space="preserve">
@@ -124,17 +124,17 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>LoopKit</source>
-        <target state="needs-translation">LoopKit</target>
+        <target state="translated">LoopKit</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data is retrieved from HealthKit for graphing and analysis.</source>
-        <target state="needs-translation">Meal data from the Health database is used to determine glucose effects. Glucose data is retrieved from HealthKit for graphing and analysis.</target>
+        <target state="translated">Die Essensdaten aus der Health-Datenbank werden verwendet, um Blutzuckereffekte zu bestimmen. Blutzuckerdaten werden aus HealthKit für Graphiken und Analysen abgerufen.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</source>
-        <target state="needs-translation">Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</target>
+        <target state="translated">Die in der App eingegebenen Kohlenhydrat-Essensdaten werden in der Health-Datenbank gespeichert. Blutzuckerdaten werden sicher in HealthKit gespeichert.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -156,27 +156,27 @@
       </trans-unit>
       <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." xml:space="preserve">
         <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</source>
-        <target state="needs-translation">%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</target>
+        <target state="translated">%1$@ geht davon aus, dass Insulin 6 Stunden lang aktiv arbeitet. Sie können aus verschiedenen Modellen auswählen, wie die App die Spitzenaktivität des Insulins misst.</target>
         <note>Descriptive text for insulin model (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." xml:space="preserve">
         <source>%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.</source>
-        <target state="needs-translation">%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.</target>
+        <target state="translated">%1$@ wird Basal und empfohlenes Bolus-Insulin nur liefern, wenn Ihr vorhergesagter Blutzucker für die nächsten drei Stunden über diesem Grenzwert zu sein scheint.</target>
         <note>Descriptive format string for glucose safety limit (1: app name)</note>
       </trans-unit>
       <trans-unit id="%@ Range" xml:space="preserve">
         <source>%@ Range</source>
-        <target state="needs-translation">%@ Range</target>
+        <target state="translated">%@ Bereich</target>
         <note>Format for correction range override therapy setting card</note>
       </trans-unit>
       <trans-unit id="A value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="needs-translation">A value you have entered is higher than what is typically recommended for most people.</target>
+        <target state="translated">Ein eingegebener Wert ist höher als der Wert, der normalerweise für die meisten Personen empfohlen wird.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="A value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
         <source>A value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="needs-translation">A value you have entered is lower than what is typically recommended for most people.</target>
+        <target state="translated">Ein eingegebener Wert ist niedriger als der Wert, der normalerweise für die meisten Personen empfohlen wird.</target>
         <note>Descriptive text for guardrail low value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Authorization Denied" xml:space="preserve">
@@ -186,22 +186,22 @@
       </trans-unit>
       <trans-unit id="Basal" xml:space="preserve">
         <source>Basal</source>
-        <target state="needs-translation">Basal</target>
+        <target state="translated">Basal</target>
         <note>Title for basal dose type</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve">
         <source>Basal Rates</source>
-        <target state="needs-translation">Basal Rates</target>
+        <target state="translated">Basalrate</target>
         <note>Title text for basal rates</note>
       </trans-unit>
       <trans-unit id="Bolus" xml:space="preserve">
         <source>Bolus</source>
-        <target state="needs-translation">Bolus</target>
+        <target state="translated">Bolus</target>
         <note>Title for bolus dose type</note>
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve">
         <source>Carb Ratios</source>
-        <target state="needs-translation">Carb Ratios</target>
+        <target state="translated">KH-Verhältnis</target>
         <note>Title text for carb ratios</note>
       </trans-unit>
       <trans-unit id="Check your pump before retrying" xml:space="preserve">
@@ -216,7 +216,7 @@
       </trans-unit>
       <trans-unit id="Communications interrupted during insulin delivery command." xml:space="preserve">
         <source>Communications interrupted during insulin delivery command.</source>
-        <target state="needs-translation">Communications interrupted during insulin delivery command.</target>
+        <target state="translated">Kommunikation unterbrochen während Insulin-Lieferung.</target>
         <note>Failure reason for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Connection Failure" xml:space="preserve">
@@ -226,17 +226,17 @@
       </trans-unit>
       <trans-unit id="Correction Range" xml:space="preserve">
         <source>Correction Range</source>
-        <target state="needs-translation">Correction Range</target>
+        <target state="translated">Korrekturbereich</target>
         <note>Title text for glucose target range</note>
       </trans-unit>
       <trans-unit id="Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." xml:space="preserve">
         <source>Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.</source>
-        <target state="needs-translation">Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.</target>
+        <target state="translated">Korrekturbereich ist der Blutzuckerwert (oder Wertebereich), den Sie %1$@ bei der Einstellung Ihres Basalinsulins und bei der Berechnung Ihrer Boluse anvisieren möchten.</target>
         <note>Descriptive text for glucose target range (1: app name)</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
         <source>Delivery Limits</source>
-        <target state="needs-translation">Delivery Limits</target>
+        <target state="translated">Verabreichungslimiten</target>
         <note>Title text for delivery limits</note>
       </trans-unit>
       <trans-unit id="Device Refused" xml:space="preserve">
@@ -271,17 +271,17 @@
       </trans-unit>
       <trans-unit id="Glucose Safety Limit" xml:space="preserve">
         <source>Glucose Safety Limit</source>
-        <target state="needs-translation">Glucose Safety Limit</target>
+        <target state="translated">Blutzucker-Sicherheitsgrenze</target>
         <note>Title text for glucose safety limit</note>
       </trans-unit>
       <trans-unit id="Insulin Model" xml:space="preserve">
         <source>Insulin Model</source>
-        <target state="needs-translation">Insulin Model</target>
+        <target state="translated">Insulin-Modell</target>
         <note>Title text for insulin model</note>
       </trans-unit>
       <trans-unit id="Insulin Sensitivities" xml:space="preserve">
         <source>Insulin Sensitivities</source>
-        <target state="needs-translation">Insulin Sensitivities</target>
+        <target state="translated">Insulinempfindlichkeiten</target>
         <note>Title text for insulin sensitivity</note>
       </trans-unit>
       <trans-unit id="Invalid Configuration" xml:space="preserve">
@@ -296,27 +296,27 @@
       </trans-unit>
       <trans-unit id="Make sure your pump is within communication range of your phone." xml:space="preserve">
         <source>Make sure your pump is within communication range of your phone.</source>
-        <target state="needs-translation">Make sure your pump is within communication range of your phone.</target>
+        <target state="translated">Stellen Sie sicher, dass sich Ihre Pumpe in der Kommunikationsreichweite Ihres Telefons befindet.</target>
         <note>Recovery suggestion for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate" xml:space="preserve">
         <source>Maximum Basal Rate</source>
-        <target state="needs-translation">Maximum Basal Rate</target>
+        <target state="translated">Maximale Basalrate</target>
         <note>Title text for maximum basal rate configuration</note>
       </trans-unit>
       <trans-unit id="Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically." xml:space="preserve">
         <source>Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically.</source>
-        <target state="needs-translation">Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically.</target>
+        <target state="translated">Die maximale Basalrate ist die höchste temporäre Basalrate, die %1$@ automatisch eingestellt werden darf.</target>
         <note>Descriptive text for maximum basal rate (1: app name)</note>
       </trans-unit>
       <trans-unit id="Maximum Bolus" xml:space="preserve">
         <source>Maximum Bolus</source>
-        <target state="needs-translation">Maximum Bolus</target>
+        <target state="translated">Maximaler Bolus</target>
         <note>Title text for maximum bolus configuration</note>
       </trans-unit>
       <trans-unit id="Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." xml:space="preserve">
         <source>Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</source>
-        <target state="needs-translation">Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</target>
+        <target state="translated">Maximaler Bolus ist die höchste Bolusmenge, die Sie auf einmal liefern können, um Kohlenhydrate zu decken oder hoher Blutzucker zu senken.</target>
         <note>Descriptive text for maximum bolus</note>
       </trans-unit>
       <trans-unit id="Needs Attention" xml:space="preserve">
@@ -331,12 +331,12 @@
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target state="translated">OK</target>
         <note>Sensor state description for the valid state</note>
       </trans-unit>
       <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve">
         <source>One or more of the values you have entered is outside of what is typically recommended for most people.</source>
-        <target state="needs-translation">One or more of the values you have entered is outside of what is typically recommended for most people.</target>
+        <target state="translated">Mindestens einer der eingegebenen Werte liegt außerhalb dessen, was für die meisten Personen normalerweise empfohlen wird.</target>
         <note>Descriptive text for saving settings outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Please re-enable sharing in Health" xml:space="preserve">
@@ -346,12 +346,12 @@
       </trans-unit>
       <trans-unit id="Pre-Meal" xml:space="preserve">
         <source>Pre-Meal</source>
-        <target state="needs-translation">Pre-Meal</target>
+        <target state="translated">Pre-Meal</target>
         <note>Title for pre-meal mode</note>
       </trans-unit>
       <trans-unit id="Resumed" xml:space="preserve">
         <source>Resumed</source>
-        <target state="needs-translation">Resumed</target>
+        <target state="translated">Fortgesetzt</target>
         <note>Title for resume dose type</note>
       </trans-unit>
       <trans-unit id="Rising" xml:space="preserve">
@@ -371,42 +371,42 @@
       </trans-unit>
       <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="needs-translation">Some of the values you have entered are outside of what is typically recommended for most people.</target>
+        <target state="translated">Einige der eingegebenen Werte liegen außerhalb dessen, was für die meisten Personen normalerweise empfohlen wird.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Suspended" xml:space="preserve">
         <source>Suspended</source>
-        <target state="needs-translation">Suspended</target>
+        <target state="translated">Unterbrochen</target>
         <note>Title for suspend dose type</note>
       </trans-unit>
       <trans-unit id="Temp Basal" xml:space="preserve">
         <source>Temp Basal</source>
-        <target state="needs-translation">Temp Basal</target>
+        <target state="translated">Temp Basal</target>
         <note>Title for temp basal dose type</note>
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</source>
-        <target state="needs-translation">Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</target>
+        <target state="translated">Vorübergehend senken Sie Ihr Blutzuckerziel vor einer Mahlzeit, um Spitzen nach dem Essen zu beeinflussen.</target>
         <note>Descriptive text for pre-meal correction range override</note>
       </trans-unit>
       <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</source>
-        <target state="needs-translation">Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</target>
+        <target state="translated">Erhöhen Sie Ihr Blutzuckerziel vorübergehend, während oder nach körperlicher Aktivität, um das Risiko von tiefen Werten zu reduzieren.</target>
         <note>Descriptive text for workout correction range override</note>
       </trans-unit>
       <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
         <source>The value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="needs-translation">The value you have entered is higher than what is typically recommended for most people.</target>
+        <target state="translated">Der eingegebene Wert ist höher als der Wert, der normalerweise für die meisten Personen empfohlen wird.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
       <trans-unit id="The value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
         <source>The value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="needs-translation">The value you have entered is lower than what is typically recommended for most people.</target>
+        <target state="translated">Der eingegebene Wert ist niedriger als der Wert, der normalerweise für die meisten Personen empfohlen wird.</target>
         <note>Descriptive text for guardrail low value warning</note>
       </trans-unit>
       <trans-unit id="The values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
         <source>The values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="needs-translation">The values you have entered are outside of what is typically recommended for most people.</target>
+        <target state="translated">Die eingegebenen Werte liegen außerhalb dessen, was für die meisten Personen normalerweise empfohlen wird.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
@@ -421,7 +421,7 @@
       </trans-unit>
       <trans-unit id="Uncertain Delivery" xml:space="preserve">
         <source>Uncertain Delivery</source>
-        <target state="needs-translation">Uncertain Delivery</target>
+        <target state="translated">Unsichere Abgabe</target>
         <note>Error description for uncertain delivery</note>
       </trans-unit>
       <trans-unit id="Unit" xml:space="preserve">
@@ -446,22 +446,22 @@
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
         <source>Workout</source>
-        <target state="needs-translation">Workout</target>
+        <target state="translated">Training</target>
         <note>Title for workout mode</note>
       </trans-unit>
       <trans-unit id="Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
         <source>Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="needs-translation">Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</target>
+        <target state="translated">Ihre Basalrate ist die Anzahl der Einheiten pro Stunde, die Sie verwenden möchten, um Ihren ständigen Insulinbedarf zu decken.</target>
         <note>Descriptive text for basal rate</note>
       </trans-unit>
       <trans-unit id="Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin." xml:space="preserve">
         <source>Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin.</source>
-        <target state="needs-translation">Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin.</target>
+        <target state="translated">Ihr KH-Verhältnis ist die Anzahl der Gramm Kohlenhydrate, die von einer Einheit Insulin abgedeckt werden.</target>
         <note>Descriptive text for carb ratio</note>
       </trans-unit>
       <trans-unit id="Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin." xml:space="preserve">
         <source>Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin.</source>
-        <target state="needs-translation">Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin.</target>
+        <target state="translated">Ihre Insulinempfindlichkeiten beziehen sich auf den Rückgang des Blutzuckers, der von einer Einheit Insulin erwartet wird.</target>
         <note>Descriptive text for insulin sensitivity</note>
       </trans-unit>
       <trans-unit id="com.loudnate.CarbKit.deleteCarbEntryUnownedErrorDescription" xml:space="preserve">
@@ -945,7 +945,7 @@
       </trans-unit>
       <trans-unit id="Correction Values" xml:space="preserve">
         <source>Correction Values</source>
-        <target state="needs-translation">Correction Values</target>
+        <target state="translated">Korrekturwerte</target>
         <note>Title text for multi-value correction value warning</note>
       </trans-unit>
       <trans-unit id="Correction range is the blood glucose range that you would like Loop to correct to." xml:space="preserve">
@@ -965,7 +965,7 @@
       </trans-unit>
       <trans-unit id="Custom Preset" xml:space="preserve">
         <source>Custom Preset</source>
-        <target state="needs-translation">Custom Preset</target>
+        <target state="translated">Benutzerdefinierte Voreinstellung</target>
         <note>The title for the custom preset entry screen
    The title for the custom preset selection screen</note>
       </trans-unit>
@@ -976,7 +976,7 @@
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Löschen</target>
         <note>Test for table cell delete button</note>
       </trans-unit>
       <trans-unit id="Delete Account" xml:space="preserve">
@@ -991,22 +991,22 @@
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve">
         <source>Delivery Limits</source>
-        <target state="needs-translation">Delivery Limits</target>
+        <target state="translated">Abgabelimiten</target>
         <note>Title text for crossed thresholds guardrail warning</note>
       </trans-unit>
       <trans-unit id="Delivery Limits are safety guardrails for your insulin delivery." xml:space="preserve">
         <source>Delivery Limits are safety guardrails for your insulin delivery.</source>
-        <target state="needs-translation">Delivery Limits are safety guardrails for your insulin delivery.</target>
+        <target state="translated">Abgabelimiten sind Sicherheitsbegrenzungen für Ihre Insulinabgabe.</target>
         <note>Information about delivery limits</note>
       </trans-unit>
       <trans-unit id="Disable Preset" xml:space="preserve">
         <source>Disable Preset</source>
-        <target state="needs-translation">Disable Preset</target>
+        <target state="translated">Voreinstellung deaktivieren</target>
         <note>The text for the custom preset disable button</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target state="needs-translation">Done</target>
+        <target state="translated">Fertig</target>
         <note>Text for dismiss button
    Text for done button</note>
       </trans-unit>
@@ -1017,17 +1017,17 @@
       </trans-unit>
       <trans-unit id="Dynamic component #%@" xml:space="preserve">
         <source>Dynamic component #%@</source>
-        <target state="needs-translation">Dynamic component #%@</target>
+        <target state="translated">Dynamische Komponente%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Dynamic data %@" xml:space="preserve">
         <source>Dynamic data %@</source>
-        <target state="needs-translation">Dynamic data %@</target>
+        <target state="translated">Dynamische Daten %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Bearbeiten</target>
         <note>Text for edit button
    The title for the enabled custom preset editing screen</note>
       </trans-unit>
@@ -1048,12 +1048,12 @@
       </trans-unit>
       <trans-unit id="Edits persist only until the preset is disabled. The default settings of %@ will not be affected." xml:space="preserve">
         <source>Edits persist only until the preset is disabled. The default settings of %@ will not be affected.</source>
-        <target state="needs-translation">Edits persist only until the preset is disabled. The default settings of %@ will not be affected.</target>
+        <target state="translated">Bearbeitungen bleiben nur bestehen, bis die Voreinstellung deaktiviert ist. Die Standardeinstellungen von %@ sind nicht betroffen.</target>
         <note>Footer text for editing an enabled custom preset (1: preset name)</note>
       </trans-unit>
       <trans-unit id="Enable" xml:space="preserve">
         <source>Enable</source>
-        <target state="needs-translation">Enable</target>
+        <target state="translated">Aktivieren</target>
         <note>The button text for enabling a temporary override</note>
       </trans-unit>
       <trans-unit id="Enable Indefinitely" xml:space="preserve">
@@ -1068,12 +1068,12 @@
       </trans-unit>
       <trans-unit id="End Time" xml:space="preserve">
         <source>End Time</source>
-        <target state="needs-translation">End Time</target>
+        <target state="translated">Endzeit</target>
         <note>The text for the override start time</note>
       </trans-unit>
       <trans-unit id="Enter %1$@ value" xml:space="preserve">
         <source>Enter %1$@ value</source>
-        <target state="needs-translation">Enter %1$@ value</target>
+        <target state="translated">%1$@ Wert eingeben</target>
         <note>Format string for accessibility label for value entry. (1: value label)</note>
       </trans-unit>
       <trans-unit id="Enter a number of units" xml:space="preserve">
@@ -1088,12 +1088,12 @@
       </trans-unit>
       <trans-unit id="Event History" xml:space="preserve">
         <source>Event History</source>
-        <target state="needs-translation">Event History</target>
+        <target state="translated">Ereignisverlauf</target>
         <note>Segmented button title for insulin delivery log event history</note>
       </trans-unit>
       <trans-unit id="Example" xml:space="preserve">
         <source>Example</source>
-        <target state="needs-translation">Example</target>
+        <target state="translated">Beispiel</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Fast" xml:space="preserve">
@@ -1103,88 +1103,88 @@
       </trans-unit>
       <trans-unit id="Fiasp" xml:space="preserve">
         <source>Fiasp</source>
-        <target state="needs-translation">Fiasp</target>
+        <target state="translated">Fiasp</target>
         <note>Title of insulin model preset - fiasp</note>
       </trans-unit>
       <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin." xml:space="preserve">
         <source>For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin.</source>
-        <target state="needs-translation">For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin.</target>
+        <target state="translated">Wählen Sie für diesen Bereich den spezifischen Blutzuckerwert (oder Wertebereich), der %1$@ bei der Anpassung des Basalinsulins angestrebt werden soll.</target>
         <note>Information about correction range format (1: app name)</note>
       </trans-unit>
       <trans-unit id="Get help with Therapy Settings" xml:space="preserve">
         <source>Get help with Therapy Settings</source>
-        <target state="needs-translation">Get help with Therapy Settings</target>
+        <target state="translated">Hilfe zu den Therapieeinstellungen</target>
         <note>Support button for Therapy Settings</note>
       </trans-unit>
       <trans-unit id="Go Back" xml:space="preserve">
         <source>Go Back</source>
-        <target state="needs-translation">Go Back</target>
+        <target state="translated">Zurück</target>
         <note>Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range
    Text for go back action on confirmation alert</note>
       </trans-unit>
       <trans-unit id="High Basal Rate" xml:space="preserve">
         <source>High Basal Rate</source>
-        <target state="needs-translation">High Basal Rate</target>
+        <target state="translated">Hohe Basalrate</target>
         <note>Title text for the high basal rate warning</note>
       </trans-unit>
       <trans-unit id="High Carb Ratio" xml:space="preserve">
         <source>High Carb Ratio</source>
-        <target state="needs-translation">High Carb Ratio</target>
+        <target state="translated">Hohes KH-Verhältnis</target>
         <note>Title text for the high carb ratio warning</note>
       </trans-unit>
       <trans-unit id="High Correction Value" xml:space="preserve">
         <source>High Correction Value</source>
-        <target state="needs-translation">High Correction Value</target>
+        <target state="translated">Hoher Korrekturwert</target>
         <note>Title text for the high correction value warning</note>
       </trans-unit>
       <trans-unit id="High Glucose Safety Limit" xml:space="preserve">
         <source>High Glucose Safety Limit</source>
-        <target state="needs-translation">High Glucose Safety Limit</target>
+        <target state="translated">Hohe Blutzucker-Sicherheitsgrenze</target>
         <note>Title text for the high glucose safety limit warning</note>
       </trans-unit>
       <trans-unit id="High Insulin Sensitivity" xml:space="preserve">
         <source>High Insulin Sensitivity</source>
-        <target state="needs-translation">High Insulin Sensitivity</target>
+        <target state="translated">Hohe Insulinempfindlichkeit</target>
         <note>Title text for the high insulin sensitivity warning</note>
       </trans-unit>
       <trans-unit id="High Maximum Basal Rate" xml:space="preserve">
         <source>High Maximum Basal Rate</source>
-        <target state="needs-translation">High Maximum Basal Rate</target>
+        <target state="translated">Hohe maximale Basalrate</target>
         <note>Title text for high maximum basal rate warning</note>
       </trans-unit>
       <trans-unit id="High Maximum Bolus" xml:space="preserve">
         <source>High Maximum Bolus</source>
-        <target state="needs-translation">High Maximum Bolus</target>
+        <target state="translated">Hoher maximaler Bolus</target>
         <note>Title text for high maximum bolus warning</note>
       </trans-unit>
       <trans-unit id="High Pre-Meal Value" xml:space="preserve">
         <source>High Pre-Meal Value</source>
-        <target state="needs-translation">High Pre-Meal Value</target>
+        <target state="translated">Hoher Pre-Meal-Wert</target>
         <note>Title text for the low pre-meal value warning</note>
       </trans-unit>
       <trans-unit id="High Workout Value" xml:space="preserve">
         <source>High Workout Value</source>
-        <target state="needs-translation">High Workout Value</target>
+        <target state="translated">Hoher Trainings-Wert</target>
         <note>Title text for the high workout value warning</note>
       </trans-unit>
       <trans-unit id="History" xml:space="preserve">
         <source>History</source>
-        <target state="needs-translation">History</target>
+        <target state="translated">Verlauf</target>
         <note>The text for the override history</note>
       </trans-unit>
       <trans-unit id="If these settings look good to you, tap Save Settings to continue." xml:space="preserve">
         <source>If these settings look good to you, tap Save Settings to continue.</source>
-        <target state="needs-translation">If these settings look good to you, tap Save Settings to continue.</target>
+        <target state="translated">Wenn diese Einstellungen für Sie gut aussehen, tippen Sie auf Einstellungen speichern, um fortzufahren.</target>
         <note>Description of how to interact with summary screen</note>
       </trans-unit>
       <trans-unit id="If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." xml:space="preserve">
         <source>If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL.</source>
-        <target state="needs-translation">If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL.</target>
+        <target state="translated">Wenn Sie bereits ein CGM verwendet haben, sind Sie wahrscheinlich mit dem Zielbereich und einer Vielzahl von Werten vertraut, die Sie für Ihre Blutzuckerbenachrichtigungswarnungen wünschen, z. B. 70-180 mg/dL oder 4-10 mmol/L.</target>
         <note>Information about target range</note>
       </trans-unit>
       <trans-unit id="Insulin Sensitivities" xml:space="preserve">
         <source>Insulin Sensitivities</source>
-        <target state="needs-translation">Insulin Sensitivities</target>
+        <target state="translated">Insulinempfindlichkeiten</target>
         <note>Title text for multi-value insulin sensitivity warning</note>
       </trans-unit>
       <trans-unit id="Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." xml:space="preserve">
@@ -1194,27 +1194,27 @@
       </trans-unit>
       <trans-unit id="Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@" xml:space="preserve">
         <source>Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@</source>
-        <target state="needs-translation">Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@</target>
+        <target state="translated">Unterbrochene %1$@: &lt;b&gt;%2$@&lt;/b&gt; von %3$@ %4$@</target>
         <note>Description of an interrupted bolus dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: programmed value (? if no value), 4: unit)</note>
       </trans-unit>
       <trans-unit id="It can be set as low as %1$@. It can be set as high as %2$@." xml:space="preserve">
         <source>It can be set as low as %1$@. It can be set as high as %2$@.</source>
-        <target state="needs-translation">It can be set as low as %1$@. It can be set as high as %2$@.</target>
+        <target state="translated">Es kann so niedrig wie %1$@ eingestellt werden. Es kann so hoch wie %2$@ eingestellt werden.</target>
         <note>Guardrail info text format</note>
       </trans-unit>
       <trans-unit id="Loop supports 1 to 48 rates per day." xml:space="preserve">
         <source>Loop supports 1 to 48 rates per day.</source>
-        <target state="needs-translation">Loop supports 1 to 48 rates per day.</target>
+        <target state="translated">Loop unterstützt 1 bis 48 Einträge pro Tag.</target>
         <note>Information about max number of basal rates</note>
       </trans-unit>
       <trans-unit id="Low Basal Rate" xml:space="preserve">
         <source>Low Basal Rate</source>
-        <target state="needs-translation">Low Basal Rate</target>
+        <target state="translated">Niedrige Basalrate</target>
         <note>Title text for the low basal rate warning</note>
       </trans-unit>
       <trans-unit id="Low Carb Ratio" xml:space="preserve">
         <source>Low Carb Ratio</source>
-        <target state="needs-translation">Low Carb Ratio</target>
+        <target state="translated">Niedriges KH-Verhältnis</target>
         <note>Title text for the low carb ratio warning</note>
       </trans-unit>
       <trans-unit id="Low Correction Value" xml:space="preserve">
