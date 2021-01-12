@@ -1600,12 +1600,12 @@ Aktuell: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %1$@ U." xml:space="preserve">
         <source>The maximum bolus amount is %1$@ U.</source>
-        <target state="needs-translation">The maximum bolus amount is %1$@ U.</target>
+        <target state="translated">Die maximale Bolusmenge beträgt %1$@ U.</target>
         <note>Format string for maximum bolus exceeded alert (1: maximumBolusAmount)</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ U." xml:space="preserve">
         <source>The maximum bolus amount is %@ U.</source>
-        <target state="needs-translation">The maximum bolus amount is %@ U.</target>
+        <target state="translated">Die maximale Bolusmenge beträgt %@ U.</target>
         <note>Alert message for a maximum bolus validation error (1: max bolus value)</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ Units" xml:space="preserve">
@@ -1615,32 +1615,32 @@ Aktuell: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The maximum bolus setting must be configured before a bolus can be delivered." xml:space="preserve">
         <source>The maximum bolus setting must be configured before a bolus can be delivered.</source>
-        <target state="needs-translation">The maximum bolus setting must be configured before a bolus can be delivered.</target>
+        <target state="translated">Die maximale Bolusmenge muss konfiguriert werden, bevor ein Bolus geliefert werden kann.</target>
         <note>Alert message for a missing maximum bolus setting error</note>
       </trans-unit>
       <trans-unit id="Therapy Settings" xml:space="preserve">
         <source>Therapy Settings</source>
-        <target state="needs-translation">Therapy Settings</target>
+        <target state="translated">Therapieeinstellungen</target>
         <note>Title text for button to Therapy Settings</note>
       </trans-unit>
       <trans-unit id="Time" xml:space="preserve">
         <source>Time</source>
-        <target state="needs-translation">Time</target>
+        <target state="translated">Zeit</target>
         <note>Title of the carb entry date picker cell</note>
       </trans-unit>
       <trans-unit id="Time Change Detected" xml:space="preserve">
         <source>Time Change Detected</source>
-        <target state="needs-translation">Time Change Detected</target>
+        <target state="translated">Zeitumstellung erkannt</target>
         <note>Time change alert title</note>
       </trans-unit>
       <trans-unit id="Try Again" xml:space="preserve">
         <source>Try Again</source>
-        <target state="needs-translation">Try Again</target>
+        <target state="translated">Erneut versuchen</target>
         <note>Critical event log export error alert try again button</note>
       </trans-unit>
       <trans-unit id="Turn on Bluetooth to receive alerts, alarms or sensor glucose readings." xml:space="preserve">
         <source>Turn on Bluetooth to receive alerts, alarms or sensor glucose readings.</source>
-        <target state="needs-translation">Turn on Bluetooth to receive alerts, alarms or sensor glucose readings.</target>
+        <target state="translated">Aktivieren Sie Bluetooth, um Warnungen, Alarme oder Sensor-Werte zu empfangen.</target>
         <note>Bluetooth off foreground alert body</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve">
@@ -1650,37 +1650,37 @@ Aktuell: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Unable To Reach Pump" xml:space="preserve">
         <source>Unable To Reach Pump</source>
-        <target state="needs-translation">Unable To Reach Pump</target>
+        <target state="translated">Pumpe nicht erreichbar</target>
         <note>Title for alert shown when delivery status is uncertain</note>
       </trans-unit>
       <trans-unit id="Unable to Save Carb Entry" xml:space="preserve">
         <source>Unable to Save Carb Entry</source>
-        <target state="needs-translation">Unable to Save Carb Entry</target>
+        <target state="translated">KH-Eintrag kann nicht gespeichert werden</target>
         <note>Alert title for a carb entry persistence error</note>
       </trans-unit>
       <trans-unit id="Unable to Save Manual Glucose Entry" xml:space="preserve">
         <source>Unable to Save Manual Glucose Entry</source>
-        <target state="needs-translation">Unable to Save Manual Glucose Entry</target>
+        <target state="translated">Manuelle Blutzuckereingabe kann nicht gespeichert werden</target>
         <note>Alert title for a manual glucose entry persistence error</note>
       </trans-unit>
       <trans-unit id="Unable to stop the bolus in progress. Move your iPhone closer to the pump and try again. Check your insulin delivery history for details, and monitor your glucose closely." xml:space="preserve">
         <source>Unable to stop the bolus in progress. Move your iPhone closer to the pump and try again. Check your insulin delivery history for details, and monitor your glucose closely.</source>
-        <target state="needs-translation">Unable to stop the bolus in progress. Move your iPhone closer to the pump and try again. Check your insulin delivery history for details, and monitor your glucose closely.</target>
+        <target state="translated">Der Bolus kann nicht gestoppt werden. Bewegen Sie Ihr iPhone näher an die Pumpe und versuchen Sie es erneut. Überprüfen Sie Ihre Insulin-Lieferhistorie für Details, und überwachen Sie Ihren Blutzucker genau.</target>
         <note>The alert body for an error while canceling a bolus</note>
       </trans-unit>
       <trans-unit id="Until I enter carbs" xml:space="preserve">
         <source>Until I enter carbs</source>
-        <target state="needs-translation">Until I enter carbs</target>
+        <target state="translated">Bis ich Kohlenhydrate eingebe</target>
         <note>The title of a target alert action specifying pre-meal targets duration for 1 hour or until the user enters carbs (whichever comes first).</note>
       </trans-unit>
       <trans-unit id="Until I turn off" xml:space="preserve">
         <source>Until I turn off</source>
-        <target state="needs-translation">Until I turn off</target>
+        <target state="translated">Bis ich ausschalte</target>
         <note>The title of a target alert action specifying workout targets duration until it is turned off by the user</note>
       </trans-unit>
       <trans-unit id="Use Pre-Meal Preset" xml:space="preserve">
         <source>Use Pre-Meal Preset</source>
-        <target state="needs-translation">Use Pre-Meal Preset</target>
+        <target state="translated">Pre-Meal Voreinstellungen verwenden</target>
         <note>The title of the alert controller used to select a duration for pre-meal targets</note>
       </trans-unit>
       <trans-unit id="Use Workout Glucose Targets" xml:space="preserve">
@@ -1690,17 +1690,17 @@ Aktuell: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Use Workout Preset" xml:space="preserve">
         <source>Use Workout Preset</source>
-        <target state="needs-translation">Use Workout Preset</target>
+        <target state="translated">Verwende Aktivitätsvoreinstellungen</target>
         <note>The title of the alert controller used to select a duration for workout targets</note>
       </trans-unit>
       <trans-unit id="Walsh" xml:space="preserve">
         <source>Walsh</source>
-        <target state="needs-translation">Walsh</target>
+        <target state="translated">Walsh</target>
         <note>Title of insulin model setting</note>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
         <source>When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</source>
-        <target state="needs-translation">When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</target>
+        <target state="translated">Wenn der aktuelle oder prognostizierte Blutzucker unter der Blutzucker-Sicherheitsgrenze liegt, wird Loop keinen Bolus empfehlen und immer eine temporäre Basalrate von 0 Einheiten pro Stunde empfehlen.</target>
         <note>Explanation of glucose safety limit</note>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
@@ -1710,7 +1710,7 @@ Aktuell: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump." xml:space="preserve">
         <source>When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump.</source>
-        <target state="needs-translation">When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump.</target>
+        <target state="translated">Wenn Sie nicht im Closed Loop-Modus sind,  verwendet die App einen vereinfachten Bolus-Rechner wie eine typische Pumpe.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Workout Targets" xml:space="preserve">
@@ -1720,36 +1720,36 @@ Aktuell: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Workout Temp Adjust Still On" xml:space="preserve">
         <source>Workout Temp Adjust Still On</source>
-        <target state="needs-translation">Workout Temp Adjust Still On</target>
+        <target state="translated">Aktivitäts-Anpassung immer noch ein</target>
         <note>Workout override still on reminder alert title</note>
       </trans-unit>
       <trans-unit id="Workout Temp Adjust has been turned on for more than 24 hours. Make sure you still want it enabled, or turn it off in the app." xml:space="preserve">
         <source>Workout Temp Adjust has been turned on for more than 24 hours. Make sure you still want it enabled, or turn it off in the app.</source>
-        <target state="needs-translation">Workout Temp Adjust has been turned on for more than 24 hours. Make sure you still want it enabled, or turn it off in the app.</target>
+        <target state="translated">Aktivitäts-Anpassung wurde seit mehr als 24 Stunden eingeschaltet. Stellen Sie sicher, dass sie weiterhin aktiviert werden soll, oder deaktivieren Sie es in der App.</target>
         <note>Workout override still on reminder alert body.</note>
       </trans-unit>
       <trans-unit id="Your glucose is below or predicted to go below your glucose safety limit, %@." xml:space="preserve">
         <source>Your glucose is below or predicted to go below your glucose safety limit, %@.</source>
-        <target state="needs-translation">Your glucose is below or predicted to go below your glucose safety limit, %@.</target>
+        <target state="translated">Ihr Blutzucker ist unter Ihrem Blutzucker-Sicherheitsgrenzwert oder wird vorausgesagt darunter gehen, %@.</target>
         <note>Caption for bolus screen notice when no bolus is recommended due to prediction dropping below glucose safety limit</note>
       </trans-unit>
       <trans-unit id="Your glucose is below your glucose safety limit, %1$@." xml:space="preserve">
         <source>Your glucose is below your glucose safety limit, %1$@.</source>
-        <target state="needs-translation">Your glucose is below your glucose safety limit, %1$@.</target>
+        <target state="translated">Ihr Blutzucker liegt unter Ihrem Sicherheitsgrenzwert, %1$@.</target>
         <note>Format string for bolus screen notice when no bolus is recommended due input value below glucose safety limit. (1: suspendThreshold)</note>
       </trans-unit>
       <trans-unit id="Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating." xml:space="preserve">
         <source>Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating.</source>
-        <target state="needs-translation">Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating.</target>
+        <target state="translated">Ihr Blutzucker steigt rapide an. Überprüfen Sie, ob alle Kohlenhydrate, die Sie gegessen haben, protokolliert wurden. Wenn Sie alle Kohlenhydrate protokolliert haben, überprüfen Sie, ob die Zeit, die Sie eingegeben haben, mit dem Zeitpunkt übereinstimmt, wann Sie mit dem Essen begonnen haben.</target>
         <note>Warning to ensure the carb entry is accurate</note>
       </trans-unit>
       <trans-unit id="Your phone’s time has been changed. %1$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.&#10;&#10;Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Automatically is enabled. Failure to resolve could lead to serious under-delivery or over-delivery of insulin." xml:space="preserve">
         <source>Your phone’s time has been changed. %1$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.
 
 Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Automatically is enabled. Failure to resolve could lead to serious under-delivery or over-delivery of insulin.</source>
-        <target state="needs-translation">Your phone’s time has been changed. %1$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.
+        <target state="translated">Die Uhrzeit Ihres Telefons wurde geändert. %1$@ benötigt genaue Zeitaufzeichnungen, um Vorhersagen über Ihre Glukose zu treffen und Ihr Insulin entsprechend anzupassen.
 
-Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Automatically is enabled. Failure to resolve could lead to serious under-delivery or over-delivery of insulin.</target>
+Prüfen Sie Ihre iPhone-Einstellungen (Allgemein / Datum &amp; Uhrzeit) und überprüfen Sie, ob Automatisch festlegen aktiviert ist. Ansonsten kann es zu einer schweren Unter- oder Überlieferung von Insulin führen.</target>
         <note>Time change alert body. (1: app name)</note>
       </trans-unit>
       <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve">
@@ -2429,12 +2429,12 @@ drehen für Bolus</target>
       </trans-unit>
       <trans-unit id="mmol/L" xml:space="preserve">
         <source>mmol/L</source>
-        <target state="needs-translation">mmol/L</target>
+        <target state="translated">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
       <trans-unit id="– – –" xml:space="preserve">
         <source>– – –</source>
-        <target state="needs-translation">– – –</target>
+        <target state="translated">– – –</target>
         <note>No glucose value representation (3 dashes for mg/dL)</note>
       </trans-unit>
     </body>
@@ -2446,7 +2446,7 @@ drehen für Bolus</target>
     <body>
       <trans-unit id="UtilitarianLargeFlat" xml:space="preserve">
         <source>UtilitarianLargeFlat</source>
-        <target state="needs-translation">UtilitarianLargeFlat</target>
+        <target state="translated">UtilitarianLargeFlat</target>
         <note>Utilitarian large flat format string (1: Glucose &amp; Trend symbol) (2: Eventual Glucose) (3: Time)</note>
       </trans-unit>
     </body>
@@ -2458,12 +2458,12 @@ drehen für Bolus</target>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>WatchApp Extension</source>
-        <target state="needs-translation">WatchApp Extension</target>
+        <target state="translated">WatchApp-Erweiterung</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>WatchApp Extension</source>
-        <target state="needs-translation">WatchApp Extension</target>
+        <target state="translated">WatchApp-Erweiterung</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -2475,12 +2475,12 @@ drehen für Bolus</target>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Loop</source>
-        <target state="needs-translation">Loop</target>
+        <target state="translated">Loop</target>
         <note>(No Comment)</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>$(PRODUCT_NAME)</source>
-        <target state="needs-translation">$(PRODUCT_NAME)</target>
+        <target state="translated">$(PRODUCT_NAME)</target>
         <note>(No Comment)</note>
       </trans-unit>
     </body>
@@ -2492,17 +2492,17 @@ drehen für Bolus</target>
     <body>
       <trans-unit id="CsQ-fc-KLC.text" xml:space="preserve">
         <source>–</source>
-        <target state="needs-translation">–</target>
+        <target state="translated">–</target>
         <note>Class = "WKInterfaceLabel"; text = "–"; ObjectID = "CsQ-fc-KLC";</note>
       </trans-unit>
       <trans-unit id="Dt1-kz-jMZ.text" xml:space="preserve">
         <source>– – –</source>
-        <target state="needs-translation">– – –</target>
+        <target state="translated">– – –</target>
         <note>Class = "WKInterfaceLabel"; text = "– – –"; ObjectID = "Dt1-kz-jMZ";</note>
       </trans-unit>
       <trans-unit id="IRi-4t-ESO.text" xml:space="preserve">
         <source>–</source>
-        <target state="needs-translation">–</target>
+        <target state="translated">–</target>
         <note>Class = "WKInterfaceLabel"; text = "–"; ObjectID = "IRi-4t-ESO";</note>
       </trans-unit>
       <trans-unit id="JXa-s1-PJx.text" xml:space="preserve">
@@ -2517,22 +2517,22 @@ drehen für Bolus</target>
       </trans-unit>
       <trans-unit id="Mhe-aR-kQQ.text" xml:space="preserve">
         <source>–</source>
-        <target state="needs-translation">–</target>
+        <target state="translated">–</target>
         <note>Class = "WKInterfaceLabel"; text = "–"; ObjectID = "Mhe-aR-kQQ";</note>
       </trans-unit>
       <trans-unit id="T4U-wP-dSW.text" xml:space="preserve">
         <source>Label</source>
-        <target state="needs-translation">Label</target>
+        <target state="translated">Beschreibung</target>
         <note>Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "T4U-wP-dSW";</note>
       </trans-unit>
       <trans-unit id="UVY-pa-SUL.text" xml:space="preserve">
         <source>🏃‍♀️</source>
-        <target state="needs-translation">🏃‍♀️</target>
+        <target state="translated">🏃‍♀️</target>
         <note>Class = "WKInterfaceLabel"; text = "🏃‍♀️"; ObjectID = "UVY-pa-SUL";</note>
       </trans-unit>
       <trans-unit id="XkS-y5-khE.text" xml:space="preserve">
         <source>&lt;body&gt;</source>
-        <target state="needs-translation">&lt;body&gt;</target>
+        <target state="translated">&lt;body&gt;</target>
         <note>Class = "WKInterfaceLabel"; text = "&lt;body&gt;"; ObjectID = "XkS-y5-khE";</note>
       </trans-unit>
       <trans-unit id="dPh-7b-Tfv.title" xml:space="preserve">
@@ -2557,7 +2557,7 @@ drehen für Bolus</target>
       </trans-unit>
       <trans-unit id="hln-CI-MRP.text" xml:space="preserve">
         <source>Carbs</source>
-        <target state="needs-translation">Carbs</target>
+        <target state="translated">KH</target>
         <note>Class = "WKInterfaceLabel"; text = "Carbs"; ObjectID = "hln-CI-MRP";</note>
       </trans-unit>
       <trans-unit id="jj3-Gq-HBy.text" xml:space="preserve">
@@ -2567,22 +2567,22 @@ drehen für Bolus</target>
       </trans-unit>
       <trans-unit id="nC0-X3-oFJ.text" xml:space="preserve">
         <source>Override</source>
-        <target state="needs-translation">Override</target>
+        <target state="translated">Override</target>
         <note>Class = "WKInterfaceLabel"; text = "Override"; ObjectID = "nC0-X3-oFJ";</note>
       </trans-unit>
       <trans-unit id="rNf-Mh-tID.title" xml:space="preserve">
         <source>Loop</source>
-        <target state="needs-translation">Loop</target>
+        <target state="translated">Loop</target>
         <note>Class = "WKInterfaceController"; title = "Loop"; ObjectID = "rNf-Mh-tID";</note>
       </trans-unit>
       <trans-unit id="smL-Rc-IZh.text" xml:space="preserve">
         <source>Bolus</source>
-        <target state="needs-translation">Bolus</target>
+        <target state="translated">Bolus</target>
         <note>Class = "WKInterfaceLabel"; text = "Bolus"; ObjectID = "smL-Rc-IZh";</note>
       </trans-unit>
       <trans-unit id="v5b-sO-bb8.title" xml:space="preserve">
         <source>Loop</source>
-        <target state="needs-translation">Loop</target>
+        <target state="translated">Loop</target>
         <note>Class = "WKInterfaceController"; title = "Loop"; ObjectID = "v5b-sO-bb8";</note>
       </trans-unit>
       <trans-unit id="vL1-NA-WZ1.title" xml:space="preserve">
@@ -2597,12 +2597,12 @@ drehen für Bolus</target>
       </trans-unit>
       <trans-unit id="yl8-ZP-c3l.text" xml:space="preserve">
         <source>– – –</source>
-        <target state="needs-translation">– – –</target>
+        <target state="translated">– – –</target>
         <note>Class = "WKInterfaceLabel"; text = "– – –"; ObjectID = "yl8-ZP-c3l";</note>
       </trans-unit>
       <trans-unit id="zO8-x6-bZd.text" xml:space="preserve">
         <source>Label</source>
-        <target state="needs-translation">Label</target>
+        <target state="translated">Beschreibung</target>
         <note>Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "zO8-x6-bZd";</note>
       </trans-unit>
     </body>
