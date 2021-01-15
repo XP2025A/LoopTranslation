@@ -1704,32 +1704,32 @@ Gerät suchen
       </trans-unit>
       <trans-unit id="Wait for existing bolus to finish, or cancel bolus" xml:space="preserve">
         <source>Wait for existing bolus to finish, or cancel bolus</source>
-        <target state="needs-translation">Wait for existing bolus to finish, or cancel bolus</target>
+        <target state="translated">Warten Sie, bis der aktuelle Bolus abgegeben wurde, oder brechen Sie den Bolus ab</target>
         <note>Recovery suggestion when operation could not be completed due to existing bolus in progress</note>
       </trans-unit>
       <trans-unit id="Wait for existing temp basal to finish, or suspend to cancel" xml:space="preserve">
         <source>Wait for existing temp basal to finish, or suspend to cancel</source>
-        <target state="needs-translation">Wait for existing temp basal to finish, or suspend to cancel</target>
+        <target state="translated">Warten Sie, bis der aktuelle Temp-Basal-Befehl beendet ist, oder brechen sie ab</target>
         <note>Recovery suggestion when operation could not be completed due to existing temp basal in progress</note>
       </trans-unit>
       <trans-unit id="Waiting for pairing reminder" xml:space="preserve">
         <source>Waiting for pairing reminder</source>
-        <target state="needs-translation">Waiting for pairing reminder</target>
+        <target state="translated">Warte auf die Erinnerung zum Koppeln</target>
         <note>Description waiting for pairing reminder</note>
       </trans-unit>
       <trans-unit id="oneNotUsed" xml:space="preserve">
         <source>oneNotUsed</source>
-        <target state="needs-translation">oneNotUsed</target>
+        <target state="translated">oneNotUsed</target>
         <note>Pod state oneNotUsed</note>
       </trans-unit>
       <trans-unit id="threeNotUsed" xml:space="preserve">
         <source>threeNotUsed</source>
-        <target state="needs-translation">threeNotUsed</target>
+        <target state="translated">threeNotUsed</target>
         <note>Pod state threeNotUsed</note>
       </trans-unit>
       <trans-unit id="twoNotUsed" xml:space="preserve">
         <source>twoNotUsed</source>
-        <target state="needs-translation">twoNotUsed</target>
+        <target state="translated">twoNotUsed</target>
         <note>Pod state twoNotUsed</note>
       </trans-unit>
     </body>
@@ -1741,7 +1741,7 @@ Gerät suchen
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>OmniKitPlugin</source>
-        <target state="needs-translation">OmniKitPlugin</target>
+        <target state="translated">OmniKitPlugin</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1843,7 +1843,7 @@ Gerät suchen
       </trans-unit>
       <trans-unit id="vEc-Km-ewe.text" xml:space="preserve">
         <source>Label</source>
-        <target state="needs-translation">Label</target>
+        <target state="translated">Etikett</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "vEc-Km-ewe";</note>
       </trans-unit>
       <trans-unit id="vmF-Dc-3DS.text" xml:space="preserve">
@@ -1865,7 +1865,7 @@ Gerät suchen
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>OmniKitUI</source>
-        <target state="needs-translation">OmniKitUI</target>
+        <target state="translated">OmniKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1877,7 +1877,7 @@ Gerät suchen
     <body>
       <trans-unit id="%1$@ minutes" xml:space="preserve">
         <source>%1$@ minutes</source>
-        <target state="needs-translation">%1$@ minutes</target>
+        <target state="translated">%1$@ Minuten</target>
         <note>The format string for minutes (1: number of minutes string)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
@@ -1887,7 +1887,7 @@ Gerät suchen
       </trans-unit>
       <trans-unit id="%1$@%2$@%3$@" xml:space="preserve">
         <source>%1$@%2$@%3$@</source>
-        <target state="needs-translation">%1$@%2$@%3$@</target>
+        <target state="translated">%1$@%2$@%3$@</target>
         <note>The format string for displaying an offset from a time zone: (1: GMT)(2: -)(3: 4:00)</note>
       </trans-unit>
       <trans-unit id="%1$@. Insulin delivery has stopped. Please deactivate and remove pod." xml:space="preserve">
@@ -1918,12 +1918,12 @@ Gerät suchen
       </trans-unit>
       <trans-unit id="%@ dB" xml:space="preserve">
         <source>%@ dB</source>
-        <target state="needs-translation">%@ dB</target>
+        <target state="translated">%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
       </trans-unit>
       <trans-unit id="%@%%" xml:space="preserve">
         <source>%@%%</source>
-        <target state="needs-translation">%@%%</target>
+        <target state="translated">%@%%</target>
         <note>Format string for bolus percent progress. (1: Percent progress)</note>
       </trans-unit>
       <trans-unit id="%@+ U" xml:space="preserve">
@@ -1933,7 +1933,7 @@ Gerät suchen
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
         <source>%@.</source>
-        <target state="needs-translation">%@.</target>
+        <target state="translated">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
       <trans-unit id="%@U" xml:space="preserve">
@@ -1943,7 +1943,7 @@ Gerät suchen
       </trans-unit>
       <trans-unit id="Activation time exceeded. The pod must be deactivated before pairing with a new one. Please deactivate and discard pod." xml:space="preserve">
         <source>Activation time exceeded. The pod must be deactivated before pairing with a new one. Please deactivate and discard pod.</source>
-        <target state="needs-translation">Activation time exceeded. The pod must be deactivated before pairing with a new one. Please deactivate and discard pod.</target>
+        <target state="translated">Die Aktivierungszeit wurde überschritten. Der alte Pod muss vor der Kopplung mit einem neuen deaktiviert werden. Bitte deaktivieren und entsorgen Sie alten Pod.</target>
         <note>Instructions when deactivating pod that didn't complete activation in time.</note>
       </trans-unit>
       <trans-unit id="Active Time" xml:space="preserve">
@@ -1959,7 +1959,7 @@ Gerät suchen
       <trans-unit id="Alerts: %1$@&#10;" xml:space="preserve">
         <source>Alerts: %1$@
 </source>
-        <target state="needs-translation">Alerts: %1$@
+        <target state="translated">Warnungen: %1$@
 </target>
         <note>The format string for Alerts: (1: the alerts string)</note>
       </trans-unit>
@@ -2042,7 +2042,7 @@ Gerät suchen
       <trans-unit id="Delivery Status: %1$@&#10;" xml:space="preserve">
         <source>Delivery Status: %1$@
 </source>
-        <target state="needs-translation">Delivery Status: %1$@
+        <target state="translated">Lieferstatus: %1$@
 </target>
         <note>The format string for Delivery Status: (1: delivery status string)</note>
       </trans-unit>
@@ -2053,7 +2053,7 @@ Gerät suchen
       </trans-unit>
       <trans-unit id="Diagnostics" xml:space="preserve">
         <source>Diagnostics</source>
-        <target state="needs-translation">Diagnostics</target>
+        <target state="translated">Fehlersuche</target>
         <note>The title of the configuration section in settings</note>
       </trans-unit>
       <trans-unit id="Disable Bolus Beeps" xml:space="preserve">
@@ -2063,7 +2063,7 @@ Gerät suchen
       </trans-unit>
       <trans-unit id="Disable Confirmation Beeps" xml:space="preserve">
         <source>Disable Confirmation Beeps</source>
-        <target state="needs-translation">Disable Confirmation Beeps</target>
+        <target state="translated">Deaktivieren von Bestätigungssignalen</target>
         <note>Title text for button to disable confirmation beeps</note>
       </trans-unit>
       <trans-unit id="Enable Bolus Beeps" xml:space="preserve">
@@ -2073,7 +2073,7 @@ Gerät suchen
       </trans-unit>
       <trans-unit id="Enable Confirmation Beeps" xml:space="preserve">
         <source>Enable Confirmation Beeps</source>
-        <target state="needs-translation">Enable Confirmation Beeps</target>
+        <target state="translated">Aktivieren von Bestätigungssignalen</target>
         <note>Title text for button to enable confirmation beeps</note>
       </trans-unit>
       <trans-unit id="Error Resuming" xml:space="preserve">
@@ -2093,7 +2093,7 @@ Gerät suchen
       </trans-unit>
       <trans-unit id="Error disabling confirmation beeps" xml:space="preserve">
         <source>Error disabling confirmation beeps</source>
-        <target state="needs-translation">Error disabling confirmation beeps</target>
+        <target state="translated">Fehler beim Deaktivieren von Bestätigungssignalen</target>
         <note>The alert title for disable confirmation beeps error</note>
       </trans-unit>
       <trans-unit id="Error emitting completion confirmation beep" xml:space="preserve">
