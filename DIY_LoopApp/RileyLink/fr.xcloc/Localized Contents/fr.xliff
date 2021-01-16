@@ -1185,7 +1185,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Scheduled basal" xml:space="preserve">
         <source>Scheduled basal</source>
-        <target state="needs-translation">Scheduled basal</target>
+        <target state="translated">Basal programmé</target>
         <note>Delivery status when scheduled basal is running</note>
       </trans-unit>
       <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
@@ -1195,7 +1195,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Signal strength too high" xml:space="preserve">
         <source>Signal strength too high</source>
-        <target state="needs-translation">Signal strength too high</target>
+        <target state="translated">Force du signal trop élevée</target>
         <note>Format string for pod signal strength too high</note>
       </trans-unit>
       <trans-unit id="Suspend: %1$@ %2$@" xml:space="preserve">
@@ -1275,7 +1275,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Validation failed: %1$@" xml:space="preserve">
         <source>Validation failed: %1$@</source>
-        <target state="needs-translation">Validation failed: %1$@</target>
+        <target state="translated">Échec de la validation: %1$@</target>
         <note>Format string for description of MessageError validationFailed. (1: description of validation failure)</note>
       </trans-unit>
       <trans-unit id="Wait for existing bolus to finish, or cancel bolus" xml:space="preserve">
@@ -1639,12 +1639,12 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Suspended" xml:space="preserve">
         <source>Suspended</source>
-        <target state="needs-translation">Suspended</target>
+        <target state="translated">Suspendu</target>
         <note>Delivery status when insulin delivery is suspended</note>
       </trans-unit>
       <trans-unit id="Tank fill completed" xml:space="preserve">
         <source>Tank fill completed</source>
-        <target state="needs-translation">Tank fill completed</target>
+        <target state="translated">Remplissage du réservoir terminé</target>
         <note>Pod tank fill completed</note>
       </trans-unit>
       <trans-unit id="Tank power activated" xml:space="preserve">
@@ -1664,12 +1664,12 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@" xml:space="preserve">
         <source>TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@</source>
-        <target state="needs-translation">TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@</target>
+        <target state="translated">Basale temporaire: %1$@ U/heure %2$@ %3$@ %4$@ U %5$@</target>
         <note>The format string describing a temp basal. (1: The rate)(2: Start time)(3: duration)(4: volume)(5: scheduled certainty</note>
       </trans-unit>
       <trans-unit id="Time to replace your pod! Your pod will expire in %1$@" xml:space="preserve">
         <source>Time to replace your pod! Your pod will expire in %1$@</source>
-        <target state="needs-translation">Time to replace your pod! Your pod will expire in %1$@</target>
+        <target state="translated">Il est temps de remplacer votre pod ! Votre pod va expirer dans %1$@</target>
         <note>The format string for pod expiration notification body (1: time until expiration)</note>
       </trans-unit>
       <trans-unit id="Uncertain" xml:space="preserve">
@@ -1684,37 +1684,37 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Unexpected response from pod" xml:space="preserve">
         <source>Unexpected response from pod</source>
-        <target state="needs-translation">Unexpected response from pod</target>
+        <target state="translated">Reponse inattendue du pod</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
       <trans-unit id="Unknown Value (%1$@) for type %2$@" xml:space="preserve">
         <source>Unknown Value (%1$@) for type %2$@</source>
-        <target state="needs-translation">Unknown Value (%1$@) for type %2$@</target>
+        <target state="translated">Valeur inconnue (%1$@) pour le type %2$@</target>
         <note>Format string for description of MessageError unknownValue. (1: value) (2: Type)</note>
       </trans-unit>
       <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve">
         <source>Unknown pod fault %1$03d</source>
-        <target state="needs-translation">Unknown pod fault %1$03d</target>
+        <target state="translated">Erreur de pod inconnue %1$03d</target>
         <note>The format string for Unknown pod fault (1: The fault code value)</note>
       </trans-unit>
       <trans-unit id="Validation failed: %1$@" xml:space="preserve">
         <source>Validation failed: %1$@</source>
-        <target state="needs-translation">Validation failed: %1$@</target>
+        <target state="translated">Échec de la validation: %1$@</target>
         <note>Format string for description of MessageError validationFailed. (1: description of validation failure)</note>
       </trans-unit>
       <trans-unit id="Wait for existing bolus to finish, or cancel bolus" xml:space="preserve">
         <source>Wait for existing bolus to finish, or cancel bolus</source>
-        <target state="needs-translation">Wait for existing bolus to finish, or cancel bolus</target>
+        <target state="translated">Attendez que le bolus en cours se termine, ou annulez le bolus</target>
         <note>Recovery suggestion when operation could not be completed due to existing bolus in progress</note>
       </trans-unit>
       <trans-unit id="Wait for existing temp basal to finish, or suspend to cancel" xml:space="preserve">
         <source>Wait for existing temp basal to finish, or suspend to cancel</source>
-        <target state="needs-translation">Wait for existing temp basal to finish, or suspend to cancel</target>
+        <target state="translated">Attendez que la basale se termine pour quitter, ou mettez en suspens pour annuler</target>
         <note>Recovery suggestion when operation could not be completed due to existing temp basal in progress</note>
       </trans-unit>
       <trans-unit id="Waiting for pairing reminder" xml:space="preserve">
         <source>Waiting for pairing reminder</source>
-        <target state="needs-translation">Waiting for pairing reminder</target>
+        <target state="translated">En attente d'appairage</target>
         <note>Description waiting for pairing reminder</note>
       </trans-unit>
       <trans-unit id="oneNotUsed" xml:space="preserve">
@@ -1843,7 +1843,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="vEc-Km-ewe.text" xml:space="preserve">
         <source>Label</source>
-        <target state="needs-translation">Label</target>
+        <target state="translated">Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "vEc-Km-ewe";</note>
       </trans-unit>
       <trans-unit id="vmF-Dc-3DS.text" xml:space="preserve">
@@ -1877,7 +1877,7 @@ Find Device</target>
     <body>
       <trans-unit id="%1$@ minutes" xml:space="preserve">
         <source>%1$@ minutes</source>
-        <target state="needs-translation">%1$@ minutes</target>
+        <target state="translated">%1$@ minutes</target>
         <note>The format string for minutes (1: number of minutes string)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
@@ -1887,7 +1887,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="%1$@%2$@%3$@" xml:space="preserve">
         <source>%1$@%2$@%3$@</source>
-        <target state="needs-translation">%1$@%2$@%3$@</target>
+        <target state="translated">%1$@%2$@%3$@</target>
         <note>The format string for displaying an offset from a time zone: (1: GMT)(2: -)(3: 4:00)</note>
       </trans-unit>
       <trans-unit id="%1$@. Insulin delivery has stopped. Please deactivate and remove pod." xml:space="preserve">
@@ -1908,7 +1908,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="%@ U of %@ U (%@)" xml:space="preserve">
         <source>%1$@ U of %2$@ U (%3$@)</source>
-        <target state="needs-translation">%1$@ U of %2$@ U (%3$@)</target>
+        <target state="translated">%1$@ U sur %2$@ U (%3$@)</target>
         <note>Format string for bolus progress. (1: The delivered amount) (2: The programmed amount) (3: the percent progress)</note>
       </trans-unit>
       <trans-unit id="%@ U/hour" xml:space="preserve">
@@ -1943,7 +1943,7 @@ Find Device</target>
       </trans-unit>
       <trans-unit id="Activation time exceeded. The pod must be deactivated before pairing with a new one. Please deactivate and discard pod." xml:space="preserve">
         <source>Activation time exceeded. The pod must be deactivated before pairing with a new one. Please deactivate and discard pod.</source>
-        <target state="needs-translation">Activation time exceeded. The pod must be deactivated before pairing with a new one. Please deactivate and discard pod.</target>
+        <target state="translated">Temps d'activation dépassé. Le pod doit être désactivé avant d'en appairer un nouveau. Veuillez désactiver et supprimer le pod.</target>
         <note>Instructions when deactivating pod that didn't complete activation in time.</note>
       </trans-unit>
       <trans-unit id="Active Time" xml:space="preserve">
@@ -2260,7 +2260,7 @@ If you did not hear any beeps from your pod, the piezo speaker in your pod may b
       </trans-unit>
       <trans-unit id="Pod Details" xml:space="preserve">
         <source>Pod Details</source>
-        <target state="needs-translation">Pod Details</target>
+        <target state="translated">Détails du Pod</target>
         <note>The title of the device information section in settings</note>
       </trans-unit>
       <trans-unit id="Pod Settings" xml:space="preserve">
@@ -2328,7 +2328,7 @@ If you did not hear any beeps from your pod, the piezo speaker in your pod may b
       </trans-unit>
       <trans-unit id="Recheck Cannula Insertion" xml:space="preserve">
         <source>Recheck Cannula Insertion</source>
-        <target state="needs-translation">Recheck Cannula Insertion</target>
+        <target state="translated">Revérifiez l’insertion de la canule</target>
         <note>Button title to recheck cannula insertion during setup</note>
       </trans-unit>
       <trans-unit id="Remaining" xml:space="preserve">
@@ -2355,7 +2355,7 @@ If you did not hear any beeps from your pod, the piezo speaker in your pod may b
       <trans-unit id="Reservoir Level: %1$@ U&#10;" xml:space="preserve">
         <source>Reservoir Level: %1$@ U
 </source>
-        <target state="needs-translation">Reservoir Level: %1$@ U
+        <target state="translated">Niveau du réservoir : %1$@ U
 </target>
         <note>The format string for Reservoir Level: (1: reservoir level string)</note>
       </trans-unit>
@@ -2402,7 +2402,7 @@ If you did not hear any beeps from your pod, the piezo speaker in your pod may b
       </trans-unit>
       <trans-unit id="TID" xml:space="preserve">
         <source>TID</source>
-        <target state="needs-translation">TID</target>
+        <target state="translated">TID</target>
         <note>The title of the cell showing the pod TID</note>
       </trans-unit>
       <trans-unit id="Test Command" xml:space="preserve">
@@ -2736,7 +2736,7 @@ If you did not hear any beeps from your pod, the piezo speaker in your pod may b
       </trans-unit>
       <trans-unit id="Uptime" xml:space="preserve">
         <source>Uptime</source>
-        <target state="needs-translation">Uptime</target>
+        <target state="translated">Temps de fonctionnement</target>
         <note>The title of the cell showing uptime</note>
       </trans-unit>
     </body>
