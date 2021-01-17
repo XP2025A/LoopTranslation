@@ -94,7 +94,7 @@
       </trans-unit>
       <trans-unit id="History page does not exist" xml:space="preserve">
         <source>History page does not exist</source>
-        <target state="needs-translation">History page does not exist</target>
+        <target state="translated">La page d'historique n'existe pas</target>
         <note>Pump error code when invalid history page is requested</note>
       </trans-unit>
       <trans-unit id="History page failed crc check" xml:space="preserve">
@@ -873,7 +873,7 @@ Rechercher un périphérique</target>
       </trans-unit>
       <trans-unit id="Command error %1$u" xml:space="preserve">
         <source>Command error %1$u</source>
-        <target state="needs-translation">Command error %1$u</target>
+        <target state="translated">Erreur de commande %1$u</target>
         <note>Format string for invalid message error code (1: error code number)</note>
       </trans-unit>
       <trans-unit id="Crosstalk possible. Please move to a new location and try again" xml:space="preserve">
@@ -1427,12 +1427,12 @@ Rechercher un périphérique</target>
       </trans-unit>
       <trans-unit id="Invalid CRC" xml:space="preserve">
         <source>Invalid CRC</source>
-        <target state="needs-translation">Invalid CRC</target>
+        <target state="translated">CRC invalide</target>
         <note>Description for MessageError invalidCrc</note>
       </trans-unit>
       <trans-unit id="Invalid address: (%1$@)" xml:space="preserve">
         <source>Invalid address: (%1$@)</source>
-        <target state="needs-translation">Invalid address: (%1$@)</target>
+        <target state="translated">Adresse invalide : (%1$@)</target>
         <note>Description for MessageError invalidSequence</note>
       </trans-unit>
       <trans-unit id="Low reservoir" xml:space="preserve">
@@ -2042,7 +2042,7 @@ Rechercher un périphérique</target>
       <trans-unit id="Delivery Status: %1$@&#10;" xml:space="preserve">
         <source>Delivery Status: %1$@
 </source>
-        <target state="needs-translation">Delivery Status: %1$@
+        <target state="translated">Statut d'administration : %1$@
 </target>
         <note>The format string for Delivery Status: (1: delivery status string)</note>
       </trans-unit>
@@ -2098,7 +2098,7 @@ Rechercher un périphérique</target>
       </trans-unit>
       <trans-unit id="Error emitting completion confirmation beep" xml:space="preserve">
         <source>Error emitting completion confirmation beep</source>
-        <target state="needs-translation">Error emitting completion confirmation beep</target>
+        <target state="translated">Erreur lors de l'émission de la confirmation de la fin du bip sonore</target>
         <note>The alert title for emitting completion beep error</note>
       </trans-unit>
       <trans-unit id="Error enabling bolus beeps" xml:space="preserve">
@@ -2134,14 +2134,14 @@ Rechercher un périphérique</target>
       <trans-unit id="Fault time: %1$@&#10;" xml:space="preserve">
         <source>Fault time: %1$@
 </source>
-        <target state="needs-translation">Fault time: %1$@
+        <target state="translated">Date du défaut : %1$@
 </target>
         <note>The format string for fault time: (1: fault time string)</note>
       </trans-unit>
       <trans-unit id="Fault: %1$@&#10;" xml:space="preserve">
         <source>Fault: %1$@
 </source>
-        <target state="needs-translation">Fault: %1$@
+        <target state="translated">Défaut: %1$@
 </target>
         <note>The format string for a fault: (1: The fault description)</note>
       </trans-unit>
@@ -2288,7 +2288,7 @@ Si vous n'avez entendu aucun bip de votre pod, le haut-parleur piézo de votre p
       <trans-unit id="Pulse Count: %1$d&#10;" xml:space="preserve">
         <source>Pulse Count: %1$d
 </source>
-        <target state="needs-translation">Pulse Count: %1$d
+        <target state="translated">Nombre d’impulsions : %1$d
 </target>
         <note>The format string for Pulse Count (1: pulse count)</note>
       </trans-unit>
@@ -2311,18 +2311,18 @@ Si vous n'avez entendu aucun bip de votre pod, le haut-parleur piézo de votre p
       </trans-unit>
       <trans-unit id="Read Pulse Log" xml:space="preserve">
         <source>Read Pulse Log</source>
-        <target state="needs-translation">Read Pulse Log</target>
+        <target state="translated">Lire le journal des impulsions</target>
         <note>The title of the command to read the pulse log</note>
       </trans-unit>
       <trans-unit id="Reading Pulse Log…" xml:space="preserve">
         <source>Reading Pulse Log…</source>
-        <target state="needs-translation">Reading Pulse Log…</target>
+        <target state="translated">Lecture du journal des impulsions…</target>
         <note>Progress message for reading pulse log.</note>
       </trans-unit>
       <trans-unit id="Receiver Low Gain: %1$@&#10;" xml:space="preserve">
         <source>Receiver Low Gain: %1$@
 </source>
-        <target state="needs-translation">Receiver Low Gain: %1$@
+        <target state="translated">Récepteur Faible gain: %1$@
 </target>
         <note>The format string for receiverLowGain: (1: receiverLowGain)</note>
       </trans-unit>
