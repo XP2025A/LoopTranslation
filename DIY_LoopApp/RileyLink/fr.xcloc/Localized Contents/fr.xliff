@@ -908,7 +908,7 @@ Rechercher un périphérique</target>
       </trans-unit>
       <trans-unit id="Fault event occurred" xml:space="preserve">
         <source>Fault event occurred</source>
-        <target state="needs-translation">Fault event occurred</target>
+        <target state="translated">Une erreur s'est produite</target>
         <note>Pod state when fault event has occurred</note>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve">
@@ -943,7 +943,7 @@ Rechercher un périphérique</target>
       </trans-unit>
       <trans-unit id="Invalid CRC" xml:space="preserve">
         <source>Invalid CRC</source>
-        <target state="needs-translation">Invalid CRC</target>
+        <target state="translated">CRC invalide</target>
         <note>Description for MessageError invalidCrc</note>
       </trans-unit>
       <trans-unit id="Invalid address 0x%x. Expected 0x%x" xml:space="preserve">
@@ -1134,7 +1134,7 @@ Rechercher un périphérique</target>
       </trans-unit>
       <trans-unit id="Pod sent ack instead of response" xml:space="preserve">
         <source>Pod sent ack instead of response</source>
-        <target state="needs-translation">Pod sent ack instead of response</target>
+        <target state="translated">Le Pod a envoyé un accusé de réception au lieu d'une réponse</target>
         <note>Error message shown when pod sends ack instead of response</note>
       </trans-unit>
       <trans-unit id="Pod setup window expired" xml:space="preserve">
@@ -1190,7 +1190,7 @@ Rechercher un périphérique</target>
       </trans-unit>
       <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
         <source>Shutdown imminent alarm</source>
-        <target state="translated">Alarme imminente d’arrêt</target>
+        <target state="translated">Alarme d’arrêt imminent</target>
         <note>Description for shutdown imminent alarm</note>
       </trans-unit>
       <trans-unit id="Signal strength too high" xml:space="preserve">
@@ -1265,7 +1265,7 @@ Rechercher un périphérique</target>
       </trans-unit>
       <trans-unit id="Unknown Value (%1$@) for type %2$@" xml:space="preserve">
         <source>Unknown Value (%1$@) for type %2$@</source>
-        <target state="needs-translation">Unknown Value (%1$@) for type %2$@</target>
+        <target state="translated">Valeur inconnue (%1$@) pour le type %2$@</target>
         <note>Format string for description of MessageError unknownValue. (1: value) (2: Type)</note>
       </trans-unit>
       <trans-unit id="Unknown pod fault %1$03d" xml:space="preserve">
@@ -1327,7 +1327,7 @@ Rechercher un périphérique</target>
       </trans-unit>
       <trans-unit id="Auto-off alarm" xml:space="preserve">
         <source>Auto-off alarm</source>
-        <target state="needs-translation">Auto-off alarm</target>
+        <target state="translated">Alarme d’arrêt automatique</target>
         <note>Description for auto-off alarm</note>
       </trans-unit>
       <trans-unit id="Basal initialized" xml:space="preserve">
@@ -1397,7 +1397,7 @@ Rechercher un périphérique</target>
       </trans-unit>
       <trans-unit id="Fault event occurred" xml:space="preserve">
         <source>Fault event occurred</source>
-        <target state="needs-translation">Fault event occurred</target>
+        <target state="translated">Une erreur s'est produite</target>
         <note>Pod state when fault event has occurred</note>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve">
@@ -1417,12 +1417,12 @@ Rechercher un périphérique</target>
       </trans-unit>
       <trans-unit id="Internal pod fault %1$03d" xml:space="preserve">
         <source>Internal pod fault %1$03d</source>
-        <target state="needs-translation">Internal pod fault %1$03d</target>
+        <target state="translated">Code d'erreur du pod %1$03d</target>
         <note>The format string for Internal pod fault (1: The fault code value)</note>
       </trans-unit>
       <trans-unit id="InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@" xml:space="preserve">
         <source>InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@</source>
-        <target state="needs-translation">InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@</target>
+        <target state="translated">Bolus interrompu : %1$@ U (%2$@ U prévu) %3$@ %4$@ %5$@</target>
         <note>The format string describing a bolus that was interrupted. (1: The amount delivered)(2: The amount scheduled)(3: Start time of the dose)(4: duration)(5: scheduled certainty)</note>
       </trans-unit>
       <trans-unit id="Invalid CRC" xml:space="preserve">
@@ -1629,7 +1629,7 @@ Rechercher un périphérique</target>
       </trans-unit>
       <trans-unit id="Shutdown imminent alarm" xml:space="preserve">
         <source>Shutdown imminent alarm</source>
-        <target state="needs-translation">Shutdown imminent alarm</target>
+        <target state="translated">Alarme d’arrêt imminent</target>
         <note>Description for shutdown imminent alarm</note>
       </trans-unit>
       <trans-unit id="Suspend: %1$@ %2$@" xml:space="preserve">
@@ -2271,7 +2271,7 @@ Si vous n'avez entendu aucun bip de votre pod, le haut-parleur piézo de votre p
       <trans-unit id="Previous pod progress: %1$@&#10;" xml:space="preserve">
         <source>Previous pod progress: %1$@
 </source>
-        <target state="needs-translation">Previous pod progress: %1$@
+        <target state="translated">Progression du pod précédent: %1$@
 </target>
         <note>The format string for previous pod progress: (1: previous pod progress string)</note>
       </trans-unit>
