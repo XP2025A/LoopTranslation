@@ -810,7 +810,7 @@ Du kan vente flere minutter for at se, om problemet bliver løst, eller tryk på
       </trans-unit>
       <trans-unit id="Authenticate to log %@ Units" xml:space="preserve">
         <source>Authenticate to log %@ Units</source>
-        <target state="needs-translation">Authenticate to log %@ Units</target>
+        <target state="translated">Godkend for at logge %@ enheder</target>
         <note>The message displayed during a device authentication prompt to log an insulin dose</note>
       </trans-unit>
       <trans-unit id="Basal Rate Schedule" xml:space="preserve" approved="yes">
@@ -1022,7 +1022,7 @@ Unavailable</source>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
-        <target state="needs-translation">Date</target>
+        <target state="translated">Dato</target>
         <note>Date picker label</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve" approved="yes">
@@ -1037,7 +1037,7 @@ Unavailable</source>
       </trans-unit>
       <trans-unit id="Delete All" xml:space="preserve">
         <source>Delete All</source>
-        <target state="needs-translation">Delete All</target>
+        <target state="translated">Slet alle</target>
         <note>Button title to delete all objects</note>
       </trans-unit>
       <trans-unit id="Delete CGM" xml:space="preserve" approved="yes">
@@ -1099,7 +1099,7 @@ Unavailable</source>
       </trans-unit>
       <trans-unit id="Dose Summary" xml:space="preserve">
         <source>Dose Summary</source>
-        <target state="needs-translation">Dose Summary</target>
+        <target state="translated">Resumé af dosis</target>
         <note>Title for card to log dose</note>
       </trans-unit>
       <trans-unit id="Enable&#10;Bluetooth" xml:space="preserve" approved="yes">
@@ -1155,7 +1155,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Event History" xml:space="preserve">
         <source>Event History</source>
-        <target state="needs-translation">Event History</target>
+        <target state="translated">Hændelseshistorik</target>
         <note>Segmented button title for insulin delivery log event history</note>
       </trans-unit>
       <trans-unit id="Eventually %@" xml:space="preserve" approved="yes">
@@ -1282,7 +1282,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Insulin Type" xml:space="preserve">
         <source>Insulin Type</source>
-        <target state="needs-translation">Insulin Type</target>
+        <target state="translated">Insulin type</target>
         <note>Insulin type label</note>
       </trans-unit>
       <trans-unit id="Insulin effects" xml:space="preserve" approved="yes">
@@ -1292,7 +1292,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@" xml:space="preserve">
         <source>Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@</source>
-        <target state="needs-translation">Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@</target>
+        <target state="translated">Afbrudt %1$@: &lt;b&gt;%2$@&lt;/b&gt; af %3$@ %4$@</target>
         <note>Description of an interrupted bolus dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: programmed value (? if no value), 4: unit)</note>
       </trans-unit>
       <trans-unit id="Invalid Adverse Event Report URL" xml:space="preserve">
@@ -1332,13 +1332,13 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Log Dose" xml:space="preserve">
         <source>Log Dose</source>
-        <target state="needs-translation">Log Dose</target>
+        <target state="translated">Log dosis</target>
         <note>Button text to log a dose
    Title for dose logging screen</note>
       </trans-unit>
       <trans-unit id="Logged Insulin Dose" xml:space="preserve">
         <source>Logged Insulin Dose</source>
-        <target state="needs-translation">Logged Insulin Dose</target>
+        <target state="translated">Logget insulin dosis</target>
         <note>The title of the screen displaying a logged insulin dose</note>
       </trans-unit>
       <trans-unit id="Loop Failure" xml:space="preserve" approved="yes">
@@ -1486,7 +1486,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Pump Event" xml:space="preserve">
         <source>Pump Event</source>
-        <target state="needs-translation">Pump Event</target>
+        <target state="translated">Pumpe hændelse</target>
         <note>The title of the screen displaying a pump event</note>
       </trans-unit>
       <trans-unit id="Pump Manager" xml:space="preserve" approved="yes">
@@ -1745,7 +1745,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
-        <target state="needs-translation">Unknown</target>
+        <target state="translated">Ukendt</target>
         <note>The default description to use when an entry has no dose description</note>
       </trans-unit>
       <trans-unit id="Until I enter carbs" xml:space="preserve">
@@ -1854,12 +1854,12 @@ I dine iPhone-indstillinger (Generelt / Dato &amp; tidspunkt) og kontrollere, at
       </trans-unit>
       <trans-unit id="com.loudnate.InsulinKit.IOBDateLabel" xml:space="preserve">
         <source>at %1$@</source>
-        <target state="needs-translation">at %1$@</target>
+        <target state="translated">d %1$@</target>
         <note>The format string describing the date of an IOB value. The first format argument is the localized date.</note>
       </trans-unit>
       <trans-unit id="com.loudnate.InsulinKit.totalDateLabel" xml:space="preserve">
         <source>since %1$@</source>
-        <target state="needs-translation">since %1$@</target>
+        <target state="translated">siden %1$@</target>
         <note>The format string describing the starting date of a total value. The first format argument is the localized date.</note>
       </trans-unit>
       <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve" approved="yes">
