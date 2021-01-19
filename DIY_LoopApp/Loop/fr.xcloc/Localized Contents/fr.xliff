@@ -538,7 +538,7 @@
       </trans-unit>
       <trans-unit id="%1$@ U" xml:space="preserve">
         <source>%1$@ U</source>
-        <target state="needs-translation">%1$@ U</target>
+        <target state="translated">%1$@ U</target>
         <note>Reservoir entry (1: volume value)</note>
       </trans-unit>
       <trans-unit id="%1$@ U left" xml:space="preserve">
@@ -589,7 +589,7 @@ Vous pouvez attendre plusieurs minutes pour voir si le problème résout ou appu
       </trans-unit>
       <trans-unit id="%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@" xml:space="preserve">
         <source>%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</source>
-        <target state="needs-translation">%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</target>
+        <target state="translated">%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</target>
         <note>Description of a basal temp basal dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)
    Description of a bolus dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)</note>
       </trans-unit>
@@ -1023,7 +1023,7 @@ indisponible</target>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
-        <target state="needs-translation">Date</target>
+        <target state="translated">Date</target>
         <note>Date picker label</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
@@ -1038,7 +1038,7 @@ indisponible</target>
       </trans-unit>
       <trans-unit id="Delete All" xml:space="preserve">
         <source>Delete All</source>
-        <target state="needs-translation">Delete All</target>
+        <target state="translated">Tout supprimer</target>
         <note>Button title to delete all objects</note>
       </trans-unit>
       <trans-unit id="Delete CGM" xml:space="preserve">
@@ -1747,7 +1747,7 @@ Actuel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
-        <target state="needs-translation">Unknown</target>
+        <target state="translated">Inconnu</target>
         <note>The default description to use when an entry has no dose description</note>
       </trans-unit>
       <trans-unit id="Until I enter carbs" xml:space="preserve">
@@ -1856,12 +1856,12 @@ Vérifiez dans vos paramètres iPhone (Général / Date &amp; Heure) et que "Ré
       </trans-unit>
       <trans-unit id="com.loudnate.InsulinKit.IOBDateLabel" xml:space="preserve">
         <source>at %1$@</source>
-        <target state="needs-translation">at %1$@</target>
+        <target state="translated">à %1$@</target>
         <note>The format string describing the date of an IOB value. The first format argument is the localized date.</note>
       </trans-unit>
       <trans-unit id="com.loudnate.InsulinKit.totalDateLabel" xml:space="preserve">
         <source>since %1$@</source>
-        <target state="needs-translation">since %1$@</target>
+        <target state="translated">depuis %1$@</target>
         <note>The format string describing the starting date of a total value. The first format argument is the localized date.</note>
       </trans-unit>
       <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve">
