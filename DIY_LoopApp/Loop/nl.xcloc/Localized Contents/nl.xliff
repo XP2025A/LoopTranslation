@@ -538,7 +538,7 @@
       </trans-unit>
       <trans-unit id="%1$@ U" xml:space="preserve">
         <source>%1$@ U</source>
-        <target state="needs-translation">%1$@ U</target>
+        <target state="translated">%1$@ E</target>
         <note>Reservoir entry (1: volume value)</note>
       </trans-unit>
       <trans-unit id="%1$@ U left" xml:space="preserve" approved="yes">
@@ -589,7 +589,7 @@ U kunt enkele minuten wachten om te zien of het probleem oplost of op de knop hi
       </trans-unit>
       <trans-unit id="%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@" xml:space="preserve">
         <source>%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</source>
-        <target state="needs-translation">%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</target>
+        <target state="translated">%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</target>
         <note>Description of a basal temp basal dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)
    Description of a bolus dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)</note>
       </trans-unit>
@@ -773,17 +773,17 @@ U kunt enkele minuten wachten om te zien of het probleem oplost of op de knop hi
       </trans-unit>
       <trans-unit id="Are you sure you want to delete all history entries?" xml:space="preserve">
         <source>Are you sure you want to delete all history entries?</source>
-        <target state="needs-translation">Are you sure you want to delete all history entries?</target>
+        <target state="translated">Weet je zeker dat je de gehele pompgeschiedenis wilt verwijderen?</target>
         <note>Action sheet confirmation message for pump history deletion</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete all logged dose entries?" xml:space="preserve">
         <source>Are you sure you want to delete all logged dose entries?</source>
-        <target state="needs-translation">Are you sure you want to delete all logged dose entries?</target>
+        <target state="translated">Alle log regels daadwerkelijk verwijderen?</target>
         <note>Action sheet confirmation message for logged dose deletion</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete all reservoir values?" xml:space="preserve">
         <source>Are you sure you want to delete all reservoir values?</source>
-        <target state="needs-translation">Are you sure you want to delete all reservoir values?</target>
+        <target state="translated">Weet je zeker dat je alle waardes van het reservoir wilt verwijderen?</target>
         <note>Action sheet confirmation message for reservoir deletion</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete all your %@ Data?&#10;(This action is not reversible)" xml:space="preserve" approved="yes">
@@ -810,7 +810,7 @@ U kunt enkele minuten wachten om te zien of het probleem oplost of op de knop hi
       </trans-unit>
       <trans-unit id="Authenticate to log %@ Units" xml:space="preserve">
         <source>Authenticate to log %@ Units</source>
-        <target state="needs-translation">Authenticate to log %@ Units</target>
+        <target state="translated">Authenticeer om te bolussen %@ Eenheden</target>
         <note>The message displayed during a device authentication prompt to log an insulin dose</note>
       </trans-unit>
       <trans-unit id="Basal Rate Schedule" xml:space="preserve" approved="yes">
@@ -1023,7 +1023,7 @@ niet beschikbaar</target>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
-        <target state="needs-translation">Date</target>
+        <target state="translated">Datum</target>
         <note>Date picker label</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve" approved="yes">
@@ -1038,7 +1038,7 @@ niet beschikbaar</target>
       </trans-unit>
       <trans-unit id="Delete All" xml:space="preserve">
         <source>Delete All</source>
-        <target state="needs-translation">Delete All</target>
+        <target state="translated">Verwijder alles</target>
         <note>Button title to delete all objects</note>
       </trans-unit>
       <trans-unit id="Delete CGM" xml:space="preserve" approved="yes">
@@ -1100,7 +1100,7 @@ niet beschikbaar</target>
       </trans-unit>
       <trans-unit id="Dose Summary" xml:space="preserve">
         <source>Dose Summary</source>
-        <target state="needs-translation">Dose Summary</target>
+        <target state="translated">Overzicht dosissen</target>
         <note>Title for card to log dose</note>
       </trans-unit>
       <trans-unit id="Enable&#10;Bluetooth" xml:space="preserve" approved="yes">
@@ -1156,7 +1156,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Event History" xml:space="preserve">
         <source>Event History</source>
-        <target state="needs-translation">Event History</target>
+        <target state="translated">Eventhistorie</target>
         <note>Segmented button title for insulin delivery log event history</note>
       </trans-unit>
       <trans-unit id="Eventually %@" xml:space="preserve" approved="yes">
@@ -1283,7 +1283,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Insulin Type" xml:space="preserve">
         <source>Insulin Type</source>
-        <target state="needs-translation">Insulin Type</target>
+        <target state="translated">Insuline soort</target>
         <note>Insulin type label</note>
       </trans-unit>
       <trans-unit id="Insulin effects" xml:space="preserve" approved="yes">
@@ -1293,7 +1293,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@" xml:space="preserve">
         <source>Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@</source>
-        <target state="needs-translation">Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@</target>
+        <target state="translated">Onderbroken %1$@: &lt;b&gt;%2$@&lt;/b&gt; van %3$@ %4$@</target>
         <note>Description of an interrupted bolus dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: programmed value (? if no value), 4: unit)</note>
       </trans-unit>
       <trans-unit id="Invalid Adverse Event Report URL" xml:space="preserve">
@@ -1333,13 +1333,13 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Log Dose" xml:space="preserve">
         <source>Log Dose</source>
-        <target state="needs-translation">Log Dose</target>
+        <target state="translated">Dosis log</target>
         <note>Button text to log a dose
    Title for dose logging screen</note>
       </trans-unit>
       <trans-unit id="Logged Insulin Dose" xml:space="preserve">
         <source>Logged Insulin Dose</source>
-        <target state="needs-translation">Logged Insulin Dose</target>
+        <target state="translated">Geregistreerde insulinedosis</target>
         <note>The title of the screen displaying a logged insulin dose</note>
       </trans-unit>
       <trans-unit id="Loop Failure" xml:space="preserve" approved="yes">
@@ -1487,7 +1487,7 @@ Actueel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Pump Event" xml:space="preserve">
         <source>Pump Event</source>
-        <target state="needs-translation">Pump Event</target>
+        <target state="translated">Pomp gebeurtenis</target>
         <note>The title of the screen displaying a pump event</note>
       </trans-unit>
       <trans-unit id="Pump Manager" xml:space="preserve" approved="yes">
@@ -1746,7 +1746,7 @@ Actueel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
-        <target state="needs-translation">Unknown</target>
+        <target state="translated">Onbekend</target>
         <note>The default description to use when an entry has no dose description</note>
       </trans-unit>
       <trans-unit id="Until I enter carbs" xml:space="preserve">
@@ -1855,12 +1855,12 @@ Check in je iPhone-instellingen (Algemene / Datum &amp; Tijd) en controleer of d
       </trans-unit>
       <trans-unit id="com.loudnate.InsulinKit.IOBDateLabel" xml:space="preserve">
         <source>at %1$@</source>
-        <target state="needs-translation">at %1$@</target>
+        <target state="translated">op %1$@</target>
         <note>The format string describing the date of an IOB value. The first format argument is the localized date.</note>
       </trans-unit>
       <trans-unit id="com.loudnate.InsulinKit.totalDateLabel" xml:space="preserve">
         <source>since %1$@</source>
-        <target state="needs-translation">since %1$@</target>
+        <target state="translated">sinds %1$@</target>
         <note>The format string describing the starting date of a total value. The first format argument is the localized date.</note>
       </trans-unit>
       <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve" approved="yes">
