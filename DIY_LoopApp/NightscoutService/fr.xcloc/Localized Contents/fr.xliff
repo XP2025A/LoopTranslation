@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="NightscoutServiceKit/Base.lproj/Localizable.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Nightscout" xml:space="preserve">
@@ -12,19 +12,19 @@
       </trans-unit>
       <trans-unit id="Pre-Meal" xml:space="preserve">
         <source>Pre-Meal</source>
-        <target>Pre-Meal</target>
+        <target>Pré-Repas</target>
         <note>Name uploaded to Nightscout for Pre-Meal override</note>
       </trans-unit>
       <trans-unit id="Workout" xml:space="preserve">
         <source>Workout</source>
-        <target>Workout</target>
+        <target>Entraînement</target>
         <note>Name uploaded to Nightscout for legacy workout override</note>
       </trans-unit>
     </body>
   </file>
   <file original="NightscoutServiceKit/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -36,7 +36,7 @@
   </file>
   <file original="NightscoutServiceKitPlugin/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -48,61 +48,62 @@
   </file>
   <file original="NightscoutServiceKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="API Secret" xml:space="preserve">
         <source>API Secret</source>
-        <target>API Secret</target>
+        <target>Code secret API</target>
         <note>The title of the Nightscout API secret</note>
       </trans-unit>
       <trans-unit id="Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are a critical part of how Loop determines the right amount of insulin to deliver.&#10;&#10;If you are new to Loop, work with your diabetes support team to determine the settings that work best for you." xml:space="preserve">
         <source>Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are a critical part of how Loop determines the right amount of insulin to deliver.
 
 If you are new to Loop, work with your diabetes support team to determine the settings that work best for you.</source>
-        <target>Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are a critical part of how Loop determines the right amount of insulin to deliver.
+        <target>Avant d’utiliser Loop, vous devez configurer quelques paramètres. Ces paramètres doivent être entrés avec précision et soin; ils sont déterminants dans la façon dont Loop détermine la bonne quantité d’insuline à fournir.
 
-If you are new to Loop, work with your diabetes support team to determine the settings that work best for you.</target>
+Si vous êtes nouveau sur Loop, travaillez avec votre équipe médicale lié au diabète pour déterminer les paramètres qui vous conviennent le mieux.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target>Cancel</target>
+        <target>Annuler</target>
         <note>Cancel</note>
       </trans-unit>
       <trans-unit id="Checking..." xml:space="preserve">
         <source>Checking...</source>
-        <target>Checking...</target>
+        <target>Vérification en cours...</target>
         <note>Description of ServiceStatus of checking</note>
       </trans-unit>
       <trans-unit id="Delete Service" xml:space="preserve">
         <source>Delete Service</source>
-        <target>Delete Service</target>
+        <target>Supprimer le service</target>
         <note>Button title to delete a service</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target>Done</target>
+        <target>Terminé</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Let's Go!" xml:space="preserve">
         <source>Let's Go!</source>
-        <target>Let's Go!</target>
+        <target>C'est parti !</target>
         <note>Button title for starting setup</note>
       </trans-unit>
       <trans-unit id="Login" xml:space="preserve">
         <source>Login</source>
-        <target>Login</target>
+        <target>Se connecter</target>
         <note>Login button</note>
       </trans-unit>
       <trans-unit id="Logout" xml:space="preserve">
         <source>Logout</source>
-        <target>Logout</target>
+        <target>Déconnexion</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." xml:space="preserve">
         <source>Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later.</source>
-        <target>Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later.</target>
+        <target>Loop peut fonctionner avec Nightscout pour fournir aux soignants un moyen de consulter à distance l'activité de Loop. 
+L'utilisation de Nightscout est complètement optionnelle avec Loop, et vous pouvez toujours le configurer plus tard.</target>
         <note>Label for description of Nightscout</note>
       </trans-unit>
       <trans-unit id="Nightscout" xml:space="preserve">
@@ -112,12 +113,12 @@ If you are new to Loop, work with your diabetes support team to determine the se
       </trans-unit>
       <trans-unit id="Nightscout Login" xml:space="preserve">
         <source>Nightscout Login</source>
-        <target>Nightscout Login</target>
+        <target>Connexion à Nightscout</target>
         <note>Nightscout login view</note>
       </trans-unit>
       <trans-unit id="Not Available" xml:space="preserve">
         <source>Not Available</source>
-        <target>Not Available</target>
+        <target>Données indisponibles</target>
         <note>Error when nightscout service url is not set</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -132,12 +133,12 @@ If you are new to Loop, work with your diabetes support team to determine the se
       </trans-unit>
       <trans-unit id="Save Settings" xml:space="preserve">
         <source>Save Settings</source>
-        <target>Save Settings</target>
+        <target>Sauvegarder les paramètres</target>
         <note>Therapy settings save button title</note>
       </trans-unit>
       <trans-unit id="Setup Loop without Nightscout" xml:space="preserve">
         <source>Setup Loop without Nightscout</source>
-        <target>Setup Loop without Nightscout</target>
+        <target>Configurer Loop sans Nightscout</target>
         <note>Button title for choosing onboarding without nightscout</note>
       </trans-unit>
       <trans-unit id="Site URL" xml:space="preserve">
@@ -147,12 +148,12 @@ If you are new to Loop, work with your diabetes support team to determine the se
       </trans-unit>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
-        <target>Status</target>
+        <target>Statut</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Therapy Settings" xml:space="preserve">
         <source>Therapy Settings</source>
-        <target>Therapy Settings</target>
+        <target>Paramètres de thérapie</target>
         <note>Navigation view title</note>
       </trans-unit>
       <trans-unit id="URL" xml:space="preserve">
@@ -162,12 +163,12 @@ If you are new to Loop, work with your diabetes support team to determine the se
       </trans-unit>
       <trans-unit id="Use Nightscout with Loop" xml:space="preserve">
         <source>Use Nightscout with Loop</source>
-        <target>Use Nightscout with Loop</target>
+        <target>Utilisez Nightscout avec Loop</target>
         <note>Button title for choosing onboarding with nightscout</note>
       </trans-unit>
       <trans-unit id="Welcome to Loop" xml:space="preserve">
         <source>Welcome to Loop</source>
-        <target>Welcome to Loop</target>
+        <target>Bienvenue sur Loop</target>
         <note>Welcome to Loop</note>
       </trans-unit>
       <trans-unit id="https://mysite.herokuapp.com" xml:space="preserve">
@@ -179,7 +180,7 @@ If you are new to Loop, work with your diabetes support team to determine the se
   </file>
   <file original="NightscoutServiceKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">

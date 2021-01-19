@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="CGMBLEKit Example/Base.lproj/Main.storyboard" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="3i8-2m-QFG.text" xml:space="preserve">
@@ -54,7 +54,7 @@
   </file>
   <file original="CGMBLEKit Example/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -66,7 +66,7 @@
   </file>
   <file original="CGMBLEKit Example/en.lproj/Localizable.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Backfill" xml:space="preserve">
@@ -88,7 +88,7 @@
   </file>
   <file original="CGMBLEKit/Base.lproj/Localizable.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Dexcom G5" xml:space="preserve">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="Peripheral command was invalid" xml:space="preserve">
         <source>Peripheral command was invalid</source>
-        <target>Peripheral command was invalid</target>
+        <target>La commande périphérique a retourné une commande invalide</target>
         <note>invlid config error description</note>
       </trans-unit>
       <trans-unit id="Peripheral did not respond in time" xml:space="preserve">
@@ -165,7 +165,7 @@
   </file>
   <file original="CGMBLEKit/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -177,7 +177,7 @@
   </file>
   <file original="CGMBLEKitG5Plugin/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -187,14 +187,14 @@
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source>Copyright © 2019 LoopKit Authors. All rights reserved.</source>
-        <target>Copyright © 2019 LoopKit Authors. All rights reserved.</target>
+        <target>Copyright © 2020 l'équipe LoopKit. Tous droits réservés.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="CGMBLEKitG6Plugin/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -204,14 +204,14 @@
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source>Copyright © 2019 LoopKit Authors. All rights reserved.</source>
-        <target>Copyright © 2019 LoopKit Authors. All rights reserved.</target>
+        <target>Copyright © 2019 l'équipe LoopKit. Tous droits réservés.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="CGMBLEKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="%@/min" xml:space="preserve">
@@ -257,7 +257,7 @@ Title text for the button to remove a CGM from Loop</note>
       </trans-unit>
       <trans-unit id="Latest Connection" xml:space="preserve">
         <source>Latest Connection</source>
-        <target>Latest Connection</target>
+        <target>Dernière connexion</target>
         <note>Section title for latest connection date</note>
       </trans-unit>
       <trans-unit id="Latest Reading" xml:space="preserve">
@@ -272,7 +272,7 @@ Title text for the button to remove a CGM from Loop</note>
       </trans-unit>
       <trans-unit id="Remote Data Synchronization" xml:space="preserve">
         <source>Remote Data Synchronization</source>
-        <target>Remote Data Synchronization</target>
+        <target>Synchronisation des données à distance</target>
         <note>Section title for remote data synchronization</note>
       </trans-unit>
       <trans-unit id="Session Age" xml:space="preserve">
@@ -302,14 +302,14 @@ Title text for the button to remove a CGM from Loop</note>
       </trans-unit>
       <trans-unit id="Upload Readings" xml:space="preserve">
         <source>Upload Readings</source>
-        <target>Upload Readings</target>
+        <target>Envoyer les données</target>
         <note>The title text for the upload glucose switch cell</note>
       </trans-unit>
     </body>
   </file>
   <file original="CGMBLEKitUI/Base.lproj/TransmitterManagerSetup.storyboard" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="5oU-vK-JHQ.text" xml:space="preserve">
@@ -356,7 +356,7 @@ Title text for the button to remove a CGM from Loop</note>
   </file>
   <file original="CGMBLEKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -368,7 +368,7 @@ Title text for the button to remove a CGM from Loop</note>
   </file>
   <file original="ResetTransmitter/Base.lproj/Main.storyboard" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="3SD-s3-7OM.title" xml:space="preserve">
@@ -421,12 +421,12 @@ Vous utilisez cette fonctionnalité à vos propres risques..</target>
   </file>
   <file original="ResetTransmitter/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Reset</source>
-        <target>Reset</target>
+        <target>Réinitialiser</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -436,19 +436,19 @@ Vous utilisez cette fonctionnalité à vos propres risques..</target>
       </trans-unit>
       <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">
         <source>Bluetooth is used to communicate with continuous glucose monitor devices</source>
-        <target>Bluetooth is used to communicate with continuous glucose monitor devices</target>
+        <target>Le bluetooth est utilisé pour communiquer avec les dispositifs de surveillance continue de la glycémie</target>
         <note>Privacy - Bluetooth Always Usage Description</note>
       </trans-unit>
       <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve">
         <source>Bluetooth is used to communicate with continuous glucose monitor devices</source>
-        <target>Bluetooth is used to communicate with continuous glucose monitor devices</target>
+        <target>Le bluetooth est utilisé pour communiquer avec les dispositifs de surveillance continue de la glycémie</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
       </trans-unit>
     </body>
   </file>
   <file original="ResetTransmitter/en.lproj/Localizable.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Are you sure you want to reset this transmitter?" xml:space="preserve">

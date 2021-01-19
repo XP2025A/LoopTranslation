@@ -2,12 +2,12 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Common/Base.lproj/Intents.intentdefinition" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="9KhaIS" xml:space="preserve">
         <source>I've set the preset</source>
-        <target>I've set the preset</target>
+        <target>Ik heb de preset ingesteld</target>
         <note/>
       </trans-unit>
       <trans-unit id="80eo5o" xml:space="preserve">
@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="I4OZy8" xml:space="preserve">
         <source>Enable Override Preset</source>
-        <target>Enable Override Preset</target>
+        <target>Aangepast programma inschakelen</target>
         <note/>
       </trans-unit>
       <trans-unit id="OcNxIj" xml:space="preserve">
@@ -27,37 +27,37 @@
       </trans-unit>
       <trans-unit id="XNNmtH" xml:space="preserve">
         <source>Enable preset in Loop</source>
-        <target>Enable preset in Loop</target>
+        <target>Preset inschakelen in Loop</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZZ3mtM" xml:space="preserve">
         <source>Enable an override preset in Loop</source>
-        <target>Enable an override preset in Loop</target>
+        <target>Schakel een aangepast programma in Loop in</target>
         <note/>
       </trans-unit>
       <trans-unit id="b085BW" xml:space="preserve">
         <source>I wasn't able to set the preset.</source>
-        <target>I wasn't able to set the preset.</target>
+        <target>Ik kon de Preset niet instellen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="lYMuWV" xml:space="preserve">
         <source>Override Name</source>
-        <target>Override Name</target>
+        <target>Naam aangepast programma</target>
         <note/>
       </trans-unit>
       <trans-unit id="nDKAmn" xml:space="preserve">
         <source>What's the name of the override you'd like to set?</source>
-        <target>What's the name of the override you'd like to set?</target>
+        <target>Wat is de naam van het aangepaste programma welke je wilt instellen?</target>
         <note/>
       </trans-unit>
       <trans-unit id="oLQSsJ" xml:space="preserve">
         <source>Enable '${overrideName}' Override Preset</source>
-        <target>Enable '${overrideName}' Override Preset</target>
+        <target>Aangepast programma van${overrideName} inschakelen</target>
         <note/>
       </trans-unit>
       <trans-unit id="yBzwCL" xml:space="preserve">
         <source>Override Selection</source>
-        <target>Override Selection</target>
+        <target>Aangepaste programma's selectie</target>
         <note/>
       </trans-unit>
       <trans-unit id="yc02Yq" xml:space="preserve">
@@ -69,7 +69,7 @@
   </file>
   <file original="Common/en.lproj/Localizable.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
@@ -171,7 +171,7 @@
   </file>
   <file original="DoseMathTests/Base.lproj/Localizable.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
@@ -186,7 +186,7 @@
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your glucose safety limit setting." xml:space="preserve">
         <source>Predicted glucose of %1$@ is below your glucose safety limit setting.</source>
-        <target>Predicted glucose of %1$@ is below your glucose safety limit setting.</target>
+        <target>Verwachte glucose van %1$@ is lager dan de insuline veiligheid drempel.</target>
         <note>Notice message when recommending bolus when BG is below the glucose safety limit. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve">
@@ -228,7 +228,7 @@
   </file>
   <file original="DoseMathTests/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -240,7 +240,7 @@
   </file>
   <file original="Learn/Base.lproj/Main.storyboard" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="8hF-Ij-B7m.title" xml:space="preserve">
@@ -252,7 +252,7 @@
   </file>
   <file original="Learn/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -269,7 +269,7 @@
   </file>
   <file original="Loop Intent Extension/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -286,7 +286,7 @@
   </file>
   <file original="Loop Intent Extension/en.lproj/Localizable.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
@@ -298,7 +298,7 @@
   </file>
   <file original="Loop Status Extension/Base.lproj/Localizable.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="%1$@" xml:space="preserve">
@@ -380,7 +380,7 @@
   </file>
   <file original="Loop Status Extension/Base.lproj/MainInterface.storyboard" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="9iF-xY-Bh4.text" xml:space="preserve">
@@ -407,7 +407,7 @@
   </file>
   <file original="Loop Status Extension/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -424,7 +424,7 @@
   </file>
   <file original="Loop/Base.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -469,14 +469,14 @@
       </trans-unit>
       <trans-unit id="NSSiriUsageDescription" xml:space="preserve">
         <source>Loop uses Siri to allow you to set override presets with your voice.</source>
-        <target>Loop uses Siri to allow you to set override presets with your voice.</target>
+        <target>Loop gebruikt Siri om aangepaste programma's met je stem in te stellen.</target>
         <note>Privacy - Siri Usage Description</note>
       </trans-unit>
     </body>
   </file>
   <file original="Loop/Base.lproj/Localizable.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="&#10;            Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.&#10;            " xml:space="preserve">
@@ -513,12 +513,12 @@
       </trans-unit>
       <trans-unit id=" Pre-meal Preset" xml:space="preserve">
         <source> Pre-meal Preset</source>
-        <target> Pre-meal Preset</target>
+        <target> Voor de maaltijd programma</target>
         <note>Status row title for premeal override enabled (leading space is to separate from symbol)</note>
       </trans-unit>
       <trans-unit id=" Workout Preset" xml:space="preserve">
         <source> Workout Preset</source>
-        <target> Workout Preset</target>
+        <target> Training programma</target>
         <note>Status row title for workout override enabled (leading space is to separate from symbol)</note>
       </trans-unit>
       <trans-unit id="%1$@ %2$@" xml:space="preserve">
@@ -535,6 +535,10 @@
         <source>%1$@ + %2$@</source>
         <target>%1$@ + %2$@</target>
         <note>Formats (1: carb start time) and (2: carb absorption duration)</note>
+      </trans-unit>
+      <trans-unit id="%1$@ U" xml:space="preserve">
+        <source>%1$@ U</source>
+        <note>Reservoir entry (1: volume value)</note>
       </trans-unit>
       <trans-unit id="%1$@ U left" xml:space="preserve">
         <source>%1$@ U left</source>
@@ -555,7 +559,7 @@
         <source>%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
 
 </source>
-        <target>%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
+        <target>%1$@ werkt met Closed Loop op op de UIT-positie. Je pomp en CGM blijven werken, maar je basale insuline worden niet automatisch aangepast.
 
 </target>
         <note>Alert message for closed loop off informational modal. (1: app name)</note>
@@ -581,6 +585,11 @@ U kunt enkele minuten wachten om te zien of het probleem oplost of op de knop hi
         <source>%1$@: %2$@</source>
         <target>%1$@: %2$@</target>
         <note>Formats (1: carb value) and (2: food type)</note>
+      </trans-unit>
+      <trans-unit id="%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@" xml:space="preserve">
+        <source>%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</source>
+        <note>Description of a basal temp basal dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)
+   Description of a bolus dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)</note>
       </trans-unit>
       <trans-unit id="%@ %@" xml:space="preserve">
         <source>%1$@ %2$@</source>
@@ -624,7 +633,7 @@ U kunt enkele minuten wachten om te zien of het probleem oplost of op de knop hi
       </trans-unit>
       <trans-unit id="A manual glucose entry must be between %1$@ and %2$@" xml:space="preserve">
         <source>A manual glucose entry must be between %1$@ and %2$@</source>
-        <target>A manual glucose entry must be between %1$@ and %2$@</target>
+        <target>Een handmatige glucose invoer moet tussen %1$@ en %2$@ liggen</target>
         <note>Alert message for a manual glucose entry out of range error. (1: acceptable lower bound) (2: acceptable upper bound)</note>
       </trans-unit>
       <trans-unit id="A manual glucose entry must be between %@ and %@" xml:space="preserve">
@@ -721,7 +730,7 @@ U kunt enkele minuten wachten om te zien of het probleem oplost of op de knop hi
       </trans-unit>
       <trans-unit id="Adjusted for" xml:space="preserve">
         <source>Adjusted for</source>
-        <target>Adjusted for</target>
+        <target>Aangepast voor</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Alert Permissions" xml:space="preserve">
@@ -760,6 +769,18 @@ U kunt enkele minuten wachten om te zien of het probleem oplost of op de knop hi
         <target>Er is een bijgewerkte bolusaanbeveling beschikbaar.</target>
         <note>Alert message when glucose data returns while on bolus screen</note>
       </trans-unit>
+      <trans-unit id="Are you sure you want to delete all history entries?" xml:space="preserve">
+        <source>Are you sure you want to delete all history entries?</source>
+        <note>Action sheet confirmation message for pump history deletion</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete all logged dose entries?" xml:space="preserve">
+        <source>Are you sure you want to delete all logged dose entries?</source>
+        <note>Action sheet confirmation message for logged dose deletion</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete all reservoir values?" xml:space="preserve">
+        <source>Are you sure you want to delete all reservoir values?</source>
+        <note>Action sheet confirmation message for reservoir deletion</note>
+      </trans-unit>
       <trans-unit id="Are you sure you want to delete all your %@ Data?&#10;(This action is not reversible)" xml:space="preserve">
         <source>Are you sure you want to delete all your %@ Data?
 (This action is not reversible)</source>
@@ -781,6 +802,10 @@ U kunt enkele minuten wachten om te zien of het probleem oplost of op de knop hi
         <source>Authenticate to Bolus %@ Units</source>
         <target>Authenticeer om te bolussen %@ Eenheden</target>
         <note>The message displayed during a device authentication prompt for bolus specification</note>
+      </trans-unit>
+      <trans-unit id="Authenticate to log %@ Units" xml:space="preserve">
+        <source>Authenticate to log %@ Units</source>
+        <note>The message displayed during a device authentication prompt to log an insulin dose</note>
       </trans-unit>
       <trans-unit id="Basal Rate Schedule" xml:space="preserve">
         <source>Basal Rate Schedule</source>
@@ -860,7 +885,7 @@ niet beschikbaar</target>
       </trans-unit>
       <trans-unit id="Carb Entry Too Large" xml:space="preserve">
         <source>Carb Entry Too Large</source>
-        <target>Carb Entry Too Large</target>
+        <target>Koolhydraten Invoer te groot</target>
         <note>Alert title for a carb entry too large error</note>
       </trans-unit>
       <trans-unit id="Carb Ratios" xml:space="preserve">
@@ -921,12 +946,12 @@ niet beschikbaar</target>
       </trans-unit>
       <trans-unit id="Closed Loop OFF" xml:space="preserve">
         <source>Closed Loop OFF</source>
-        <target>Closed Loop OFF</target>
+        <target>Closed Loop UIT</target>
         <note>Alert title for closed loop off informational modal</note>
       </trans-unit>
       <trans-unit id="Closed Loop requires an active CGM Sensor Session" xml:space="preserve">
         <source>Closed Loop requires an active CGM Sensor Session</source>
-        <target>Closed Loop requires an active CGM Sensor Session</target>
+        <target>Closed Loop vereist een actieve CGM Sensor Sessie</target>
         <note>The description text for the looping enabled switch cell when closed loop is not allowed</note>
       </trans-unit>
       <trans-unit id="Configuration" xml:space="preserve">
@@ -967,7 +992,7 @@ niet beschikbaar</target>
       </trans-unit>
       <trans-unit id="Current Glucose" xml:space="preserve">
         <source>Current Glucose</source>
-        <target>Current Glucose</target>
+        <target>Huidige Glucose</target>
         <note>Label for glucose entry row on simple bolus screen</note>
       </trans-unit>
       <trans-unit id="Current glucose of %1$@ is below correction range." xml:space="preserve">
@@ -990,6 +1015,10 @@ niet beschikbaar</target>
         <target>Klant token</target>
         <note>The title of the Loggly customer token credential</note>
       </trans-unit>
+      <trans-unit id="Date" xml:space="preserve">
+        <source>Date</source>
+        <note>Date picker label</note>
+      </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
         <target>Verwijderen</target>
@@ -999,6 +1028,10 @@ niet beschikbaar</target>
         <source>Delete Account</source>
         <target>Verwijder account</target>
         <note>The title of the button to remove the credentials for a service</note>
+      </trans-unit>
+      <trans-unit id="Delete All" xml:space="preserve">
+        <source>Delete All</source>
+        <note>Button title to delete all objects</note>
       </trans-unit>
       <trans-unit id="Delete CGM" xml:space="preserve">
         <source>Delete CGM</source>
@@ -1057,6 +1090,10 @@ niet beschikbaar</target>
         <target>Voltooid</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Dose Summary" xml:space="preserve">
+        <source>Dose Summary</source>
+        <note>Title for card to log dose</note>
+      </trans-unit>
       <trans-unit id="Enable&#10;Bluetooth" xml:space="preserve">
         <source>Enable
 Bluetooth</source>
@@ -1085,7 +1122,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Enter glucose safety limit" xml:space="preserve">
         <source>Enter glucose safety limit</source>
-        <target>Enter glucose safety limit</target>
+        <target>Voer glucose veiligheidslimiet in</target>
         <note>The placeholder text instructing users to enter a glucose safety limit</note>
       </trans-unit>
       <trans-unit id="Enter suspend threshold" xml:space="preserve">
@@ -1107,6 +1144,10 @@ Bluetooth</source>
         <source>Error Resuming</source>
         <target>Fout bij vervolgen</target>
         <note>The alert title for a resume error</note>
+      </trans-unit>
+      <trans-unit id="Event History" xml:space="preserve">
+        <source>Event History</source>
+        <note>Segmented button title for insulin delivery log event history</note>
       </trans-unit>
       <trans-unit id="Eventually %@" xml:space="preserve">
         <source>Eventually %@</source>
@@ -1230,10 +1271,18 @@ Bluetooth</source>
         <target>Insuline tijdelijk uitgeschakeld</target>
         <note>The title of the cell indicating the pump is suspended</note>
       </trans-unit>
+      <trans-unit id="Insulin Type" xml:space="preserve">
+        <source>Insulin Type</source>
+        <note>Insulin type label</note>
+      </trans-unit>
       <trans-unit id="Insulin effects" xml:space="preserve">
         <source>Insulin effects</source>
         <target>Insuline impact</target>
         <note>Details for missing data error when insulin effects are missing</note>
+      </trans-unit>
+      <trans-unit id="Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@" xml:space="preserve">
+        <source>Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@</source>
+        <note>Description of an interrupted bolus dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: programmed value (? if no value), 4: unit)</note>
       </trans-unit>
       <trans-unit id="Invalid Adverse Event Report URL" xml:space="preserve">
         <source>Invalid Adverse Event Report URL</source>
@@ -1269,6 +1318,15 @@ Bluetooth</source>
         <source>Loading...</source>
         <target>Laden...</target>
         <note>The loading message for the diagnostic report screen</note>
+      </trans-unit>
+      <trans-unit id="Log Dose" xml:space="preserve">
+        <source>Log Dose</source>
+        <note>Button text to log a dose
+   Title for dose logging screen</note>
+      </trans-unit>
+      <trans-unit id="Logged Insulin Dose" xml:space="preserve">
+        <source>Logged Insulin Dose</source>
+        <note>The title of the screen displaying a logged insulin dose</note>
       </trans-unit>
       <trans-unit id="Loop Failure" xml:space="preserve">
         <source>Loop Failure</source>
@@ -1342,7 +1400,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="No Recent Glucose" xml:space="preserve">
         <source>No Recent Glucose</source>
-        <target>No Recent Glucose</target>
+        <target>Geen recente glucosegegevens</target>
         <note>The title of the cell indicating that there is no recent glucose</note>
       </trans-unit>
       <trans-unit id="No Recent Glucose Data" xml:space="preserve">
@@ -1383,7 +1441,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your glucose safety limit setting." xml:space="preserve">
         <source>Predicted glucose of %1$@ is below your glucose safety limit setting.</source>
-        <target>Predicted glucose of %1$@ is below your glucose safety limit setting.</target>
+        <target>Voorspelde glucose van %1$@ is lager dan uw glucose veiligheidslimiet instelling.</target>
         <note>Notice message when recommending bolus when BG is below the glucose safety limit. (1: glucose value)</note>
       </trans-unit>
       <trans-unit id="Predicted glucose of %1$@ is below your suspend threshold setting." xml:space="preserve">
@@ -1412,6 +1470,10 @@ Actueel: %2$@ (%3$@)</target>
         <source>Pump Battery Low</source>
         <target>Pomp batterij bijna leeg</target>
         <note>The notification title for a low pump battery</note>
+      </trans-unit>
+      <trans-unit id="Pump Event" xml:space="preserve">
+        <source>Pump Event</source>
+        <note>The title of the screen displaying a pump event</note>
       </trans-unit>
       <trans-unit id="Pump Manager" xml:space="preserve">
         <source>Pump Manager</source>
@@ -1516,12 +1578,12 @@ Actueel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Simple Bolus Calculator" xml:space="preserve">
         <source>Simple Bolus Calculator</source>
-        <target>Simple Bolus Calculator</target>
+        <target>Eenvoudige Bolus Calculator</target>
         <note>Title of simple bolus view when not displaying meal entry</note>
       </trans-unit>
       <trans-unit id="Simple Meal Calculator" xml:space="preserve">
         <source>Simple Meal Calculator</source>
-        <target>Simple Meal Calculator</target>
+        <target>Eenvoudige maaltijdcalculator</target>
         <note>Title of simple bolus view when displaying meal entry</note>
       </trans-unit>
       <trans-unit id="Site URL" xml:space="preserve">
@@ -1564,7 +1626,7 @@ Actueel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Tap to Add" xml:space="preserve">
         <source>Tap to Add</source>
-        <target>Tap to Add</target>
+        <target>Druk om in te stellen</target>
         <note>The subtitle of the cell displaying an action to add a manually measurement glucose value</note>
       </trans-unit>
       <trans-unit id="Tap to Resume" xml:space="preserve">
@@ -1594,12 +1656,12 @@ Actueel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The maximum allowed amount is %1$@ grams" xml:space="preserve">
         <source>The maximum allowed amount is %1$@ grams</source>
-        <target>The maximum allowed amount is %1$@ grams</target>
+        <target>De maximum toegestane waarde is %1$@ gram</target>
         <note>Alert body displayed for quantity greater than max (1: maximum quantity in grams)</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %1$@ U." xml:space="preserve">
         <source>The maximum bolus amount is %1$@ U.</source>
-        <target>The maximum bolus amount is %1$@ U.</target>
+        <target>De maximale bolushoeveelheid is %1$@ Eenheden.</target>
         <note>Format string for maximum bolus exceeded alert (1: maximumBolusAmount)</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ U." xml:space="preserve">
@@ -1624,12 +1686,12 @@ Actueel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Time" xml:space="preserve">
         <source>Time</source>
-        <target>Time</target>
+        <target>Tijd</target>
         <note>Title of the carb entry date picker cell</note>
       </trans-unit>
       <trans-unit id="Time Change Detected" xml:space="preserve">
         <source>Time Change Detected</source>
-        <target>Time Change Detected</target>
+        <target>Tijdsverandering gedetecteerd</target>
         <note>Time change alert title</note>
       </trans-unit>
       <trans-unit id="Try Again" xml:space="preserve">
@@ -1667,19 +1729,23 @@ Actueel: %2$@ (%3$@)</target>
         <target>Niet in staat om de bolus te stoppen. Verplaats je iPhone dichter bij de pomp en probeer het opnieuw. Controleer de geschiedenis van de toediening van uw insuline voor meer informatie en houd uw glucose nauwlettend in het oog.</target>
         <note>The alert body for an error while canceling a bolus</note>
       </trans-unit>
+      <trans-unit id="Unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <note>The default description to use when an entry has no dose description</note>
+      </trans-unit>
       <trans-unit id="Until I enter carbs" xml:space="preserve">
         <source>Until I enter carbs</source>
-        <target>Until I enter carbs</target>
+        <target>Tot ik koolhydraten invul</target>
         <note>The title of a target alert action specifying pre-meal targets duration for 1 hour or until the user enters carbs (whichever comes first).</note>
       </trans-unit>
       <trans-unit id="Until I turn off" xml:space="preserve">
         <source>Until I turn off</source>
-        <target>Until I turn off</target>
+        <target>Totdat je uitschakelt</target>
         <note>The title of a target alert action specifying workout targets duration until it is turned off by the user</note>
       </trans-unit>
       <trans-unit id="Use Pre-Meal Preset" xml:space="preserve">
         <source>Use Pre-Meal Preset</source>
-        <target>Use Pre-Meal Preset</target>
+        <target>Gebruik voor de maaltijd programma</target>
         <note>The title of the alert controller used to select a duration for pre-meal targets</note>
       </trans-unit>
       <trans-unit id="Use Workout Glucose Targets" xml:space="preserve">
@@ -1689,7 +1755,7 @@ Actueel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Use Workout Preset" xml:space="preserve">
         <source>Use Workout Preset</source>
-        <target>Use Workout Preset</target>
+        <target>Gebruik trainings programma</target>
         <note>The title of the alert controller used to select a duration for workout targets</note>
       </trans-unit>
       <trans-unit id="Walsh" xml:space="preserve">
@@ -1699,7 +1765,7 @@ Actueel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
         <source>When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</source>
-        <target>When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</target>
+        <target>Wanneer de huidige of voorspelde glucose onder de glucoseveiligheidsgrens ligt, zal Loop een bolus niet aanbevelen en zal het altijd een tijdelijke basissnelheid van 0 eenheden per uur aanbevelen.</target>
         <note>Explanation of glucose safety limit</note>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
@@ -1709,7 +1775,7 @@ Actueel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump." xml:space="preserve">
         <source>When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump.</source>
-        <target>When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump.</target>
+        <target>Wanneer de app uit de Closed Loop-modus komt, gebruikt hij een vereenvoudigde boluscalculator zoals een typische pomp.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Workout Targets" xml:space="preserve">
@@ -1719,22 +1785,22 @@ Actueel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Workout Temp Adjust Still On" xml:space="preserve">
         <source>Workout Temp Adjust Still On</source>
-        <target>Workout Temp Adjust Still On</target>
+        <target>Aangepast trainings programma staat nog steeds aan</target>
         <note>Workout override still on reminder alert title</note>
       </trans-unit>
       <trans-unit id="Workout Temp Adjust has been turned on for more than 24 hours. Make sure you still want it enabled, or turn it off in the app." xml:space="preserve">
         <source>Workout Temp Adjust has been turned on for more than 24 hours. Make sure you still want it enabled, or turn it off in the app.</source>
-        <target>Workout Temp Adjust has been turned on for more than 24 hours. Make sure you still want it enabled, or turn it off in the app.</target>
+        <target>Aangepast trainings programma is meer dan 24 uur ingeschakeld. Zorg ervoor dat je deze nog steeds wilt inschakelen of schakel deze uit in de app.</target>
         <note>Workout override still on reminder alert body.</note>
       </trans-unit>
       <trans-unit id="Your glucose is below or predicted to go below your glucose safety limit, %@." xml:space="preserve">
         <source>Your glucose is below or predicted to go below your glucose safety limit, %@.</source>
-        <target>Your glucose is below or predicted to go below your glucose safety limit, %@.</target>
+        <target>Uw glucose is lager of is voorspeld lager te gaan dan uw glucose veiligheidslimiet, %@.</target>
         <note>Caption for bolus screen notice when no bolus is recommended due to prediction dropping below glucose safety limit</note>
       </trans-unit>
       <trans-unit id="Your glucose is below your glucose safety limit, %1$@." xml:space="preserve">
         <source>Your glucose is below your glucose safety limit, %1$@.</source>
-        <target>Your glucose is below your glucose safety limit, %1$@.</target>
+        <target>Uw glucose is onder uw glucose veiligheidslimiet, %1$@.</target>
         <note>Format string for bolus screen notice when no bolus is recommended due input value below glucose safety limit. (1: suspendThreshold)</note>
       </trans-unit>
       <trans-unit id="Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating." xml:space="preserve">
@@ -1746,9 +1812,9 @@ Actueel: %2$@ (%3$@)</target>
         <source>Your phone’s time has been changed. %1$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.
 
 Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Automatically is enabled. Failure to resolve could lead to serious under-delivery or over-delivery of insulin.</source>
-        <target>Your phone’s time has been changed. %1$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.
+        <target>De tijd van je telefoon is veranderd. %1$@ heeft nauwkeurige tijdrecords nodig om voorspellingen over je glucose te maken en je insuline dienovereenkomstig aan te passen.
 
-Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Automatically is enabled. Failure to resolve could lead to serious under-delivery or over-delivery of insulin.</target>
+Check in je iPhone-instellingen (Algemene / Datum &amp; Tijd) en controleer of de instelling Automatisch is ingeschakeld. Het niet oplossen van problemen kan leiden tot ernstige onderlevering of overmatige toediening van insuline.</target>
         <note>Time change alert body. (1: app name)</note>
       </trans-unit>
       <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve">
@@ -1770,6 +1836,14 @@ Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Au
         <source>Edit Carb Entry</source>
         <target>Koolhydraten invoer bewerken</target>
         <note>The title of the view controller to edit an existing carb entry</note>
+      </trans-unit>
+      <trans-unit id="com.loudnate.InsulinKit.IOBDateLabel" xml:space="preserve">
+        <source>at %1$@</source>
+        <note>The format string describing the date of an IOB value. The first format argument is the localized date.</note>
+      </trans-unit>
+      <trans-unit id="com.loudnate.InsulinKit.totalDateLabel" xml:space="preserve">
+        <source>since %1$@</source>
+        <note>The format string describing the starting date of a total value. The first format argument is the localized date.</note>
       </trans-unit>
       <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve">
         <source>OK</source>
@@ -1835,7 +1909,7 @@ Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Au
   </file>
   <file original="Loop/Base.lproj/Main.storyboard" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="0RV-d5-muE.text" xml:space="preserve">
@@ -2022,7 +2096,7 @@ Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Au
   </file>
   <file original="LoopCore/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -2034,7 +2108,7 @@ Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Au
   </file>
   <file original="LoopCore/en.lproj/Localizable.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
@@ -2046,7 +2120,7 @@ Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Au
   </file>
   <file original="LoopUI/Base.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -2063,7 +2137,7 @@ Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Au
   </file>
   <file original="LoopUI/Base.lproj/Localizable.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="&#10;%1$@ has not completed a loop successfully in over 15 minutes.&#10;&#10;Tap your CGM and insulin pump status icons for more information. %1$@ will continue trying to complete a loop, but check for potential communication issues with your pump and CGM." xml:space="preserve">
@@ -2072,9 +2146,9 @@ Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Au
 
 Tap your CGM and insulin pump status icons for more information. %1$@ will continue trying to complete a loop, but check for potential communication issues with your pump and CGM.</source>
         <target>
-%1$@ has not completed a loop successfully in over 15 minutes.
+%1$@ heeft geen succesvolle Loop voltooid in meer dan 15 minuten.
 
-Tap your CGM and insulin pump status icons for more information. %1$@ will continue trying to complete a loop, but check for potential communication issues with your pump and CGM.</target>
+Tik op je CGM en insuline pomp statuspictogrammen voor meer informatie. %1$@ zal blijven proberen een Loop te voltooien, maar controleer op potentiële communicatieproblemen met je pomp en CGM.</target>
         <note>Red loop message (1: app name) (2: app name)</note>
       </trans-unit>
       <trans-unit id="&#10;%1$@ has not completed a loop successfully in the past 5-15 minutes.&#10;&#10;Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM." xml:space="preserve">
@@ -2083,9 +2157,9 @@ Tap your CGM and insulin pump status icons for more information. %1$@ will conti
 
 Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM.</source>
         <target>
-%1$@ has not completed a loop successfully in the past 5-15 minutes.
+%1$@ heeft geen succesvolle Loop voltooid in meer dan 5-15 minuten.
 
-Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM.</target>
+Tik op je CGM en insuline pomp statuspictogrammen voor meer informatie. %1$@ zal blijven proberen een Loop te voltooien, maar controleer op potentiële communicatieproblemen met je pomp en CGM.</target>
         <note>Yellow loop message (1: app name) (2: app name)</note>
       </trans-unit>
       <trans-unit id="&#10;%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.&#10;&#10;Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin." xml:space="preserve">
@@ -2094,16 +2168,16 @@ Tap your CGM and insulin pump status icons for more information. %2$@ will conti
 
 Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin.</source>
         <target>
-%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
+%1$@ werkt met Closed Loop op op de UIT-positie. Je pomp en CGM blijven werken, maar je basale insuline worden niet automatisch aangepast.
 
-Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin.</target>
+Tik op Instellingen om Closed Loop AAN te schakelen als je wilt dat de app je insuline automatiseren.</target>
         <note>Green closed loop OFF message (1: app name)</note>
       </trans-unit>
       <trans-unit id="&#10;%1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes." xml:space="preserve">
         <source>
 %1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes.</source>
         <target>
-%1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes.</target>
+%1$@ werkt met Closed Loop in de ON positie. Uw laatste Loop is succesvol geweest in de laatste 5 minuten.</target>
         <note>Green closed loop ON message (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ at %2$@" xml:space="preserve">
@@ -2138,12 +2212,12 @@ Tap Settings to toggle Closed Loop ON if you wish for the app to automate your i
       </trans-unit>
       <trans-unit id="Closed Loop OFF" xml:space="preserve">
         <source>Closed Loop OFF</source>
-        <target>Closed Loop OFF</target>
+        <target>Closed Loop UIT</target>
         <note>Title of green open loop OFF message</note>
       </trans-unit>
       <trans-unit id="Closed Loop ON" xml:space="preserve">
         <source>Closed Loop ON</source>
-        <target>Closed Loop ON</target>
+        <target>Closed Loop AAN</target>
         <note>Title of green closed loop ON message</note>
       </trans-unit>
       <trans-unit id="Closed loop" xml:space="preserve">
@@ -2163,7 +2237,7 @@ Tap Settings to toggle Closed Loop ON if you wish for the app to automate your i
       </trans-unit>
       <trans-unit id="Loop Failure" xml:space="preserve">
         <source>Loop Failure</source>
-        <target>Loop Failure</target>
+        <target>Loop Fout</target>
         <note>Title of red loop message
    Title of yellow loop message</note>
       </trans-unit>
@@ -2231,7 +2305,7 @@ Tap Settings to toggle Closed Loop ON if you wish for the app to automate your i
   </file>
   <file original="WatchApp Extension/Base.lproj/Localizable.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="%1$@ – %2$@ %3$@" xml:space="preserve">
@@ -2440,7 +2514,7 @@ om te bolussen</target>
   </file>
   <file original="WatchApp Extension/en.lproj/ckcomplication.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="UtilitarianLargeFlat" xml:space="preserve">
@@ -2452,7 +2526,7 @@ om te bolussen</target>
   </file>
   <file original="WatchApp Extension/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -2469,7 +2543,7 @@ om te bolussen</target>
   </file>
   <file original="WatchApp/Base.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -2486,7 +2560,7 @@ om te bolussen</target>
   </file>
   <file original="WatchApp/Base.lproj/Interface.storyboard" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CsQ-fc-KLC.text" xml:space="preserve">
