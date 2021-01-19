@@ -2,7 +2,7 @@
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="LoopKit Example/Base.lproj/Main.storyboard" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="7bK-jq-Zjz.title" xml:space="preserve">
@@ -24,7 +24,7 @@
   </file>
   <file original="LoopKit Example/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -46,7 +46,7 @@
   </file>
   <file original="LoopKit Example/en.lproj/Localizable.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Basal Rates" xml:space="preserve">
@@ -119,7 +119,7 @@
   </file>
   <file original="LoopKit/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -141,7 +141,7 @@
   </file>
   <file original="LoopKit/en.lproj/Localizable.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="%1$@ U bolus failed" xml:space="preserve">
@@ -153,11 +153,6 @@
         <source>%1$@ U bolus may not have succeeded</source>
         <target state="translated">%1$@ IE bolus wurde wohl nicht abgegeben</target>
         <note>Describes an uncertain bolus failure (1: size of the bolus in units)</note>
-      </trans-unit>
-      <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." xml:space="preserve">
-        <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.</source>
-        <target state="translated">%1$@ geht davon aus, dass Insulin 6 Stunden lang aktiv arbeitet. Sie können aus verschiedenen Modellen auswählen, wie die App die Spitzenaktivität des Insulins misst.</target>
-        <note>Descriptive text for insulin model (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." xml:space="preserve">
         <source>%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.</source>
@@ -178,6 +173,21 @@
         <source>A value you have entered is lower than what is typically recommended for most people.</source>
         <target state="translated">Ein eingegebener Wert ist niedriger als der Wert, der normalerweise für die meisten Personen empfohlen wird.</target>
         <note>Descriptive text for guardrail low value warning for schedule interface</note>
+      </trans-unit>
+      <trans-unit id="Apidra" xml:space="preserve">
+        <source>Apidra</source>
+        <target state="needs-translation">Apidra</target>
+        <note>Brand name for apidra insulin type</note>
+      </trans-unit>
+      <trans-unit id="Apidra (insulin glulisine)" xml:space="preserve">
+        <source>Apidra (insulin glulisine)</source>
+        <target state="needs-translation">Apidra (insulin glulisine)</target>
+        <note>Title for Apidra insulin type</note>
+      </trans-unit>
+      <trans-unit id="Apidra (insulin glulisine) is a fast-acting insulin made by Sanofi-aventis " xml:space="preserve">
+        <source>Apidra (insulin glulisine) is a fast-acting insulin made by Sanofi-aventis </source>
+        <target state="needs-translation">Apidra (insulin glulisine) is a fast-acting insulin made by Sanofi-aventis </target>
+        <note>Description for apidra insulin type</note>
       </trans-unit>
       <trans-unit id="Authorization Denied" xml:space="preserve">
         <source>Authorization Denied</source>
@@ -264,20 +274,51 @@
         <target state="translated">Fällt sehr schnell</target>
         <note>Glucose trend down-down-down</note>
       </trans-unit>
+      <trans-unit id="Fiasp" xml:space="preserve">
+        <source>Fiasp</source>
+        <target state="needs-translation">Fiasp</target>
+        <note>Brand name for fiasp insulin type
+   Title for Fiasp insulin type</note>
+      </trans-unit>
+      <trans-unit id="Fiasp is a mealtime insulin aspart formulation with the addition of nicotinamide (vitamin B3) made by Novo Nordisk" xml:space="preserve">
+        <source>Fiasp is a mealtime insulin aspart formulation with the addition of nicotinamide (vitamin B3) made by Novo Nordisk</source>
+        <target state="needs-translation">Fiasp is a mealtime insulin aspart formulation with the addition of nicotinamide (vitamin B3) made by Novo Nordisk</target>
+        <note>Description for fiasp insulin type</note>
+      </trans-unit>
       <trans-unit id="Flat" xml:space="preserve">
         <source>Flat</source>
         <target state="translated">Gleichbleibend</target>
         <note>Glucose trend flat</note>
+      </trans-unit>
+      <trans-unit id="For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity." xml:space="preserve">
+        <source>For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity.</source>
+        <target state="needs-translation">For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity.</target>
+        <note>Descriptive text for fast acting insulin model (1: app name)</note>
       </trans-unit>
       <trans-unit id="Glucose Safety Limit" xml:space="preserve">
         <source>Glucose Safety Limit</source>
         <target state="translated">Blutzucker-Sicherheitsgrenze</target>
         <note>Title text for glucose safety limit</note>
       </trans-unit>
+      <trans-unit id="Humalog" xml:space="preserve">
+        <source>Humalog</source>
+        <target state="needs-translation">Humalog</target>
+        <note>Brand name for humalog insulin type</note>
+      </trans-unit>
+      <trans-unit id="Humalog (insulin lispro)" xml:space="preserve">
+        <source>Humalog (insulin lispro)</source>
+        <target state="needs-translation">Humalog (insulin lispro)</target>
+        <note>Title for Humalog insulin type</note>
+      </trans-unit>
+      <trans-unit id="Humalog (insulin lispro) is a fast-acting insulin made by Eli Lilly" xml:space="preserve">
+        <source>Humalog (insulin lispro) is a fast-acting insulin made by Eli Lilly</source>
+        <target state="needs-translation">Humalog (insulin lispro) is a fast-acting insulin made by Eli Lilly</target>
+        <note>Description for humalog insulin type</note>
+      </trans-unit>
       <trans-unit id="Insulin Model" xml:space="preserve">
         <source>Insulin Model</source>
         <target state="translated">Insulin-Modell</target>
-        <note>Title text for insulin model</note>
+        <note>Title text for fast acting insulin model</note>
       </trans-unit>
       <trans-unit id="Insulin Sensitivities" xml:space="preserve">
         <source>Insulin Sensitivities</source>
@@ -328,6 +369,21 @@
         <source>No values found</source>
         <target state="translated">Keine Einträge gefunden</target>
         <note>Describes an error for no data found in a CarbStore request</note>
+      </trans-unit>
+      <trans-unit id="NovoLog (insulin aspart) is a fast-acting insulin made by Novo Nordisk" xml:space="preserve">
+        <source>NovoLog (insulin aspart) is a fast-acting insulin made by Novo Nordisk</source>
+        <target state="needs-translation">NovoLog (insulin aspart) is a fast-acting insulin made by Novo Nordisk</target>
+        <note>Description for novolog insulin type</note>
+      </trans-unit>
+      <trans-unit id="Novolog" xml:space="preserve">
+        <source>Novolog</source>
+        <target state="needs-translation">Novolog</target>
+        <note>Brand name for novolog insulin type</note>
+      </trans-unit>
+      <trans-unit id="Novolog (insulin aspart)" xml:space="preserve">
+        <source>Novolog (insulin aspart)</source>
+        <target state="needs-translation">Novolog (insulin aspart)</target>
+        <note>Title for Novolog insulin type</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
@@ -508,7 +564,7 @@
   </file>
   <file original="LoopKitUI/Base.lproj/CarbKit.storyboard" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="7xi-Om-Y53.text" xml:space="preserve">
@@ -615,7 +671,7 @@
   </file>
   <file original="LoopKitUI/Base.lproj/InsulinKit.storyboard" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="7Fi-wD-gf2.text" xml:space="preserve">
@@ -648,6 +704,11 @@
         <target state="translated">Ereignisverlauf</target>
         <note>Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[1] = "Event History"; ObjectID = "TyZ-xm-mVN";</note>
       </trans-unit>
+      <trans-unit id="TyZ-xm-mVN.segmentTitles[2]" xml:space="preserve">
+        <source>Outside Insulin</source>
+        <target state="needs-translation">Outside Insulin</target>
+        <note>Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[2] = "Outside Insulin"; ObjectID = "TyZ-xm-mVN";</note>
+      </trans-unit>
       <trans-unit id="dZi-Ta-IHm.text" xml:space="preserve">
         <source>U IOB</source>
         <target state="translated">IE IOB</target>
@@ -670,9 +731,66 @@
       </trans-unit>
     </body>
   </file>
+  <file original="LoopKitUI/Base.lproj/LegacyInsulinDeliveryTableViewController.storyboard" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+    </header>
+    <body>
+      <trans-unit id="7Fi-wD-gf2.text" xml:space="preserve">
+        <source>Title</source>
+        <target state="needs-translation">Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "7Fi-wD-gf2";</note>
+      </trans-unit>
+      <trans-unit id="7Fy-gG-Zof.text" xml:space="preserve">
+        <source>...</source>
+        <target state="needs-translation">...</target>
+        <note>Class = "UILabel"; text = "..."; ObjectID = "7Fy-gG-Zof";</note>
+      </trans-unit>
+      <trans-unit id="9jm-X6-3QA.text" xml:space="preserve">
+        <source>Detail</source>
+        <target state="needs-translation">Detail</target>
+        <note>Class = "UILabel"; text = "Detail"; ObjectID = "9jm-X6-3QA";</note>
+      </trans-unit>
+      <trans-unit id="PZQ-gO-084.text" xml:space="preserve">
+        <source>...</source>
+        <target state="needs-translation">...</target>
+        <note>Class = "UILabel"; text = "..."; ObjectID = "PZQ-gO-084";</note>
+      </trans-unit>
+      <trans-unit id="TyZ-xm-mVN.segmentTitles[0]" xml:space="preserve">
+        <source>Reservoir</source>
+        <target state="needs-translation">Reservoir</target>
+        <note>Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[0] = "Reservoir"; ObjectID = "TyZ-xm-mVN";</note>
+      </trans-unit>
+      <trans-unit id="TyZ-xm-mVN.segmentTitles[1]" xml:space="preserve">
+        <source>Event History</source>
+        <target state="needs-translation">Event History</target>
+        <note>Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[1] = "Event History"; ObjectID = "TyZ-xm-mVN";</note>
+      </trans-unit>
+      <trans-unit id="dZi-Ta-IHm.text" xml:space="preserve">
+        <source>U IOB</source>
+        <target state="needs-translation">U IOB</target>
+        <note>Class = "UILabel"; text = "U IOB"; ObjectID = "dZi-Ta-IHm";</note>
+      </trans-unit>
+      <trans-unit id="jSc-64-2tZ.text" xml:space="preserve">
+        <source>No pump configured</source>
+        <target state="needs-translation">No pump configured</target>
+        <note>Class = "UILabel"; text = "No pump configured"; ObjectID = "jSc-64-2tZ";</note>
+      </trans-unit>
+      <trans-unit id="kys-by-14s.text" xml:space="preserve">
+        <source>U Total</source>
+        <target state="needs-translation">U Total</target>
+        <note>Class = "UILabel"; text = "U Total"; ObjectID = "kys-by-14s";</note>
+      </trans-unit>
+      <trans-unit id="vls-EW-uwI.title" xml:space="preserve">
+        <source>Insulin Delivery</source>
+        <target state="needs-translation">Insulin Delivery</target>
+        <note>Class = "UINavigationItem"; title = "Insulin Delivery"; ObjectID = "vls-EW-uwI";</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="LoopKitUI/Base.lproj/Localizable.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id=" higher " xml:space="preserve">
@@ -695,11 +813,6 @@
         <source>%1$@ U</source>
         <target state="translated">%1$@ U</target>
         <note>Reservoir entry (1: volume value)</note>
-      </trans-unit>
-      <trans-unit id="%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
-        <source>%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
-        <target state="translated">%1$@ geht davon aus, dass Insulin 6 Stunden lang aktiv arbeitet. Sie können aus %2$@ verschiedenen Modellen wählen, wie die App die Spitzenaktivität des Insulins misst.</target>
-        <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="%1$@ or your Glucose Safety Limit, whichever is higher" xml:space="preserve">
         <source>%1$@ or your Glucose Safety Limit, whichever is higher</source>
@@ -1105,6 +1218,11 @@
         <source>Fiasp</source>
         <target state="translated">Fiasp</target>
         <note>Title of insulin model preset - fiasp</note>
+      </trans-unit>
+      <trans-unit id="For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." xml:space="preserve">
+        <source>For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</source>
+        <target state="needs-translation">For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.</target>
+        <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
       <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin." xml:space="preserve">
         <source>For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin.</source>
@@ -1741,14 +1859,14 @@
         <target state="translated">Sie können Einträge für verschiedene Tageszeiten hinzufügen, indem Sie ➕ verwenden.</target>
         <note>Description of how to add a range</note>
       </trans-unit>
-      <trans-unit id="You can choose how %@ measures the insulin's peak activity according to one of these two insulin models." xml:space="preserve">
-        <source>You can choose how %@ measures the insulin's peak activity according to one of these two insulin models.</source>
-        <target state="translated">Sie können wählen, wie %@ die Spitzenaktivität des Insulins nach einem dieser beiden Insulinmodelle misst.</target>
+      <trans-unit id="You can choose how %@ measures rapid acting insulin's peak activity according to one of these two insulin models." xml:space="preserve">
+        <source>You can choose how %@ measures rapid acting insulin's peak activity according to one of these two insulin models.</source>
+        <target state="needs-translation">You can choose how %@ measures rapid acting insulin's peak activity according to one of these two insulin models.</target>
         <note>Information about insulin model</note>
       </trans-unit>
-      <trans-unit id="You can choose how (appName) measures the insulin's peak activity according to one of these two insulin models." xml:space="preserve">
-        <source>You can choose how (appName) measures the insulin's peak activity according to one of these two insulin models.</source>
-        <target state="translated">Sie können auswählen, wie (appName) die Spitzenaktivität des Insulins nach einem dieser beiden Insulinmodelle misst.</target>
+      <trans-unit id="You can choose how (appName) measures rapid acting insulin's peak activity according to one of these two insulin models." xml:space="preserve">
+        <source>You can choose how (appName) measures rapid acting insulin's peak activity according to one of these two insulin models.</source>
+        <target state="needs-translation">You can choose how (appName) measures rapid acting insulin's peak activity according to one of these two insulin models.</target>
         <note>Information about insulin model</note>
       </trans-unit>
       <trans-unit id="You can edit a setting by tapping into any line item." xml:space="preserve">
@@ -1891,7 +2009,7 @@
   </file>
   <file original="LoopKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1903,7 +2021,7 @@
   </file>
   <file original="LoopTestingKit/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1915,7 +2033,7 @@
   </file>
   <file original="LoopTestingKit/en.lproj/Localizable.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Comms Issue" xml:space="preserve">
@@ -1952,7 +2070,7 @@
   </file>
   <file original="MockKit/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1964,7 +2082,7 @@
   </file>
   <file original="MockKit/en.lproj/Localizable.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="%@ has been unable to communicate with the Simulator Pump since %@.&#10;&#10;Without communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered." xml:space="preserve">
@@ -2021,6 +2139,11 @@ Ohne Kommunikation kann die App keine Befehle für die Insulinabgabe senden oder
         <target state="translated">Fehler beim Unterbrechen</target>
         <note>The alert title for a suspend error</note>
       </trans-unit>
+      <trans-unit id="Insulin Type" xml:space="preserve">
+        <source>Insulin Type</source>
+        <target state="needs-translation">Insulin Type</target>
+        <note>Controller title for insulin type selection screen</note>
+      </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
         <target state="translated">OK</target>
@@ -2050,7 +2173,7 @@ Ohne Kommunikation kann die App keine Befehle für die Insulinabgabe senden oder
   </file>
   <file original="MockKitUI/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
