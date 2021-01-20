@@ -15,19 +15,19 @@
         <target state="final">Sender-ID</target>
         <note>Class = "UILabel"; text = "Transmitter ID"; ObjectID = "5y6-vU-qC3";</note>
       </trans-unit>
-      <trans-unit id="9p7-LX-EMK.text" xml:space="preserve">
+      <trans-unit id="9p7-LX-EMK.text" xml:space="preserve" approved="yes">
         <source>Waiting for first reading</source>
-        <target state="translated">Venter på første måling</target>
+        <target state="final">Venter på første måling</target>
         <note>Class = "UILabel"; text = "Waiting for first reading"; ObjectID = "9p7-LX-EMK";</note>
       </trans-unit>
-      <trans-unit id="HEQ-Bp-kx7.normalTitle" xml:space="preserve">
+      <trans-unit id="HEQ-Bp-kx7.normalTitle" xml:space="preserve" approved="yes">
         <source>Start</source>
-        <target state="translated">Start</target>
+        <target state="final">Start</target>
         <note>Class = "UIButton"; normalTitle = "Start"; ObjectID = "HEQ-Bp-kx7";</note>
       </trans-unit>
-      <trans-unit id="HYW-Ex-7LC.normalTitle" xml:space="preserve">
+      <trans-unit id="HYW-Ex-7LC.normalTitle" xml:space="preserve" approved="yes">
         <source>Calibrate</source>
-        <target state="translated">Kalibrer</target>
+        <target state="final">Kalibrer</target>
         <note>Class = "UIButton"; normalTitle = "Calibrate"; ObjectID = "HYW-Ex-7LC";</note>
       </trans-unit>
       <trans-unit id="JAM-9K-KeE.normalTitle" xml:space="preserve" approved="yes">
@@ -35,14 +35,14 @@
         <target state="final">Stopp</target>
         <note>Class = "UIButton"; normalTitle = "Stop"; ObjectID = "JAM-9K-KeE";</note>
       </trans-unit>
-      <trans-unit id="NSs-9e-3Sl.text" xml:space="preserve">
+      <trans-unit id="NSs-9e-3Sl.text" xml:space="preserve" approved="yes">
         <source>Stay connected</source>
-        <target state="translated">Forbli tilkoblet</target>
+        <target state="final">Forbli tilkoblet</target>
         <note>Class = "UILabel"; text = "Stay connected"; ObjectID = "NSs-9e-3Sl";</note>
       </trans-unit>
-      <trans-unit id="e0T-ru-tWD.text" xml:space="preserve">
+      <trans-unit id="e0T-ru-tWD.text" xml:space="preserve" approved="yes">
         <source>500000</source>
-        <target state="translated">500000</target>
+        <target state="final">500000</target>
         <note>Class = "UITextField"; text = "500000"; ObjectID = "e0T-ru-tWD";</note>
       </trans-unit>
       <trans-unit id="zAF-A7-1Oc.text" xml:space="preserve" approved="yes">
@@ -57,9 +57,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>CGMBLEKit Example</source>
-        <target state="translated">CGMBLEKit eksempel</target>
+        <target state="final">CGMBLEKit eksempel</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -69,19 +69,19 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
-      <trans-unit id="Backfill" xml:space="preserve">
+      <trans-unit id="Backfill" xml:space="preserve" approved="yes">
         <source>Backfill</source>
-        <target state="translated">Hent historikk</target>
+        <target state="final">Hent historikk</target>
         <note>Title displayed during backfill response</note>
       </trans-unit>
-      <trans-unit id="Error" xml:space="preserve">
+      <trans-unit id="Error" xml:space="preserve" approved="yes">
         <source>Error</source>
-        <target state="translated">Feil</target>
+        <target state="final">Feil</target>
         <note>Title displayed during error response</note>
       </trans-unit>
-      <trans-unit id="Unknown Data" xml:space="preserve">
+      <trans-unit id="Unknown Data" xml:space="preserve" approved="yes">
         <source>Unknown Data</source>
-        <target state="translated">Ukjent data</target>
+        <target state="final">Ukjent data</target>
         <note>Title displayed during unknown data response</note>
       </trans-unit>
     </body>
@@ -91,29 +91,29 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
-      <trans-unit id="Dexcom G5" xml:space="preserve">
+      <trans-unit id="Dexcom G5" xml:space="preserve" approved="yes">
         <source>Dexcom G5</source>
-        <target state="translated">Dexcom G5</target>
+        <target state="final">Dexcom G5</target>
         <note>CGM display title</note>
       </trans-unit>
-      <trans-unit id="Dexcom G6" xml:space="preserve">
+      <trans-unit id="Dexcom G6" xml:space="preserve" approved="yes">
         <source>Dexcom G6</source>
-        <target state="translated">Dexcom G6</target>
+        <target state="final">Dexcom G6</target>
         <note>CGM display title</note>
       </trans-unit>
-      <trans-unit id="Glucose data is unavailable" xml:space="preserve">
+      <trans-unit id="Glucose data is unavailable" xml:space="preserve" approved="yes">
         <source>Glucose data is unavailable</source>
-        <target state="translated">Blodsukkerdata er utilgjengelig</target>
+        <target state="final">Blodsukkerdata er utilgjengelig</target>
         <note>Error description for unreliable state</note>
       </trans-unit>
-      <trans-unit id="Low Battery" xml:space="preserve">
+      <trans-unit id="Low Battery" xml:space="preserve" approved="yes">
         <source>Low Battery</source>
-        <target state="translated">Lavt batteri</target>
+        <target state="final">Lavt batteri</target>
         <note>Describes a low battery</note>
       </trans-unit>
-      <trans-unit id="OK" xml:space="preserve">
+      <trans-unit id="OK" xml:space="preserve" approved="yes">
         <source>OK</source>
-        <target state="translated">Ok</target>
+        <target state="final">Ok</target>
         <note>Describes a functioning transmitter</note>
       </trans-unit>
       <trans-unit id="Peripheral command was invalid" xml:space="preserve" approved="yes">
@@ -121,39 +121,39 @@
         <target state="final">Perifer kommando var ugyldig</target>
         <note>invlid config error description</note>
       </trans-unit>
-      <trans-unit id="Peripheral did not respond in time" xml:space="preserve">
+      <trans-unit id="Peripheral did not respond in time" xml:space="preserve" approved="yes">
         <source>Peripheral did not respond in time</source>
-        <target state="translated">Tilbehøret svarte ikke i tide</target>
+        <target state="final">Tilbehøret svarte ikke i tide</target>
         <note>Timeout error description</note>
       </trans-unit>
-      <trans-unit id="Peripheral isnʼt connected" xml:space="preserve">
+      <trans-unit id="Peripheral isnʼt connected" xml:space="preserve" approved="yes">
         <source>Peripheral isnʼt connected</source>
-        <target state="translated">Tilbehøret er ikke tilkoblet</target>
+        <target state="final">Tilbehøret er ikke tilkoblet</target>
         <note>Not ready error description</note>
       </trans-unit>
-      <trans-unit id="Sensor calibration is OK" xml:space="preserve">
+      <trans-unit id="Sensor calibration is OK" xml:space="preserve" approved="yes">
         <source>Sensor calibration is OK</source>
-        <target state="translated">Sensorkalibrering er OK</target>
+        <target state="final">Sensorkalibrering er OK</target>
         <note>The description of sensor calibration state when sensor calibration is ok.</note>
       </trans-unit>
-      <trans-unit id="Sensor is in unknown state %1$d" xml:space="preserve">
+      <trans-unit id="Sensor is in unknown state %1$d" xml:space="preserve" approved="yes">
         <source>Sensor is in unknown state %1$d</source>
-        <target state="translated">Sensor er i ukjent status %1$d</target>
+        <target state="final">Sensor er i ukjent status %1$d</target>
         <note>The description of sensor calibration state when raw value is unknown. (1: missing data details)</note>
       </trans-unit>
-      <trans-unit id="Sensor is stopped" xml:space="preserve">
+      <trans-unit id="Sensor is stopped" xml:space="preserve" approved="yes">
         <source>Sensor is stopped</source>
-        <target state="translated">Sensor er stoppet</target>
+        <target state="final">Sensor er stoppet</target>
         <note>The description of sensor calibration state when sensor sensor is stopped.</note>
       </trans-unit>
-      <trans-unit id="Sensor is warming up" xml:space="preserve">
+      <trans-unit id="Sensor is warming up" xml:space="preserve" approved="yes">
         <source>Sensor is warming up</source>
-        <target state="translated">Sensor varmer opp</target>
+        <target state="final">Sensor varmer opp</target>
         <note>The description of sensor calibration state when sensor sensor is warming up.</note>
       </trans-unit>
-      <trans-unit id="Sensor needs calibration" xml:space="preserve">
+      <trans-unit id="Sensor needs calibration" xml:space="preserve" approved="yes">
         <source>Sensor needs calibration</source>
-        <target state="translated">Sensor trenger kalibrering</target>
+        <target state="final">Sensor trenger kalibrering</target>
         <note>The description of sensor calibration state when sensor needs calibration.</note>
       </trans-unit>
       <trans-unit id="Unknown characteristic" xml:space="preserve">
@@ -168,9 +168,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>CGMBLEKit</source>
-        <target state="translated">CGMBLEKit</target>
+        <target state="final">CGMBLEKit</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -180,14 +180,14 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>CGMBLEKitG5Plugin</source>
-        <target state="translated">CGMBLEKitG5Plugin</target>
+        <target state="final">CGMBLEKitG5Plugin</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" approved="yes">
         <source>Copyright © 2019 LoopKit Authors. All rights reserved.</source>
-        <target state="translated">Opphavsrett © 2019 LoopKit-forfattere. Alle rettigheter forbeholdt.</target>
+        <target state="final">Opphavsrett © 2019 LoopKit-forfattere. Alle rettigheter forbeholdt.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -197,14 +197,14 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>CGMBLEKitG6Plugin</source>
-        <target state="translated">CGMBLEKitG6Plugin</target>
+        <target state="final">CGMBLEKitG6Plugin</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" approved="yes">
         <source>Copyright © 2019 LoopKit Authors. All rights reserved.</source>
-        <target state="translated">Opphavsrett © 2019 LoopKit-forfattere. Alle rettigheter forbeholdt.</target>
+        <target state="final">Opphavsrett © 2019 LoopKit-forfattere. Alle rettigheter forbeholdt.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -214,60 +214,60 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
-      <trans-unit id="%@/min" xml:space="preserve">
+      <trans-unit id="%@/min" xml:space="preserve" approved="yes">
         <source>%@/min</source>
-        <target state="translated">%@/min</target>
+        <target state="final">%@/min</target>
         <note>Format string for glucose trend per minute. (1: glucose value and unit)</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete this CGM?" xml:space="preserve">
+      <trans-unit id="Are you sure you want to delete this CGM?" xml:space="preserve" approved="yes">
         <source>Are you sure you want to delete this CGM?</source>
-        <target state="translated">Er du sikker på at du vil slette CGM?</target>
+        <target state="final">Er du sikker på at du vil slette CGM?</target>
         <note>Confirmation message for deleting a CGM</note>
       </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
+      <trans-unit id="Cancel" xml:space="preserve" approved="yes">
         <source>Cancel</source>
-        <target state="translated">Avbryt</target>
+        <target state="final">Avbryt</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
-      <trans-unit id="Date" xml:space="preserve">
+      <trans-unit id="Date" xml:space="preserve" approved="yes">
         <source>Date</source>
-        <target state="translated">Dato</target>
+        <target state="final">Dato</target>
         <note>Title describing glucose date</note>
       </trans-unit>
-      <trans-unit id="Delete CGM" xml:space="preserve">
+      <trans-unit id="Delete CGM" xml:space="preserve" approved="yes">
         <source>Delete CGM</source>
-        <target state="translated">Slett CGM</target>
+        <target state="final">Slett CGM</target>
         <note>Button title to delete CGM
 Title text for the button to remove a CGM from Loop</note>
       </trans-unit>
-      <trans-unit id="Glucose" xml:space="preserve">
+      <trans-unit id="Glucose" xml:space="preserve" approved="yes">
         <source>Glucose</source>
-        <target state="translated">Glukose</target>
+        <target state="final">Blodsukker</target>
         <note>Title describing glucose value</note>
       </trans-unit>
-      <trans-unit id="Glucose (Adjusted)" xml:space="preserve">
+      <trans-unit id="Glucose (Adjusted)" xml:space="preserve" approved="yes">
         <source>Glucose (Adjusted)</source>
-        <target state="translated">Glukose (justert)</target>
+        <target state="final">Blodsukker (Justert)</target>
         <note>Describes a glucose value adjusted to reflect a recent calibration</note>
       </trans-unit>
-      <trans-unit id="Latest Calibration" xml:space="preserve">
+      <trans-unit id="Latest Calibration" xml:space="preserve" approved="yes">
         <source>Latest Calibration</source>
-        <target state="translated">Siste kalibrering</target>
+        <target state="final">Siste kalibrering</target>
         <note>Section title for latest glucose calibration</note>
       </trans-unit>
-      <trans-unit id="Latest Connection" xml:space="preserve">
+      <trans-unit id="Latest Connection" xml:space="preserve" approved="yes">
         <source>Latest Connection</source>
-        <target state="translated">Siste forbindelse</target>
+        <target state="final">Siste forbindelse</target>
         <note>Section title for latest connection date</note>
       </trans-unit>
-      <trans-unit id="Latest Reading" xml:space="preserve">
+      <trans-unit id="Latest Reading" xml:space="preserve" approved="yes">
         <source>Latest Reading</source>
-        <target state="translated">Siste måling</target>
+        <target state="final">Siste måling</target>
         <note>Section title for latest glucose reading</note>
       </trans-unit>
-      <trans-unit id="Open App" xml:space="preserve">
+      <trans-unit id="Open App" xml:space="preserve" approved="yes">
         <source>Open App</source>
-        <target state="translated">Åpne app</target>
+        <target state="final">Åpne app</target>
         <note>Button title to open CGM app</note>
       </trans-unit>
       <trans-unit id="Remote Data Synchronization" xml:space="preserve">
