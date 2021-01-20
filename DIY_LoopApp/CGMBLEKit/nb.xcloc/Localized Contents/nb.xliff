@@ -30,9 +30,9 @@
         <target state="translated">Kalibrer</target>
         <note>Class = "UIButton"; normalTitle = "Calibrate"; ObjectID = "HYW-Ex-7LC";</note>
       </trans-unit>
-      <trans-unit id="JAM-9K-KeE.normalTitle" xml:space="preserve">
+      <trans-unit id="JAM-9K-KeE.normalTitle" xml:space="preserve" approved="yes">
         <source>Stop</source>
-        <target state="translated">Stopp</target>
+        <target state="final">Stopp</target>
         <note>Class = "UIButton"; normalTitle = "Stop"; ObjectID = "JAM-9K-KeE";</note>
       </trans-unit>
       <trans-unit id="NSs-9e-3Sl.text" xml:space="preserve">
@@ -45,9 +45,9 @@
         <target state="translated">500000</target>
         <note>Class = "UITextField"; text = "500000"; ObjectID = "e0T-ru-tWD";</note>
       </trans-unit>
-      <trans-unit id="zAF-A7-1Oc.text" xml:space="preserve">
+      <trans-unit id="zAF-A7-1Oc.text" xml:space="preserve" approved="yes">
         <source>––</source>
-        <target state="translated">––</target>
+        <target state="final">––</target>
         <note>Class = "UILabel"; text = "––"; ObjectID = "zAF-A7-1Oc";</note>
       </trans-unit>
     </body>
@@ -116,9 +116,9 @@
         <target state="translated">Ok</target>
         <note>Describes a functioning transmitter</note>
       </trans-unit>
-      <trans-unit id="Peripheral command was invalid" xml:space="preserve">
+      <trans-unit id="Peripheral command was invalid" xml:space="preserve" approved="yes">
         <source>Peripheral command was invalid</source>
-        <target state="translated">Perifer kommando var ugyldig</target>
+        <target state="final">Perifer kommando var ugyldig</target>
         <note>invlid config error description</note>
       </trans-unit>
       <trans-unit id="Peripheral did not respond in time" xml:space="preserve">
@@ -242,12 +242,12 @@ Title text for the button to remove a CGM from Loop</note>
       </trans-unit>
       <trans-unit id="Glucose" xml:space="preserve">
         <source>Glucose</source>
-        <target state="translated">Blodsukker</target>
+        <target state="translated">Glukose</target>
         <note>Title describing glucose value</note>
       </trans-unit>
       <trans-unit id="Glucose (Adjusted)" xml:space="preserve">
         <source>Glucose (Adjusted)</source>
-        <target state="translated">Blodsukker (Justert)</target>
+        <target state="translated">Glukose (justert)</target>
         <note>Describes a glucose value adjusted to reflect a recent calibration</note>
       </trans-unit>
       <trans-unit id="Latest Calibration" xml:space="preserve">
