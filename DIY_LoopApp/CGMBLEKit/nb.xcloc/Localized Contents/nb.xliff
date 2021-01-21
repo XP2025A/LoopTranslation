@@ -359,9 +359,9 @@ Title text for the button to remove a CGM from Loop</note>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>CGMBLEKitUI</source>
-        <target state="translated">CGMBLEKitUI</target>
+        <target state="final">CGMBLEKitUI</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -381,14 +381,14 @@ Title text for the button to remove a CGM from Loop</note>
         <target state="translated">Nullstill sender</target>
         <note>Class = "UINavigationItem"; title = "Reset Transmitter"; ObjectID = "7nc-6t-4hZ";</note>
       </trans-unit>
-      <trans-unit id="G4a-ia-wQC.placeholder" xml:space="preserve">
+      <trans-unit id="G4a-ia-wQC.placeholder" xml:space="preserve" approved="yes">
         <source>Enter the 6-digit ID</source>
-        <target state="translated">Skriv inn 6-sifret ID</target>
+        <target state="final">Skriv inn 6-sifret ID</target>
         <note>Class = "UITextField"; placeholder = "Enter the 6-digit ID"; ObjectID = "G4a-ia-wQC";</note>
       </trans-unit>
-      <trans-unit id="LBC-6R-q79.normalTitle" xml:space="preserve">
+      <trans-unit id="LBC-6R-q79.normalTitle" xml:space="preserve" approved="yes">
         <source>Reset</source>
-        <target state="translated">Nullstill</target>
+        <target state="final">Nullstill</target>
         <note>Class = "UIButton"; normalTitle = "Reset"; ObjectID = "LBC-6R-q79";</note>
       </trans-unit>
       <trans-unit id="MbK-kj-ejl.text" xml:space="preserve">
@@ -409,9 +409,9 @@ Use at your own risk.</source>
         <target state="translated">[Feil skrives her. Den kan være veldig lang, og det er helt greit]</target>
         <note>Class = "UILabel"; text = "[Error goes here. And it can get very long and that's OK]"; ObjectID = "gYy-Zz-y12";</note>
       </trans-unit>
-      <trans-unit id="vNG-r7-RbP.headerTitle" xml:space="preserve">
+      <trans-unit id="vNG-r7-RbP.headerTitle" xml:space="preserve" approved="yes">
         <source>Transmitter ID</source>
-        <target state="translated">Sender ID</target>
+        <target state="final">Sender ID</target>
         <note>Class = "UITableViewSection"; headerTitle = "Transmitter ID"; ObjectID = "vNG-r7-RbP";</note>
       </trans-unit>
     </body>
@@ -421,14 +421,14 @@ Use at your own risk.</source>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve" approved="yes">
         <source>Reset</source>
-        <target state="translated">Nullstill</target>
+        <target state="final">Nullstill</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>ResetTransmitter</source>
-        <target state="translated">ResetTransmitter</target>
+        <target state="final">ResetTransmitter</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">
@@ -453,25 +453,25 @@ Use at your own risk.</source>
         <target state="translated">Er du sikker på at du vil nullstille denne senderen?</target>
         <note>Title of the reset confirmation sheet</note>
       </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
+      <trans-unit id="Cancel" xml:space="preserve" approved="yes">
         <source>Cancel</source>
-        <target state="translated">Avbryt</target>
+        <target state="final">Avbryt</target>
         <note>Title of button to cancel reset</note>
       </trans-unit>
-      <trans-unit id="It will take up to 10 minutes to complete." xml:space="preserve">
+      <trans-unit id="It will take up to 10 minutes to complete." xml:space="preserve" approved="yes">
         <source>It will take up to 10 minutes to complete.</source>
-        <target state="translated">Det kan ta opptil 10 minutter å gjennomføre.</target>
+        <target state="final">Det kan ta opptil 10 minutter å gjennomføre.</target>
         <note>Message of the reset confirmation sheet</note>
       </trans-unit>
-      <trans-unit id="Reset" xml:space="preserve">
+      <trans-unit id="Reset" xml:space="preserve" approved="yes">
         <source>Reset</source>
-        <target state="translated">Nullstill</target>
+        <target state="final">Nullstill</target>
         <note>Reset button title
    Title of button to begin reset</note>
       </trans-unit>
-      <trans-unit id="Transmitter Reset Complete" xml:space="preserve">
+      <trans-unit id="Transmitter Reset Complete" xml:space="preserve" approved="yes">
         <source>Transmitter Reset Complete</source>
-        <target state="translated">Nullstilling av sender er ferdig</target>
+        <target state="final">Nullstilling av sender er ferdig</target>
         <note>Notification title for background completion notification</note>
       </trans-unit>
     </body>
