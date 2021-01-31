@@ -1105,7 +1105,7 @@ niet beschikbaar</target>
       </trans-unit>
       <trans-unit id="Dosing Strategy" xml:space="preserve">
         <source>Dosing Strategy</source>
-        <target state="needs-translation">Dosing Strategy</target>
+        <target state="translated">Dosingstrategie</target>
         <note>The title of the Dosing Strategy section in settings</note>
       </trans-unit>
       <trans-unit id="Enable&#10;Bluetooth" xml:space="preserve" approved="yes">
@@ -1364,7 +1364,8 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Loop will automatically bolus when insulin needs are above scheduled basal, and will use temporary basal rates when needed to reduce insulin delivery below scheduled basal." xml:space="preserve">
         <source>Loop will automatically bolus when insulin needs are above scheduled basal, and will use temporary basal rates when needed to reduce insulin delivery below scheduled basal.</source>
-        <target state="needs-translation">Loop will automatically bolus when insulin needs are above scheduled basal, and will use temporary basal rates when needed to reduce insulin delivery below scheduled basal.</target>
+        <target state="translated">Loop zal automatisch bolussen geven wanneer de insuline behoeften boven het geplande basaal is,
+ en zal gebruik maken van tijdelijke basaal wanneer dat nodig is om insuline levering te verminderen.</target>
         <note>Description string for automatic bolus dosing strategy</note>
       </trans-unit>
       <trans-unit id="Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus." xml:space="preserve" approved="yes">
@@ -1374,7 +1375,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Loop will set temporary basal rates to increase and decrease insulin delivery." xml:space="preserve">
         <source>Loop will set temporary basal rates to increase and decrease insulin delivery.</source>
-        <target state="needs-translation">Loop will set temporary basal rates to increase and decrease insulin delivery.</target>
+        <target state="translated">Loop zal tijdelijke basaalstanden instellen om de hoeveelheid insuline te verhogen en te verlagen.</target>
         <note>Description string for temp basal only dosing strategy</note>
       </trans-unit>
       <trans-unit id="Manage Critical Alerts in Settings" xml:space="preserve" approved="yes">
@@ -1527,7 +1528,7 @@ Actueel: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Pump Suspended. Automatic dosing is disabled." xml:space="preserve">
         <source>Pump Suspended. Automatic dosing is disabled.</source>
-        <target state="needs-translation">Pump Suspended. Automatic dosing is disabled.</target>
+        <target state="translated">Pomp tijdelijk uitgezet. Automatische doseren is uitgeschakeld.</target>
         <note>The error message displayed for pumpSuspended errors.</note>
       </trans-unit>
       <trans-unit id="Pump data is %1$@ old" xml:space="preserve" approved="yes">
@@ -2156,12 +2157,12 @@ Check in je iPhone-instellingen (Algemene / Datum &amp; Tijd) en controleer of d
       </trans-unit>
       <trans-unit id="Automatic Bolus" xml:space="preserve">
         <source>Automatic Bolus</source>
-        <target state="needs-translation">Automatic Bolus</target>
+        <target state="translated">Automatische bolus</target>
         <note>Title string for automatic bolus dosing strategy</note>
       </trans-unit>
       <trans-unit id="Temp Basal Only" xml:space="preserve">
         <source>Temp Basal Only</source>
-        <target state="needs-translation">Temp Basal Only</target>
+        <target state="translated">Alleen Temp Basaal</target>
         <note>Title string for temp basal only dosing strategy</note>
       </trans-unit>
     </body>
