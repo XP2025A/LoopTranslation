@@ -391,22 +391,22 @@ Title text for the button to remove a CGM from Loop</note>
         <target state="final">Nullstill</target>
         <note>Class = "UIButton"; normalTitle = "Reset"; ObjectID = "LBC-6R-q79";</note>
       </trans-unit>
-      <trans-unit id="MbK-kj-ejl.text" xml:space="preserve">
+      <trans-unit id="MbK-kj-ejl.text" xml:space="preserve" approved="yes">
         <source>The transmitter has been successfully reset. Connect it to the app to begin a new sensor session.</source>
-        <target state="translated">Sender er nå nullstillt. Koble den til appen for å starte en ny sensor-sesjon.</target>
+        <target state="final">Senderen er tilbakestilt. Koble den til appen for å starte en ny sensorøkt.</target>
         <note>Class = "UITextView"; text = "The transmitter has been successfully reset. Connect it to the app to begin a new sensor session."; ObjectID = "MbK-kj-ejl";</note>
       </trans-unit>
-      <trans-unit id="cJ3-Gc-pnc.text" xml:space="preserve">
+      <trans-unit id="cJ3-Gc-pnc.text" xml:space="preserve" approved="yes">
         <source>This tool can reset the clock on a transmitter that has reached its expiration date, allowing new sensor sessions to again be started.
 This may have unintended consequences for data services, such as Clarity and Share, especially when using a reset transmitter with the same account.
 Resetting cannot be undone.
 Use at your own risk.</source>
-        <target state="translated">Dette verktøyet kan nullstille klokken på en sender som har gått ut på dato, slik at senderen kan brukes på nytt. Dette kan ha uante konsekvenser for eksterne data-tjenester, som Clarity og Share, og spesielt om sender brukes igjen med samme konto. Nullstilling kan ikke angres. Bruk på egen risiko.</target>
+        <target state="final">Dette verktøyet kan nullstille klokken på en sender som har gått ut på dato, slik at senderen kan brukes på nytt. Dette kan ha uante konsekvenser for eksterne data-tjenester, som Clarity og Share, og spesielt om sender brukes igjen med samme konto. Nullstilling kan ikke angres. Bruk på egen risiko.</target>
         <note>Class = "UITextView"; text = "This tool can reset the clock on a transmitter that has reached its expiration date, allowing new sensor sessions to again be started.\nThis may have unintended consequences for data services, such as Clarity and Share, especially when using a reset transmitter with the same account.\nResetting cannot be undone.\nUse at your own risk."; ObjectID = "cJ3-Gc-pnc";</note>
       </trans-unit>
-      <trans-unit id="gYy-Zz-y12.text" xml:space="preserve">
+      <trans-unit id="gYy-Zz-y12.text" xml:space="preserve" approved="yes">
         <source>[Error goes here. And it can get very long and that's OK]</source>
-        <target state="translated">[Feil skrives her. Den kan være veldig lang, og det er helt greit]</target>
+        <target state="final">[Feil skrives her. Den kan være veldig lang, og det er helt greit]</target>
         <note>Class = "UILabel"; text = "[Error goes here. And it can get very long and that's OK]"; ObjectID = "gYy-Zz-y12";</note>
       </trans-unit>
       <trans-unit id="vNG-r7-RbP.headerTitle" xml:space="preserve" approved="yes">
@@ -431,14 +431,14 @@ Use at your own risk.</source>
         <target state="final">ResetTransmitter</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">
+      <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve" approved="yes">
         <source>Bluetooth is used to communicate with continuous glucose monitor devices</source>
-        <target state="translated">Bluetooth brukes til å kommunisere med kontinuerlige glukosemonitorenheter</target>
+        <target state="final">Bluetooth brukes til å kommunisere med kontinuerlige blodsukker monitorenheter</target>
         <note>Privacy - Bluetooth Always Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve">
+      <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve" approved="yes">
         <source>Bluetooth is used to communicate with continuous glucose monitor devices</source>
-        <target state="translated">Bluetooth brukes til å kommunisere med kontinuerlige glukosemonitorenheter</target>
+        <target state="final">Bluetooth brukes til å kommunisere med kontinuerlige blodsukker monitorenheter</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
       </trans-unit>
     </body>
@@ -448,9 +448,9 @@ Use at your own risk.</source>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.4" build-num="12D4e"/>
     </header>
     <body>
-      <trans-unit id="Are you sure you want to reset this transmitter?" xml:space="preserve">
+      <trans-unit id="Are you sure you want to reset this transmitter?" xml:space="preserve" approved="yes">
         <source>Are you sure you want to reset this transmitter?</source>
-        <target state="translated">Er du sikker på at du vil nullstille denne senderen?</target>
+        <target state="final">Er du sikker på at du vil nullstille denne senderen?</target>
         <note>Title of the reset confirmation sheet</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve" approved="yes">
