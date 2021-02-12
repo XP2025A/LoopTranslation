@@ -447,29 +447,29 @@
         <target state="translated">Bluetooth brukes til å kommunisere med insulinpumpe og kontinuerlige glukosemonitorer.</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve" approved="yes">
         <source>Camera is used to scan barcodes of devices</source>
-        <target state="translated">Kameraet brukes til å skanne strekkoder for enheter</target>
+        <target state="final">Kameraet brukes til å skanne strekkoder for enheter</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
+      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve" approved="yes">
         <source>Face ID is used to authenticate insulin bolus and to save changes to therapy settings.</source>
-        <target state="translated">Face ID brukes til å bekrefte identitet ved bolus og ved lagring av endringer i innstillingene.</target>
+        <target state="final">Face ID brukes til å bekrefte identitet ved bolus og ved lagring av endringer i innstillingene.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
+      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve" approved="yes">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to improve the Apple Watch complication.</source>
-        <target state="translated">Måltider med karbohydrater lagret i helsedatabasen brukes til å bestemme blodsukkereffekter. Blodsukkerdata fra helsedatabasen brukes til beregning av grafer og momentum. Søvndata fra helsedatabasen brukes til å forbedre Apple Watch-komplikasjonen.</target>
+        <target state="final">Måltider med karbohydrater lagret i helsedatabasen brukes til å bestemme blodsukkereffekter. Blodsukkerdata fra helsedatabasen brukes til beregning av grafer og momentum. Søvndata fra helsedatabasen brukes til å forbedre Apple Watch-komplikasjonen.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
+      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve" approved="yes">
         <source>Carbohydrate meal data entered in the app and on the watch is stored in the Health database. Glucose data retrieved from the CGM is stored securely in HealthKit.</source>
-        <target state="translated">Angitte karbohydrater i matdataene som tastes inn i appen blir lagret i Health-databasen.</target>
+        <target state="final">Karbohydratmåltidsdata som er angitt i appen og på klokken, lagres i Helse-databasen. Blodsukker data hentet fra CGM lagres sikkert i HealthKit.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSSiriUsageDescription" xml:space="preserve">
+      <trans-unit id="NSSiriUsageDescription" xml:space="preserve" approved="yes">
         <source>Loop uses Siri to allow you to set override presets with your voice.</source>
-        <target state="translated">Loop bruker Siri til å la deg angi forhåndsinnstillinger for overstyring med stemmen din.</target>
+        <target state="final">Loop bruker Siri til å la deg angi forhåndsinnstillinger for overstyring med stemmen din.</target>
         <note>Privacy - Siri Usage Description</note>
       </trans-unit>
     </body>
@@ -1375,7 +1375,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Loop will set temporary basal rates to increase and decrease insulin delivery." xml:space="preserve">
         <source>Loop will set temporary basal rates to increase and decrease insulin delivery.</source>
-        <target state="needs-translation">Loop will set temporary basal rates to increase and decrease insulin delivery.</target>
+        <target state="translated">Loop vil stille midlertidige rater for å øke og redusere tilførselen av insulin.</target>
         <note>Description string for temp basal only dosing strategy</note>
       </trans-unit>
       <trans-unit id="Manage Critical Alerts in Settings" xml:space="preserve">
@@ -1528,7 +1528,7 @@ Faktisk: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Pump Suspended. Automatic dosing is disabled." xml:space="preserve">
         <source>Pump Suspended. Automatic dosing is disabled.</source>
-        <target state="needs-translation">Pump Suspended. Automatic dosing is disabled.</target>
+        <target state="translated">Pumpe suspendert. Automatisk dosing er deaktivert.</target>
         <note>The error message displayed for pumpSuspended errors.</note>
       </trans-unit>
       <trans-unit id="Pump data is %1$@ old" xml:space="preserve" approved="yes">
@@ -2158,12 +2158,12 @@ Sjekk inn iPhone-innstillingene (Generelt / dato &amp;) og kontroller at Angi au
       </trans-unit>
       <trans-unit id="Automatic Bolus" xml:space="preserve">
         <source>Automatic Bolus</source>
-        <target state="needs-translation">Automatic Bolus</target>
+        <target state="translated">Automatisk bolus</target>
         <note>Title string for automatic bolus dosing strategy</note>
       </trans-unit>
       <trans-unit id="Temp Basal Only" xml:space="preserve">
         <source>Temp Basal Only</source>
-        <target state="needs-translation">Temp Basal Only</target>
+        <target state="translated">Kun midlertidig basal</target>
         <note>Title string for temp basal only dosing strategy</note>
       </trans-unit>
     </body>
