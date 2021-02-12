@@ -17,9 +17,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.4" build-num="12D4e"/>
     </header>
     <body>
-      <trans-unit id="A bolus is already in progress" xml:space="preserve">
+      <trans-unit id="A bolus is already in progress" xml:space="preserve" approved="yes">
         <source>A bolus is already in progress</source>
-        <target state="translated">En bolus pågår allerede</target>
+        <target state="final">En bolus pågår allerede</target>
         <note>Communications error for a bolus currently running</note>
       </trans-unit>
       <trans-unit id="AlarmClockReminder" xml:space="preserve">
@@ -290,109 +290,109 @@
         <target state="translated">%@ dB</target>
         <note>Unit format string for an RSSI value in decibles</note>
       </trans-unit>
-      <trans-unit id="%@U" xml:space="preserve">
+      <trans-unit id="%@U" xml:space="preserve" approved="yes">
         <source>%@U</source>
-        <target state="translated">%@E</target>
+        <target state="final">%@E</target>
         <note>Format string for reservoir volume. (1: The localized volume)</note>
       </trans-unit>
-      <trans-unit id="Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure." xml:space="preserve">
+      <trans-unit id="Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure." xml:space="preserve" approved="yes">
         <source>Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure.</source>
-        <target state="translated">Alkaliske- og lithiumbatterier mister spenning med forskjellige kurver. Alkaliske har som regel en lineært minskende spenning, mens lithiumbatterier pleier å holde på spenningen gjennom omtrent halvparten av levetiden. Ved normalt bruk i en Non-MySentry kompatibel Minimed (x22/x15) insulinpumpe som kjører Loop, pleier alkaliske batterier å holde i 4 til 5 dager. Lithiumbatterier holder som regel 1-2 uker. Dette valget vil bruke forskjellige kurver for nedgang i batterispenning for hver av de forskjellige batteritypene, og varsle brukeren når batteriet er omtrent 8 til 10 timer fra å være tomt.</target>
+        <target state="final">Alkaliske- og lithiumbatterier mister spenning med forskjellige kurver. Alkaliske har som regel en lineært minskende spenning, mens lithiumbatterier pleier å holde på spenningen gjennom omtrent halvparten av levetiden. Ved normalt bruk i en Non-MySentry kompatibel Minimed (x22/x15) insulinpumpe som kjører Loop, pleier alkaliske batterier å holde i 4 til 5 dager. Lithiumbatterier holder som regel 1-2 uker. Dette valget vil bruke forskjellige kurver for nedgang i batterispenning for hver av de forskjellige batteritypene, og varsle brukeren når batteriet er omtrent 8 til 10 timer fra å være tomt.</target>
         <note>Instructions on selecting battery chemistry type</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete this pump?" xml:space="preserve">
+      <trans-unit id="Are you sure you want to delete this pump?" xml:space="preserve" approved="yes">
         <source>Are you sure you want to delete this pump?</source>
-        <target state="translated">Er du sikker på at du vil slette denne pumpen?</target>
+        <target state="final">Er du sikker på at du vil slette denne pumpen?</target>
         <note>Confirmation message for deleting a pump</note>
       </trans-unit>
-      <trans-unit id="Awake Until" xml:space="preserve">
+      <trans-unit id="Awake Until" xml:space="preserve" approved="yes">
         <source>Awake Until</source>
-        <target state="translated">Aktiv til</target>
+        <target state="final">Aktiv til</target>
         <note>The title of the cell describing an awake radio</note>
       </trans-unit>
-      <trans-unit id="Basal Rates" xml:space="preserve">
+      <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
         <source>Basal Rates</source>
-        <target state="translated">Basaldoser</target>
+        <target state="final">Basaldoser</target>
         <note>The title text for the basal rate schedule</note>
       </trans-unit>
-      <trans-unit id="Battery: %1$@ volts&#10;" xml:space="preserve">
+      <trans-unit id="Battery: %1$@ volts&#10;" xml:space="preserve" approved="yes">
         <source>Battery: %1$@ volts
 </source>
-        <target state="translated">Batteri: %1$@ volt
+        <target state="final">Batteri: %1$@ volt
 </target>
         <note>The format string describing pump battery voltage: (1: battery voltage)</note>
       </trans-unit>
-      <trans-unit id="Best Frequency" xml:space="preserve">
+      <trans-unit id="Best Frequency" xml:space="preserve" approved="yes">
         <source>Best Frequency</source>
-        <target state="translated">Beste frekvens</target>
+        <target state="final">Beste frekvens</target>
         <note>The label indicating the best radio frequency</note>
       </trans-unit>
-      <trans-unit id="Bolusing: %1$@&#10;" xml:space="preserve">
+      <trans-unit id="Bolusing: %1$@&#10;" xml:space="preserve" approved="yes">
         <source>Bolusing: %1$@
 </source>
-        <target state="translated">Gir bolus: %1$@
+        <target state="final">Gir bolus: %1$@
 </target>
         <note>The format string describing pump bolusing state: (1: bolusing)</note>
       </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
+      <trans-unit id="Cancel" xml:space="preserve" approved="yes">
         <source>Cancel</source>
-        <target state="translated">Avbryt</target>
+        <target state="final">Avbryt</target>
         <note>The title of the cancel action in an action sheet</note>
       </trans-unit>
-      <trans-unit id="Change Time" xml:space="preserve">
+      <trans-unit id="Change Time" xml:space="preserve" approved="yes">
         <source>Change Time</source>
-        <target state="translated">Endre tid</target>
+        <target state="final">Endre tid</target>
         <note>The title of the command to change pump time</note>
       </trans-unit>
-      <trans-unit id="Change Time Zone" xml:space="preserve">
+      <trans-unit id="Change Time Zone" xml:space="preserve" approved="yes">
         <source>Change Time Zone</source>
-        <target state="translated">Endre tidssone</target>
+        <target state="final">Endre tidssone</target>
         <note>The title of the command to change pump time zone</note>
       </trans-unit>
-      <trans-unit id="Changing time…" xml:space="preserve">
+      <trans-unit id="Changing time…" xml:space="preserve" approved="yes">
         <source>Changing time…</source>
-        <target state="translated">Endrer tid…</target>
+        <target state="final">Endrer tid…</target>
         <note>Progress message for changing pump time.</note>
       </trans-unit>
-      <trans-unit id="Commands" xml:space="preserve">
+      <trans-unit id="Commands" xml:space="preserve" approved="yes">
         <source>Commands</source>
-        <target state="translated">Kommandoer</target>
+        <target state="final">Kommandoer</target>
         <note>The title of the section describing commands</note>
       </trans-unit>
-      <trans-unit id="Configuration" xml:space="preserve">
+      <trans-unit id="Configuration" xml:space="preserve" approved="yes">
         <source>Configuration</source>
-        <target state="translated">Konfigurasjon</target>
+        <target state="final">Konfigurasjon</target>
         <note>The title of the configuration section in settings</note>
       </trans-unit>
-      <trans-unit id="Connect" xml:space="preserve">
+      <trans-unit id="Connect" xml:space="preserve" approved="yes">
         <source>Connect</source>
-        <target state="translated">Koble til</target>
+        <target state="final">Koble til</target>
         <note>Button title to connect to pump during setup</note>
       </trans-unit>
-      <trans-unit id="Connection State" xml:space="preserve">
+      <trans-unit id="Connection State" xml:space="preserve" approved="yes">
         <source>Connection State</source>
-        <target state="translated">Tilkoblingsstatus</target>
+        <target state="final">Tilkoblingsstatus</target>
         <note>The title of the cell showing BLE connection state</note>
       </trans-unit>
-      <trans-unit id="Continue" xml:space="preserve">
+      <trans-unit id="Continue" xml:space="preserve" approved="yes">
         <source>Continue</source>
-        <target state="translated">Fortsett</target>
+        <target state="final">Fortsett</target>
         <note>Text for continue button</note>
       </trans-unit>
-      <trans-unit id="Delete Pump" xml:space="preserve">
+      <trans-unit id="Delete Pump" xml:space="preserve" approved="yes">
         <source>Delete Pump</source>
-        <target state="translated">Slette pumpe</target>
+        <target state="final">Slette pumpe</target>
         <note>Button title to delete pump
    Title text for the button to remove a pump from Loop</note>
       </trans-unit>
-      <trans-unit id="Delivery Limits" xml:space="preserve">
+      <trans-unit id="Delivery Limits" xml:space="preserve" approved="yes">
         <source>Delivery Limits</source>
-        <target state="translated">Leveringsgrenser</target>
+        <target state="final">Leveringsgrenser</target>
         <note>Title text for delivery limits</note>
       </trans-unit>
-      <trans-unit id="Device" xml:space="preserve">
+      <trans-unit id="Device" xml:space="preserve" approved="yes">
         <source>Device</source>
-        <target state="translated">Enhet</target>
+        <target state="final">Enhet</target>
         <note>The title of the section describing the device</note>
       </trans-unit>
       <trans-unit id="Discover Commands" xml:space="preserve">
@@ -1183,7 +1183,7 @@ Finn enhet</target>
       </trans-unit>
       <trans-unit id="Ref" xml:space="preserve">
         <source>Ref</source>
-        <target state="needs-translation">Ref</target>
+        <target state="translated">Ref</target>
         <note>PDM style 'Ref' string</note>
       </trans-unit>
       <trans-unit id="Reminder initialized" xml:space="preserve">
@@ -1627,7 +1627,7 @@ Finn enhet</target>
       </trans-unit>
       <trans-unit id="Ref" xml:space="preserve">
         <source>Ref</source>
-        <target state="needs-translation">Ref</target>
+        <target state="translated">Ref</target>
         <note>PDM style 'Ref' string</note>
       </trans-unit>
       <trans-unit id="Reminder initialized" xml:space="preserve">
@@ -2313,44 +2313,44 @@ Hvis du ikke hørte pipene fra poden din, er det sannsynlig at piezo høyttalere
         <target state="translated">Fyller...</target>
         <note>The text of the loading label when priming</note>
       </trans-unit>
-      <trans-unit id="Pulse Count: %1$d&#10;" xml:space="preserve">
+      <trans-unit id="Pulse Count: %1$d&#10;" xml:space="preserve" approved="yes">
         <source>Pulse Count: %1$d
 </source>
-        <target state="translated">Antall pulser: %1$d
+        <target state="final">Antall pulser: %1$d
 </target>
         <note>The format string for Pulse Count (1: pulse count)</note>
       </trans-unit>
-      <trans-unit id="RSSI: %1$@&#10;" xml:space="preserve">
+      <trans-unit id="RSSI: %1$@&#10;" xml:space="preserve" approved="yes">
         <source>RSSI: %1$@
 </source>
-        <target state="translated">RSSI: %1$@
+        <target state="final">RSSI: %1$@
 </target>
         <note>The format string for RSSI: (1: RSSI value)</note>
       </trans-unit>
-      <trans-unit id="Read Pod Status" xml:space="preserve">
+      <trans-unit id="Read Pod Status" xml:space="preserve" approved="yes">
         <source>Read Pod Status</source>
-        <target state="translated">Les pumpestatus</target>
+        <target state="final">Les pumpestatus</target>
         <note>The title of the command to read the pod status</note>
       </trans-unit>
-      <trans-unit id="Read Pod Status…" xml:space="preserve">
+      <trans-unit id="Read Pod Status…" xml:space="preserve" approved="yes">
         <source>Read Pod Status…</source>
-        <target state="translated">Les pumpestatus…</target>
+        <target state="final">Les pumpestatus…</target>
         <note>Progress message for reading Pod status.</note>
       </trans-unit>
-      <trans-unit id="Read Pulse Log" xml:space="preserve">
+      <trans-unit id="Read Pulse Log" xml:space="preserve" approved="yes">
         <source>Read Pulse Log</source>
-        <target state="translated">Les pulslogg</target>
+        <target state="final">Les pulslogg</target>
         <note>The title of the command to read the pulse log</note>
       </trans-unit>
-      <trans-unit id="Reading Pulse Log…" xml:space="preserve">
+      <trans-unit id="Reading Pulse Log…" xml:space="preserve" approved="yes">
         <source>Reading Pulse Log…</source>
-        <target state="translated">Leser pulslogg…</target>
+        <target state="final">Leser pulslogg…</target>
         <note>Progress message for reading pulse log.</note>
       </trans-unit>
-      <trans-unit id="Receiver Low Gain: %1$@&#10;" xml:space="preserve">
+      <trans-unit id="Receiver Low Gain: %1$@&#10;" xml:space="preserve" approved="yes">
         <source>Receiver Low Gain: %1$@
 </source>
-        <target state="translated">Mottaker lav forsterkning: %1$@
+        <target state="final">Mottaker lav forsterkning: %1$@
 </target>
         <note>The format string for receiverLowGain: (1: receiverLowGain)</note>
       </trans-unit>
