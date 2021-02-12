@@ -538,7 +538,7 @@
       </trans-unit>
       <trans-unit id="%1$@ U" xml:space="preserve">
         <source>%1$@ U</source>
-        <target state="needs-translation">%1$@ U</target>
+        <target state="translated">%1$@ U</target>
         <note>Reservoir entry (1: volume value)</note>
       </trans-unit>
       <trans-unit id="%1$@ U left" xml:space="preserve" approved="yes">
@@ -589,7 +589,7 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
       </trans-unit>
       <trans-unit id="%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@" xml:space="preserve">
         <source>%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</source>
-        <target state="needs-translation">%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</target>
+        <target state="translated">%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</target>
         <note>Description of a basal temp basal dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)
    Description of a bolus dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)</note>
       </trans-unit>
@@ -773,17 +773,17 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
       </trans-unit>
       <trans-unit id="Are you sure you want to delete all history entries?" xml:space="preserve">
         <source>Are you sure you want to delete all history entries?</source>
-        <target state="needs-translation">Are you sure you want to delete all history entries?</target>
+        <target state="translated">Sigur doriți să ștergeți toate înregistrările din istoric?</target>
         <note>Action sheet confirmation message for pump history deletion</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete all logged dose entries?" xml:space="preserve">
         <source>Are you sure you want to delete all logged dose entries?</source>
-        <target state="needs-translation">Are you sure you want to delete all logged dose entries?</target>
+        <target state="translated">Sigur doriți să ștergeți toate înregistrările despre dozele de insulina?</target>
         <note>Action sheet confirmation message for logged dose deletion</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete all reservoir values?" xml:space="preserve">
         <source>Are you sure you want to delete all reservoir values?</source>
-        <target state="needs-translation">Are you sure you want to delete all reservoir values?</target>
+        <target state="translated">Sigur doriți să ștergeți toate înregistrările despre rezervorul pompei?</target>
         <note>Action sheet confirmation message for reservoir deletion</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete all your %@ Data?&#10;(This action is not reversible)" xml:space="preserve" approved="yes">
@@ -810,7 +810,7 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
       </trans-unit>
       <trans-unit id="Authenticate to log %@ Units" xml:space="preserve">
         <source>Authenticate to log %@ Units</source>
-        <target state="needs-translation">Authenticate to log %@ Units</target>
+        <target state="translated">Autentifică-te pentru a înregistra %@ unități</target>
         <note>The message displayed during a device authentication prompt to log an insulin dose</note>
       </trans-unit>
       <trans-unit id="Basal Rate Schedule" xml:space="preserve">
@@ -1024,7 +1024,7 @@ Indisponibil</target>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
-        <target state="needs-translation">Date</target>
+        <target state="translated">Data</target>
         <note>Date picker label</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve" approved="yes">
@@ -1039,7 +1039,7 @@ Indisponibil</target>
       </trans-unit>
       <trans-unit id="Delete All" xml:space="preserve">
         <source>Delete All</source>
-        <target state="needs-translation">Delete All</target>
+        <target state="translated">Șterge tot</target>
         <note>Button title to delete all objects</note>
       </trans-unit>
       <trans-unit id="Delete CGM" xml:space="preserve" approved="yes">
@@ -1101,12 +1101,12 @@ Indisponibil</target>
       </trans-unit>
       <trans-unit id="Dose Summary" xml:space="preserve">
         <source>Dose Summary</source>
-        <target state="needs-translation">Dose Summary</target>
+        <target state="translated">Rezumat doză</target>
         <note>Title for card to log dose</note>
       </trans-unit>
       <trans-unit id="Dosing Strategy" xml:space="preserve">
         <source>Dosing Strategy</source>
-        <target state="needs-translation">Dosing Strategy</target>
+        <target state="translated">Strategie de dozare</target>
         <note>The title of the Dosing Strategy section in settings</note>
       </trans-unit>
       <trans-unit id="Enable&#10;Bluetooth" xml:space="preserve" approved="yes">
@@ -1162,7 +1162,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Event History" xml:space="preserve">
         <source>Event History</source>
-        <target state="needs-translation">Event History</target>
+        <target state="translated">Istoric evenimente</target>
         <note>Segmented button title for insulin delivery log event history</note>
       </trans-unit>
       <trans-unit id="Eventually %@" xml:space="preserve">
@@ -1289,7 +1289,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Insulin Type" xml:space="preserve">
         <source>Insulin Type</source>
-        <target state="needs-translation">Insulin Type</target>
+        <target state="translated">Tip insulină</target>
         <note>Insulin type label</note>
       </trans-unit>
       <trans-unit id="Insulin effects" xml:space="preserve" approved="yes">
@@ -1299,7 +1299,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@" xml:space="preserve">
         <source>Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@</source>
-        <target state="needs-translation">Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@</target>
+        <target state="translated">Întrerupere %1$@: &lt;b&gt;%2$@&lt;/b&gt; din %3$@ %4$@</target>
         <note>Description of an interrupted bolus dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: programmed value (? if no value), 4: unit)</note>
       </trans-unit>
       <trans-unit id="Invalid Adverse Event Report URL" xml:space="preserve">
@@ -1339,13 +1339,13 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Log Dose" xml:space="preserve">
         <source>Log Dose</source>
-        <target state="needs-translation">Log Dose</target>
+        <target state="translated">Înregistrează Doză</target>
         <note>Button text to log a dose
    Title for dose logging screen</note>
       </trans-unit>
       <trans-unit id="Logged Insulin Dose" xml:space="preserve">
         <source>Logged Insulin Dose</source>
-        <target state="needs-translation">Logged Insulin Dose</target>
+        <target state="translated">Doza de insulină înregistrată</target>
         <note>The title of the screen displaying a logged insulin dose</note>
       </trans-unit>
       <trans-unit id="Loop Failure" xml:space="preserve" approved="yes">
@@ -1365,7 +1365,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Loop will automatically bolus when insulin needs are above scheduled basal, and will use temporary basal rates when needed to reduce insulin delivery below scheduled basal." xml:space="preserve">
         <source>Loop will automatically bolus when insulin needs are above scheduled basal, and will use temporary basal rates when needed to reduce insulin delivery below scheduled basal.</source>
-        <target state="needs-translation">Loop will automatically bolus when insulin needs are above scheduled basal, and will use temporary basal rates when needed to reduce insulin delivery below scheduled basal.</target>
+        <target state="translated">Loop va bolusa automat când necesarul de insulină este deasupra bazalei programate, și va utiliza rate bazale temporare atunci când este necesar, pentru a reduce cantitatea de insulină administrată sub nivelul bazal programat.</target>
         <note>Description string for automatic bolus dosing strategy</note>
       </trans-unit>
       <trans-unit id="Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus." xml:space="preserve" approved="yes">
@@ -1375,7 +1375,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Loop will set temporary basal rates to increase and decrease insulin delivery." xml:space="preserve">
         <source>Loop will set temporary basal rates to increase and decrease insulin delivery.</source>
-        <target state="needs-translation">Loop will set temporary basal rates to increase and decrease insulin delivery.</target>
+        <target state="translated">Loop va stabili ratele bazale temporare pentru a crește și reduce cantitatea de insulina livrata.</target>
         <note>Description string for temp basal only dosing strategy</note>
       </trans-unit>
       <trans-unit id="Manage Critical Alerts in Settings" xml:space="preserve">
@@ -1503,7 +1503,7 @@ Actuală: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Pump Event" xml:space="preserve">
         <source>Pump Event</source>
-        <target state="needs-translation">Pump Event</target>
+        <target state="translated">Eveniment pompă</target>
         <note>The title of the screen displaying a pump event</note>
       </trans-unit>
       <trans-unit id="Pump Manager" xml:space="preserve" approved="yes">
@@ -1528,7 +1528,7 @@ Actuală: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Pump Suspended. Automatic dosing is disabled." xml:space="preserve">
         <source>Pump Suspended. Automatic dosing is disabled.</source>
-        <target state="needs-translation">Pump Suspended. Automatic dosing is disabled.</target>
+        <target state="translated">Pompă suspendată. Administrarea automată este dezactivată.</target>
         <note>The error message displayed for pumpSuspended errors.</note>
       </trans-unit>
       <trans-unit id="Pump data is %1$@ old" xml:space="preserve" approved="yes">
@@ -1767,7 +1767,7 @@ Actuală: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
-        <target state="needs-translation">Unknown</target>
+        <target state="translated">Necunoscut</target>
         <note>The default description to use when an entry has no dose description</note>
       </trans-unit>
       <trans-unit id="Until I enter carbs" xml:space="preserve" approved="yes">
@@ -1876,12 +1876,12 @@ Verificați setările pentru iPhone (General / Data &amp; Timp) și verificați 
       </trans-unit>
       <trans-unit id="com.loudnate.InsulinKit.IOBDateLabel" xml:space="preserve">
         <source>at %1$@</source>
-        <target state="needs-translation">at %1$@</target>
+        <target state="translated">la %1$@</target>
         <note>The format string describing the date of an IOB value. The first format argument is the localized date.</note>
       </trans-unit>
       <trans-unit id="com.loudnate.InsulinKit.totalDateLabel" xml:space="preserve">
         <source>since %1$@</source>
-        <target state="needs-translation">since %1$@</target>
+        <target state="translated">de la %1$@</target>
         <note>The format string describing the starting date of a total value. The first format argument is the localized date.</note>
       </trans-unit>
       <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve" approved="yes">
@@ -2157,12 +2157,12 @@ Verificați setările pentru iPhone (General / Data &amp; Timp) și verificați 
       </trans-unit>
       <trans-unit id="Automatic Bolus" xml:space="preserve">
         <source>Automatic Bolus</source>
-        <target state="needs-translation">Automatic Bolus</target>
+        <target state="translated">Bolus automat</target>
         <note>Title string for automatic bolus dosing strategy</note>
       </trans-unit>
       <trans-unit id="Temp Basal Only" xml:space="preserve">
         <source>Temp Basal Only</source>
-        <target state="needs-translation">Temp Basal Only</target>
+        <target state="translated">Doar bazală temporară</target>
         <note>Title string for temp basal only dosing strategy</note>
       </trans-unit>
     </body>
