@@ -10,9 +10,9 @@
         <target state="translated">Brukergrensesnittstester</target>
         <note>Class = "UITableViewController"; title = "UI Tests"; ObjectID = "7bK-jq-Zjz";</note>
       </trans-unit>
-      <trans-unit id="Arm-wq-HPj.text" xml:space="preserve">
+      <trans-unit id="Arm-wq-HPj.text" xml:space="preserve" approved="yes">
         <source>Title</source>
-        <target state="translated">Tittel</target>
+        <target state="final">Tittel</target>
         <note>Class = "UILabel"; text = "Title"; ObjectID = "Arm-wq-HPj";</note>
       </trans-unit>
       <trans-unit id="RMx-3f-FxP.title" xml:space="preserve">
@@ -49,19 +49,19 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.4" build-num="12D4e"/>
     </header>
     <body>
-      <trans-unit id="Basal Rates" xml:space="preserve">
+      <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
         <source>Basal Rates</source>
-        <target state="translated">Basalsatser</target>
+        <target state="final">Basalsatser</target>
         <note>The title text for the basal rate schedule</note>
       </trans-unit>
-      <trans-unit id="Carb Ratios" xml:space="preserve">
+      <trans-unit id="Carb Ratios" xml:space="preserve" approved="yes">
         <source>Carb Ratios</source>
-        <target state="translated">Karbohydratforhold</target>
+        <target state="final">Karbohydratforhold</target>
         <note>The title of the carb ratios schedule screen</note>
       </trans-unit>
-      <trans-unit id="Carbs" xml:space="preserve">
+      <trans-unit id="Carbs" xml:space="preserve" approved="yes">
         <source>Carbs</source>
-        <target state="translated">Karbohydrater</target>
+        <target state="final">Karbohydrater</target>
         <note>The title for the cell navigating to the carbs screen</note>
       </trans-unit>
       <trans-unit id="Correction Range" xml:space="preserve">
@@ -69,40 +69,40 @@
         <target state="translated">Korreksjonsområde</target>
         <note>The title text for the glucose correction range schedule</note>
       </trans-unit>
-      <trans-unit id="Diagnostic" xml:space="preserve">
+      <trans-unit id="Diagnostic" xml:space="preserve" approved="yes">
         <source>Diagnostic</source>
-        <target state="translated">Diagnostikk</target>
+        <target state="final">Diagnostikk</target>
         <note>The title for the cell displaying diagnostic data</note>
       </trans-unit>
-      <trans-unit id="Enter the 6-digit pump ID" xml:space="preserve">
+      <trans-unit id="Enter the 6-digit pump ID" xml:space="preserve" approved="yes">
         <source>Enter the 6-digit pump ID</source>
-        <target state="translated">Skriv 6-siffret pumpe ID</target>
+        <target state="final">Skriv 6-siffret pumpe ID</target>
         <note>The placeholder text instructing users how to enter a pump ID</note>
       </trans-unit>
-      <trans-unit id="Generate Data" xml:space="preserve">
+      <trans-unit id="Generate Data" xml:space="preserve" approved="yes">
         <source>Generate Data</source>
-        <target state="translated">Generer data</target>
+        <target state="final">Generer data</target>
         <note>The title for the cell displaying data generation</note>
       </trans-unit>
-      <trans-unit id="Insulin Sensitivity" xml:space="preserve">
+      <trans-unit id="Insulin Sensitivity" xml:space="preserve" approved="yes">
         <source>Insulin Sensitivity</source>
-        <target state="translated">Insulinfølsomhet</target>
+        <target state="final">Insulinfølsomhet</target>
         <note>The title of the insulin sensitivity schedule screen
    The title text for the insulin sensitivity schedule</note>
       </trans-unit>
-      <trans-unit id="Pump ID" xml:space="preserve">
+      <trans-unit id="Pump ID" xml:space="preserve" approved="yes">
         <source>Pump ID</source>
-        <target state="translated">Pumpe ID</target>
+        <target state="final">Pumpe ID</target>
         <note>The title text for the pump ID</note>
       </trans-unit>
-      <trans-unit id="Reservoir" xml:space="preserve">
+      <trans-unit id="Reservoir" xml:space="preserve" approved="yes">
         <source>Reservoir</source>
-        <target state="translated">Reservoar</target>
+        <target state="final">Reservoar</target>
         <note>The title for the cell navigating to the reservoir screen</note>
       </trans-unit>
-      <trans-unit id="Reset" xml:space="preserve">
+      <trans-unit id="Reset" xml:space="preserve" approved="yes">
         <source>Reset</source>
-        <target state="translated">Nullstill</target>
+        <target state="final">Nullstill</target>
         <note>Title for the cell resetting the data manager</note>
       </trans-unit>
       <trans-unit id="Sync With Pump" xml:space="preserve">
@@ -110,9 +110,9 @@
         <target state="translated">Synkroniser med pumpe</target>
         <note>Title of button to sync basal profile from pump</note>
       </trans-unit>
-      <trans-unit id="The pump ID can be found printed on the back, or near the bottom of the STATUS/Esc screen. It is the strictly numerical portion of the serial number (shown as SN or S/N)." xml:space="preserve">
+      <trans-unit id="The pump ID can be found printed on the back, or near the bottom of the STATUS/Esc screen. It is the strictly numerical portion of the serial number (shown as SN or S/N)." xml:space="preserve" approved="yes">
         <source>The pump ID can be found printed on the back, or near the bottom of the STATUS/Esc screen. It is the strictly numerical portion of the serial number (shown as SN or S/N).</source>
-        <target state="translated">Pumpens ID kan finnes på ryggen, eller i nærheten av bunnen av STATUS/Esc-skjermen. Det er kun den numeriske delen av serienummeret (vist som SN eller S/N).</target>
+        <target state="final">Pumpens ID kan finnes på ryggen, eller i nærheten av bunnen av STATUS/Esc-skjermen. Det er kun den numeriske delen av serienummeret (vist som SN eller S/N).</target>
         <note>Instructions on where to find the pump ID on a Minimed pump</note>
       </trans-unit>
     </body>
@@ -122,14 +122,14 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.4" build-num="12D4e"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>LoopKit</source>
-        <target state="translated">LoopKit</target>
+        <target state="final">LoopKit</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
+      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve" approved="yes">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data is retrieved from HealthKit for graphing and analysis.</source>
-        <target state="translated">Måltider med karbohydrater lagret i helsedatabasen brukes til å bestemme blodsukkereffekter. Blodsukkerdata fra helsedatabasen brukes til beregning av grafer og analyse.</target>
+        <target state="final">Måltider med karbohydrater lagret i helsedatabasen brukes til å bestemme blodsukkereffekter. Blodsukkerdata fra helsedatabasen brukes til beregning av grafer og analyse.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
@@ -144,14 +144,14 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.4" build-num="12D4e"/>
     </header>
     <body>
-      <trans-unit id="%1$@ U bolus failed" xml:space="preserve">
+      <trans-unit id="%1$@ U bolus failed" xml:space="preserve" approved="yes">
         <source>%1$@ U bolus failed</source>
-        <target state="translated">%1$@ E bolus feilet</target>
+        <target state="final">%1$@ E bolus feilet</target>
         <note>Describes a certain bolus failure (1: size of the bolus in units)</note>
       </trans-unit>
-      <trans-unit id="%1$@ U bolus may not have succeeded" xml:space="preserve">
+      <trans-unit id="%1$@ U bolus may not have succeeded" xml:space="preserve" approved="yes">
         <source>%1$@ U bolus may not have succeeded</source>
-        <target state="translated">%1$@ E bolus kan ha feilet</target>
+        <target state="final">%1$@ E bolus kan ha feilet</target>
         <note>Describes an uncertain bolus failure (1: size of the bolus in units)</note>
       </trans-unit>
       <trans-unit id="%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." xml:space="preserve">
