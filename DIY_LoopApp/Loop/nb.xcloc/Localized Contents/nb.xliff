@@ -1106,7 +1106,7 @@ utilgjengelig</target>
       </trans-unit>
       <trans-unit id="Dosing Strategy" xml:space="preserve">
         <source>Dosing Strategy</source>
-        <target state="needs-translation">Dosing Strategy</target>
+        <target state="translated">Dosering strategi</target>
         <note>The title of the Dosing Strategy section in settings</note>
       </trans-unit>
       <trans-unit id="Enable&#10;Bluetooth" xml:space="preserve" approved="yes">
@@ -1365,7 +1365,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Loop will automatically bolus when insulin needs are above scheduled basal, and will use temporary basal rates when needed to reduce insulin delivery below scheduled basal." xml:space="preserve">
         <source>Loop will automatically bolus when insulin needs are above scheduled basal, and will use temporary basal rates when needed to reduce insulin delivery below scheduled basal.</source>
-        <target state="needs-translation">Loop will automatically bolus when insulin needs are above scheduled basal, and will use temporary basal rates when needed to reduce insulin delivery below scheduled basal.</target>
+        <target state="translated">Loop vil automatisk gi en bolusdose når det er behov for insulin over planlagt plan. og vil bruke midlertidige mengder basalinsulin når det er nødvendig for å redusere mengden av insulin under det planlagte bassenget.</target>
         <note>Description string for automatic bolus dosing strategy</note>
       </trans-unit>
       <trans-unit id="Loop will not work successfully until Bluetooth is enabled. You will not recieve glucose readings, or be able to bolus." xml:space="preserve">
@@ -2275,75 +2275,75 @@ på Innstillinger for å slå lukket sløyfe PÅ hvis du ønsker at appen skal a
         <target state="translated">Lukket Loop</target>
         <note>Accessibility hint describing completion HUD for a closed loop</note>
       </trans-unit>
-      <trans-unit id="HIGH" xml:space="preserve">
+      <trans-unit id="HIGH" xml:space="preserve" approved="yes">
         <source>HIGH</source>
-        <target state="translated">HØYT</target>
+        <target state="final">HØYT</target>
         <note>String displayed instead of a glucose value above the CGM range</note>
       </trans-unit>
-      <trans-unit id="LOW" xml:space="preserve">
+      <trans-unit id="LOW" xml:space="preserve" approved="yes">
         <source>LOW</source>
-        <target state="translated">LAVT</target>
+        <target state="final">LAVT</target>
         <note>String displayed instead of a glucose value below the CGM range</note>
       </trans-unit>
-      <trans-unit id="Loop Failure" xml:space="preserve">
+      <trans-unit id="Loop Failure" xml:space="preserve" approved="yes">
         <source>Loop Failure</source>
-        <target state="translated">Loop feilet</target>
+        <target state="final">Loop feilet</target>
         <note>Title of red loop message
    Title of yellow loop message</note>
       </trans-unit>
-      <trans-unit id="Loop ran %@ ago" xml:space="preserve">
+      <trans-unit id="Loop ran %@ ago" xml:space="preserve" approved="yes">
         <source>Loop ran %@ ago</source>
-        <target state="translated">Loop kjørte %@ siden</target>
+        <target state="final">Loop kjørte %@ siden</target>
         <note>Accessbility format label describing the time interval since the last completion date. (1: The localized date components)</note>
       </trans-unit>
-      <trans-unit id="Needs attention" xml:space="preserve">
+      <trans-unit id="Needs attention" xml:space="preserve" approved="yes">
         <source>Needs attention</source>
-        <target state="translated">Trenger tilsyn</target>
+        <target state="final">Trenger tilsyn</target>
         <note>Accessibility label component for glucose HUD describing an invalid state</note>
       </trans-unit>
-      <trans-unit id="Open loop" xml:space="preserve">
+      <trans-unit id="Open loop" xml:space="preserve" approved="yes">
         <source>Open loop</source>
-        <target state="translated">Åpen Loop</target>
+        <target state="final">Åpen Loop</target>
         <note>Accessbility hint describing completion HUD for an open loop</note>
       </trans-unit>
-      <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve">
+      <trans-unit id="QUANTITY_VALUE_AND_UNIT" xml:space="preserve" approved="yes">
         <source>%1$@ %2$@</source>
-        <target state="translated">%1$@ %2$@</target>
+        <target state="final">%1$@ %2$@</target>
         <note>Format string for combining localized numeric value and unit. (1: numeric value)(2: unit)</note>
       </trans-unit>
-      <trans-unit id="U" xml:space="preserve">
+      <trans-unit id="U" xml:space="preserve" approved="yes">
         <source>U</source>
-        <target state="translated">E</target>
+        <target state="final">E</target>
         <note>The short unit display string for international units of insulin</note>
       </trans-unit>
-      <trans-unit id="Unknown" xml:space="preserve">
+      <trans-unit id="Unknown" xml:space="preserve" approved="yes">
         <source>Unknown</source>
-        <target state="translated">Ukjent</target>
+        <target state="final">Ukjent</target>
         <note>Accessibility value for an unknown value</note>
       </trans-unit>
-      <trans-unit id="Waiting for first run" xml:space="preserve">
+      <trans-unit id="Waiting for first run" xml:space="preserve" approved="yes">
         <source>Waiting for first run</source>
-        <target state="translated">Venter på første kjøring</target>
+        <target state="final">Venter på første kjøring</target>
         <note>Acessibility label describing completion HUD waiting for first run</note>
       </trans-unit>
-      <trans-unit id="dB" xml:space="preserve">
+      <trans-unit id="dB" xml:space="preserve" approved="yes">
         <source>dB</source>
-        <target state="translated">dB</target>
+        <target state="final">dB</target>
         <note>The short unit display string for decibles</note>
       </trans-unit>
-      <trans-unit id="g" xml:space="preserve">
+      <trans-unit id="g" xml:space="preserve" approved="yes">
         <source>g</source>
-        <target state="translated">g</target>
+        <target state="final">g</target>
         <note>The short unit display string for grams</note>
       </trans-unit>
-      <trans-unit id="mg/dL" xml:space="preserve">
+      <trans-unit id="mg/dL" xml:space="preserve" approved="yes">
         <source>mg/dL</source>
-        <target state="translated">mg/dL</target>
+        <target state="final">mg/dL</target>
         <note>The short unit display string for milligrams of glucose per decilter</note>
       </trans-unit>
-      <trans-unit id="mmol/L" xml:space="preserve">
+      <trans-unit id="mmol/L" xml:space="preserve" approved="yes">
         <source>mmol/L</source>
-        <target state="translated">mmol/L</target>
+        <target state="final">mmol/L</target>
         <note>The short unit display string for millimoles of glucose per liter</note>
       </trans-unit>
       <trans-unit id="– – –" xml:space="preserve">
