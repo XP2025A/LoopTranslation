@@ -15,9 +15,9 @@
         <target state="final">Legg til karbohydrater</target>
         <note/>
       </trans-unit>
-      <trans-unit id="I4OZy8" xml:space="preserve">
+      <trans-unit id="I4OZy8" xml:space="preserve" approved="yes">
         <source>Enable Override Preset</source>
-        <target state="translated">Aktiver forhåndsinnstilling for overstyring</target>
+        <target state="final">Aktiver forhåndsinnstilling for overstyring</target>
         <note/>
       </trans-unit>
       <trans-unit id="OcNxIj" xml:space="preserve" approved="yes">
@@ -437,14 +437,14 @@
         <target state="final">$(PRODUCT_NAME)</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">
+      <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve" approved="yes">
         <source>Bluetooth is used to communicate with insulin pump and continuous glucose monitor devices.</source>
-        <target state="translated">Bluetooth brukes til å kommunisere med insulinpumpe og kontinuerlige glukosemonitorer.</target>
+        <target state="final">Bluetooth brukes til å kommunisere med insulinpumpe og kontinuerlige blodsukker monitorer.</target>
         <note>Privacy - Bluetooth Always Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve">
+      <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve" approved="yes">
         <source>Bluetooth is used to communicate with insulin pump and continuous glucose monitor devices.</source>
-        <target state="translated">Bluetooth brukes til å kommunisere med insulinpumpe og kontinuerlige glukosemonitorer.</target>
+        <target state="final">Bluetooth brukes til å kommunisere med insulinpumpe og kontinuerlige blodsukker monitorer.</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve" approved="yes">
@@ -479,22 +479,22 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.4" build-num="12D4e"/>
     </header>
     <body>
-      <trans-unit id="&#10;            Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.&#10;            " xml:space="preserve">
+      <trans-unit id="&#10;            Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.&#10;            " xml:space="preserve" approved="yes">
         <source>
             Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.
             </source>
-        <target state="translated">
+        <target state="final">
             Kritiske varsler vil alltid spille av en lyd og vises på låseskjermen selv om iPhone er dempet eller i Ikke forstyrr modus.
             </target>
         <note>Manage Notifications in Settings descriptive text</note>
       </trans-unit>
-      <trans-unit id="&#10;            Notifications appear on your Lock screen or pop up while you’re using other apps.&#10;            &#10;            Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.&#10;            " xml:space="preserve">
+      <trans-unit id="&#10;            Notifications appear on your Lock screen or pop up while you’re using other apps.&#10;            &#10;            Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.&#10;            " xml:space="preserve" approved="yes">
         <source>
             Notifications appear on your Lock screen or pop up while you’re using other apps.
             
             Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.
             </source>
-        <target state="translated">
+        <target state="final">
             Varsler vises på låseskjermen eller dukker opp mens du bruker andre apper.
             
             Varsler gir deg viktig (appName) appinformasjon uten at du må åpne appen.  Du kan tilpasse når og hvordan du vil motta disse varslene.
