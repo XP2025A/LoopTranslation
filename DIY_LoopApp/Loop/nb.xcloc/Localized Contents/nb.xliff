@@ -506,19 +506,19 @@
         <target state="translated"> </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id=" (pending: %@)" xml:space="preserve">
+      <trans-unit id=" (pending: %@)" xml:space="preserve" approved="yes">
         <source> (pending: %@)</source>
-        <target state="translated"> (Gjenstår: %@)</target>
+        <target state="final"> (Gjenstår: %@)</target>
         <note>The string format appended to active insulin that describes pending insulin. (1: pending insulin)</note>
       </trans-unit>
-      <trans-unit id=" Pre-meal Preset" xml:space="preserve">
+      <trans-unit id=" Pre-meal Preset" xml:space="preserve" approved="yes">
         <source> Pre-meal Preset</source>
-        <target state="translated"> Forhåndsinnstilling før måltid</target>
+        <target state="final"> Forhåndsinnstilling før måltid</target>
         <note>Status row title for premeal override enabled (leading space is to separate from symbol)</note>
       </trans-unit>
-      <trans-unit id=" Workout Preset" xml:space="preserve">
+      <trans-unit id=" Workout Preset" xml:space="preserve" approved="yes">
         <source> Workout Preset</source>
-        <target state="translated"> Forhåndsinnstilling for treningsøkt</target>
+        <target state="final"> Forhåndsinnstilling for treningsøkt</target>
         <note>Status row title for workout override enabled (leading space is to separate from symbol)</note>
       </trans-unit>
       <trans-unit id="%1$@ %2$@" xml:space="preserve" approved="yes">
@@ -633,49 +633,49 @@ Du kan vente for å se om problemet løser seg, eller trykk på knappen nedenfor
         <target state="final">Noen sekunder gjenstår</target>
         <note>Estimated remaining duration with a few seconds</note>
       </trans-unit>
-      <trans-unit id="A manual glucose entry must be between %1$@ and %2$@" xml:space="preserve">
+      <trans-unit id="A manual glucose entry must be between %1$@ and %2$@" xml:space="preserve" approved="yes">
         <source>A manual glucose entry must be between %1$@ and %2$@</source>
-        <target state="translated">Manuelle registreringer av blodsukker må være mellom %1$@ og %2$@</target>
+        <target state="final">Manuelle registreringer av blodsukker må være mellom %1$@ og %2$@</target>
         <note>Alert message for a manual glucose entry out of range error. (1: acceptable lower bound) (2: acceptable upper bound)</note>
       </trans-unit>
-      <trans-unit id="A manual glucose entry must be between %@ and %@" xml:space="preserve">
+      <trans-unit id="A manual glucose entry must be between %@ and %@" xml:space="preserve" approved="yes">
         <source>A manual glucose entry must be between %1$@ and %2$@</source>
-        <target state="translated">Manuelle registreringer av glukose må være mellom %1$@ og %2$@</target>
+        <target state="final">Manuelle registreringer av glukose må være mellom %1$@ og %2$@</target>
         <note>Alert message for a manual glucose entry out of range error</note>
       </trans-unit>
-      <trans-unit id="A model based on the published absorption of Fiasp insulin." xml:space="preserve">
+      <trans-unit id="A model based on the published absorption of Fiasp insulin." xml:space="preserve" approved="yes">
         <source>A model based on the published absorption of Fiasp insulin.</source>
-        <target state="translated">En modell basert på publiserte data for absorpsjon av Fiasp insulin.</target>
+        <target state="final">En modell basert på publiserte data for absorpsjon av Fiasp insulin.</target>
         <note>Subtitle of Fiasp preset</note>
       </trans-unit>
-      <trans-unit id="A model based on the published absorption of Humalog, Novolog, and Apidra insulin in adults." xml:space="preserve">
+      <trans-unit id="A model based on the published absorption of Humalog, Novolog, and Apidra insulin in adults." xml:space="preserve" approved="yes">
         <source>A model based on the published absorption of Humalog, Novolog, and Apidra insulin in adults.</source>
-        <target state="translated">En modell basert på publiserte data for absorpsjon av Humalog, Novolog og Apidra insulin hos voksne.</target>
+        <target state="final">En modell basert på publiserte data for absorpsjon av Humalog, Novolog og Apidra insulin hos voksne.</target>
         <note>Subtitle of Rapid-Acting – Adult preset</note>
       </trans-unit>
-      <trans-unit id="A pump must be configured before a bolus can be delivered." xml:space="preserve">
+      <trans-unit id="A pump must be configured before a bolus can be delivered." xml:space="preserve" approved="yes">
         <source>A pump must be configured before a bolus can be delivered.</source>
-        <target state="translated">En pumpe må konfigureres før en bolus kan leveres.</target>
+        <target state="final">En pumpe må konfigureres før en bolus kan leveres.</target>
         <note>Alert message for a missing pump error</note>
       </trans-unit>
-      <trans-unit id="API Key" xml:space="preserve">
+      <trans-unit id="API Key" xml:space="preserve" approved="yes">
         <source>API Key</source>
-        <target state="translated">API-nøkkel</target>
+        <target state="final">API-nøkkel</target>
         <note>The title of the amplitude API key credential</note>
       </trans-unit>
-      <trans-unit id="API Secret" xml:space="preserve">
+      <trans-unit id="API Secret" xml:space="preserve" approved="yes">
         <source>API Secret</source>
-        <target state="translated">API kodeord</target>
+        <target state="final">API kodeord</target>
         <note>The title of the nightscout API secret credential</note>
       </trans-unit>
-      <trans-unit id="Absorption Time" xml:space="preserve">
+      <trans-unit id="Absorption Time" xml:space="preserve" approved="yes">
         <source>Absorption Time</source>
-        <target state="translated">Absorpsjonstid</target>
+        <target state="final">Absorpsjonstid</target>
         <note>Title of the carb entry absorption time cell</note>
       </trans-unit>
-      <trans-unit id="AcceptRecommendedBolus" xml:space="preserve">
+      <trans-unit id="AcceptRecommendedBolus" xml:space="preserve" approved="yes">
         <source>AcceptRecommendedBolus</source>
-        <target state="translated">AksepterAnbefaltBolus</target>
+        <target state="final">AksepterAnbefaltBolus</target>
         <note>Action to copy the recommended Bolus value to the actual Bolus Field</note>
       </trans-unit>
       <trans-unit id="Active Carbohydrates" xml:space="preserve" approved="yes">
@@ -756,9 +756,9 @@ Du kan vente for å se om problemet løser seg, eller trykk på knappen nedenfor
         <target state="final">En justering til modellen tilpasset voksne, basert på empiriske effekter hos barn.</target>
         <note>Subtitle of Rapid-Acting – Children preset</note>
       </trans-unit>
-      <trans-unit id="An error occurred while trying to save your carb entry." xml:space="preserve">
+      <trans-unit id="An error occurred while trying to save your carb entry." xml:space="preserve" approved="yes">
         <source>An error occurred while trying to save your carb entry.</source>
-        <target state="translated">Det oppsto en feil under forsøk på å lagre karbohydrater.</target>
+        <target state="final">Det oppsto en feil under forsøk på å lagre karbohydrater.</target>
         <note>Alert message for a carb entry persistence error</note>
       </trans-unit>
       <trans-unit id="An error occurred while trying to save your manual glucose entry." xml:space="preserve">
@@ -773,7 +773,7 @@ Du kan vente for å se om problemet løser seg, eller trykk på knappen nedenfor
       </trans-unit>
       <trans-unit id="Are you sure you want to delete all history entries?" xml:space="preserve">
         <source>Are you sure you want to delete all history entries?</source>
-        <target state="translated">Er du sikker på at du vil slette alle historiske innslag?</target>
+        <target state="translated">Are you sure you want to delete all history entries?</target>
         <note>Action sheet confirmation message for pump history deletion</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete all logged dose entries?" xml:space="preserve">
