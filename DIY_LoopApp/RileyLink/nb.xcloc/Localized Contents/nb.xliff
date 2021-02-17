@@ -5,9 +5,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.4" build-num="12D4e"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="yes">
         <source>Crypto</source>
-        <target state="translated">Crypto</target>
+        <target state="final">Crypto</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -22,39 +22,39 @@
         <target state="final">En bolus pågår allerede</target>
         <note>Communications error for a bolus currently running</note>
       </trans-unit>
-      <trans-unit id="AlarmClockReminder" xml:space="preserve">
+      <trans-unit id="AlarmClockReminder" xml:space="preserve" approved="yes">
         <source>AlarmClockReminder</source>
-        <target state="translated">PåminnelseAlarmklokke</target>
+        <target state="final">PåminnelseAlarmklokke</target>
         <note>The description of AlarmClockReminderPumpEvent</note>
       </trans-unit>
-      <trans-unit id="AlarmSensor" xml:space="preserve">
+      <trans-unit id="AlarmSensor" xml:space="preserve" approved="yes">
         <source>AlarmSensor</source>
-        <target state="translated">AlarmSensor</target>
+        <target state="final">AlarmSensor</target>
         <note>The description of AlarmSensorPumpEvent</note>
       </trans-unit>
-      <trans-unit id="Alkaline" xml:space="preserve">
+      <trans-unit id="Alkaline" xml:space="preserve" approved="yes">
         <source>Alkaline</source>
-        <target state="translated">Alkalisk</target>
+        <target state="final">Alkalisk</target>
         <note>Describing the battery chemistry as Alkaline</note>
       </trans-unit>
-      <trans-unit id="Basal Profile %1$@: %2$@ U/hour" xml:space="preserve">
+      <trans-unit id="Basal Profile %1$@: %2$@ U/hour" xml:space="preserve" approved="yes">
         <source>Basal Profile %1$@: %2$@ U/hour</source>
-        <target state="translated">Basalprofil  %1$@: %2$@ E/timen</target>
+        <target state="final">Basalprofil  %1$@: %2$@ E/timen</target>
         <note>The format string description of a BasalProfileStartPumpEvent. (1: The index of the profile)(2: The basal rate)</note>
       </trans-unit>
-      <trans-unit id="Bolus in Progress" xml:space="preserve">
+      <trans-unit id="Bolus in Progress" xml:space="preserve" approved="yes">
         <source>Bolus in Progress</source>
-        <target state="translated">Bolus leveres</target>
+        <target state="final">Bolus pågår</target>
         <note>Error description when failure due to bolus in progress</note>
       </trans-unit>
-      <trans-unit id="Bolus in progress" xml:space="preserve">
+      <trans-unit id="Bolus in progress" xml:space="preserve" approved="yes">
         <source>Bolus in progress</source>
-        <target state="translated">Bolus pågår</target>
+        <target state="final">Bolus pågår</target>
         <note>Pump error code when bolus is in progress</note>
       </trans-unit>
-      <trans-unit id="Canada" xml:space="preserve">
+      <trans-unit id="Canada" xml:space="preserve" approved="yes">
         <source>Canada</source>
-        <target state="translated">Canada</target>
+        <target state="final">Canada</target>
         <note>Describing the Canada pump region</note>
       </trans-unit>
       <trans-unit id="Check that the pump is not suspended or priming, or has a percent temp basal type" xml:space="preserve">
@@ -62,9 +62,9 @@
         <target state="translated">Sjekk at pumpa ikke har stoppet tilførsel av insulin, at priming ikke foregår, eller har en  midlertidig prosentbasaltype pågående.</target>
         <note>Suggestions for diagnosing a command refused pump error</note>
       </trans-unit>
-      <trans-unit id="Command refused" xml:space="preserve">
+      <trans-unit id="Command refused" xml:space="preserve" approved="yes">
         <source>Command refused</source>
-        <target state="translated">Kommando avvist</target>
+        <target state="final">Kommando avvist</target>
         <note>Pump error code returned when command refused</note>
       </trans-unit>
       <trans-unit id="Comms with another pump detected" xml:space="preserve">
@@ -72,14 +72,14 @@
         <target state="translated">Oppdaget kommunikasjon med en annen pumpe</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Decoding Error" xml:space="preserve">
+      <trans-unit id="Decoding Error" xml:space="preserve" approved="yes">
         <source>Decoding Error</source>
-        <target state="translated">Dekodingsfeil</target>
+        <target state="final">Dekodingsfeil</target>
         <note>Error description</note>
       </trans-unit>
-      <trans-unit id="Device Error" xml:space="preserve">
+      <trans-unit id="Device Error" xml:space="preserve" approved="yes">
         <source>Device Error</source>
-        <target state="translated">Enhetsfeil</target>
+        <target state="final">Enhetsfeil</target>
         <note>Error description</note>
       </trans-unit>
       <trans-unit id="Event History" xml:space="preserve">
@@ -92,9 +92,9 @@
         <target state="translated">Glukosesiden mislyktes med crc sjekk</target>
         <note>Error description for glucose page failing crc check</note>
       </trans-unit>
-      <trans-unit id="History page does not exist" xml:space="preserve">
+      <trans-unit id="History page does not exist" xml:space="preserve" approved="yes">
         <source>History page does not exist</source>
-        <target state="translated">Historie siden eksisterer ikke</target>
+        <target state="final">Historie siden eksisterer ikke</target>
         <note>Pump error code when invalid history page is requested</note>
       </trans-unit>
       <trans-unit id="History page failed crc check" xml:space="preserve">
@@ -102,14 +102,14 @@
         <target state="translated">Historikksiden mislyktes med crc kontroll</target>
         <note>Error description for history page failing crc check</note>
       </trans-unit>
-      <trans-unit id="Invalid response during %1$@: %2$@" xml:space="preserve">
+      <trans-unit id="Invalid response during %1$@: %2$@" xml:space="preserve" approved="yes">
         <source>Invalid response during %1$@: %2$@</source>
-        <target state="translated">Ugyldig respons ved %1$@: %2$@</target>
+        <target state="final">Ugyldig respons ved %1$@: %2$@</target>
         <note>Format string for failure reason. (1: The operation being performed) (2: The response data)</note>
       </trans-unit>
-      <trans-unit id="Lithium" xml:space="preserve">
+      <trans-unit id="Lithium" xml:space="preserve" approved="yes">
         <source>Lithium</source>
-        <target state="translated">Litium</target>
+        <target state="final">Litium</target>
         <note>Describing the battery chemistry as Lithium</note>
       </trans-unit>
       <trans-unit id="Make sure your RileyLink is nearby and powered on" xml:space="preserve">
@@ -137,19 +137,19 @@
         <target state="translated">Ingen RileyLink tilkoblet</target>
         <note>Error description when no rileylink connected</note>
       </trans-unit>
-      <trans-unit id="North America" xml:space="preserve">
+      <trans-unit id="North America" xml:space="preserve" approved="yes">
         <source>North America</source>
-        <target state="translated">Nord Amerika</target>
+        <target state="final">Nord Amerika</target>
         <note>Describing the North America pump region</note>
       </trans-unit>
-      <trans-unit id="Pump Error" xml:space="preserve">
+      <trans-unit id="Pump Error" xml:space="preserve" approved="yes">
         <source>Pump Error</source>
-        <target state="translated">Pumpefeil</target>
+        <target state="final">Pumpefeil</target>
         <note>Error description</note>
       </trans-unit>
-      <trans-unit id="Pump did not respond" xml:space="preserve">
+      <trans-unit id="Pump did not respond" xml:space="preserve" approved="yes">
         <source>Pump did not respond</source>
-        <target state="translated">Pumpa svarte ikke</target>
+        <target state="final">Pumpa svarte ikke</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pump is suspended" xml:space="preserve">
@@ -157,44 +157,44 @@
         <target state="translated">Pumpe er pauset</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Pump responded unexpectedly" xml:space="preserve">
+      <trans-unit id="Pump responded unexpectedly" xml:space="preserve" approved="yes">
         <source>Pump responded unexpectedly</source>
-        <target state="translated">Pumpen svarte uventet</target>
+        <target state="final">Pumpen svarte uventet</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="PumpMessage(%1$@, %2$@, %3$@, %4$@)" xml:space="preserve">
+      <trans-unit id="PumpMessage(%1$@, %2$@, %3$@, %4$@)" xml:space="preserve" approved="yes">
         <source>PumpMessage(%1$@, %2$@, %3$@, %4$@)</source>
-        <target state="translated">Pumpemelding(%1$@, %2$@, %3$@, %4$@)</target>
+        <target state="final">Pumpemelding(%1$@, %2$@, %3$@, %4$@)</target>
         <note>The format string describing a pump message. (1: The packet type)(2: The message type)(3: The message address)(4: The message data</note>
       </trans-unit>
-      <trans-unit id="Reservoir" xml:space="preserve">
+      <trans-unit id="Reservoir" xml:space="preserve" approved="yes">
         <source>Reservoir</source>
-        <target state="translated">Reservoar</target>
+        <target state="final">Reservoar</target>
         <note>Describing the reservoir insulin data source</note>
       </trans-unit>
-      <trans-unit id="RileyLink radio tune failed" xml:space="preserve">
+      <trans-unit id="RileyLink radio tune failed" xml:space="preserve" approved="yes">
         <source>RileyLink radio tune failed</source>
-        <target state="translated">RileyLink radiotuning feilet</target>
+        <target state="final">RileyLink radiotuning feilet</target>
         <note>Error description</note>
       </trans-unit>
-      <trans-unit id="Temporary Basal: %1$.3f U/hour" xml:space="preserve">
+      <trans-unit id="Temporary Basal: %1$.3f U/hour" xml:space="preserve" approved="yes">
         <source>Temporary Basal: %1$.3f U/hour</source>
-        <target state="translated">Midlertidig basaldose: %1$.3f IE/timen</target>
+        <target state="final">Midlertidig basaldose: %1$.3f IE/timen</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in minutes)</note>
       </trans-unit>
-      <trans-unit id="Temporary Basal: %1$d min" xml:space="preserve">
+      <trans-unit id="Temporary Basal: %1$d min" xml:space="preserve" approved="yes">
         <source>Temporary Basal: %1$d min</source>
-        <target state="translated">Midlertidig basaldose: %1$d min</target>
+        <target state="final">Midlertidig basaldose: %1$d min</target>
         <note>The format string description of a TempBasalDurationPumpEvent. (1: The duration of the temp basal in minutes)</note>
       </trans-unit>
-      <trans-unit id="Temporary Basal: %1$d%%" xml:space="preserve">
+      <trans-unit id="Temporary Basal: %1$d%%" xml:space="preserve" approved="yes">
         <source>Temporary Basal: %1$d%%</source>
-        <target state="translated">Midlertidig basaldose: %1$d%%</target>
+        <target state="final">Midlertidig basaldose: %1$d%%</target>
         <note>The format string description of a TempBasalPumpEvent. (1: The rate of the temp basal in percent)</note>
       </trans-unit>
-      <trans-unit id="Unable to store pump data" xml:space="preserve">
+      <trans-unit id="Unable to store pump data" xml:space="preserve" approved="yes">
         <source>Unable to store pump data</source>
-        <target state="translated">Kan ikke lagre pumpedata</target>
+        <target state="final">Kan ikke lagre pumpedata</target>
         <note>Error description when storage fails</note>
       </trans-unit>
       <trans-unit id="Unknown glucose record type: %$1@" xml:space="preserve">
@@ -207,19 +207,19 @@
         <target state="translated">Ukjent historieopptakstype: %$1@</target>
         <note>Format string for error description for an unknown record type in a history page. (1: event type number)</note>
       </trans-unit>
-      <trans-unit id="Unknown pump error code: %1$@" xml:space="preserve">
+      <trans-unit id="Unknown pump error code: %1$@" xml:space="preserve" approved="yes">
         <source>Unknown pump error code: %1$@</source>
-        <target state="translated">Ukjent feilkode fra pumpe: %1$@</target>
+        <target state="final">Ukjent feilkode fra pumpe: %1$@</target>
         <note>The format string description of an unknown pump error code. (1: The specific error code raw value)</note>
       </trans-unit>
-      <trans-unit id="Unknown pump model: %@" xml:space="preserve">
+      <trans-unit id="Unknown pump model: %@" xml:space="preserve" approved="yes">
         <source>Unknown pump model: %@</source>
-        <target state="translated">Ukjent pumpemodell: %@</target>
+        <target state="final">Ukjent pumpemodell: %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Unknown response during %1$@: %2$@" xml:space="preserve">
+      <trans-unit id="Unknown response during %1$@: %2$@" xml:space="preserve" approved="yes">
         <source>Unknown response during %1$@: %2$@</source>
-        <target state="translated">Ukjent respons ved %1$@: %2$@</target>
+        <target state="final">Ukjent respons ved %1$@: %2$@</target>
         <note>Format string for an unknown response. (1: The operation being performed) (2: The response data)</note>
       </trans-unit>
       <trans-unit id="World-Wide" xml:space="preserve">
