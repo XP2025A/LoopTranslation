@@ -437,14 +437,14 @@
         <target state="final">$(PRODUCT_NAME)</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">
+      <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve" approved="yes">
         <source>Bluetooth is used to communicate with insulin pump and continuous glucose monitor devices.</source>
-        <target state="translated">Bluetooth este folosit pentru a comunica cu pompa de insulină și cu dispozitivele de monitorizare continua a glicemiei.</target>
+        <target state="final">Bluetooth este folosit pentru a comunica cu pompa de insulină și cu dispozitivele de monitorizare continua a glicemiei.</target>
         <note>Privacy - Bluetooth Always Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve">
+      <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve" approved="yes">
         <source>Bluetooth is used to communicate with insulin pump and continuous glucose monitor devices.</source>
-        <target state="translated">Bluetooth este folosit pentru a comunica cu pompa de insulină și cu dispozitivele de monitorizare continua a glicemiei.</target>
+        <target state="final">Bluetooth este folosit pentru a comunica cu pompa de insulină și cu dispozitivele de monitorizare continua a glicemiei.</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve" approved="yes">
@@ -452,9 +452,9 @@
         <target state="final">Camera foto este folosită pentru a scana codurile de bare ale dispozitivelor</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
+      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve" approved="yes">
         <source>Face ID is used to authenticate insulin bolus and to save changes to therapy settings.</source>
-        <target state="translated">Face ID este utilizat pentru autentificarea la bolus și pentru salvarea modificărilor din setările terapiei.</target>
+        <target state="final">Face ID este utilizat pentru autentificarea la bolus și pentru salvarea modificărilor din setările terapiei.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
