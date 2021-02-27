@@ -459,17 +459,17 @@
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to improve the Apple Watch complication.</source>
-        <target state="translated">Informațiile despre nutriție din baza de date Sănătate sunt folosite pentru a determina efectele glucozei. Informațiile despre glucoză din baza de date Sănătate sunt folosite pentru construirea de grafice și calcule de trend/momentum.</target>
+        <target state="translated">Datele despre mese din baza de date a aplicației Health sunt folosite pentru a determina efectele glicemice. Datele despre glicemie din baza de date Health sunt folosite pentru construirea graficelor și calcularea influențelor glicemice. Datele despre somn din baza de date Health sunt folosite pentru a optimiza ceasul Apple.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Carbohydrate meal data entered in the app and on the watch is stored in the Health database. Glucose data retrieved from the CGM is stored securely in HealthKit.</source>
-        <target state="translated">Carbohidrații introduși în aplicație și pe ceas sunt stocați în baza de date Sănătate. Glicemiile din GCM sunt stocate în mod confidențial în HealthKit.</target>
+        <target state="translated">Carbohidrații introduși în aplicație și pe ceas sunt stocați în baza de date Health. Glicemiile din GCM sunt stocate în mod confidențial în HealthKit.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSSiriUsageDescription" xml:space="preserve">
+      <trans-unit id="NSSiriUsageDescription" xml:space="preserve" approved="yes">
         <source>Loop uses Siri to allow you to set override presets with your voice.</source>
-        <target state="translated">Buclă folosește Siri pentru a vă permite să setați suprascrieri de presetări cu vocea dumneavoastră.</target>
+        <target state="final">Buclă folosește Siri pentru a vă permite să setați suprascrieri de presetări cu vocea dumneavoastră.</target>
         <note>Privacy - Siri Usage Description</note>
       </trans-unit>
     </body>
@@ -479,22 +479,22 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.4" build-num="12D4e"/>
     </header>
     <body>
-      <trans-unit id="&#10;            Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.&#10;            " xml:space="preserve">
+      <trans-unit id="&#10;            Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.&#10;            " xml:space="preserve" approved="yes">
         <source>
             Critical Alerts will always play a sound and appear on the Lock screen even if your iPhone is muted or Do Not Disturb is on.
             </source>
-        <target state="translated">
+        <target state="final">
             Alertele critice vor fi întotdeauna însoțite de un sunet și vor apărea pe ecranul de blocare, chiar dacă iPhone-ul este dat pe modul silențios sau pe modul Nu Deranjați.
             </target>
         <note>Manage Notifications in Settings descriptive text</note>
       </trans-unit>
-      <trans-unit id="&#10;            Notifications appear on your Lock screen or pop up while you’re using other apps.&#10;            &#10;            Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.&#10;            " xml:space="preserve">
+      <trans-unit id="&#10;            Notifications appear on your Lock screen or pop up while you’re using other apps.&#10;            &#10;            Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.&#10;            " xml:space="preserve" approved="yes">
         <source>
             Notifications appear on your Lock screen or pop up while you’re using other apps.
             
             Notifications give you important (appName) app information without requiring you to open the app.  You can customize when and how you want to receive these notifications.
             </source>
-        <target state="translated">
+        <target state="final">
             Notificările apar pe ecranul de blocare sau apar în timp ce folosești alte aplicații.
             
             Notificările vă oferă informații importante despre aplicație (appName) fără a necesita deschiderea aplicației. Puteți personaliza când și cum doriți să primiți aceste notificări.
@@ -511,9 +511,9 @@
         <target state="final"> (urmează a fi administrate: %@)</target>
         <note>The string format appended to active insulin that describes pending insulin. (1: pending insulin)</note>
       </trans-unit>
-      <trans-unit id=" Pre-meal Preset" xml:space="preserve">
+      <trans-unit id=" Pre-meal Preset" xml:space="preserve" approved="yes">
         <source> Pre-meal Preset</source>
-        <target state="translated"> Presetare înainte de masă</target>
+        <target state="final"> Presetare înainte de masă</target>
         <note>Status row title for premeal override enabled (leading space is to separate from symbol)</note>
       </trans-unit>
       <trans-unit id=" Workout Preset" xml:space="preserve" approved="yes">
@@ -536,9 +536,9 @@
         <target state="final">%1$@ + %2$@</target>
         <note>Formats (1: carb start time) and (2: carb absorption duration)</note>
       </trans-unit>
-      <trans-unit id="%1$@ U" xml:space="preserve">
+      <trans-unit id="%1$@ U" xml:space="preserve" approved="yes">
         <source>%1$@ U</source>
-        <target state="translated">%1$@ U</target>
+        <target state="final">%1$@ U</target>
         <note>Reservoir entry (1: volume value)</note>
       </trans-unit>
       <trans-unit id="%1$@ U left" xml:space="preserve" approved="yes">
@@ -556,11 +556,11 @@
         <target state="final">%1$@ U/oră @ %2$@</target>
         <note>The format for recommended temp basal rate and time. (1: localized rate number)(2: localized time)</note>
       </trans-unit>
-      <trans-unit id="%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.&#10;&#10;" xml:space="preserve">
+      <trans-unit id="%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.&#10;&#10;" xml:space="preserve" approved="yes">
         <source>%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
 
 </source>
-        <target state="translated">%1$@ operează cu buclă închisă dezactivata. Pompa și senzorul vor continua să funcționeze, dar insulina bazală nu se va ajusta automat.
+        <target state="final">%1$@ operează cu buclă închisă dezactivata. Pompa și senzorul vor continua să funcționeze, dar insulina bazală nu se va ajusta automat.
 
 </target>
         <note>Alert message for closed loop off informational modal. (1: app name)</note>
@@ -587,9 +587,9 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="final">%1$@: %2$@</target>
         <note>Formats (1: carb value) and (2: food type)</note>
       </trans-unit>
-      <trans-unit id="%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@" xml:space="preserve">
+      <trans-unit id="%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@" xml:space="preserve" approved="yes">
         <source>%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</source>
-        <target state="translated">%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</target>
+        <target state="final">%1$@: &lt;b&gt;%2$@&lt;/b&gt; %3$@</target>
         <note>Description of a basal temp basal dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)
    Description of a bolus dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: unit)</note>
       </trans-unit>
@@ -618,9 +618,9 @@ Puteți aștepta câteva minute pentru a vedea dacă problema se rezolvă sau ap
         <target state="final">%@.</target>
         <note>Appends a full-stop to a statement</note>
       </trans-unit>
-      <trans-unit id="15 min glucose regression coefficient (b₁), continued with decay over 30 min" xml:space="preserve">
+      <trans-unit id="15 min glucose regression coefficient (b₁), continued with decay over 30 min" xml:space="preserve" approved="yes">
         <source>15 min glucose regression coefficient (b₁), continued with decay over 30 min</source>
-        <target state="translated">coeficient de regresie glicemică pe 15 min (b₁), continuat cu o diminuare pe 30 min.</target>
+        <target state="final">coeficient de regresie glicemică pe 15 min (b₁), continuat cu o diminuare pe 30 min.</target>
         <note>Description of the prediction input effect for glucose momentum</note>
       </trans-unit>
       <trans-unit id="30 min comparison of glucose prediction vs actual, continued with decay over 60 min" xml:space="preserve">
