@@ -106,9 +106,9 @@
         <target state="final">Nu sunt disponibile date despre glicemie</target>
         <note>Error description for unreliable state</note>
       </trans-unit>
-      <trans-unit id="Low Battery" xml:space="preserve">
+      <trans-unit id="Low Battery" xml:space="preserve" approved="yes">
         <source>Low Battery</source>
-        <target state="translated">Baterie scăzută</target>
+        <target state="final">Nivel scăzut baterie</target>
         <note>Describes a low battery</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve" approved="yes">
@@ -116,19 +116,19 @@
         <target state="final">OK</target>
         <note>Describes a functioning transmitter</note>
       </trans-unit>
-      <trans-unit id="Peripheral command was invalid" xml:space="preserve">
+      <trans-unit id="Peripheral command was invalid" xml:space="preserve" approved="yes">
         <source>Peripheral command was invalid</source>
-        <target state="translated">Comanda periferică nu a fost validă</target>
+        <target state="final">Comanda dispozitivului este nevalidă</target>
         <note>invlid config error description</note>
       </trans-unit>
-      <trans-unit id="Peripheral did not respond in time" xml:space="preserve">
+      <trans-unit id="Peripheral did not respond in time" xml:space="preserve" approved="yes">
         <source>Peripheral did not respond in time</source>
-        <target state="translated">Dispozitivul periferic nu a răspuns în timp util</target>
+        <target state="final">Dispozitivul periferic nu a răspuns în timp util</target>
         <note>Timeout error description</note>
       </trans-unit>
-      <trans-unit id="Peripheral isnʼt connected" xml:space="preserve">
+      <trans-unit id="Peripheral isnʼt connected" xml:space="preserve" approved="yes">
         <source>Peripheral isnʼt connected</source>
-        <target state="translated">Dispozitivul periferic nu este conectat</target>
+        <target state="final">Dispozitivul periferic nu este conectat</target>
         <note>Not ready error description</note>
       </trans-unit>
       <trans-unit id="Sensor calibration is OK" xml:space="preserve" approved="yes">
@@ -396,20 +396,20 @@ Title text for the button to remove a CGM from Loop</note>
         <target state="final">Transmițătorul a fost resetat cu succes. Conectați-l la aplicație pentru a porni o nouă sesiune de senzor.</target>
         <note>Class = "UITextView"; text = "The transmitter has been successfully reset. Connect it to the app to begin a new sensor session."; ObjectID = "MbK-kj-ejl";</note>
       </trans-unit>
-      <trans-unit id="cJ3-Gc-pnc.text" xml:space="preserve">
+      <trans-unit id="cJ3-Gc-pnc.text" xml:space="preserve" approved="yes">
         <source>This tool can reset the clock on a transmitter that has reached its expiration date, allowing new sensor sessions to again be started.
 This may have unintended consequences for data services, such as Clarity and Share, especially when using a reset transmitter with the same account.
 Resetting cannot be undone.
 Use at your own risk.</source>
-        <target state="translated">Acest utilitar poate reseta ceasul dintr-un transmițător ce a depășit data de expirare, permițând pornirea unor noi sesiuni de senzor.
-Resetarea poate cauza consecințe nedorite pentru serviciile care colectează date, cum ar fi Clarity sau Share, în special când utilizați un transmițător resetat cu același cont.
+        <target state="final">Acest utilitar poate reseta ceasul dintr-un transmițător ce a depășit data de expirare, permițând pornirea unor noi sesiuni de senzor.
+Acest lucru poate avea consecințe nedorite pentru serviciile care colectează date, cum ar fi Clarity sau Share, în special când utilizați un transmițător resetat cu același cont.
 Resetarea nu poate fi anulată.
-A se utiliza pe proprie răspundere.</target>
+Se utilizează pe proprie răspundere.</target>
         <note>Class = "UITextView"; text = "This tool can reset the clock on a transmitter that has reached its expiration date, allowing new sensor sessions to again be started.\nThis may have unintended consequences for data services, such as Clarity and Share, especially when using a reset transmitter with the same account.\nResetting cannot be undone.\nUse at your own risk."; ObjectID = "cJ3-Gc-pnc";</note>
       </trans-unit>
-      <trans-unit id="gYy-Zz-y12.text" xml:space="preserve">
+      <trans-unit id="gYy-Zz-y12.text" xml:space="preserve" approved="yes">
         <source>[Error goes here. And it can get very long and that's OK]</source>
-        <target state="translated">[Eroarea apare aici. Și poate fi foarte lungă și asta e OK]</target>
+        <target state="final">[Eroarea apare aici. Și poate fi foarte lungă și asta e OK]</target>
         <note>Class = "UILabel"; text = "[Error goes here. And it can get very long and that's OK]"; ObjectID = "gYy-Zz-y12";</note>
       </trans-unit>
       <trans-unit id="vNG-r7-RbP.headerTitle" xml:space="preserve" approved="yes">
