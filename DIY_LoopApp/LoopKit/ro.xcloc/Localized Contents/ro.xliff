@@ -32,14 +32,14 @@
         <target state="final">Exemplu de LoopKit</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
+      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve" approved="yes">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation.</source>
-        <target state="translated">Datele mesei din baza de date Health sunt folosite pentru a determina efectele glicemiei. Datele despre glicemie din baza de date Health sunt folosite pentru grafice și calcularea impulsului.</target>
+        <target state="final">Datele mesei din baza de date Health sunt folosite pentru a determina efectele glicemiei. Datele despre glicemie din baza de date Health sunt folosite pentru grafice și calcularea impulsului.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
+      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve" approved="yes">
         <source>Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</source>
-        <target state="translated">Carbohidrații introduși în aplicație sunt stocați în baza de date Health. Glicemiile sunt stocate în mod confidențial în HealthKit.</target>
+        <target state="final">Carbohidrații introduși în aplicație sunt stocați în baza de date Health. Glicemiile sunt stocate în mod confidențial în HealthKit.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -127,14 +127,14 @@
         <target state="final">LoopKit</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
+      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve" approved="yes">
         <source>Meal data from the Health database is used to determine glucose effects. Glucose data is retrieved from HealthKit for graphing and analysis.</source>
-        <target state="translated">Datele mesei din baza de date Health sunt folosite pentru a determina efectele glicemiei. Glicemiile sunt preluate din HealthKit pentru grafice și analize.</target>
+        <target state="final">Datele mesei din baza de date Health sunt folosite pentru a determina efectele glicemiei. Glicemiile sunt preluate din HealthKit pentru grafice și analize.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
+      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve" approved="yes">
         <source>Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.</source>
-        <target state="translated">Carbohidrații introduși în aplicație sunt stocați în baza de date Health. Glicemiile sunt stocate în mod confidențial în HealthKit.</target>
+        <target state="final">Carbohidrații introduși în aplicație sunt stocați în baza de date Health. Glicemiile sunt stocate în mod confidențial în HealthKit.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -239,9 +239,9 @@
         <target state="final">Interval țintă pentru corecție</target>
         <note>Title text for glucose target range</note>
       </trans-unit>
-      <trans-unit id="Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." xml:space="preserve">
+      <trans-unit id="Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." xml:space="preserve" approved="yes">
         <source>Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.</source>
-        <target state="translated">Intervalul de corecție este valoarea glicemiei (sau intervalul de valori) spre care doriți ca %1$@ să țintească în ajustarea insulinei bazale și în calculul bolusurilor.</target>
+        <target state="final">Intervalul de corecție este valoarea glicemiei (sau intervalul de valori) spre care doriți ca %1$@ să țintească în ajustarea insulinei bazale și în calculul bolusurilor.</target>
         <note>Descriptive text for glucose target range (1: app name)</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve" approved="yes">
@@ -355,9 +355,9 @@
         <target state="final">Bolus maxim</target>
         <note>Title text for maximum bolus configuration</note>
       </trans-unit>
-      <trans-unit id="Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." xml:space="preserve">
+      <trans-unit id="Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." xml:space="preserve" approved="yes">
         <source>Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.</source>
-        <target state="translated">Bolusul maxim este cea mai mare cantitate de insulina pe care o poți livra instantaneu pentru a acoperi carbohidrați sau pentru a corecta o glicemie mare.</target>
+        <target state="final">Bolusul maxim este cea mai mare cantitate de insulina pe care o poți livra instantaneu pentru a acoperi carbohidrați sau pentru a corecta o glicemie mare.</target>
         <note>Descriptive text for maximum bolus</note>
       </trans-unit>
       <trans-unit id="Needs Attention" xml:space="preserve" approved="yes">
@@ -370,9 +370,9 @@
         <target state="final">Nu s-au găsit valori</target>
         <note>Describes an error for no data found in a CarbStore request</note>
       </trans-unit>
-      <trans-unit id="NovoLog (insulin aspart) is a fast-acting insulin made by Novo Nordisk" xml:space="preserve">
+      <trans-unit id="NovoLog (insulin aspart) is a fast-acting insulin made by Novo Nordisk" xml:space="preserve" approved="yes">
         <source>NovoLog (insulin aspart) is a fast-acting insulin made by Novo Nordisk</source>
-        <target state="translated">NovoLog (insulină aspart) este o insulină cu acţiune rapidă produsă de Novo Nordisk</target>
+        <target state="final">NovoLog (insulină aspart) este o insulină cu acţiune rapidă produsă de Novo Nordisk</target>
         <note>Description for novolog insulin type</note>
       </trans-unit>
       <trans-unit id="Novolog" xml:space="preserve" approved="yes">
@@ -390,14 +390,14 @@
         <target state="final">OK</target>
         <note>Sensor state description for the valid state</note>
       </trans-unit>
-      <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="One or more of the values you have entered is outside of what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>One or more of the values you have entered is outside of what is typically recommended for most people.</source>
-        <target state="translated">Unele dintre valorile introduse sunt în afara a ceea ce este recomandat de obicei pentru majoritatea oamenilor.</target>
+        <target state="final">Unele dintre valorile introduse sunt în afara a ceea ce este recomandat de obicei pentru majoritatea oamenilor.</target>
         <note>Descriptive text for saving settings outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Please re-enable sharing in Health" xml:space="preserve">
         <source>Please re-enable sharing in Health</source>
-        <target state="translated">Vă rugăm să re-activați partajarea datelor în Sănătate</target>
+        <target state="translated">Vă rugăm să re-activați partajarea datelor în aplicația Health</target>
         <note>The error recovery suggestion when Health sharing was denied</note>
       </trans-unit>
       <trans-unit id="Pre-Meal" xml:space="preserve" approved="yes">
@@ -425,9 +425,9 @@
         <target state="final">În creștere foarte rapidă</target>
         <note>Glucose trend up-up-up</note>
       </trans-unit>
-      <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="Some of the values you have entered are outside of what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>Some of the values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="translated">Câteva dintre valorile introduse sunt în afara a ceea ce este recomandat de obicei pentru majoritatea oamenilor.</target>
+        <target state="final">Câteva dintre valorile introduse sunt în afara a ceea ce este recomandat de obicei pentru majoritatea oamenilor.</target>
         <note>Descriptive text for guardrail high value warning for schedule interface</note>
       </trans-unit>
       <trans-unit id="Suspended" xml:space="preserve" approved="yes">
@@ -440,29 +440,29 @@
         <target state="final">Bazală temporară</target>
         <note>Title for temp basal dose type</note>
       </trans-unit>
-      <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve">
+      <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve" approved="yes">
         <source>Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.</source>
-        <target state="translated">Reduceți temporar glicemia țintă înainte de masă pentru a avea un impact asupra vârfurilor postprandiale.</target>
+        <target state="final">Reduceți temporar glicemia țintă înainte de masă pentru a avea un impact asupra vârfurilor postprandiale.</target>
         <note>Descriptive text for pre-meal correction range override</note>
       </trans-unit>
-      <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve">
+      <trans-unit id="Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." xml:space="preserve" approved="yes">
         <source>Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.</source>
-        <target state="translated">Creșteți temporar valoarea ținta a glicemiei înainte, în timpul sau după activitatea fizică pentru a reduce riscul de apariție a hipoglicemiei.</target>
+        <target state="final">Creșteți temporar valoarea ținta a glicemiei înainte, în timpul sau după activitatea fizică pentru a reduce riscul de apariție a hipoglicemiei.</target>
         <note>Descriptive text for workout correction range override</note>
       </trans-unit>
-      <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="The value you have entered is higher than what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>The value you have entered is higher than what is typically recommended for most people.</source>
-        <target state="translated">Valoarea pe care ați introdus-o este mai mare decât cea recomandată de obicei pentru majoritatea oamenilor.</target>
+        <target state="final">Valoarea pe care ați introdus-o este mai mare decât cea recomandată de obicei pentru majoritatea oamenilor.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
-      <trans-unit id="The value you have entered is lower than what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="The value you have entered is lower than what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>The value you have entered is lower than what is typically recommended for most people.</source>
-        <target state="translated">Valoarea pe care ați introdus-o este mai mica decât cea recomandată de obicei pentru majoritatea oamenilor.</target>
+        <target state="final">Valoarea pe care ați introdus-o este mai mica decât cea recomandată de obicei pentru majoritatea oamenilor.</target>
         <note>Descriptive text for guardrail low value warning</note>
       </trans-unit>
-      <trans-unit id="The values you have entered are outside of what is typically recommended for most people." xml:space="preserve">
+      <trans-unit id="The values you have entered are outside of what is typically recommended for most people." xml:space="preserve" approved="yes">
         <source>The values you have entered are outside of what is typically recommended for most people.</source>
-        <target state="translated">Valorile introduse sunt în afara a ceea ce este recomandat de obicei pentru majoritatea oamenilor.</target>
+        <target state="final">Valorile introduse sunt în afara a ceea ce este recomandat de obicei pentru majoritatea oamenilor.</target>
         <note>Descriptive text for guardrail high value warning</note>
       </trans-unit>
       <trans-unit id="U" xml:space="preserve" approved="yes">
@@ -480,9 +480,9 @@
         <target state="final">Livrare incertă</target>
         <note>Error description for uncertain delivery</note>
       </trans-unit>
-      <trans-unit id="Unit" xml:space="preserve">
+      <trans-unit id="Unit" xml:space="preserve" approved="yes">
         <source>Unit</source>
-        <target state="translated">Unitate</target>
+        <target state="final">Unitate</target>
         <note>The long unit display string for a singular international unit of insulin</note>
       </trans-unit>
       <trans-unit id="Unit/hour" xml:space="preserve" approved="yes">
@@ -505,19 +505,19 @@
         <target state="final">Activitate sportivă</target>
         <note>Title for workout mode</note>
       </trans-unit>
-      <trans-unit id="Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
+      <trans-unit id="Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve" approved="yes">
         <source>Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="translated">Rata bazală de insulină este numărul de unități pe oră pe care doriți să le utilizați pentru a acoperi necesarul bazal de insulina al organismului.</target>
+        <target state="final">Rata bazală de insulină este numărul de unități pe oră pe care doriți să le utilizați pentru a acoperi necesarul bazal de insulina al organismului.</target>
         <note>Descriptive text for basal rate</note>
       </trans-unit>
-      <trans-unit id="Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin." xml:space="preserve">
+      <trans-unit id="Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin." xml:space="preserve" approved="yes">
         <source>Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin.</source>
-        <target state="translated">Raportul carbohidrați/insulina este numărul de grame de carbohidrați acoperiți de o unitate de insulină.</target>
+        <target state="final">Raportul carbohidrați/insulina este numărul de grame de carbohidrați acoperiți de o unitate de insulină.</target>
         <note>Descriptive text for carb ratio</note>
       </trans-unit>
-      <trans-unit id="Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin." xml:space="preserve">
+      <trans-unit id="Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin." xml:space="preserve" approved="yes">
         <source>Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin.</source>
-        <target state="translated">Factorul de sensibilitate la insulină se referă la scăderea glicemiei determinata de o unitate de insulină.</target>
+        <target state="final">Factorul de sensibilitate la insulină se referă la scăderea glicemiei determinata de o unitate de insulină.</target>
         <note>Descriptive text for insulin sensitivity</note>
       </trans-unit>
       <trans-unit id="com.loudnate.CarbKit.deleteCarbEntryUnownedErrorDescription" xml:space="preserve" approved="yes">
@@ -527,7 +527,7 @@
       </trans-unit>
       <trans-unit id="com.loudnate.carbKit.sharingDeniedErrorRecoverySuggestion" xml:space="preserve">
         <source>This sample can be deleted from the Health app</source>
-        <target state="translated">Acest exemplu poate fi șters din aplicația Sănătate</target>
+        <target state="translated">Acest exemplu poate fi șters din aplicația Health</target>
         <note>The error recovery suggestion when attempting to delete a sample not shared by the current app</note>
       </trans-unit>
       <trans-unit id="g/U" xml:space="preserve" approved="yes">
@@ -569,12 +569,12 @@
     <body>
       <trans-unit id="7xi-Om-Y53.text" xml:space="preserve">
         <source>Authorize access to Health to continue</source>
-        <target state="translated">Autorizează accesul la aplicația Sănătate pentru a continua</target>
+        <target state="translated">Autorizează accesul la aplicația Health pentru a continua</target>
         <note>Class = "UILabel"; text = "Authorize access to Health to continue"; ObjectID = "7xi-Om-Y53";</note>
       </trans-unit>
       <trans-unit id="8sx-XB-DRV.normalTitle" xml:space="preserve">
         <source>Authorize</source>
-        <target state="translated">Autorizeaza</target>
+        <target state="translated">Autorizează</target>
         <note>Class = "UIButton"; normalTitle = "Authorize"; ObjectID = "8sx-XB-DRV";</note>
       </trans-unit>
       <trans-unit id="D2S-2h-yH6.text" xml:space="preserve" approved="yes">
@@ -647,9 +647,9 @@
         <target state="final">Detaliu</target>
         <note>Class = "UILabel"; text = "Detail"; ObjectID = "m95-PG-bTq";</note>
       </trans-unit>
-      <trans-unit id="nXh-BM-MuC.text" xml:space="preserve">
+      <trans-unit id="nXh-BM-MuC.text" xml:space="preserve" approved="yes">
         <source>HealthKit is not available on this device</source>
-        <target state="translated">HealthKit nu este disponibil pe acest dispozitiv</target>
+        <target state="final">HealthKit nu este disponibil pe acest dispozitiv</target>
         <note>Class = "UILabel"; text = "HealthKit is not available on this device"; ObjectID = "nXh-BM-MuC";</note>
       </trans-unit>
       <trans-unit id="pHI-f4-pJp.text" xml:space="preserve" approved="yes">
@@ -704,9 +704,9 @@
         <target state="final">Istoric evenimente</target>
         <note>Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[1] = "Event History"; ObjectID = "TyZ-xm-mVN";</note>
       </trans-unit>
-      <trans-unit id="TyZ-xm-mVN.segmentTitles[2]" xml:space="preserve">
+      <trans-unit id="TyZ-xm-mVN.segmentTitles[2]" xml:space="preserve" approved="yes">
         <source>Outside Insulin</source>
-        <target state="translated">În afara insulinei</target>
+        <target state="final">În afara insulinei</target>
         <note>Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[2] = "Outside Insulin"; ObjectID = "TyZ-xm-mVN";</note>
       </trans-unit>
       <trans-unit id="dZi-Ta-IHm.text" xml:space="preserve" approved="yes">
@@ -766,24 +766,24 @@
         <target state="final">Istoric evenimente</target>
         <note>Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[1] = "Event History"; ObjectID = "TyZ-xm-mVN";</note>
       </trans-unit>
-      <trans-unit id="dZi-Ta-IHm.text" xml:space="preserve">
+      <trans-unit id="dZi-Ta-IHm.text" xml:space="preserve" approved="yes">
         <source>U IOB</source>
-        <target state="translated">U IOB</target>
+        <target state="final">U IOB</target>
         <note>Class = "UILabel"; text = "U IOB"; ObjectID = "dZi-Ta-IHm";</note>
       </trans-unit>
-      <trans-unit id="jSc-64-2tZ.text" xml:space="preserve">
+      <trans-unit id="jSc-64-2tZ.text" xml:space="preserve" approved="yes">
         <source>No pump configured</source>
-        <target state="translated">Nicio pompă configurată</target>
+        <target state="final">Nicio pompă configurată</target>
         <note>Class = "UILabel"; text = "No pump configured"; ObjectID = "jSc-64-2tZ";</note>
       </trans-unit>
-      <trans-unit id="kys-by-14s.text" xml:space="preserve">
+      <trans-unit id="kys-by-14s.text" xml:space="preserve" approved="yes">
         <source>U Total</source>
-        <target state="translated">U total</target>
+        <target state="final">U total</target>
         <note>Class = "UILabel"; text = "U Total"; ObjectID = "kys-by-14s";</note>
       </trans-unit>
-      <trans-unit id="vls-EW-uwI.title" xml:space="preserve">
+      <trans-unit id="vls-EW-uwI.title" xml:space="preserve" approved="yes">
         <source>Insulin Delivery</source>
-        <target state="translated">Administrare insulină</target>
+        <target state="final">Administrare insulină</target>
         <note>Class = "UINavigationItem"; title = "Insulin Delivery"; ObjectID = "vls-EW-uwI";</note>
       </trans-unit>
     </body>
@@ -845,9 +845,9 @@
         <target state="final">%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve">
+      <trans-unit id="%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve" approved="yes">
         <source>%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</source>
-        <target state="translated">%@ presupune că insulina pe care a livrat-o acționează pentru a scădea glicemia timp de 6 ore. Această setare nu poate fi schimbată.</target>
+        <target state="final">%@ presupune că insulina pe care a livrat-o acționează pentru a scădea glicemia timp de 6 ore. Această setare nu poate fi schimbată.</target>
         <note>Information about insulin action duration</note>
       </trans-unit>
       <trans-unit id="%@%% of normal insulin" xml:space="preserve" approved="yes">
@@ -870,9 +870,9 @@
         <target state="final">%@U</target>
         <note>Format string for reservoir volume. (1: The localized volume)</note>
       </trans-unit>
-      <trans-unit id="(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve">
+      <trans-unit id="(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." xml:space="preserve" approved="yes">
         <source>(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.</source>
-        <target state="translated">(appName) presupune că insulina pe care a livrat-o acționează pentru a vă scădea glicemia timp de 6 ore. Această setare nu poate fi schimbată.</target>
+        <target state="final">(appName) presupune că insulina pe care a livrat-o acționează pentru a vă scădea glicemia timp de 6 ore. Această setare nu poate fi schimbată.</target>
         <note>Information about insulin action duration</note>
       </trans-unit>
       <trans-unit id="-" xml:space="preserve" approved="yes">
@@ -880,34 +880,34 @@
         <target state="final">-</target>
         <note>Separator between min and max glucose values</note>
       </trans-unit>
-      <trans-unit id="A Correction Range is different. This will be a narrower range." xml:space="preserve">
+      <trans-unit id="A Correction Range is different. This will be a narrower range." xml:space="preserve" approved="yes">
         <source>A Correction Range is different. This will be a narrower range.</source>
-        <target state="translated">Un interval de corecție este diferit. Acesta ar trebui sa fie un interval mai îngust.</target>
+        <target state="final">Un interval de corecție este diferit. Acesta ar trebui sa fie un interval mai îngust.</target>
         <note>Information about differences between target range and correction range</note>
       </trans-unit>
-      <trans-unit id="A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do" xml:space="preserve">
+      <trans-unit id="A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do" xml:space="preserve" approved="yes">
         <source>A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do</source>
-        <target state="translated">Un card al cărui text se va întinde pe mai multe linii dacă continui să tastez pentru o perioadă suficient de lungă — această lungime ar trebui să o facă</target>
+        <target state="final">Un card al cărui text se va întinde pe mai multe linii dacă continui să tastez pentru o perioadă suficient de lungă — această lungime ar trebui să o facă</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="A simple card" xml:space="preserve">
+      <trans-unit id="A simple card" xml:space="preserve" approved="yes">
         <source>A simple card</source>
-        <target state="translated">Un card simplu</target>
+        <target state="final">Un card simplu</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="A value of 0 U/hr means you will be scheduled to receive no basal insulin." xml:space="preserve">
+      <trans-unit id="A value of 0 U/hr means you will be scheduled to receive no basal insulin." xml:space="preserve" approved="yes">
         <source>A value of 0 U/hr means you will be scheduled to receive no basal insulin.</source>
-        <target state="translated">O valoare de 0 U/oră înseamnă că nu vei primi insulină bazală.</target>
+        <target state="final">O valoare de 0 U/oră înseamnă că nu vei primi insulină bazală.</target>
         <note>Warning text for basal rate of 0 U/hr</note>
       </trans-unit>
-      <trans-unit id="Above dynamic data" xml:space="preserve">
+      <trans-unit id="Above dynamic data" xml:space="preserve" approved="yes">
         <source>Above dynamic data</source>
-        <target state="translated">Deasupra datelor dinamice</target>
+        <target state="final">Deasupra datelor dinamice</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Above the save button" xml:space="preserve">
+      <trans-unit id="Above the save button" xml:space="preserve" approved="yes">
         <source>Above the save button</source>
-        <target state="translated">Deasupra butonului de salvare</target>
+        <target state="final">Deasupra butonului de salvare</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Absorption Time" xml:space="preserve" approved="yes">
@@ -915,14 +915,14 @@
         <target state="final">Timp de absorbție</target>
         <note>Title of the carb entry absorption time cell</note>
       </trans-unit>
-      <trans-unit id="Action Button" xml:space="preserve">
+      <trans-unit id="Action Button" xml:space="preserve" approved="yes">
         <source>Action Button</source>
-        <target state="translated">Buton acțiune</target>
+        <target state="final">Buton acțiune</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Active Duration" xml:space="preserve">
+      <trans-unit id="Active Duration" xml:space="preserve" approved="yes">
         <source>Active Duration</source>
-        <target state="translated">Durata activă</target>
+        <target state="final">Durata activă</target>
         <note>The text for the override history duration</note>
       </trans-unit>
       <trans-unit id="Activity" xml:space="preserve" approved="yes">
@@ -952,12 +952,12 @@
       </trans-unit>
       <trans-unit id="Are you sure you want to delete all reservoir values?" xml:space="preserve">
         <source>Are you sure you want to delete all reservoir values?</source>
-        <target state="translated">Sigur doriți să ștergeți toate valorile de rezervor?</target>
+        <target state="translated">Sigur doriți să ștergeți toate datele despre rezervor?</target>
         <note>Action sheet confirmation message for reservoir deletion</note>
       </trans-unit>
-      <trans-unit id="Authenticate to save therapy setting" xml:space="preserve">
+      <trans-unit id="Authenticate to save therapy setting" xml:space="preserve" approved="yes">
         <source>Authenticate to save therapy setting</source>
-        <target state="translated">Autentifică-te pentru a salva setările terapiei</target>
+        <target state="final">Autentifică-te pentru a salva setările terapiei</target>
         <note>Authentication hint string for therapy settings</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
@@ -965,24 +965,24 @@
         <target state="final">Rate bazale</target>
         <note>Title text for multi-value basal rate warning</note>
       </trans-unit>
-      <trans-unit id="Basal, bolus, and correction insulin dose amounts are decreased by %@%%." xml:space="preserve">
+      <trans-unit id="Basal, bolus, and correction insulin dose amounts are decreased by %@%%." xml:space="preserve" approved="yes">
         <source>Basal, bolus, and correction insulin dose amounts are decreased by %@%%.</source>
-        <target state="translated">Dozele de insulină bazale, de bolus și de corecție sunt scăzute cu %@%%.</target>
+        <target state="final">Dozele de insulină bazale, de bolus și de corecție sunt scăzute cu %@%%.</target>
         <note>Describes a percentage decrease in overall insulin needs</note>
       </trans-unit>
-      <trans-unit id="Basal, bolus, and correction insulin dose amounts are increased by %@%%." xml:space="preserve">
+      <trans-unit id="Basal, bolus, and correction insulin dose amounts are increased by %@%%." xml:space="preserve" approved="yes">
         <source>Basal, bolus, and correction insulin dose amounts are increased by %@%%.</source>
-        <target state="translated">Dozele de insulină bazale, de bolus și de corecție sunt crescute cu %@%%.</target>
+        <target state="final">Dozele de insulină bazale, de bolus și de corecție sunt crescute cu %@%%.</target>
         <note>Describes a percentage increase in overall insulin needs</note>
       </trans-unit>
       <trans-unit id="Basal, bolus, and correction insulin dose amounts are unaffected." xml:space="preserve">
         <source>Basal, bolus, and correction insulin dose amounts are unaffected.</source>
-        <target state="translated">Dozele de insulină bazale, de bolus și de corecție sunt neafectate.</target>
+        <target state="translated">Dozele de insulină bazale, de bolus și de corecție nu sunt afectate.</target>
         <note>Describes a lack of change in overall insulin needs</note>
       </trans-unit>
-      <trans-unit id="Below dynamic data" xml:space="preserve">
+      <trans-unit id="Below dynamic data" xml:space="preserve" approved="yes">
         <source>Below dynamic data</source>
-        <target state="translated">Sub datele dinamice</target>
+        <target state="final">Sub datele dinamice</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Bottom" xml:space="preserve">
