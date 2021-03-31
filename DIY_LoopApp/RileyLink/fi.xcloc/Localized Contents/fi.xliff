@@ -279,7 +279,7 @@
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve">
         <source>%1$@ units remaining at %2$@</source>
-        <target state="needs-translation">%1$@ units remaining at %2$@</target>
+        <target state="translated">%1$@ yksikköä jäljellä %2$@</target>
         <note>Accessibility format string for (1: localized volume)(2: time)</note>
       </trans-unit>
       <trans-unit id="%1$@%2$@%3$@" xml:space="preserve" approved="yes">
@@ -294,7 +294,7 @@
       </trans-unit>
       <trans-unit id="%@U" xml:space="preserve">
         <source>%@U</source>
-        <target state="needs-translation">%@U</target>
+        <target state="translated">%@ U</target>
         <note>Format string for reservoir volume. (1: The localized volume)</note>
       </trans-unit>
       <trans-unit id="Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure." xml:space="preserve" approved="yes">
@@ -378,7 +378,7 @@
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
         <source>Continue</source>
-        <target state="needs-translation">Continue</target>
+        <target state="translated">Jatka</target>
         <note>Text for continue button</note>
       </trans-unit>
       <trans-unit id="Delete Pump" xml:space="preserve" approved="yes">
@@ -474,7 +474,7 @@
       </trans-unit>
       <trans-unit id="Insulin Type" xml:space="preserve">
         <source>Insulin Type</source>
-        <target state="needs-translation">Insulin Type</target>
+        <target state="translated">Insuliinityyppi</target>
         <note>Controller title for insulin type selection screen</note>
       </trans-unit>
       <trans-unit id="Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option." xml:space="preserve" approved="yes">
@@ -605,7 +605,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Select the type of insulin that you will be using in this pump." xml:space="preserve">
         <source>Select the type of insulin that you will be using in this pump.</source>
-        <target state="needs-translation">Select the type of insulin that you will be using in this pump.</target>
+        <target state="translated">Valitse insuliinin tyyppi, jota käytät tässä pumpussa.</target>
         <note>Title text for insulin type confirmation page</note>
       </trans-unit>
       <trans-unit id="Send Button Press" xml:space="preserve" approved="yes">
@@ -1185,7 +1185,7 @@ Etsi laite</target>
       </trans-unit>
       <trans-unit id="Ref" xml:space="preserve">
         <source>Ref</source>
-        <target state="needs-translation">Ref</target>
+        <target state="translated">Viite</target>
         <note>PDM style 'Ref' string</note>
       </trans-unit>
       <trans-unit id="Reminder initialized" xml:space="preserve" approved="yes">
@@ -1337,97 +1337,97 @@ Etsi laite</target>
     <body>
       <trans-unit id=" (inactive)" xml:space="preserve">
         <source> (inactive)</source>
-        <target state="needs-translation"> (inactive)</target>
+        <target state="translated"> (ei-aktiivinen)</target>
         <note>Description for an inactive alert modifier</note>
       </trans-unit>
       <trans-unit id="Activation time exceeded" xml:space="preserve">
         <source>Activation time exceeded</source>
-        <target state="needs-translation">Activation time exceeded</target>
+        <target state="translated">Aktivointiaika ylitetty</target>
         <note>Pod state when activation not completed in the time allowed</note>
       </trans-unit>
       <trans-unit id="Auto-off alarm" xml:space="preserve">
         <source>Auto-off alarm</source>
-        <target state="needs-translation">Auto-off alarm</target>
+        <target state="translated">Autom. pois -varoitus</target>
         <note>Description for auto-off alarm</note>
       </trans-unit>
       <trans-unit id="Basal initialized" xml:space="preserve">
         <source>Basal initialized</source>
-        <target state="needs-translation">Basal initialized</target>
+        <target state="translated">Basaali alustettu</target>
         <note>Pod state when basal initialized</note>
       </trans-unit>
       <trans-unit id="Below 50 units" xml:space="preserve">
         <source>Below 50 units</source>
-        <target state="needs-translation">Below 50 units</target>
+        <target state="translated">Alle 50 yksikköä</target>
         <note>Pod state when running below fifty units</note>
       </trans-unit>
       <trans-unit id="Bolus in progress" xml:space="preserve">
         <source>Bolus in progress</source>
-        <target state="needs-translation">Bolus in progress</target>
+        <target state="translated">Bolus käynnissä</target>
         <note>Error message shown when operation could not be completed due to existing bolus in progress</note>
       </trans-unit>
       <trans-unit id="Bolus: %1$@U %2$@ %3$@ %4$@" xml:space="preserve">
         <source>Bolus: %1$@U %2$@ %3$@ %4$@</source>
-        <target state="needs-translation">Bolus: %1$@U %2$@ %3$@ %4$@</target>
+        <target state="translated">Bolus: %1$@U %2$@ %3$@ %4$@</target>
         <note>The format string describing a bolus. (1: The amount delivered)(2: Start time of the dose)(3: duration)(4: scheduled certainty)</note>
       </trans-unit>
       <trans-unit id="Bolusing" xml:space="preserve">
         <source>Bolusing</source>
-        <target state="needs-translation">Bolusing</target>
+        <target state="translated">Annostellaan bolus</target>
         <note>Delivery status when bolusing</note>
       </trans-unit>
       <trans-unit id="Bolusing with temp basal" xml:space="preserve">
         <source>Bolusing with temp basal</source>
-        <target state="needs-translation">Bolusing with temp basal</target>
+        <target state="translated">Annostellaan bolus ja tilap. perusinsuliini</target>
         <note>Delivery status when bolusing and temp basal is running</note>
       </trans-unit>
       <trans-unit id="Cannula inserting" xml:space="preserve">
         <source>Cannula inserting</source>
-        <target state="needs-translation">Cannula inserting</target>
+        <target state="translated">Asetetaan kanyyli</target>
         <note>Pod state when inserting cannula</note>
       </trans-unit>
       <trans-unit id="Certain" xml:space="preserve">
         <source>Certain</source>
-        <target state="needs-translation">Certain</target>
+        <target state="translated">Varma</target>
         <note>String describing a dose that was certainly scheduled</note>
       </trans-unit>
       <trans-unit id="Deactivated" xml:space="preserve">
         <source>Deactivated</source>
-        <target state="needs-translation">Deactivated</target>
+        <target state="translated">Deaktivoitu</target>
         <note>Pod state when pod has been deactivated</note>
       </trans-unit>
       <trans-unit id="Empty reservoir" xml:space="preserve">
         <source>Empty reservoir</source>
-        <target state="needs-translation">Empty reservoir</target>
+        <target state="translated">Säiliö tyhjä</target>
         <note>Description for Empty reservoir pod fault</note>
       </trans-unit>
       <trans-unit id="Empty response from pod" xml:space="preserve">
         <source>Empty response from pod</source>
-        <target state="needs-translation">Empty response from pod</target>
+        <target state="translated">Tyhjä vastaus pumpulta</target>
         <note>Error message shown when empty response from pod was received</note>
       </trans-unit>
       <trans-unit id="Error event logged, shutting down" xml:space="preserve">
         <source>Error event logged, shutting down</source>
-        <target state="needs-translation">Error event logged, shutting down</target>
+        <target state="translated">Virhetapahtuma, suljetaan</target>
         <note>Pod state error event logged shutting down</note>
       </trans-unit>
       <trans-unit id="Expiration alert" xml:space="preserve">
         <source>Expiration alert</source>
-        <target state="needs-translation">Expiration alert</target>
+        <target state="translated">Pumppu vanhenee -varoitus</target>
         <note>Description for expiration alert</note>
       </trans-unit>
       <trans-unit id="Fault event occurred" xml:space="preserve">
         <source>Fault event occurred</source>
-        <target state="needs-translation">Fault event occurred</target>
+        <target state="translated">Virhetapahtuma</target>
         <note>Pod state when fault event has occurred</note>
       </trans-unit>
       <trans-unit id="Finish setup " xml:space="preserve">
         <source>Finish setup </source>
-        <target state="needs-translation">Finish setup </target>
+        <target state="translated">Lopeta asennus </target>
         <note>Description for finish setup</note>
       </trans-unit>
       <trans-unit id="Initialized" xml:space="preserve">
         <source>Initialized</source>
-        <target state="needs-translation">Initialized</target>
+        <target state="translated">Alustettu</target>
         <note>Pod inititialized</note>
       </trans-unit>
       <trans-unit id="Inserting cannula" xml:space="preserve">
