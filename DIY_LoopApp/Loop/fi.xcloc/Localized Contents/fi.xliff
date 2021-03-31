@@ -1690,12 +1690,12 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="The maximum allowed amount is %1$@ grams" xml:space="preserve">
         <source>The maximum allowed amount is %1$@ grams</source>
-        <target state="needs-translation">The maximum allowed amount is %1$@ grams</target>
+        <target state="translated">Suurin sallittu määrä on %1$@ grammaa</target>
         <note>Alert body displayed for quantity greater than max (1: maximum quantity in grams)</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %1$@ U." xml:space="preserve">
         <source>The maximum bolus amount is %1$@ U.</source>
-        <target state="needs-translation">The maximum bolus amount is %1$@ U.</target>
+        <target state="translated">Suurin sallittu bolus on %1$@ U.</target>
         <note>Format string for maximum bolus exceeded alert (1: maximumBolusAmount)</note>
       </trans-unit>
       <trans-unit id="The maximum bolus amount is %@ U." xml:space="preserve" approved="yes">
@@ -1720,12 +1720,12 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Time" xml:space="preserve">
         <source>Time</source>
-        <target state="needs-translation">Time</target>
+        <target state="translated">Aika</target>
         <note>Title of the carb entry date picker cell</note>
       </trans-unit>
       <trans-unit id="Time Change Detected" xml:space="preserve">
         <source>Time Change Detected</source>
-        <target state="needs-translation">Time Change Detected</target>
+        <target state="translated">Ajan muutos havaittu</target>
         <note>Time change alert title</note>
       </trans-unit>
       <trans-unit id="Try Again" xml:space="preserve" approved="yes">
@@ -1765,22 +1765,22 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
-        <target state="needs-translation">Unknown</target>
+        <target state="translated">Tuntematon</target>
         <note>The default description to use when an entry has no dose description</note>
       </trans-unit>
       <trans-unit id="Until I enter carbs" xml:space="preserve">
         <source>Until I enter carbs</source>
-        <target state="needs-translation">Until I enter carbs</target>
+        <target state="translated">Kunnes syötän hiilihydraatteja</target>
         <note>The title of a target alert action specifying pre-meal targets duration for 1 hour or until the user enters carbs (whichever comes first).</note>
       </trans-unit>
       <trans-unit id="Until I turn off" xml:space="preserve">
         <source>Until I turn off</source>
-        <target state="needs-translation">Until I turn off</target>
+        <target state="translated">Kunnes laitan pois päältä</target>
         <note>The title of a target alert action specifying workout targets duration until it is turned off by the user</note>
       </trans-unit>
       <trans-unit id="Use Pre-Meal Preset" xml:space="preserve">
         <source>Use Pre-Meal Preset</source>
-        <target state="needs-translation">Use Pre-Meal Preset</target>
+        <target state="translated">Käytä Ennen ateriaa -esiasetusta</target>
         <note>The title of the alert controller used to select a duration for pre-meal targets</note>
       </trans-unit>
       <trans-unit id="Use Workout Glucose Targets" xml:space="preserve" approved="yes">
@@ -1790,7 +1790,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Use Workout Preset" xml:space="preserve">
         <source>Use Workout Preset</source>
-        <target state="needs-translation">Use Workout Preset</target>
+        <target state="translated">Käytä Liikuntatila-asetusta</target>
         <note>The title of the alert controller used to select a duration for workout targets</note>
       </trans-unit>
       <trans-unit id="Walsh" xml:space="preserve" approved="yes">
@@ -1800,7 +1800,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve">
         <source>When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</source>
-        <target state="needs-translation">When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.</target>
+        <target state="translated">Kun nykyinen tai ennustettu glukoosi on glukoosin turvarajan alapuolella, Loop ei suosittele bolusta ja suosittelee aina tilapäiseksi basaaliksi 0 yksikköä tunnissa.</target>
         <note>Explanation of glucose safety limit</note>
       </trans-unit>
       <trans-unit id="When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." xml:space="preserve" approved="yes">
@@ -1810,7 +1810,7 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump." xml:space="preserve">
         <source>When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump.</source>
-        <target state="needs-translation">When out of Closed Loop mode, the app uses a simplified bolus calculator like a typical pump.</target>
+        <target state="translated">Kun suljettu säätö ei ole päällä, sovellus käyttää yksinkertaista boluslaskuria, kuten tavallisissa pumpuissa.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Workout Targets" xml:space="preserve" approved="yes">
@@ -1820,22 +1820,22 @@ Todellinen: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Workout Temp Adjust Still On" xml:space="preserve">
         <source>Workout Temp Adjust Still On</source>
-        <target state="needs-translation">Workout Temp Adjust Still On</target>
+        <target state="translated">Liikuntatila-asetus on yhä päällä</target>
         <note>Workout override still on reminder alert title</note>
       </trans-unit>
       <trans-unit id="Workout Temp Adjust has been turned on for more than 24 hours. Make sure you still want it enabled, or turn it off in the app." xml:space="preserve">
         <source>Workout Temp Adjust has been turned on for more than 24 hours. Make sure you still want it enabled, or turn it off in the app.</source>
-        <target state="needs-translation">Workout Temp Adjust has been turned on for more than 24 hours. Make sure you still want it enabled, or turn it off in the app.</target>
+        <target state="translated">Liikuntatila-asetus on ollut käytössä yli 24 tuntia. Varmista, että haluat sen olevan edelleen käytössä, tai poista se käytöstä sovelluksessa.</target>
         <note>Workout override still on reminder alert body.</note>
       </trans-unit>
       <trans-unit id="Your glucose is below or predicted to go below your glucose safety limit, %@." xml:space="preserve">
         <source>Your glucose is below or predicted to go below your glucose safety limit, %@.</source>
-        <target state="needs-translation">Your glucose is below or predicted to go below your glucose safety limit, %@.</target>
+        <target state="translated">Glukoosi on alle tai sen ennustetaan alittavan glukoosin turvarajan %@.</target>
         <note>Caption for bolus screen notice when no bolus is recommended due to prediction dropping below glucose safety limit</note>
       </trans-unit>
       <trans-unit id="Your glucose is below your glucose safety limit, %1$@." xml:space="preserve">
         <source>Your glucose is below your glucose safety limit, %1$@.</source>
-        <target state="needs-translation">Your glucose is below your glucose safety limit, %1$@.</target>
+        <target state="translated">Glukoosi on alle glukoosin turvarajan %1$@.</target>
         <note>Format string for bolus screen notice when no bolus is recommended due input value below glucose safety limit. (1: suspendThreshold)</note>
       </trans-unit>
       <trans-unit id="Your glucose is rapidly rising. Check that any carbs you've eaten were logged. If you logged carbs, check that the time you entered lines up with when you started eating." xml:space="preserve" approved="yes">
@@ -1847,9 +1847,9 @@ Todellinen: %2$@ (%3$@)</target>
         <source>Your phone’s time has been changed. %1$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.
 
 Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Automatically is enabled. Failure to resolve could lead to serious under-delivery or over-delivery of insulin.</source>
-        <target state="needs-translation">Your phone’s time has been changed. %1$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.
+        <target state="translated">Puhelimesi aika on muuttunut. %1$@ tarvitsee tarkkoja aikatietoja, jotta voi tehdä ennusteita glukoosista ja säätää insuliinia sen mukaan.
 
-Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Automatically is enabled. Failure to resolve could lead to serious under-delivery or over-delivery of insulin.</target>
+Tarkista iPhonen asetukset (Yleiset / Päivä ja aika) ja varmista, että Aseta automaattisesti on käytössä. Ongelman ratkaisematta jättäminen voi johtaa vakavaan insuliinin ali- tai yliannosteluun.</target>
         <note>Time change alert body. (1: app name)</note>
       </trans-unit>
       <trans-unit id="Your pump data is stale. Loop cannot recommend a bolus amount." xml:space="preserve" approved="yes">
@@ -1874,12 +1874,12 @@ Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Au
       </trans-unit>
       <trans-unit id="com.loudnate.InsulinKit.IOBDateLabel" xml:space="preserve">
         <source>at %1$@</source>
-        <target state="needs-translation">at %1$@</target>
+        <target state="translated">klo %1$@</target>
         <note>The format string describing the date of an IOB value. The first format argument is the localized date.</note>
       </trans-unit>
       <trans-unit id="com.loudnate.InsulinKit.totalDateLabel" xml:space="preserve">
         <source>since %1$@</source>
-        <target state="needs-translation">since %1$@</target>
+        <target state="translated">%1$@ jälkeen</target>
         <note>The format string describing the starting date of a total value. The first format argument is the localized date.</note>
       </trans-unit>
       <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve" approved="yes">
@@ -1929,17 +1929,17 @@ Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Au
       </trans-unit>
       <trans-unit id="–" xml:space="preserve">
         <source>–</source>
-        <target state="needs-translation">–</target>
+        <target state="translated">–</target>
         <note>String denoting lack of a recommended bolus amount in the simple bolus calculator</note>
       </trans-unit>
       <trans-unit id="– –" xml:space="preserve">
         <source>– –</source>
-        <target state="needs-translation">– –</target>
+        <target state="translated">– –</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="– – –" xml:space="preserve">
         <source>– – –</source>
-        <target state="needs-translation">– – –</target>
+        <target state="translated">– – –</target>
         <note>No glucose value representation (3 dashes for mg/dL)</note>
       </trans-unit>
     </body>
@@ -2155,12 +2155,12 @@ Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Au
       </trans-unit>
       <trans-unit id="Automatic Bolus" xml:space="preserve">
         <source>Automatic Bolus</source>
-        <target state="needs-translation">Automatic Bolus</target>
+        <target state="translated">Automaattinen bolus</target>
         <note>Title string for automatic bolus dosing strategy</note>
       </trans-unit>
       <trans-unit id="Temp Basal Only" xml:space="preserve">
         <source>Temp Basal Only</source>
-        <target state="needs-translation">Temp Basal Only</target>
+        <target state="translated">Vain tilapäinen basaali</target>
         <note>Title string for temp basal only dosing strategy</note>
       </trans-unit>
     </body>
@@ -2192,10 +2192,10 @@ Check in your iPhone Settings (General / Date &amp; Time) and verify that Set Au
 %1$@ has not completed a loop successfully in over 15 minutes.
 
 Tap your CGM and insulin pump status icons for more information. %1$@ will continue trying to complete a loop, but check for potential communication issues with your pump and CGM.</source>
-        <target state="needs-translation">
-%1$@ has not completed a loop successfully in over 15 minutes.
+        <target state="translated">
+%1$@ ei ole suorittanut säätöä onnistuneesti yli 15 minuuttiin.
 
-Tap your CGM and insulin pump status icons for more information. %1$@ will continue trying to complete a loop, but check for potential communication issues with your pump and CGM.</target>
+Napauta CGM ja insuliinipumpun tila -kuvakkeita saadaksesi lisätietoja. %1$@ yrittää jatkaa säädön loppuunsaattamista, mutta tarkista mahdolliset viestintäongelmat pumpun ja CGM:n kanssa.</target>
         <note>Red loop message (1: app name) (2: app name)</note>
       </trans-unit>
       <trans-unit id="&#10;%1$@ has not completed a loop successfully in the past 5-15 minutes.&#10;&#10;Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM." xml:space="preserve">
@@ -2203,10 +2203,10 @@ Tap your CGM and insulin pump status icons for more information. %1$@ will conti
 %1$@ has not completed a loop successfully in the past 5-15 minutes.
 
 Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM.</source>
-        <target state="needs-translation">
-%1$@ has not completed a loop successfully in the past 5-15 minutes.
+        <target state="translated">
+%1$@ ei ole suorittanut säätöä onnistuneesti viimeisimmän 5–15 minuutin aikana.
 
-Tap your CGM and insulin pump status icons for more information. %2$@ will continue trying to complete a loop, but watch for potential communication issues with your pump and CGM.</target>
+Napauta CGM ja insuliinipumpun tila -kuvakkeita saadaksesi lisätietoja. %2$@ yrittää jatkaa säädön loppuunsaattamista, mutta tarkkaile mahdollisia viestintäongelmia pumpun ja CGM:n kanssa.</target>
         <note>Yellow loop message (1: app name) (2: app name)</note>
       </trans-unit>
       <trans-unit id="&#10;%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.&#10;&#10;Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin." xml:space="preserve">
@@ -2214,17 +2214,17 @@ Tap your CGM and insulin pump status icons for more information. %2$@ will conti
 %1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
 
 Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin.</source>
-        <target state="needs-translation">
-%1$@ is operating with Closed Loop in the OFF position. Your pump and CGM will continue operating, but your basal insulin will not adjust automatically.
+        <target state="translated">
+%1$@in suljettu säätö ei ole päällä. Pumppu ja CGM jatkavat toimintaansa, mutta perusinsuliinia ei säädetä automaattisesti.
 
-Tap Settings to toggle Closed Loop ON if you wish for the app to automate your insulin.</target>
+Valitse Asetukset laittaaksesi suljetun säädön päälle, jos haluat sovelluksen säätävän insuliinia automaattisesti.</target>
         <note>Green closed loop OFF message (1: app name)</note>
       </trans-unit>
       <trans-unit id="&#10;%1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes." xml:space="preserve">
         <source>
 %1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes.</source>
-        <target state="needs-translation">
-%1$@ is operating with Closed Loop in the ON position. Your last loop was successful within the last 5 minutes.</target>
+        <target state="translated">
+%1$@in suljettu säätö on päällä. Viimeisin säätö onnistui viimeisten 5 minuutin aikana.</target>
         <note>Green closed loop ON message (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ at %2$@" xml:space="preserve" approved="yes">
@@ -2239,7 +2239,7 @@ Tap Settings to toggle Closed Loop ON if you wish for the app to automate your i
       </trans-unit>
       <trans-unit id="%1$@ v%2$@" xml:space="preserve">
         <source>%1$@ v%2$@</source>
-        <target state="needs-translation">%1$@ v%2$@</target>
+        <target state="translated">%1$@ v%2$@</target>
         <note>The format string for the app name and version number. (1: bundle name)(2: bundle version)</note>
       </trans-unit>
       <trans-unit id="%1$@/min" xml:space="preserve" approved="yes">
@@ -2259,12 +2259,12 @@ Tap Settings to toggle Closed Loop ON if you wish for the app to automate your i
       </trans-unit>
       <trans-unit id="Closed Loop OFF" xml:space="preserve">
         <source>Closed Loop OFF</source>
-        <target state="needs-translation">Closed Loop OFF</target>
+        <target state="translated">Suljettu säätö pois päältä</target>
         <note>Title of green open loop OFF message</note>
       </trans-unit>
       <trans-unit id="Closed Loop ON" xml:space="preserve">
         <source>Closed Loop ON</source>
-        <target state="needs-translation">Closed Loop ON</target>
+        <target state="translated">Suljettu säätö päällä</target>
         <note>Title of green closed loop ON message</note>
       </trans-unit>
       <trans-unit id="Closed loop" xml:space="preserve" approved="yes">
@@ -2284,7 +2284,7 @@ Tap Settings to toggle Closed Loop ON if you wish for the app to automate your i
       </trans-unit>
       <trans-unit id="Loop Failure" xml:space="preserve">
         <source>Loop Failure</source>
-        <target state="needs-translation">Loop Failure</target>
+        <target state="translated">Loopin häiriö</target>
         <note>Title of red loop message
    Title of yellow loop message</note>
       </trans-unit>
@@ -2345,7 +2345,7 @@ Tap Settings to toggle Closed Loop ON if you wish for the app to automate your i
       </trans-unit>
       <trans-unit id="– – –" xml:space="preserve">
         <source>– – –</source>
-        <target state="needs-translation">– – –</target>
+        <target state="translated">– – –</target>
         <note>No glucose value representation (3 dashes for mg/dL)</note>
       </trans-unit>
     </body>
@@ -2367,7 +2367,7 @@ Tap Settings to toggle Closed Loop ON if you wish for the app to automate your i
       </trans-unit>
       <trans-unit id="---" xml:space="preserve">
         <source>---</source>
-        <target state="needs-translation">---</target>
+        <target state="translated">---</target>
         <note>No glucose value representation (3 dashes for mg/dL; no spaces as this will get truncated in the watch complication)</note>
       </trans-unit>
       <trans-unit id="Active Carbs" xml:space="preserve" approved="yes">
@@ -2553,7 +2553,7 @@ to bolus</source>
       </trans-unit>
       <trans-unit id="– – –" xml:space="preserve">
         <source>– – –</source>
-        <target state="needs-translation">– – –</target>
+        <target state="translated">– – –</target>
         <note>No glucose value representation (3 dashes for mg/dL)</note>
       </trans-unit>
     </body>
@@ -2611,17 +2611,17 @@ to bolus</source>
     <body>
       <trans-unit id="CsQ-fc-KLC.text" xml:space="preserve">
         <source>–</source>
-        <target state="needs-translation">–</target>
+        <target state="translated">–</target>
         <note>Class = "WKInterfaceLabel"; text = "–"; ObjectID = "CsQ-fc-KLC";</note>
       </trans-unit>
       <trans-unit id="Dt1-kz-jMZ.text" xml:space="preserve">
         <source>– – –</source>
-        <target state="needs-translation">– – –</target>
+        <target state="translated">– – –</target>
         <note>Class = "WKInterfaceLabel"; text = "– – –"; ObjectID = "Dt1-kz-jMZ";</note>
       </trans-unit>
       <trans-unit id="IRi-4t-ESO.text" xml:space="preserve">
         <source>–</source>
-        <target state="needs-translation">–</target>
+        <target state="translated">–</target>
         <note>Class = "WKInterfaceLabel"; text = "–"; ObjectID = "IRi-4t-ESO";</note>
       </trans-unit>
       <trans-unit id="JXa-s1-PJx.text" xml:space="preserve" approved="yes">
@@ -2636,7 +2636,7 @@ to bolus</source>
       </trans-unit>
       <trans-unit id="Mhe-aR-kQQ.text" xml:space="preserve">
         <source>–</source>
-        <target state="needs-translation">–</target>
+        <target state="translated">–</target>
         <note>Class = "WKInterfaceLabel"; text = "–"; ObjectID = "Mhe-aR-kQQ";</note>
       </trans-unit>
       <trans-unit id="T4U-wP-dSW.text" xml:space="preserve" approved="yes">
@@ -2716,7 +2716,7 @@ to bolus</source>
       </trans-unit>
       <trans-unit id="yl8-ZP-c3l.text" xml:space="preserve">
         <source>– – –</source>
-        <target state="needs-translation">– – –</target>
+        <target state="translated">– – –</target>
         <note>Class = "WKInterfaceLabel"; text = "– – –"; ObjectID = "yl8-ZP-c3l";</note>
       </trans-unit>
       <trans-unit id="zO8-x6-bZd.text" xml:space="preserve" approved="yes">
