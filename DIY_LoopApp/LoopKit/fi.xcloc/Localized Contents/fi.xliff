@@ -154,9 +154,9 @@
         <target state="final">%1$@ U bolus ei ehkä onnistunut</target>
         <note>Describes an uncertain bolus failure (1: size of the bolus in units)</note>
       </trans-unit>
-      <trans-unit id="%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." xml:space="preserve">
+      <trans-unit id="%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." xml:space="preserve" approved="yes">
         <source>%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.</source>
-        <target state="translated">%1$@ annostelee basaalia ja suosittelee bolusinsuliinia vain, jos glukoosin ennustetaan olevan tämän rajan yläpuolella seuraavat kolme tuntia.</target>
+        <target state="final">%1$@ annostelee basaalia ja suosittelee bolusinsuliinia vain, jos glukoosin ennustetaan ylittävän tämän rajan seuraavien kolmen tunnin aikana.</target>
         <note>Descriptive format string for glucose safety limit (1: app name)</note>
       </trans-unit>
       <trans-unit id="%@ Range" xml:space="preserve" approved="yes">
@@ -194,9 +194,9 @@
         <target state="final">Valtuutus hylättiin</target>
         <note>The error description describing when Health sharing was denied</note>
       </trans-unit>
-      <trans-unit id="Basal" xml:space="preserve">
+      <trans-unit id="Basal" xml:space="preserve" approved="yes">
         <source>Basal</source>
-        <target state="translated">Basaali</target>
+        <target state="final">Basaali</target>
         <note>Title for basal dose type</note>
       </trans-unit>
       <trans-unit id="Basal Rates" xml:space="preserve" approved="yes">
@@ -239,9 +239,9 @@
         <target state="final">Korjausalue</target>
         <note>Title text for glucose target range</note>
       </trans-unit>
-      <trans-unit id="Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." xml:space="preserve">
+      <trans-unit id="Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." xml:space="preserve" approved="yes">
         <source>Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.</source>
-        <target state="translated">Korjausalue tarkoittaa glukoosiarvoa (tai arvoaluetta), johon %1$@ tähtää säätäessään basaalia ja auttaessaan boluslaskelmissa.</target>
+        <target state="final">Korjausalue tarkoittaa glukoosiarvoa (tai arvoaluetta), johon %1$@ tähtää säätäessään basaalia ja auttaessaan boluslaskelmissa.</target>
         <note>Descriptive text for glucose target range (1: app name)</note>
       </trans-unit>
       <trans-unit id="Delivery Limits" xml:space="preserve" approved="yes">
@@ -295,9 +295,9 @@
         <target state="translated">%1$@ olettaa, että nopeavaikutteinen insuliini vaikuttaa aktiivisesti 6 tuntia. Vaikutushuipulle on valittavissa erilaisia malleja.</target>
         <note>Descriptive text for fast acting insulin model (1: app name)</note>
       </trans-unit>
-      <trans-unit id="Glucose Safety Limit" xml:space="preserve">
+      <trans-unit id="Glucose Safety Limit" xml:space="preserve" approved="yes">
         <source>Glucose Safety Limit</source>
-        <target state="translated">Glukoosin turvaraja</target>
+        <target state="final">Glukoosin turvaraja</target>
         <note>Title text for glucose safety limit</note>
       </trans-unit>
       <trans-unit id="Humalog" xml:space="preserve">
@@ -345,9 +345,9 @@
         <target state="final">Suurin sallittu basaalitaso</target>
         <note>Title text for maximum basal rate configuration</note>
       </trans-unit>
-      <trans-unit id="Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically." xml:space="preserve">
+      <trans-unit id="Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically." xml:space="preserve" approved="yes">
         <source>Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically.</source>
-        <target state="translated">Suurin sallittu basaalitaso tarkoittaa korkeinta tilapäistä basaalitasoa %1$@, jonka Loop saa asettaa automaattisesti.</target>
+        <target state="final">Suurin sallittu basaalitaso tarkoittaa korkeinta tilapäistä basaalitasoa %1$@, jonka Loop saa asettaa automaattisesti.</target>
         <note>Descriptive text for maximum basal rate (1: app name)</note>
       </trans-unit>
       <trans-unit id="Maximum Bolus" xml:space="preserve" approved="yes">
@@ -435,9 +435,9 @@
         <target state="translated">Pysäytetty</target>
         <note>Title for suspend dose type</note>
       </trans-unit>
-      <trans-unit id="Temp Basal" xml:space="preserve">
+      <trans-unit id="Temp Basal" xml:space="preserve" approved="yes">
         <source>Temp Basal</source>
-        <target state="translated">Tilapäinen basaali</target>
+        <target state="final">Tilapäinen basaali</target>
         <note>Title for temp basal dose type</note>
       </trans-unit>
       <trans-unit id="Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." xml:space="preserve" approved="yes">
@@ -505,9 +505,9 @@
         <target state="final">Liikunta</target>
         <note>Title for workout mode</note>
       </trans-unit>
-      <trans-unit id="Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve">
+      <trans-unit id="Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." xml:space="preserve" approved="yes">
         <source>Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.</source>
-        <target state="translated">Basaalitaso tarkoittaa sitä yksikkömäärää insuliinia tunnissa, jonka tarvitset insuliinin perustarpeen kattamiseen.</target>
+        <target state="final">Basaalitaso tarkoittaa sitä yksikkömäärää insuliinia tunnissa, jonka tarvitset insuliinin perustarpeen kattamiseen.</target>
         <note>Descriptive text for basal rate</note>
       </trans-unit>
       <trans-unit id="Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin." xml:space="preserve">
@@ -814,9 +814,9 @@
         <target state="translated">%1$@ U</target>
         <note>Reservoir entry (1: volume value)</note>
       </trans-unit>
-      <trans-unit id="%1$@ or your Glucose Safety Limit, whichever is higher" xml:space="preserve">
+      <trans-unit id="%1$@ or your Glucose Safety Limit, whichever is higher" xml:space="preserve" approved="yes">
         <source>%1$@ or your Glucose Safety Limit, whichever is higher</source>
-        <target state="translated">%1$@ tai glukoosin turvaraja sen mukaan, kumpi on korkeampi</target>
+        <target state="final">%1$@ tai glukoosin turvaraja riippuen siitä, kumpi on korkeampi</target>
         <note>Lower bound workout information text format (1: app name)</note>
       </trans-unit>
       <trans-unit id="%1$@ units remaining at %2$@" xml:space="preserve" approved="yes">
@@ -1224,9 +1224,9 @@
         <target state="translated">%1$@ olettaa, että nopeavaikutteinen insuliini vaikuttaa aktiivisesti 6 tuntia. Valittavana on %2$@ eri mallia siitä, miten sovellus mittaa insuliinin vaikutushuipun.</target>
         <note>Insulin model setting description (1: app name) (2: number of models)</note>
       </trans-unit>
-      <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin." xml:space="preserve">
+      <trans-unit id="For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin." xml:space="preserve" approved="yes">
         <source>For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin.</source>
-        <target state="translated">Valitse tähän glukoosiarvo (tai arvoalue), jota %1$@ tavoittelee säätäessään basaalin määrää.</target>
+        <target state="final">Valitse tähän glukoosiarvo (tai arvoalue), jota %1$@ tavoittelee säätäessään basaalin määrää.</target>
         <note>Information about correction range format (1: app name)</note>
       </trans-unit>
       <trans-unit id="Get help with Therapy Settings" xml:space="preserve" approved="yes">
@@ -1255,9 +1255,9 @@
         <target state="final">Korkea korjausarvo</target>
         <note>Title text for the high correction value warning</note>
       </trans-unit>
-      <trans-unit id="High Glucose Safety Limit" xml:space="preserve">
+      <trans-unit id="High Glucose Safety Limit" xml:space="preserve" approved="yes">
         <source>High Glucose Safety Limit</source>
-        <target state="translated">Korkean glukoosin turvaraja</target>
+        <target state="final">Korkea glukoosin turvaraja</target>
         <note>Title text for the high glucose safety limit warning</note>
       </trans-unit>
       <trans-unit id="High Insulin Sensitivity" xml:space="preserve" approved="yes">
@@ -1340,9 +1340,9 @@
         <target state="final">Matala korjausarvo</target>
         <note>Title text for the low correction value warning</note>
       </trans-unit>
-      <trans-unit id="Low Glucose Safety Limit" xml:space="preserve">
+      <trans-unit id="Low Glucose Safety Limit" xml:space="preserve" approved="yes">
         <source>Low Glucose Safety Limit</source>
-        <target state="translated">Alhainen glukoosin turvaraja</target>
+        <target state="final">Matala glukoosin turvaraja</target>
         <note>Title text for the low glucose safety limit warning</note>
       </trans-unit>
       <trans-unit id="Low Insulin Sensitivity" xml:space="preserve" approved="yes">
@@ -1582,9 +1582,9 @@
         <target state="final">Tallenna annostelurajat?</target>
         <note>Alert title for confirming delivery limits outside the recommended range</note>
       </trans-unit>
-      <trans-unit id="Save Glucose Safety Limit?" xml:space="preserve">
+      <trans-unit id="Save Glucose Safety Limit?" xml:space="preserve" approved="yes">
         <source>Save Glucose Safety Limit?</source>
-        <target state="translated">Tallenna glukoosin turvaraja?</target>
+        <target state="final">Tallenna glukoosin turvaraja?</target>
         <note>Alert title for confirming a glucose safety limit outside the recommended range</note>
       </trans-unit>
       <trans-unit id="Save Insulin Sensitivities?" xml:space="preserve" approved="yes">
@@ -1965,9 +1965,9 @@
         <note>Information about pre-meal range relative to correction range
    Information about workout range relative to correction range</note>
       </trans-unit>
-      <trans-unit id="your Glucose Safety Limit" xml:space="preserve">
+      <trans-unit id="your Glucose Safety Limit" xml:space="preserve" approved="yes">
         <source>your Glucose Safety Limit</source>
-        <target state="translated">glukoosin turvarajasi</target>
+        <target state="final">glukoosin turvarajasi</target>
         <note>Lower bound pre-meal information text</note>
       </trans-unit>
       <trans-unit id="···" xml:space="preserve">
