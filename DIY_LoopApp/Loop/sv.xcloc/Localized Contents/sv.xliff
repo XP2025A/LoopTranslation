@@ -537,7 +537,7 @@ Kritiska varningar kommer alltid att spela upp ett ljud och visas på låsskärm
       </trans-unit>
       <trans-unit id="%1$@ U" xml:space="preserve">
         <source>%1$@ U</source>
-        <target state="needs-translation">%1$@ U</target>
+        <target state="translated">%1$@ IE</target>
         <note>Reservoir entry (1: volume value)</note>
       </trans-unit>
       <trans-unit id="%1$@ U left" xml:space="preserve" approved="yes">
@@ -772,7 +772,7 @@ Du kan vänta flera minuter för att se om problemet löser sig eller klicka på
       </trans-unit>
       <trans-unit id="Are you sure you want to delete all history entries?" xml:space="preserve">
         <source>Are you sure you want to delete all history entries?</source>
-        <target state="needs-translation">Are you sure you want to delete all history entries?</target>
+        <target state="translated">Är du säker på att du vill radera all händelsehistorik?</target>
         <note>Action sheet confirmation message for pump history deletion</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete all logged dose entries?" xml:space="preserve">
@@ -1021,7 +1021,7 @@ Unavailable</source>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
-        <target state="needs-translation">Date</target>
+        <target state="translated">Datum</target>
         <note>Date picker label</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve" approved="yes">
@@ -1036,7 +1036,7 @@ Unavailable</source>
       </trans-unit>
       <trans-unit id="Delete All" xml:space="preserve">
         <source>Delete All</source>
-        <target state="needs-translation">Delete All</target>
+        <target state="translated">Radera allt</target>
         <note>Button title to delete all objects</note>
       </trans-unit>
       <trans-unit id="Delete CGM" xml:space="preserve" approved="yes">
@@ -1159,7 +1159,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Event History" xml:space="preserve">
         <source>Event History</source>
-        <target state="needs-translation">Event History</target>
+        <target state="translated">Händelsehistorik</target>
         <note>Segmented button title for insulin delivery log event history</note>
       </trans-unit>
       <trans-unit id="Eventually %@" xml:space="preserve" approved="yes">
@@ -1296,7 +1296,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@" xml:space="preserve">
         <source>Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@</source>
-        <target state="needs-translation">Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; of %3$@ %4$@</target>
+        <target state="translated">Interrupted %1$@: &lt;b&gt;%2$@&lt;/b&gt; av %3$@ %4$@</target>
         <note>Description of an interrupted bolus dose entry (1: title for dose type, 2: value (? if no value) in bold, 3: programmed value (? if no value), 4: unit)</note>
       </trans-unit>
       <trans-unit id="Invalid Adverse Event Report URL" xml:space="preserve">
@@ -1336,13 +1336,13 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Log Dose" xml:space="preserve">
         <source>Log Dose</source>
-        <target state="needs-translation">Log Dose</target>
+        <target state="translated">Logga Dos</target>
         <note>Button text to log a dose
    Title for dose logging screen</note>
       </trans-unit>
       <trans-unit id="Logged Insulin Dose" xml:space="preserve">
         <source>Logged Insulin Dose</source>
-        <target state="needs-translation">Logged Insulin Dose</target>
+        <target state="translated">Loggad insulindos</target>
         <note>The title of the screen displaying a logged insulin dose</note>
       </trans-unit>
       <trans-unit id="Loop Failure" xml:space="preserve" approved="yes">
@@ -1372,7 +1372,7 @@ Bluetooth</source>
       </trans-unit>
       <trans-unit id="Loop will set temporary basal rates to increase and decrease insulin delivery." xml:space="preserve">
         <source>Loop will set temporary basal rates to increase and decrease insulin delivery.</source>
-        <target state="needs-translation">Loop will set temporary basal rates to increase and decrease insulin delivery.</target>
+        <target state="translated">Loop kommer att ställa in tillfälliga basalnivåer för att öka eller minska insulintillförsel.</target>
         <note>Description string for temp basal only dosing strategy</note>
       </trans-unit>
       <trans-unit id="Manage Critical Alerts in Settings" xml:space="preserve" approved="yes">
@@ -1500,7 +1500,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Pump Event" xml:space="preserve">
         <source>Pump Event</source>
-        <target state="needs-translation">Pump Event</target>
+        <target state="translated">Pumphändelse</target>
         <note>The title of the screen displaying a pump event</note>
       </trans-unit>
       <trans-unit id="Pump Manager" xml:space="preserve">
@@ -1525,7 +1525,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Pump Suspended. Automatic dosing is disabled." xml:space="preserve">
         <source>Pump Suspended. Automatic dosing is disabled.</source>
-        <target state="needs-translation">Pump Suspended. Automatic dosing is disabled.</target>
+        <target state="translated">Pump pausad. Automatisk dosering är inaktiverad.</target>
         <note>The error message displayed for pumpSuspended errors.</note>
       </trans-unit>
       <trans-unit id="Pump data is %1$@ old" xml:space="preserve" approved="yes">
@@ -1764,7 +1764,7 @@ Faktiskt: %2$@ (%3$@)</target>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
-        <target state="needs-translation">Unknown</target>
+        <target state="translated">Okänd</target>
         <note>The default description to use when an entry has no dose description</note>
       </trans-unit>
       <trans-unit id="Until I enter carbs" xml:space="preserve">
@@ -1873,12 +1873,12 @@ Kontrollera dina iPhone-inställningar (Allmänt / Datum och tid) and verifiera 
       </trans-unit>
       <trans-unit id="com.loudnate.InsulinKit.IOBDateLabel" xml:space="preserve">
         <source>at %1$@</source>
-        <target state="needs-translation">at %1$@</target>
+        <target state="translated">kl %1$@</target>
         <note>The format string describing the date of an IOB value. The first format argument is the localized date.</note>
       </trans-unit>
       <trans-unit id="com.loudnate.InsulinKit.totalDateLabel" xml:space="preserve">
         <source>since %1$@</source>
-        <target state="needs-translation">since %1$@</target>
+        <target state="translated">sedan %1$@</target>
         <note>The format string describing the starting date of a total value. The first format argument is the localized date.</note>
       </trans-unit>
       <trans-unit id="com.loudnate.LoopKit.errorAlertActionTitle" xml:space="preserve" approved="yes">
