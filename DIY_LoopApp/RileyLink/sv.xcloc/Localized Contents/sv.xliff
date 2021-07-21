@@ -1064,7 +1064,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Please bring only original pod in range or deactivate original pod" xml:space="preserve">
         <source>Please bring only original pod in range or deactivate original pod</source>
-        <target state="translated">Ha bara din ursprungliga podd inom räckvidd eller inaktivera ursprunglig podd</target>
+        <target state="translated">Ha endast din ursprungliga podd inom räckvidd eller inaktivera ursprunglig podd</target>
         <note>Recovery suggestion on unexpected pod change</note>
       </trans-unit>
       <trans-unit id="Please bring your pod closer to the RileyLink and try again" xml:space="preserve">
@@ -1137,9 +1137,9 @@ Hitta enhet</target>
         <target state="final">Podd är inte färdig att föra in kanyl.</target>
         <note>Error message when cannula insertion fails because the pod is in an unexpected state</note>
       </trans-unit>
-      <trans-unit id="Pod is not in a state ready for priming." xml:space="preserve" approved="yes">
+      <trans-unit id="Pod is not in a state ready for priming." xml:space="preserve">
         <source>Pod is not in a state ready for priming.</source>
-        <target state="final">Podd är inte klar för att fyllas.</target>
+        <target state="translated">Podd är inte klar för att fyllas.</target>
         <note>Error message when prime fails because the pod is in an unexpected state</note>
       </trans-unit>
       <trans-unit id="Pod is suspended" xml:space="preserve" approved="yes">
@@ -1669,7 +1669,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="Tank fill completed" xml:space="preserve">
         <source>Tank fill completed</source>
-        <target state="translated">Pod har fyllts klart</target>
+        <target state="translated">Pod har fyllts färdigt</target>
         <note>Pod tank fill completed</note>
       </trans-unit>
       <trans-unit id="Tank power activated" xml:space="preserve">
@@ -1873,7 +1873,7 @@ Hitta enhet</target>
       </trans-unit>
       <trans-unit id="vmF-Dc-3DS.text" xml:space="preserve" approved="yes">
         <source>Fill a new pod with insulin. Listen for 2 beeps from the pod during filling. Keep the RileyLink about 6 inches from the pod during pairing.</source>
-        <target state="final">Fyll din nya podd med insulin. Lyssna efter 2 pip under fyllningen. Placera din RileyLink nära podden under parkopplingen.</target>
+        <target state="final">Fyll din nya podd med insulin. Det ska höras 2 pip när podden fyllts med minsta nödvändiga mängd insulin (80 IE). Placera din RileyLink i upprätt läge ca 1 decimeter från podden under parkopplingen.</target>
         <note>Class = "UILabel"; text = "Fill a new pod with insulin. Listen for 2 beeps from the pod during filling. Keep the RileyLink about 6 inches from the pod during pairing."; ObjectID = "vmF-Dc-3DS";</note>
       </trans-unit>
       <trans-unit id="yy1-xf-HdR.title" xml:space="preserve">
